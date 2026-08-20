@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Portugal Land Intelligence — Verde 2050</title>
+<meta name="description" content="A free daily briefing on the Portuguese land market — land sales, new developments and redevelopments, the rules that move land, and the capital entering Portugal. Curated by Verde 2050.">
+<meta property="og:title" content="Portugal Land Intelligence — Verde 2050">
+<meta property="og:description" content="The daily briefing on Portuguese land: sales, developments, regulation and capital flows.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://raw.githubusercontent.com">
+<style>
+  :root{
+    --ink:#12241c; --ink2:#1b2a22; --paper:#f4f6f5; --card:#ffffff;
+    --green:#2e6f4e; --green-lt:#8fce9f; --green-soft:#eef4f0; --line:#e2e9e4;
+    --text:#1b2420; --mut:#6b7770;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+    color:var(--text); background:var(--paper); line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--green)}
+  .wrap{max-width:1040px;margin:0 auto;padding:0 22px}
+
+  /* HERO */
+  .hero{background:var(--ink);color:#fff;padding:34px 0 54px}
+  .nav{display:flex;align-items:center;justify-content:space-between;padding-top:6px}
+  .nav img{display:block;height:26px;width:auto}
+  .nav .tag{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--green-lt)}
+  .hero-inner{max-width:760px;margin:44px auto 0;text-align:center}
+  .kicker{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:var(--green-lt);font-weight:700}
+  h1{font-size:44px;line-height:1.12;margin:16px 0 0;font-weight:800;letter-spacing:-.5px}
+  h1 .thin{font-weight:400;color:#cfe6d8}
+  .sub{font-size:19px;color:#dcebe2;margin:18px auto 0;max-width:640px}
+  .cta-row{margin-top:30px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+  .btn{background:var(--green-lt);color:#0c1a13;border:0;border-radius:10px;padding:15px 26px;
+    font-size:16px;font-weight:700;cursor:pointer;text-decoration:none;display:inline-block}
+  .btn:hover{background:#a6dbb6}
+  .btn.ghost{background:transparent;color:#dcebe2;border:1px solid #3c5748}
+  .meta{margin-top:16px;font-size:13px;color:#9fb7aa}
+
+  /* VALUE */
+  .section{padding:56px 0}
+  .lead{max-width:720px;margin:0 auto 34px;text-align:center}
+  .lead h2{font-size:28px;margin:0 0 10px;color:var(--ink)}
+  .lead p{color:var(--mut);font-size:17px;margin:0}
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .cardi{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px}
+  .cardi .ic{width:38px;height:38px;border-radius:9px;background:var(--green-soft);display:flex;
+    align-items:center;justify-content:center;margin-bottom:12px;font-size:19px}
+  .cardi h3{margin:0 0 6px;font-size:16px;color:var(--ink)}
+  .cardi p{margin:0;font-size:14.5px;color:var(--mut)}
+
+  /* SIGNUP */
+  .signup{background:var(--green-soft);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .form-card{background:var(--card);border:1px solid var(--line);border-radius:16px;max-width:560px;
+    margin:0 auto;padding:30px;box-shadow:0 1px 3px rgba(0,0,0,.04)}
+  .form-card h2{margin:0 0 6px;font-size:24px;color:var(--ink);text-align:center}
+  .form-card .fsub{text-align:center;color:var(--mut);margin:0 0 22px;font-size:15px}
+  .field{margin-bottom:14px}
+  .field label{display:block;font-size:13px;font-weight:600;color:var(--ink2);margin-bottom:6px}
+  .field input, .field select{width:100%;padding:13px 14px;border:1px solid #d5ded8;border-radius:10px;
+    font-size:15px;font-family:inherit;background:#fff;color:var(--text)}
+  .field input:focus, .field select:focus{outline:none;border-color:var(--green);box-shadow:0 0 0 3px rgba(46,111,78,.12)}
+  .two{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .submit{width:100%;background:var(--ink);color:#fff;border:0;border-radius:10px;padding:15px;
+    font-size:16px;font-weight:700;cursor:pointer;margin-top:6px}
+  .submit:hover{background:#1c3a2c}
+  .submit:disabled{opacity:.6;cursor:default}
+  .fineprint{font-size:12.5px;color:var(--mut);text-align:center;margin-top:14px}
+  .hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+  .msg{display:none;text-align:center;padding:8px 0 0}
+  .msg.show{display:block}
+  .msg.ok{color:var(--green)}
+  .msg.err{color:#b23b3b}
+  .success{display:none;text-align:center}
+  .success.show{display:block}
+  .success .check{width:56px;height:56px;border-radius:50%;background:var(--green-soft);color:var(--green);
+    display:flex;align-items:center;justify-content:center;font-size:28px;margin:0 auto 14px;border:2px solid #cfe6d8}
+  .success h2{color:var(--ink);margin:0 0 6px}
+  .success p{color:var(--mut);margin:0}
+
+  /* FOOTER */
+  footer{background:var(--ink);color:#c7d6cd;padding:34px 0}
+  footer img{height:26px;width:auto;display:block;opacity:.95}
+  .foot-row{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+  footer .fine{font-size:12.5px;color:#8ba496;max-width:620px;margin-top:14px}
+
+  @media(max-width:760px){
+    h1{font-size:34px}
+    .grid{grid-template-columns:1fr}
+    .two{grid-template-columns:1fr}
+    .nav .tag{display:none}
+  }
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<header class="hero">
+  <div class="wrap">
+    <div class="nav">
+      <img src="https://raw.githubusercontent.com/verde2050/logo/main/verde2050_white.png" alt="Verde 2050">
+      <span class="tag">Portugal Land Intelligence</span>
+    </div>
+    <div class="hero-inner">
+      <h1>The Portuguese land market,<br><span class="thin">in your inbox every morning.</span></h1>
+      <p class="sub">A free daily briefing on the deals, developments, regulation and capital that move land in Portugal — curated for developers, investors and landowners.</p>
+      <div class="cta-row">
+        <a href="#signup" class="btn">Get the daily briefing</a>
+        <a href="#what" class="btn ghost">See what's inside</a>
+      </div>
+      <div class="meta">Free · One email each morning · Unsubscribe anytime</div>
+    </div>
+  </div>
+</header>
+
+<!-- VALUE -->
+<section class="section" id="what">
+  <div class="wrap">
+    <div class="lead">
+      <h2>Everything land, nothing else</h2>
+      <p>We read the Portuguese and international sources every day and distil only what matters for land — then tell you why it matters for capital.</p>
+    </div>
+    <div class="grid">
+      <div class="cardi">
+        <div class="ic">🗺️</div>
+        <h3>Land sales &amp; plots</h3>
+        <p>Notable land and plot transactions across Lisbon, Porto, the Algarve, Setúbal and secondary markets.</p>
+      </div>
+      <div class="cardi">
+        <div class="ic">🏗️</div>
+        <h3>Developments &amp; redevelopments</h3>
+        <p>New residential and commercial schemes, regeneration projects, and land being repositioned for a new use.</p>
+      </div>
+      <div class="cardi">
+        <div class="ic">📈</div>
+        <h3>Macro trends for developers</h3>
+        <p>Construction costs, zoning and PDM changes, licensing, land supply and infrastructure shaping land use.</p>
+      </div>
+      <div class="cardi">
+        <div class="ic">🌍</div>
+        <h3>Capital entering Portugal</h3>
+        <p>Companies and investors coming into Portugal and acquiring land to build, expand or enter the market.</p>
+      </div>
+      <div class="cardi">
+        <div class="ic">⚖️</div>
+        <h3>Rules &amp; regulation</h3>
+        <p>New laws for landowners (residential &amp; commercial), on buying land, and on renting — resi and commercial.</p>
+      </div>
+      <div class="cardi">
+        <div class="ic">🤝</div>
+        <h3>Commercial deals</h3>
+        <p>Land-led commercial transactions, JVs and forward-funding, with the investment read-through for a fund.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SIGNUP -->
+<section class="signup section" id="signup">
+  <div class="wrap">
+    <div class="form-card">
+      <div id="formState">
+        <h2>Get Portugal Land Intelligence</h2>
+        <p class="fsub">Join developers, investors and landowners already reading.</p>
+        <form id="signupForm" novalidate>
+          <div class="field">
+            <label for="email">Work email *</label>
+            <input type="email" id="email" name="email" required autocomplete="email" placeholder="you@company.com">
+          </div>
+          <div class="two">
+            <div class="field">
+              <label for="name">Name</label>
+              <input type="text" id="name" name="name" autocomplete="name" placeholder="Your name">
+            </div>
+            <div class="field">
+              <label for="company">Company</label>
+              <input type="text" id="company" name="company" autocomplete="organization" placeholder="Company">
+            </div>
+          </div>
+          <div class="field">
+            <label for="role">I am a…</label>
+            <select id="role" name="role">
+              <option value="">Select (optional)</option>
+              <option>Developer</option>
+              <option>Investor / Fund</option>
+              <option>Landowner</option>
+              <option>Agent / Broker</option>
+              <option>Advisor (legal, planning, other)</option>
+              <option>Other</option>
+            </select>
+          </div>
+          <!-- honeypot -->
+          <div class="hp"><label>Leave this empty<input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+          <button type="submit" class="submit" id="submitBtn">Subscribe — it's free</button>
+          <div class="msg" id="msg"></div>
+          <div class="fineprint">We use your email only to send Portugal Land Intelligence. No spam, unsubscribe anytime.</div>
+        </form>
+      </div>
+      <div class="success" id="success">
+        <div class="check">✓</div>
+        <h2>You're in.</h2>
+        <p>Your first Portugal Land Intelligence briefing will arrive in the next morning edition. Check your inbox (and spam, just once) for a hello from Verde 2050.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="wrap">
+    <div class="foot-row">
+      <img src="https://raw.githubusercontent.com/verde2050/logo/main/verde2050_white.png" alt="Verde 2050" style="height:18px;opacity:.92">
+      <div style="font-size:13px;color:#9fb7aa">Portugal Land Intelligence · a Verde 2050 publication</div>
+    </div>
+    <div class="fine">Verde 2050 · Fund I. Portugal Land Intelligence is an editorial briefing curated from public and trade sources; it is information, not investment advice. Figures should be verified before any decision.</div>
+  </div>
+</footer>
+
+<script>
+  /* ====== CONFIG ======
+     After you deploy the Google Apps Script (steps provided), paste its Web App URL below. */
+  const ENDPOINT = "https://script.google.com/macros/s/AKfycbxRyMOD_tz1gUsCd6Lk6QOWvmWBzoa_8eI06u5_MHR8MQU7BRi08REa2vz1FMU0myvt6A/exec";
+
+  const form = document.getElementById('signupForm');
+  const btn = document.getElementById('submitBtn');
+  const msg = document.getElementById('msg');
+  const formState = document.getElementById('formState');
+  const success = document.getElementById('success');
+
+  function showMsg(t, cls){ msg.textContent=t; msg.className='msg show '+cls; }
+
+  form.addEventListener('submit', async function(e){
+    e.preventDefault();
+    msg.className='msg';
+    const email = document.getElementById('email').value.trim();
+    if(document.querySelector('[name=website]').value){ return; } // honeypot tripped
+    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ showMsg('Please enter a valid email address.','err'); return; }
+
+    const data = {
+      email: email,
+      name: document.getElementById('name').value.trim(),
+      company: document.getElementById('company').value.trim(),
+      role: document.getElementById('role').value,
+      source: 'signup-page'
+    };
+
+    btn.disabled = true; btn.textContent = 'Subscribing…';
+    try{
+      if(ENDPOINT.startsWith('http')){
+        await fetch(ENDPOINT, {
+          method:'POST',
+          mode:'no-cors',
+          headers:{'Content-Type':'text/plain;charset=utf-8'},
+          body: JSON.stringify(data)
+        });
+      }
+      // no-cors gives an opaque response; treat completion as success
+      formState.style.display='none';
+      success.classList.add('show');
+    }catch(err){
+      showMsg('Something went wrong — please try again, or email hello@verde2050.com.','err');
+      btn.disabled=false; btn.textContent="Subscribe — it's free";
+    }
+  });
+</script>
+</body>
+</html>
