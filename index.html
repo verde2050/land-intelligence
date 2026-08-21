@@ -30,6 +30,7 @@
   .hero{background:var(--ink);color:#fff;padding:34px 0 54px}
   .nav{display:flex;align-items:center;justify-content:space-between;padding-top:6px}
   .nav img{display:block;height:16px;width:auto}
+  .nav .brand{font-size:19px;font-weight:800;color:#fff;letter-spacing:-.3px;text-decoration:none}
   .nav .tag{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--green-lt)}
   .tag-cta{font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:#cfe6d8;text-decoration:none;
     border:1px solid #3c5748;border-radius:8px;padding:9px 17px;font-weight:700;white-space:nowrap;
@@ -38,6 +39,7 @@
   .hero-inner{max-width:760px;margin:44px auto 0;text-align:center}
   .kicker{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:var(--green-lt);font-weight:700}
   .byline{margin-top:12px;font-size:13px;letter-spacing:2.5px;text-transform:uppercase;color:var(--green-lt);font-weight:600}
+  .byline a{color:inherit;text-decoration:underline;text-underline-offset:2px}
   h1{font-size:52px;line-height:1.08;margin:0;font-weight:800;letter-spacing:-1px}
   h1 .thin{font-weight:400;color:#cfe6d8}
   .sub{font-size:19px;color:#dcebe2;margin:18px auto 0;max-width:640px}
@@ -138,13 +140,13 @@
 <header class="hero">
   <div class="wrap">
     <div class="nav">
-      <img src="https://raw.githubusercontent.com/verde2050/logo/main/verde2050_white.png" alt="Verde 2050">
+      <span class="brand">Get The Plot</span>
       <a href="#signup" class="tag-cta">Subscribe now</a>
     </div>
     <div class="hero-inner">
       <h1>Get The Plot</h1>
-      <div class="byline">News by Verde 2050</div>
-      <p class="sub">Your free daily newsletter on Portuguese real estate — the deals, developments, people and architecture moving the market, curated for the people who build, buy and finance it.</p>
+      <div class="byline">News by <a href="https://www.verde2050.com" target="_blank" rel="noopener">Verde 2050</a></div>
+      <p class="sub">Your free daily newsletter on the deals, developments, regulation and capital that moves real estate in Portugal.</p>
       <div class="cta-row">
         <a href="#signup" class="btn">Get the daily briefing</a>
         <a href="#what" class="btn ghost">See what's inside</a>
