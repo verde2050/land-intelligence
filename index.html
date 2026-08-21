@@ -30,7 +30,9 @@
   .hero{background:var(--ink);color:#fff;padding:34px 0 54px}
   .nav{display:flex;align-items:center;justify-content:space-between;padding-top:6px}
   .nav img{display:block;height:16px;width:auto}
-  .nav .brand{font-size:19px;font-weight:800;color:#fff;letter-spacing:-.3px;text-decoration:none}
+  .nav .brand{display:block;font-size:19px;font-weight:800;color:#fff;letter-spacing:-.3px;text-decoration:none}
+  .nav .brand-sub{display:block;margin-top:3px;font-size:11px;font-weight:400;letter-spacing:.3px;color:var(--green-lt)}
+  .nav .brand-sub a{color:inherit;text-decoration:underline;text-underline-offset:2px}
   .nav .tag{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--green-lt)}
   .tag-cta{font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:#cfe6d8;text-decoration:none;
     border:1px solid #3c5748;border-radius:8px;padding:9px 17px;font-weight:700;white-space:nowrap;
@@ -140,12 +142,14 @@
 <header class="hero">
   <div class="wrap">
     <div class="nav">
-      <span class="brand">Get The Plot</span>
+      <div>
+        <span class="brand">Get The Plot</span>
+        <span class="brand-sub">News by <a href="https://www.verde2050.com" target="_blank" rel="noopener">Verde 2050</a></span>
+      </div>
       <a href="#signup" class="tag-cta">Subscribe now</a>
     </div>
     <div class="hero-inner">
       <h1>Get The Plot</h1>
-      <div class="byline">News by <a href="https://www.verde2050.com" target="_blank" rel="noopener">Verde 2050</a></div>
       <p class="sub">Your free daily newsletter on the deals, developments, regulation and capital that moves real estate in Portugal.</p>
       <div class="cta-row">
         <a href="#signup" class="btn">Get the daily briefing</a>
