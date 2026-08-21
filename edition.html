@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Edition — The Plot · Verde 2050</title>
+<meta name="description" content="An edition of The Plot — Verde 2050's daily briefing on Portuguese real estate.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://raw.githubusercontent.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="plot.css">
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-arrow-ur" viewBox="0 0 24 24"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></symbol>
+  <symbol id="i-arrow-r" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></symbol>
+</svg>
+
+<header class="site"><div class="bar">
+  <a href="/" class="brandmark"><div class="wm">Verde 2050</div><div class="sub">The Plot</div></a>
+  <nav>
+    <a href="https://www.verde2050.com" target="_blank" rel="noopener">Back to Verde 2050</a>
+    <a href="/">The Plot</a>
+    <a href="/#subscribe" class="cta">Subscribe</a>
+  </nav>
+</div></header>
+
+<div class="page-hero">
+  <div class="wrap">
+    <div class="kick" id="ed-date">The Plot</div>
+    <h1 class="h1" id="ed-headline" style="max-width:22ch">Loading this edition…</h1>
+    <div class="byline-row" style="color:rgba(247,241,230,.7)"><span>Curated by Verde 2050</span><span class="dot"></span><span>4-min read</span></div>
+  </div>
+</div>
+
+<section class="band-cream">
+  <div class="wrap">
+    <div class="article">
+      <div class="body" id="ed-body"></div>
+      <div id="ed-pull"></div>
+      <hr class="art-divider">
+      <p class="mono" style="color:var(--muted);margin:0 0 22px">The full edition was delivered to subscribers by email that morning.</p>
+      <a href="/#subscribe" class="btn btn-solid on-cream">Get tomorrow's edition — subscribe <svg class="ico ico-lg"><use href="#i-arrow-ur"/></svg></a>
+    </div>
+  </div>
+</section>
+
+<section class="band-surface">
+  <div class="wrap">
+    <div class="sec-head"><div><div class="kick">Also recently</div><h2 class="h2">More from <em>The Plot.</em></h2></div>
+      <a class="lnk" href="/archive.html">View archive <svg class="ico"><use href="#i-arrow-r"/></svg></a></div>
+    <div class="elist" id="also"></div>
+  </div>
+</section>
+
+<footer class="site"><div class="wrap">
+  <div class="foot-top">
+    <div>
+      <a href="/" class="brandmark"><div class="wm">Verde 2050</div><div class="sub">The Plot</div></a>
+      <div class="foot-legal">Verde Partner Capital B.V.<br>Rua Rolas 73, 2750-708 Cascais, Portugal<br><a href="mailto:hello@verde2050.com" style="color:inherit">hello@verde2050.com</a></div>
+    </div>
+    <div class="foot-col"><h4>Verde 2050</h4>
+      <a href="https://www.verde2050.com/pillars" target="_blank" rel="noopener">Pillars</a>
+      <a href="https://www.verde2050.com/thesis" target="_blank" rel="noopener">Thesis</a>
+      <a href="https://www.verde2050.com/investing" target="_blank" rel="noopener">Investing</a>
+      <a href="https://www.verde2050.com/contact" target="_blank" rel="noopener">Contact</a>
+      <a href="https://www.instagram.com/pietervanherpen" target="_blank" rel="noopener">Instagram</a>
+    </div>
+    <div class="foot-col"><h4>The Plot</h4>
+      <a href="/">Today</a><a href="/archive.html">Archive</a><a href="/about.html">About</a><a href="/#subscribe">Subscribe</a>
+      <a href="https://www.verde2050.com" target="_blank" rel="noopener">Back to Verde 2050 →</a>
+    </div>
+  </div>
+  <div class="disclaimer">For invited professional investors only. Targeted returns are objectives, not guarantees; capital is at risk. Nothing on this website constitutes an offer to sell securities. The Plot is an editorial briefing curated from public and trade sources; it is information, not investment advice. Figures should be verified before any decision.</div>
+  <div class="foot-bottom"><span>© 2026 Verde Partner Capital B.V.</span><span class="mono">The Plot · Portuguese real estate, daily</span></div>
+</div></footer>
+
+<script>
+  const EDITIONS_URL="https://raw.githubusercontent.com/verde2050/land-intelligence/main/editions.json";
+  const MONTHS=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  const WD=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+  function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));}
+  function big(d){const p=String(d).split('-');return (+p[2])+' '+(MONTHS[(+p[1])-1]||'').toUpperCase();}
+  function fulldate(d){const p=String(d).split('-');const dt=new Date(Date.UTC(+p[0],+p[1]-1,+p[2]));
+    return WD[dt.getUTCDay()]+' · '+(+p[2])+' '+(MONTHS[(+p[1])-1]||'')+' '+p[0];}
+  function qp(k){return new URLSearchParams(location.search).get(k);}
+  function renderBody(summary){
+    // split into sentences; pull a "Net:" clause into a pullquote if present
+    let text=(summary||'').trim(), pull='';
+    const m=text.match(/(Net:.*)$/);
+    if(m){pull=m[1].replace(/^Net:\s*/,'');text=text.slice(0,m.index).trim();}
+    const parts=[]; let buf=text;
+    // break into ~2 paragraphs at a mid sentence boundary for rhythm
+    const sents=text.split(/(?<=\.)\s+/);
+    if(sents.length>3){const half=Math.ceil(sents.length/2);
+      parts.push(sents.slice(0,half).join(' '));parts.push(sents.slice(half).join(' '));}
+    else parts.push(text);
+    document.getElementById('ed-body').innerHTML=parts.map((p,i)=>'<p'+(i===0?' class="lead"':'')+'>'+esc(p)+'</p>').join('');
+    if(pull)document.getElementById('ed-pull').innerHTML='<div class="pullquote">'+esc(pull)+'</div>';
+  }
+  function renderAlso(items){
+    document.getElementById('also').innerHTML=items.map(e=>(
+      '<a class="erow" href="edition.html?date='+encodeURIComponent(e.date)+'">'+
+        '<span class="edate">'+esc(big(e.date))+'</span>'+
+        '<span><span class="etitle">'+esc(e.title||'')+'</span></span>'+
+        '<span class="etag">Briefing</span></a>'
+    )).join('');
+  }
+  fetch(EDITIONS_URL,{cache:'no-store'}).then(r=>r.json()).then(d=>{
+    const list=Array.isArray(d)?d:(d.editions||[]);
+    const date=qp('date');
+    let e=list.find(x=>x.date===date)||list[0];
+    if(!e){document.getElementById('ed-headline').textContent='Edition not found.';return;}
+    document.title=(e.title||'Edition')+' — The Plot · Verde 2050';
+    document.getElementById('ed-date').textContent=fulldate(e.date);
+    document.getElementById('ed-headline').textContent=e.title||'';
+    renderBody(e.summary);
+    renderAlso(list.filter(x=>x.date!==e.date).slice(0,3));
+  }).catch(()=>{document.getElementById('ed-headline').textContent='This edition is loading — check back shortly.';});
+</script>
+</body>
+</html>
