@@ -3,444 +3,474 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Get The Plot — Verde 2050</title>
-<meta name="description" content="The Plot — a free daily newsletter on Portuguese real estate: the deals, developments, people and architecture shaping the market. Curated by Verde 2050.">
-<meta property="og:title" content="The Plot — Portuguese real estate, daily">
-<meta property="og:description" content="A free daily newsletter on Portuguese real estate: deals, developments, people, architecture and the market.">
+<title>The Plot — Verde 2050</title>
+<meta name="description" content="The Plot — Verde 2050's free daily briefing on Portuguese real estate: the deals, developments, people, architecture and rules shaping the market.">
+<meta property="og:title" content="The Plot — a daily briefing on Portuguese real estate">
+<meta property="og:description" content="Deals, developments, people, architecture and rules. A free daily briefing by Verde 2050.">
 <meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preconnect" href="https://raw.githubusercontent.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root{
-    --ink:#12241c; --ink2:#1b2a22; --paper:#f4f6f5; --card:#ffffff;
-    --green:#2e6f4e; --green-lt:#8fce9f; --green-soft:#eef4f0; --line:#e2e9e4;
-    --text:#1b2420; --mut:#6b7770;
+    --forest:#0F2620; --forest-deep:#0B1C17; --cream:#F7F1E6; --surface:#F0E9DA;
+    --ink:#1A1E1B; --terracotta:#C86F4A; --muted:#726C60; --hairline:#D8D0BE;
+    --hairline-d:rgba(247,241,230,.16);
+    --serif:"Fraunces",Georgia,"Times New Roman",serif;
+    --sans:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+    --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
   }
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
-  html,body{margin:0;padding:0}
-  body{
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
-    color:var(--text); background:var(--paper); line-height:1.6;
-    -webkit-font-smoothing:antialiased;
-  }
-  a{color:var(--green)}
-  .wrap{max-width:1040px;margin:0 auto;padding:0 22px}
+  body{margin:0;background:var(--cream);color:var(--ink);font-family:var(--sans);
+    font-size:17px;line-height:1.65;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  a{color:inherit}
+  img{max-width:100%}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+  .serif{font-family:var(--serif)}
+  em{font-style:italic}
 
-  /* HERO */
-  .hero{background:var(--ink);color:#fff;padding:34px 0 54px}
-  .nav{display:flex;align-items:center;justify-content:space-between;padding-top:6px}
-  .nav img{display:block;height:16px;width:auto}
-  .nav .brand{display:block;font-size:19px;font-weight:800;color:#fff;letter-spacing:-.3px;text-decoration:none}
-  .nav .brand-sub{display:block;margin-top:3px;font-size:11px;font-weight:400;letter-spacing:.3px;color:var(--green-lt)}
-  .nav .brand-sub a{color:inherit;text-decoration:underline;text-underline-offset:2px}
-  .nav .tag{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--green-lt)}
-  .tag-cta{font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:#cfe6d8;text-decoration:none;
-    border:1px solid #3c5748;border-radius:8px;padding:9px 17px;font-weight:700;white-space:nowrap;
-    transition:background .15s,color .15s,border-color .15s}
-  .tag-cta:hover{background:var(--green-lt);color:#0c1a13;border-color:var(--green-lt)}
-  .hero-inner{max-width:760px;margin:44px auto 0;text-align:center}
-  .kicker{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:var(--green-lt);font-weight:700}
-  .byline{margin-top:12px;font-size:13px;letter-spacing:2.5px;text-transform:uppercase;color:var(--green-lt);font-weight:600}
-  .byline a{color:inherit;text-decoration:underline;text-underline-offset:2px}
-  h1{font-size:52px;line-height:1.08;margin:0;font-weight:800;letter-spacing:-1px}
-  h1 .thin{font-weight:400;color:#cfe6d8}
-  .sub{font-size:19px;color:#dcebe2;margin:18px auto 0;max-width:640px}
-  .cta-row{margin-top:30px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
-  .btn{background:var(--green-lt);color:#0c1a13;border:0;border-radius:10px;padding:15px 26px;
-    font-size:16px;font-weight:700;cursor:pointer;text-decoration:none;display:inline-block}
-  .btn:hover{background:#a6dbb6}
-  .btn.ghost{background:transparent;color:#dcebe2;border:1px solid #3c5748}
-  .meta{margin-top:16px;font-size:13px;color:#9fb7aa}
+  /* mono label kicker */
+  .mono{font-family:var(--mono);text-transform:uppercase;letter-spacing:.16em;font-size:12px;font-weight:500}
+  .kick{font-family:var(--mono);text-transform:uppercase;letter-spacing:.18em;font-size:12px;
+    font-weight:500;color:var(--terracotta)}
+  .num{font-family:var(--mono);font-weight:500;letter-spacing:.02em}
 
-  /* VALUE */
-  .section{padding:56px 0}
-  .lead{max-width:720px;margin:0 auto 34px;text-align:center}
-  .lead h2{font-size:28px;margin:0 0 10px;color:var(--ink)}
-  .lead p{color:var(--mut);font-size:17px;margin:0}
-  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
-  .cardi{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px}
-  .cardi .ic{width:38px;height:38px;border-radius:9px;background:var(--green-soft);display:flex;
-    align-items:center;justify-content:center;margin-bottom:12px;font-size:19px}
-  .cardi h3{margin:0 0 6px;font-size:16px;color:var(--ink)}
-  .cardi p{margin:0;font-size:14.5px;color:var(--mut)}
+  h1,h2,h3{font-family:var(--serif);font-weight:400;margin:0}
+  .h1{font-size:clamp(2.7rem,7.4vw,6rem);line-height:1.02;letter-spacing:-.022em}
+  .h1 em{color:#cfe6d8}
+  .h2{font-size:clamp(2.1rem,5vw,3.6rem);line-height:1.03;letter-spacing:-.018em}
+  .h2 em{display:block}
+  .h3{font-size:clamp(1.4rem,2.4vw,1.9rem);line-height:1.12;letter-spacing:-.01em}
 
-  /* SIGNUP */
-  .signup{background:var(--green-soft);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-  .form-card{background:var(--card);border:1px solid var(--line);border-radius:16px;max-width:560px;
-    margin:0 auto;padding:30px;box-shadow:0 1px 3px rgba(0,0,0,.04)}
-  .form-card h2{margin:0 0 6px;font-size:24px;color:var(--ink);text-align:center}
-  .form-card .fsub{text-align:center;color:var(--mut);margin:0 0 22px;font-size:15px}
-  .field{margin-bottom:14px}
-  .field label{display:block;font-size:13px;font-weight:600;color:var(--ink2);margin-bottom:6px}
-  .field input, .field select{width:100%;padding:13px 14px;border:1px solid #d5ded8;border-radius:10px;
-    font-size:15px;font-family:inherit;background:#fff;color:var(--text)}
-  .field input:focus, .field select:focus{outline:none;border-color:var(--green);box-shadow:0 0 0 3px rgba(46,111,78,.12)}
-  .two{display:grid;grid-template-columns:1fr 1fr;gap:14px}
-  .submit{width:100%;background:var(--ink);color:#fff;border:0;border-radius:10px;padding:15px;
-    font-size:16px;font-weight:700;cursor:pointer;margin-top:6px}
-  .submit:hover{background:#1c3a2c}
-  .submit:disabled{opacity:.6;cursor:default}
-  .fineprint{font-size:12.5px;color:var(--mut);text-align:center;margin-top:14px}
+  /* buttons */
+  .btn{display:inline-flex;align-items:center;gap:9px;font-family:var(--sans);font-weight:600;
+    font-size:15px;letter-spacing:.01em;padding:15px 24px;text-decoration:none;border:1px solid transparent;
+    transition:background .18s,color .18s,border-color .18s;cursor:pointer}
+  .btn-solid{background:var(--cream);color:var(--forest);border-color:var(--cream)}
+  .btn-solid:hover{background:var(--terracotta);border-color:var(--terracotta);color:#fff}
+  .btn-solid.on-cream{background:var(--forest);color:var(--cream);border-color:var(--forest)}
+  .btn-solid.on-cream:hover{background:var(--terracotta);border-color:var(--terracotta);color:#fff}
+  .lnk{display:inline-flex;align-items:center;gap:7px;text-decoration:none;font-weight:500;
+    border-bottom:1px solid currentColor;padding-bottom:2px;transition:color .18s}
+  .lnk:hover{color:var(--terracotta)}
+  .ico{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:2;
+    stroke-linecap:round;stroke-linejoin:round;flex:0 0 auto}
+  .ico-lg{width:20px;height:20px}
+
+  /* header */
+  header.site{position:sticky;top:0;z-index:20;background:var(--forest);color:var(--cream);
+    border-bottom:1px solid var(--hairline-d)}
+  .site .bar{display:flex;align-items:center;justify-content:space-between;padding:16px 28px;max-width:1180px;margin:0 auto}
+  .brandmark{display:block;text-decoration:none;color:var(--cream);line-height:1}
+  .brandmark .wm{font-family:var(--serif);font-size:20px;letter-spacing:.01em}
+  .brandmark .sub{font-family:var(--mono);text-transform:uppercase;letter-spacing:.28em;font-size:9.5px;
+    color:var(--terracotta);margin-top:5px}
+  .site nav{display:flex;align-items:center;gap:26px}
+  .site nav a{font-family:var(--sans);font-size:14px;font-weight:500;color:var(--cream);text-decoration:none;
+    letter-spacing:.01em;opacity:.85;transition:opacity .15s}
+  .site nav a:hover{opacity:1}
+  .site nav a.cta{opacity:1;border:1px solid var(--hairline-d);padding:9px 16px}
+  .site nav a.cta:hover{background:var(--cream);color:var(--forest);border-color:var(--cream)}
+
+  /* hero */
+  .hero{background:var(--forest);color:var(--cream);padding:96px 0 108px}
+  .hero .kick{margin-bottom:26px}
+  .hero .h1{max-width:15ch}
+  .hero .sub{max-width:44ch;color:rgba(247,241,230,.85);font-size:19px;margin:26px 0 0}
+  .hero .cta-row{margin-top:40px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+
+  /* section frame */
+  section{padding:88px 0}
+  .band-cream{background:var(--cream)}
+  .band-surface{background:var(--surface)}
+  .band-forest{background:var(--forest);color:var(--cream)}
+  .sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:24px;
+    padding-bottom:34px;flex-wrap:wrap}
+  .sec-head .h2{max-width:16ch}
+  .sec-head .kick{margin-bottom:16px}
+
+  /* hairline grid */
+  .grid6{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--hairline);
+    border:1px solid var(--hairline)}
+  .tile{background:var(--cream);padding:34px 30px 40px;min-height:210px;display:flex;flex-direction:column}
+  .tile .row{display:flex;align-items:flex-start;justify-content:space-between}
+  .tile .num{font-size:15px;color:var(--muted)}
+  .tile .ico{stroke:rgba(15,38,32,.5);width:22px;height:22px}
+  .tile h3{margin:26px 0 10px}
+  .tile p{margin:0;color:var(--muted);font-size:15.5px;line-height:1.55}
+
+  /* today featured */
+  .feature{background:var(--cream);border:1px solid var(--hairline);padding:clamp(30px,5vw,60px)}
+  .feature .meta{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:22px}
+  .tag{font-family:var(--mono);text-transform:uppercase;letter-spacing:.14em;font-size:11px;
+    color:var(--terracotta);border:1px solid var(--terracotta);padding:4px 9px}
+  .feature .h2{max-width:20ch;margin-bottom:22px}
+  .feature .deck{color:var(--muted);font-size:19px;max-width:60ch;margin:0 0 30px}
+  .feature .byline{display:flex;align-items:center;gap:14px;color:var(--muted);font-size:14px;margin-bottom:30px}
+  .feature .byline .dot{width:4px;height:4px;border-radius:50%;background:var(--terracotta)}
+
+  /* previous editions list */
+  .elist{border-top:1px solid var(--hairline)}
+  .erow{display:grid;grid-template-columns:120px 1fr auto;gap:26px;align-items:start;
+    padding:22px 4px;border-bottom:1px solid var(--hairline);text-decoration:none;color:inherit;
+    transition:background .15s}
+  .erow:hover{background:rgba(200,111,74,.05)}
+  .erow .edate{font-family:var(--mono);text-transform:uppercase;letter-spacing:.1em;font-size:13px;
+    color:var(--muted);padding-top:5px}
+  .erow .etitle{font-family:var(--serif);font-size:clamp(1.15rem,2vw,1.5rem);line-height:1.2;letter-spacing:-.01em}
+  .erow .edeck{color:var(--muted);font-size:14.5px;line-height:1.5;margin-top:8px;max-width:70ch;
+    max-height:0;overflow:hidden;opacity:0;transition:max-height .25s,opacity .2s,margin .2s}
+  .erow:hover .edeck{max-height:60px;opacity:1;margin-top:9px}
+  .erow .etag{font-family:var(--mono);text-transform:uppercase;letter-spacing:.12em;font-size:10.5px;
+    color:var(--muted);padding-top:6px;white-space:nowrap}
+  .elist-foot{padding-top:30px}
+
+  /* standards (forest) */
+  .cols2{display:grid;grid-template-columns:1.05fr .95fr;gap:64px;align-items:start}
+  .standards .h2{margin-bottom:26px}
+  .standards p{color:rgba(247,241,230,.8);font-size:17px;margin:0 0 18px;max-width:52ch}
+  .readers{border-top:1px solid var(--hairline-d)}
+  .readers .rrow{display:flex;align-items:baseline;gap:16px;padding:16px 0;border-bottom:1px solid var(--hairline-d)}
+  .readers .rrow .num{color:var(--terracotta);font-size:12px;min-width:26px}
+  .readers .rrow span{font-size:16px}
+  .badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:24px}
+  .badge{font-family:var(--mono);text-transform:uppercase;letter-spacing:.1em;font-size:10.5px;
+    color:rgba(247,241,230,.75);border:1px solid var(--hairline-d);padding:6px 11px}
+  .sources{margin-top:36px}
+  .sources .lab{color:rgba(247,241,230,.55)}
+  .sources-row{display:flex;flex-wrap:wrap;align-items:center;gap:12px 12px;margin-top:16px}
+  .sources-row img{height:32px;width:auto;display:block}
+
+  /* subscribe */
+  .subgrid{display:grid;grid-template-columns:.85fr 1.15fr;gap:60px;align-items:start}
+  .form-card{background:var(--cream);border:1px solid var(--hairline);padding:clamp(26px,4vw,44px)}
+  .field{margin-bottom:18px}
+  .field label{display:block;font-family:var(--mono);text-transform:uppercase;letter-spacing:.12em;
+    font-size:11px;color:var(--muted);margin-bottom:8px}
+  .field input,.field select{width:100%;font-family:var(--sans);font-size:16px;color:var(--ink);
+    background:#fff;border:1px solid var(--hairline);padding:14px 15px;border-radius:0;-webkit-appearance:none;appearance:none}
+  .field input:focus,.field select:focus{outline:none;border-color:var(--forest);box-shadow:inset 0 0 0 1px var(--forest)}
+  .two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .field select{background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23726C60' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='m6 9 6 6 6-6'/></svg>");background-repeat:no-repeat;background-position:right 15px center;padding-right:40px}
+  .submit{width:100%;justify-content:center;margin-top:6px}
+  .fineprint{margin-top:16px;color:var(--muted)}
   .hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
-  .msg{display:none;text-align:center;padding:8px 0 0}
+  .msg{display:none;margin-top:14px;font-size:14px}
   .msg.show{display:block}
-  .msg.ok{color:var(--green)}
+  .msg.ok{color:#2e6f4e}
   .msg.err{color:#b23b3b}
-  .success{display:none;text-align:center}
+  .success{display:none}
   .success.show{display:block}
-  .success .check{width:56px;height:56px;border-radius:50%;background:var(--green-soft);color:var(--green);
-    display:flex;align-items:center;justify-content:center;font-size:28px;margin:0 auto 14px;border:2px solid #cfe6d8}
-  .success h2{color:var(--ink);margin:0 0 6px}
-  .success p{color:var(--mut);margin:0}
+  .success .h2{margin-bottom:16px}
+  .success p{color:var(--muted);max-width:46ch}
 
-  /* FOOTER */
-  footer{background:var(--ink);color:#c7d6cd;padding:34px 0}
-  footer img{height:26px;width:auto;display:block;opacity:.95}
-  .foot-row{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
-  footer .fine{font-size:12.5px;color:#8ba496;max-width:620px;margin-top:14px}
+  /* footer */
+  footer.site{background:var(--forest-deep);color:var(--cream);padding:72px 0 40px}
+  .foot-top{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:40px;padding-bottom:48px;
+    border-bottom:1px solid var(--hairline-d)}
+  .foot-legal{color:rgba(247,241,230,.6);font-size:14px;line-height:1.7;margin-top:20px;max-width:34ch}
+  .foot-col h4{font-family:var(--mono);text-transform:uppercase;letter-spacing:.14em;font-size:11px;
+    font-weight:500;color:var(--terracotta);margin:0 0 16px}
+  .foot-col a{display:block;color:rgba(247,241,230,.85);text-decoration:none;font-size:15px;
+    padding:6px 0;transition:color .15s}
+  .foot-col a:hover{color:#fff}
+  .foot-bottom{display:flex;align-items:center;justify-content:space-between;gap:20px;
+    padding-top:28px;flex-wrap:wrap;color:rgba(247,241,230,.5);font-size:12.5px}
+  .disclaimer{color:rgba(247,241,230,.45);font-size:12.5px;line-height:1.7;max-width:70ch;margin-top:26px}
 
-  /* SOURCES BANNER (bottom of hero) */
-  .sources{margin:44px auto 0;max-width:860px;text-align:center;
-    border-top:1px solid rgba(255,255,255,.12);padding-top:22px}
-  .sources-label{display:block;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;
-    color:#7fa591;margin-bottom:14px}
-  .sources-row{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:14px 16px}
-  .sources-row img{height:36px;width:auto;display:block}
-
-  /* PREVIOUS PUBLICATIONS */
-  .archive{max-width:780px;margin:0 auto}
-  .archive .item{background:var(--card);border:1px solid var(--line);border-radius:12px;
-    margin-bottom:12px;overflow:hidden}
-  .archive summary{list-style:none;cursor:pointer;padding:18px 20px;
-    display:flex;gap:14px;align-items:flex-start}
-  .archive summary::-webkit-details-marker{display:none}
-  .archive summary:hover{background:#fafcfb}
-  .archive .date{flex:0 0 auto;font-size:12px;font-weight:700;color:var(--green);
-    background:var(--green-soft);border-radius:6px;padding:5px 9px;letter-spacing:.5px;
-    white-space:nowrap;margin-top:1px}
-  .archive .headline{flex:1;font-size:16px;font-weight:600;color:var(--ink);line-height:1.42}
-  .archive .latest{font-size:10px;font-weight:800;color:#fff;background:var(--green);
-    border-radius:5px;padding:2px 6px;margin-left:8px;letter-spacing:.5px;vertical-align:2px;text-transform:uppercase}
-  .archive .chev{flex:0 0 auto;color:var(--mut);transition:transform .2s;margin-top:2px;font-size:13px}
-  .archive .item[open] .chev{transform:rotate(180deg)}
-  .archive .body{padding:2px 20px 20px;color:var(--mut);font-size:15px;line-height:1.62}
-  .archive .body p{margin:0}
-
-  @media(max-width:760px){
-    h1{font-size:40px}
-    .grid{grid-template-columns:1fr}
+  @media(max-width:900px){
+    .grid6{grid-template-columns:repeat(2,1fr)}
+    .cols2{grid-template-columns:1fr;gap:40px}
+    .subgrid{grid-template-columns:1fr;gap:32px}
+    .foot-top{grid-template-columns:1fr 1fr;gap:32px}
+    section{padding:64px 0}
+    .hero{padding:64px 0 76px}
+  }
+  @media(max-width:560px){
+    .grid6{grid-template-columns:1fr}
     .two{grid-template-columns:1fr}
-    .sources-row{gap:10px 12px}
-    .sources-row img{height:30px}
-    .archive summary{flex-wrap:wrap}
+    .erow{grid-template-columns:76px 1fr;gap:16px}
+    .erow .etag{display:none}
+    .foot-top{grid-template-columns:1fr}
+    .site nav{gap:16px}
+    .site nav a:not(.cta){display:none}
   }
 </style>
 </head>
 <body>
 
-<!-- HERO -->
-<header class="hero">
-  <div class="wrap">
-    <div class="nav">
-      <div>
-        <span class="brand">Get The Plot</span>
-        <span class="brand-sub">News by <a href="https://www.verde2050.com" target="_blank" rel="noopener">Verde 2050</a></span>
-      </div>
-      <a href="#signup" class="tag-cta">Subscribe now</a>
-    </div>
-    <div class="hero-inner">
-      <h1>Get The Plot</h1>
-      <p class="sub">Your free daily newsletter on the deals, developments, regulation and capital that moves real estate in Portugal.</p>
-      <div class="cta-row">
-        <a href="#signup" class="btn">Get the daily briefing</a>
-        <a href="#what" class="btn ghost">See what's inside</a>
-      </div>
-      <div class="meta">Free · One email each morning · Unsubscribe anytime</div>
-    </div>
+<!-- icon symbols -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-handshake" viewBox="0 0 24 24"><path d="m11 17 2 2a1 1 0 1 0 3-3"/><path d="m14 14 2.5 2.5a1 1 0 1 0 3-3l-3.88-3.88a3 3 0 0 0-4.24 0l-.88.88a1 1 0 1 1-3-3l2.81-2.81a5.79 5.79 0 0 1 7.06-.87l.47.28a2 2 0 0 0 1.42.25L21 4"/><path d="m21 3 1 11h-2"/><path d="M3 3 2 14l6.5 6.5a1 1 0 1 0 3-3"/><path d="M3 4h8"/></symbol>
+  <symbol id="i-building" viewBox="0 0 24 24"><path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"/><path d="M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"/><path d="M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"/><path d="M10 6h4"/><path d="M10 10h4"/><path d="M10 14h4"/><path d="M10 18h4"/></symbol>
+  <symbol id="i-users" viewBox="0 0 24 24"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></symbol>
+  <symbol id="i-compass" viewBox="0 0 24 24"><path d="m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"/><circle cx="12" cy="12" r="10"/></symbol>
+  <symbol id="i-scale" viewBox="0 0 24 24"><path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="M7 21h10"/><path d="M12 3v18"/><path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2"/></symbol>
+  <symbol id="i-trend" viewBox="0 0 24 24"><path d="M22 7 13.5 15.5 8.5 10.5 2 17"/><path d="M16 7h6v6"/></symbol>
+  <symbol id="i-arrow-ur" viewBox="0 0 24 24"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></symbol>
+  <symbol id="i-arrow-r" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></symbol>
+</svg>
 
-    <div class="sources">
-      <span class="sources-label">Sourced daily from</span>
-      <div class="sources-row">
-        <img src="press/idealista.png" alt="idealista">
-        <img src="press/negocios.png" alt="Jornal de Negócios">
-        <img src="press/eco.png" alt="ECO">
-        <img src="press/iberian.png" alt="Iberian Property">
-        <img src="press/portugalnews.png" alt="The Portugal News">
-        <img src="press/diario.png" alt="Diário Imobiliário">
-      </div>
-    </div>
+<!-- HEADER -->
+<header class="site">
+  <div class="bar">
+    <a href="/" class="brandmark">
+      <div class="wm">Verde 2050</div>
+      <div class="sub">The Plot</div>
+    </a>
+    <nav>
+      <a href="https://www.verde2050.com" target="_blank" rel="noopener">Back to Verde 2050</a>
+      <a href="/">The Plot</a>
+      <a href="#subscribe" class="cta">Subscribe</a>
+    </nav>
   </div>
 </header>
 
-<!-- VALUE -->
-<section class="section" id="what">
+<!-- HERO -->
+<div class="hero">
   <div class="wrap">
-    <div class="lead">
-      <h2>What moves in Portuguese real estate</h2>
-      <p>We read the Portuguese and international press every morning and distil what matters — the deals, the buildings, the people and the rules shaping the market.</p>
+    <div class="kick">[V2050] The Plot · daily briefing</div>
+    <h1 class="h1">What moves in Portuguese <em>real estate.</em></h1>
+    <p class="sub">A free daily briefing on the deals, developments, people, architecture and rules shaping Portugal's residential market. Read by developers, investors and landowners across Lisbon, Cascais and Comporta.</p>
+    <div class="cta-row">
+      <a href="#subscribe" class="btn btn-solid">Subscribe — it's free <svg class="ico ico-lg"><use href="#i-arrow-ur"/></svg></a>
+      <a href="#today" class="lnk">Read today's edition <svg class="ico"><use href="#i-arrow-r"/></svg></a>
     </div>
-    <div class="grid">
-      <div class="cardi">
-        <div class="ic">🤝</div>
-        <h3>Deals &amp; transactions</h3>
-        <p>Sales, acquisitions, JVs and financings across residential, commercial, hospitality and land.</p>
+  </div>
+</div>
+
+<!-- [01] WHAT WE COVER -->
+<section class="band-cream">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <div class="kick">[01] What we cover</div>
+        <h2 class="h2">Everything that moves <em>Portuguese real estate.</em></h2>
       </div>
-      <div class="cardi">
-        <div class="ic">🏗️</div>
-        <h3>Developments &amp; projects</h3>
-        <p>New schemes, regeneration and major projects breaking ground across Portugal.</p>
+    </div>
+    <div class="grid6">
+      <div class="tile"><div class="row"><span class="num">01</span><svg class="ico"><use href="#i-handshake"/></svg></div><h3 class="h3">Deals &amp; transactions</h3><p>Sales, acquisitions, portfolio trades, JVs and financings across every asset class.</p></div>
+      <div class="tile"><div class="row"><span class="num">02</span><svg class="ico"><use href="#i-building"/></svg></div><h3 class="h3">Developments &amp; projects</h3><p>New schemes, regeneration, conversions and the projects breaking ground.</p></div>
+      <div class="tile"><div class="row"><span class="num">03</span><svg class="ico"><use href="#i-users"/></svg></div><h3 class="h3">People &amp; moves</h3><p>The developers, investors, architects and dealmakers shaping the market.</p></div>
+      <div class="tile"><div class="row"><span class="num">04</span><svg class="ico"><use href="#i-compass"/></svg></div><h3 class="h3">Architecture &amp; design</h3><p>Notable buildings, studios and designs redefining how Portugal is built.</p></div>
+      <div class="tile"><div class="row"><span class="num">05</span><svg class="ico"><use href="#i-scale"/></svg></div><h3 class="h3">Rules &amp; regulation</h3><p>New laws on buying, building, owning and renting — residential and commercial.</p></div>
+      <div class="tile"><div class="row"><span class="num">06</span><svg class="ico"><use href="#i-trend"/></svg></div><h3 class="h3">Market &amp; macro</h3><p>Prices, capital flows, construction costs and the trends moving the market.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- [02] TODAY'S EDITION -->
+<section class="band-surface" id="today">
+  <div class="wrap">
+    <div class="sec-head"><div><div class="kick">[02] Today's edition</div><h2 class="h2">The latest, <em>this morning.</em></h2></div></div>
+    <a class="feature" id="today-card" href="/archive.html">
+      <div class="meta">
+        <span class="mono" id="today-date" style="color:var(--muted)">Loading…</span>
+        <span class="tag">Daily briefing</span>
       </div>
-      <div class="cardi">
-        <div class="ic">👥</div>
-        <h3>People &amp; moves</h3>
-        <p>The developers, investors, architects and dealmakers shaping the market — and who's moving where.</p>
+      <h2 class="h2" id="today-headline">Today's edition is on its way.</h2>
+      <p class="deck" id="today-deck">Each morning we read the Portuguese and international press and distil what matters for capital into a single briefing.</p>
+      <div class="byline"><span>Curated by Verde 2050</span><span class="dot"></span><span>4-min read</span></div>
+      <span class="lnk">Read the full edition <svg class="ico"><use href="#i-arrow-r"/></svg></span>
+    </a>
+  </div>
+</section>
+
+<!-- [03] PREVIOUS EDITIONS -->
+<section class="band-cream">
+  <div class="wrap">
+    <div class="sec-head"><div><div class="kick">[03] Previous editions</div><h2 class="h2">The record, <em>day by day.</em></h2></div>
+      <a class="lnk" href="/archive.html">View archive <svg class="ico"><use href="#i-arrow-r"/></svg></a></div>
+    <div class="elist" id="archive-list">
+      <div class="erow"><span class="edate">—</span><span><span class="etitle">Loading recent editions…</span></span><span class="etag">Briefing</span></div>
+    </div>
+    <div class="elist-foot"><a class="lnk" href="/archive.html">View the full archive <svg class="ico"><use href="#i-arrow-r"/></svg></a></div>
+  </div>
+</section>
+
+<!-- [04] WHY THE PLOT -->
+<section class="band-forest standards">
+  <div class="wrap">
+    <div class="cols2">
+      <div>
+        <div class="kick">[04] Why The Plot</div>
+        <h2 class="h2">Signal, <em>not noise.</em></h2>
+        <p>Every morning we read the Portuguese and international press — the trade titles, the nationals, the agency research and the official gazette — and distil only what matters for people who build, buy and finance real estate in Portugal.</p>
+        <p>No advertising. No sponsorships. No filler. Just the deals, developments, people, architecture and rules that move the market, with a one-line read on why each matters for capital.</p>
+        <div class="sources">
+          <div class="mono lab">Sourced daily from</div>
+          <div class="sources-row">
+            <img src="press/idealista.png" alt="idealista">
+            <img src="press/negocios.png" alt="Jornal de Negócios">
+            <img src="press/eco.png" alt="ECO">
+            <img src="press/iberian.png" alt="Iberian Property">
+            <img src="press/portugalnews.png" alt="The Portugal News">
+            <img src="press/diario.png" alt="Diário Imobiliário">
+          </div>
+        </div>
       </div>
-      <div class="cardi">
-        <div class="ic">📐</div>
-        <h3>Architecture &amp; design</h3>
-        <p>Notable buildings, studios and designs redefining how Portugal is built.</p>
-      </div>
-      <div class="cardi">
-        <div class="ic">⚖️</div>
-        <h3>Rules &amp; regulation</h3>
-        <p>New laws on buying, building, owning and renting — residential and commercial.</p>
-      </div>
-      <div class="cardi">
-        <div class="ic">📈</div>
-        <h3>Market &amp; macro</h3>
-        <p>Prices, capital flows, construction costs and the trends moving Portuguese real estate.</p>
+      <div>
+        <div class="kick" style="margin-bottom:18px">Who reads it</div>
+        <div class="readers">
+          <div class="rrow"><span class="num">01</span><span>Developers &amp; homebuilders</span></div>
+          <div class="rrow"><span class="num">02</span><span>Investors &amp; funds</span></div>
+          <div class="rrow"><span class="num">03</span><span>Family offices</span></div>
+          <div class="rrow"><span class="num">04</span><span>Architects &amp; planners</span></div>
+          <div class="rrow"><span class="num">05</span><span>Landowners &amp; agents</span></div>
+        </div>
+        <div class="badges">
+          <span class="badge">Lisbon</span><span class="badge">Cascais</span><span class="badge">Comporta</span>
+          <span class="badge">Porto</span><span class="badge">Algarve</span><span class="badge">Setúbal</span>
+        </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- SIGNUP -->
-<section class="signup section" id="signup">
+<!-- [05] SUBSCRIBE -->
+<section class="band-surface" id="subscribe">
   <div class="wrap">
-    <div class="form-card">
-      <div id="formState">
-        <h2>Get The Plot</h2>
-        <p class="fsub">Curated for developers, investors and landowners.</p>
-        <form id="signupForm" novalidate>
-          <div class="field">
-            <label for="email">Work email *</label>
-            <input type="email" id="email" name="email" required autocomplete="email" placeholder="you@company.com">
-          </div>
-          <div class="two">
+    <div class="subgrid">
+      <div>
+        <div class="kick">[05] Join The Plot</div>
+        <h2 class="h2">One email. <em>Every morning.</em></h2>
+        <p style="color:var(--muted);max-width:34ch;margin-top:20px">Free to read. One sharp briefing on Portuguese real estate, in your inbox by 8am.</p>
+      </div>
+      <div class="form-card">
+        <div id="formState">
+          <form id="signupForm" novalidate>
             <div class="field">
-              <label for="name">Name</label>
-              <input type="text" id="name" name="name" autocomplete="name" placeholder="Your name">
+              <label for="email">Work email *</label>
+              <input type="email" id="email" name="email" required autocomplete="email" placeholder="you@company.com">
+            </div>
+            <div class="two">
+              <div class="field"><label for="name">Name *</label><input type="text" id="name" name="name" required autocomplete="name" placeholder="Your name"></div>
+              <div class="field"><label for="company">Company</label><input type="text" id="company" name="company" autocomplete="organization" placeholder="Optional"></div>
             </div>
             <div class="field">
-              <label for="company">Company</label>
-              <input type="text" id="company" name="company" autocomplete="organization" placeholder="Company">
+              <label for="role">I am a…</label>
+              <select id="role" name="role">
+                <option value="">Select (optional)</option>
+                <option>Developer</option>
+                <option>Investor / Fund</option>
+                <option>Architect / Designer</option>
+                <option>Landowner</option>
+                <option>Agent / Broker</option>
+                <option>Advisor</option>
+                <option>Other</option>
+              </select>
             </div>
-          </div>
-          <div class="field">
-            <label for="role">I am a…</label>
-            <select id="role" name="role">
-              <option value="">Select (optional)</option>
-              <option>Developer</option>
-              <option>Investor / Fund</option>
-              <option>Architect / Designer</option>
-              <option>Landowner</option>
-              <option>Agent / Broker</option>
-              <option>Advisor (legal, planning, other)</option>
-              <option>Other</option>
-            </select>
-          </div>
-          <!-- honeypot -->
-          <div class="hp"><label>Leave this empty<input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
-          <button type="submit" class="submit" id="submitBtn">Subscribe — it's free</button>
-          <div class="msg" id="msg"></div>
-          <div class="fineprint">We use your email only to send The Plot. No spam, unsubscribe anytime.</div>
-        </form>
+            <div class="hp"><label>Leave this empty<input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+            <button type="submit" class="btn btn-solid on-cream submit" id="submitBtn">Subscribe — it's free <svg class="ico ico-lg"><use href="#i-arrow-ur"/></svg></button>
+            <div class="msg" id="msg"></div>
+            <div class="mono fineprint">We use your email only to send The Plot. No spam, unsubscribe anytime.</div>
+          </form>
+        </div>
+        <div class="success" id="success">
+          <h2 class="h2">You're in.</h2>
+          <p>Your first edition of The Plot will arrive in the next morning briefing. Check your inbox — and spam, just once — for a hello from Verde 2050.</p>
+        </div>
       </div>
-      <div class="success" id="success">
-        <div class="check">✓</div>
-        <h2>You're in.</h2>
-        <p>Your first edition of The Plot will arrive in the next morning edition. Check your inbox (and spam, just once) for a hello from Verde 2050.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- PREVIOUS PUBLICATIONS -->
-<section class="section" id="archive">
-  <div class="wrap">
-    <div class="lead">
-      <h2>Previous editions</h2>
-      <p>A look at what's landed in the last ten days. Open any edition for the quick read.</p>
-    </div>
-    <div class="archive" id="archiveList">
-
-      <details class="item" open>
-        <summary>
-          <span class="date">20 Aug</span>
-          <span class="headline">Land is trading again — SOLYD buys an Alta de Lisboa plot for ~300 homes, and the rehab-VAT fight is settled<span class="latest">Yesterday</span></span>
-          <span class="chev">▾</span>
-        </summary>
-        <div class="body"><p>The first named Lisbon land trade in over a week: SOLYD Property Developers acquired a ~10,000 m² lot in Alta de Lisboa to build roughly 300 homes across four blocks — a concrete buildable-land comp after a run of deal-less days. New law Lei 48/2026 settled the long-running ARU/ORU controversy, confirming the 6% rehabilitation VAT applies on ARU location alone and reaching back retroactively — a clean build-cost win for value-add. On the flip side, a Novo Banco–affiliated fund's 683-home Campolide scheme is now before the Public Prosecutor over alleged master-plan and environmental breaches, and Brussels opened infraction proceedings against Portugal for missing the EPBD energy deadline. A development-and-green day: buildable land and rehab economics both improved, while planning-litigation and compliance risk both stepped up.</p></div>
-      </details>
-
-      <details class="item">
-        <summary>
-          <span class="date">19 Aug</span>
-          <span class="headline">The affordability squeeze becomes the market's defining story as prices set a ninth straight record</span>
-          <span class="chev">▾</span>
-        </summary>
-        <div class="body"><p>Fresh idealista data put national rents at 82% of net household income and purchase costs at 76% — more than double the 33% comfort threshold — even as asking prices hit a ninth consecutive record at €3,210/m² (+8% YoY). Into that tension, Banco de Portugal's tighter mortgage rule took effect, cutting the debt-service cap from 50% to 45% and threatening to shave 10–15% off new-loan approvals. The state is answering on supply with 28,000 PRR public homes due by month-end, but that capital sits in the affordable segment, leaving mid-market, prime and rental to private players. The widening wedge — owner-occupiers priced out, institutional and rental capital stepping in — keeps strengthening the build-to-rent and value-add case.</p></div>
-      </details>
-
-      <details class="item">
-        <summary>
-          <span class="date">17 Aug</span>
-          <span class="headline">A quiet week consolidates around rental-law reform and the new 90-day short-let cap</span>
-          <span class="chev">▾</span>
-        </summary>
-        <div class="body"><p>The most consequential item remained the rental-law reform bill before Parliament: automatic renewals would match the original contract term rather than defaulting to three years, landlords could oppose the first renewal immediately, and — directly relevant to yield strategy — tourism sub-letting of a dwelling would be capped at 90 days a year. It sits against a market where H1 commercial investment reached €1.42bn (+11%, hotel-led) and Q1 house prices hit a record €2,337/m². Marquee development signals were unchanged — Coporgest's €220m Park Hyatt Comporta and Panattoni's Valongo logistics lease — with Porto office take-up up ~80% as Lisbon cools. The policy stack keeps tilting away from short-let yield and toward long-lease, BTR and development.</p></div>
-      </details>
-
-      <details class="item">
-        <summary>
-          <span class="date">16 Aug</span>
-          <span class="headline">Rental law reaches Parliament; the CIA and RSAA rental regimes go live in two weeks</span>
-          <span class="chev">▾</span>
-        </summary>
-        <div class="body"><p>The government's rewrite of the rental law landed in Parliament with granular, landlord-favourable terms: the automatic renewal floor drops from three years to one, owners can oppose the very first renewal, and the notice to recover a home for deep works is cut from five years to three. Underneath it, the RSAA and 25-year CIA fiscal regimes go live on 1 September — CIA being the first Portuguese instrument purpose-built for institutional buy-to-rent, offering 25 years of tax certainty. The freshest market prints showed record H1 revenue at every major brokerage against a 10.5% drop in Q1 transactions — a supply-starved, price-led market. The case for a CIA-structurable build-to-rent sleeve strengthened again.</p></div>
-      </details>
-
-      <details class="item">
-        <summary>
-          <span class="date">15 Aug</span>
-          <span class="headline">Countdown to the 1 September launch of the RSAA and CIA rental regimes</span>
-          <span class="chev">▾</span>
-        </summary>
-        <div class="body"><p>Two weeks out from the launch of the RSAA and CIA regimes under Decreto-Lei 97/2026, the policy-versus-price split defining the summer sharpened. RSAA grants a full IRS exemption on rents at or below 80% of local median, while CIA offers institutional investors 25-year fiscal-stability contracts, layered on the package's already-live 10% rental-income rate and 6% construction VAT. Prices held a ninth straight record (€3,210/m², +8%) but cooled and diverged hard by region — Algarve +17%, Porto +8.4%, Lisbon just +4.1% — while Euribor rose across all tenors. Confidence-side prints were strong: record H1 revenue at the big brokerage networks and a 12% jump in new construction-company formations. The incentive structure is tilting decisively toward long-term rental supply.</p></div>
-      </details>
-
-      <details class="item">
-        <summary>
-          <span class="date">14 Aug</span>
-          <span class="headline">Express rentals and cooling sale prices split the market in two</span>
-          <span class="chev">▾</span>
-        </summary>
-        <div class="body"><p>The rental and sales markets diverged hard. Fresh data showed 7% of rental listings gone in under 24 hours — Évora above 40% — a vivid read on rental undersupply, just as the 2026 Housing Package's core tax breaks (6% construction VAT, 10% rental-income rate, IMT relief for build-to-rent) sat newly in force. The sales side did the opposite: Q2 asking prices −3.4% QoQ to €3,544/m² with time-to-sell up 54% to 184 days, even as one in ten homes still sold within a week. INE inflation eased to 3.0%, softening the rate outlook; Corum publicly reaffirmed appetite for Portuguese logistics and the €60m half-stake in Acqua Portimão stood out as a large Algarve ticket. A softening entry point paired with policy tailwinds and structurally deep rental demand.</p></div>
-      </details>
-
-      <details class="item">
-        <summary>
-          <span class="date">12 Aug</span>
-          <span class="headline">Algarve ultra-prime breaks €12,000/m² as the 12-month Euribor ticks to a fresh high</span>
-          <span class="chev">▾</span>
-        </summary>
-        <div class="body"><p>The top end of the Algarve entered a new price tier: Quinta do Lago at €12,793/m², Castro Marim at €12,626/m², and Loulé up 19% year-on-year to €10,804/m², with premium villas routinely at €10,000–€12,000/m². Financing edged the other way, the 12-month Euribor rising to a fresh 2.913% high, even as the six-month benchmark most Portuguese mortgages track eased. The national picture was unchanged — asking prices at a ninth straight record but cooling in Lisbon while the interior compounds ~15% — with no fresh regulatory movement. A quiet mid-August day whose two movers, ultra-prime pricing and the rate uptick, cut the same way: the exit ceiling keeps rising while the cost of reaching it does too.</p></div>
-      </details>
-
-      <details class="item">
-        <summary>
-          <span class="date">11 Aug</span>
-          <span class="headline">A fiscal-versus-luxury split-screen: incentives reward moderate supply while capital concentrates in prime</span>
-          <span class="chev">▾</span>
-        </summary>
-        <div class="body"><p>A split-screen day. The government's housing-supply tax package (DL 97/2026) drew fresh scrutiny — a 6% construction VAT on moderate-price homes capped at €660,982, a 5% tax on affordable-lease fund income, and a new build-to-rent CIA regime with IMT/IMI relief — a direct margin lever, but one that caps eligible product below the prime band. Meanwhile the luxury market pulled the other way: 80% of Portugal's 19,000-plus €1m homes now sit in Lisbon, Faro and Porto, with Setúbal emerging in the €3m-plus tier. International prime demand kept validating the top end, with Knight Frank projecting Lisbon prime prices +4.5% in 2026, ahead of Paris, London and Zurich. The incentives reward moderate-price supply while scarcity keeps concentrating in the prime coastal-urban poles — an argument for structuring around both.</p></div>
-      </details>
-
-      <details class="item">
-        <summary>
-          <span class="date">10 Aug</span>
-          <span class="headline">Golden Visa fund inflows hold up despite the tighter citizenship track; the Algarve living pipeline deepens</span>
-          <span class="chev">▾</span>
-        </summary>
-        <div class="body"><p>A quiet summer Monday whose most fund-relevant signal was on the capital-raising side: Golden Visa-eligible funds pulled in €283m of fresh subscriptions between January and May — roughly three times redemptions — even after the nationality law tightened the citizenship track from five to ten years, evidence the fund route is proving resilient. On the ground the Algarve hospitality and living pipeline kept deepening, with IHG signing the 323-key InterContinental Vilamoura and Finangeste's €300m, 1,461-home mixed-use scheme advancing in Faro. Fundamentals were unchanged — record prices at €3,210/m², the Algarve now the priciest rental region, and H1 commercial investment confirmed at €1.42bn. Nothing forced a re-underwrite; resilient fund-route capital and a strengthening Algarve bid simply reinforced the thesis.</p></div>
-      </details>
-
     </div>
   </div>
 </section>
 
 <!-- FOOTER -->
-<footer>
+<footer class="site">
   <div class="wrap">
-    <div class="foot-row">
-      <img src="https://raw.githubusercontent.com/verde2050/logo/main/verde2050_white.png" alt="Verde 2050" style="height:18px;opacity:.92">
-      <div style="font-size:13px;color:#9fb7aa">The Plot · a Verde 2050 publication</div>
+    <div class="foot-top">
+      <div>
+        <a href="/" class="brandmark"><div class="wm">Verde 2050</div><div class="sub">The Plot</div></a>
+        <div class="foot-legal">Verde Partner Capital B.V.<br>Rua Rolas 73, 2750-708 Cascais, Portugal<br><a href="mailto:hello@verde2050.com" style="color:inherit">hello@verde2050.com</a></div>
+      </div>
+      <div class="foot-col">
+        <h4>Verde 2050</h4>
+        <a href="https://www.verde2050.com/pillars" target="_blank" rel="noopener">Pillars</a>
+        <a href="https://www.verde2050.com/thesis" target="_blank" rel="noopener">Thesis</a>
+        <a href="https://www.verde2050.com/investing" target="_blank" rel="noopener">Investing</a>
+        <a href="https://www.verde2050.com/contact" target="_blank" rel="noopener">Contact</a>
+        <a href="https://www.instagram.com/pietervanherpen" target="_blank" rel="noopener">Instagram</a>
+      </div>
+      <div class="foot-col">
+        <h4>The Plot</h4>
+        <a href="/">Today</a>
+        <a href="/archive.html">Archive</a>
+        <a href="/about.html">About</a>
+        <a href="#subscribe">Subscribe</a>
+        <a href="https://www.verde2050.com" target="_blank" rel="noopener">Back to Verde 2050 →</a>
+      </div>
     </div>
-    <div class="fine">Verde 2050 · Fund I. The Plot is an editorial briefing on Portuguese real estate, curated from public and trade sources; it is information, not investment advice. Figures should be verified before any decision.</div>
+    <div class="disclaimer">For invited professional investors only. Targeted returns are objectives, not guarantees; capital is at risk. Nothing on this website constitutes an offer to sell securities. The Plot is an editorial briefing curated from public and trade sources; it is information, not investment advice. Figures should be verified before any decision.</div>
+    <div class="foot-bottom">
+      <span>© 2026 Verde Partner Capital B.V.</span>
+      <span class="mono">The Plot · Portuguese real estate, daily</span>
+    </div>
   </div>
 </footer>
 
 <script>
-  /* ====== CONFIG ======
-     After you deploy the Google Apps Script (steps provided), paste its Web App URL below. */
+  /* ---- signup endpoint ---- */
   const ENDPOINT = "https://script.google.com/macros/s/AKfycbytatgSr81uz8vwSTQnwI9AQFiD6Yb220n5atOecx7neYUgEhmvTOPNZCKsGco7xXvILw/exec";
-
-  const form = document.getElementById('signupForm');
-  const btn = document.getElementById('submitBtn');
-  const msg = document.getElementById('msg');
-  const formState = document.getElementById('formState');
-  const success = document.getElementById('success');
-
-  function showMsg(t, cls){ msg.textContent=t; msg.className='msg show '+cls; }
-
-  form.addEventListener('submit', async function(e){
-    e.preventDefault();
-    msg.className='msg';
-    const email = document.getElementById('email').value.trim();
-    if(document.querySelector('[name=website]').value){ return; } // honeypot tripped
-    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ showMsg('Please enter a valid email address.','err'); return; }
-
-    const data = {
-      email: email,
-      name: document.getElementById('name').value.trim(),
-      company: document.getElementById('company').value.trim(),
-      role: document.getElementById('role').value,
-      source: 'signup-page'
-    };
-
-    btn.disabled = true; btn.textContent = 'Subscribing…';
+  const form=document.getElementById('signupForm'), btn=document.getElementById('submitBtn'),
+        msg=document.getElementById('msg'), formState=document.getElementById('formState'),
+        success=document.getElementById('success');
+  function showMsg(t,c){msg.textContent=t;msg.className='msg show '+c;}
+  form.addEventListener('submit',async function(e){
+    e.preventDefault();msg.className='msg';
+    const email=document.getElementById('email').value.trim();
+    const name=document.getElementById('name').value.trim();
+    if(document.querySelector('[name=website]').value)return;
+    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){showMsg('Please enter a valid email address.','err');return;}
+    if(!name){showMsg('Please add your name.','err');return;}
+    const data={email:email,name:name,company:document.getElementById('company').value.trim(),
+      role:document.getElementById('role').value,source:'signup-page'};
+    btn.disabled=true;btn.innerHTML='Subscribing…';
     try{
       if(ENDPOINT.startsWith('http')){
-        await fetch(ENDPOINT, {
-          method:'POST',
-          mode:'no-cors',
-          headers:{'Content-Type':'text/plain;charset=utf-8'},
-          body: JSON.stringify(data)
-        });
+        await fetch(ENDPOINT,{method:'POST',mode:'no-cors',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify(data)});
       }
-      // no-cors gives an opaque response; treat completion as success
-      formState.style.display='none';
-      success.classList.add('show');
+      formState.style.display='none';success.classList.add('show');
+      window.scrollTo({top:document.getElementById('subscribe').offsetTop-40,behavior:'smooth'});
     }catch(err){
       showMsg('Something went wrong — please try again, or email hello@verde2050.com.','err');
-      btn.disabled=false; btn.textContent="Subscribe — it's free";
+      btn.disabled=false;btn.innerHTML='Subscribe — it’s free';
     }
   });
 
-  /* ====== LIVE PREVIOUS EDITIONS ======
-     Pulls the latest editions from the repo's editions.json, updated each morning
-     by the daily job. If the fetch fails, the editions baked into the HTML above
-     remain in place as a fallback. */
-  const EDITIONS_URL = "https://raw.githubusercontent.com/verde2050/land-intelligence/main/editions.json";
-  function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
-  function renderEditions(list){
-    const host = document.getElementById('archiveList');
-    if(!host || !list || !list.length) return;
-    host.innerHTML = list.slice(0,10).map((e,i) =>
-      '<details class="item"'+(i===0?' open':'')+'>'+
-        '<summary>'+
-          '<span class="date">'+esc(e.label||e.date||'')+'</span>'+
-          '<span class="headline">'+esc(e.title||'')+(i===0?'<span class="latest">Yesterday</span>':'')+'</span>'+
-          '<span class="chev">▾</span>'+
-        '</summary>'+
-        '<div class="body"><p>'+esc(e.summary||'')+'</p></div>'+
-      '</details>'
-    ).join('');
+  /* ---- editions feed ---- */
+  const EDITIONS_URL="https://raw.githubusercontent.com/verde2050/land-intelligence/main/editions.json";
+  const MONTHS=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));}
+  function parseISO(d){const p=String(d).split('-');return {y:+p[0],m:+p[1],day:+p[2]};}
+  function big(d){const p=parseISO(d);return (p.day)+' '+(MONTHS[p.m-1]||'').toUpperCase();}
+  function full(d){const p=parseISO(d);return p.day+' '+(MONTHS[p.m-1]||'')+' '+p.y;}
+  function renderToday(e){
+    if(!e)return;
+    document.getElementById('today-date').textContent=full(e.date);
+    document.getElementById('today-headline').textContent=e.title||'';
+    document.getElementById('today-deck').textContent=e.summary||'';
+    document.getElementById('today-card').setAttribute('href','edition.html?date='+encodeURIComponent(e.date));
   }
-  fetch(EDITIONS_URL, {cache:'no-store'})
-    .then(r => r.ok ? r.json() : Promise.reject())
-    .then(d => { const list = Array.isArray(d) ? d : (d.editions||[]); renderEditions(list); })
-    .catch(() => { /* keep the static fallback already in the page */ });
+  function renderList(items){
+    const host=document.getElementById('archive-list');
+    if(!items.length){host.innerHTML='';return;}
+    host.innerHTML=items.map(e=>(
+      '<a class="erow" href="edition.html?date='+encodeURIComponent(e.date)+'">'+
+        '<span class="edate">'+esc(big(e.date))+'</span>'+
+        '<span><span class="etitle">'+esc(e.title||'')+'</span>'+
+          '<div class="edeck">'+esc((e.summary||'').split('. ').slice(0,1).join('. ')+(e.summary?'.':''))+'</div></span>'+
+        '<span class="etag">Briefing</span>'+
+      '</a>'
+    )).join('');
+  }
+  fetch(EDITIONS_URL,{cache:'no-store'}).then(r=>r.json()).then(d=>{
+    const list=Array.isArray(d)?d:(d.editions||[]);
+    if(!list.length)return;
+    renderToday(list[0]);
+    renderList(list.slice(1,9).length?list.slice(1,9):list.slice(0,8));
+  }).catch(()=>{});
 </script>
 </body>
 </html>
