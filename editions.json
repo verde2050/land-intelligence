@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "editions": [
+    {
+      "date": "2026-08-22",
+      "label": "22 Aug",
+      "title": "Hotel money surges 54% as €1.42bn pours into Portuguese commercial property",
+      "summary": "Capital is rotating hard into Portuguese bricks — hotels above all. Commercial real-estate investment hit €1.42bn in H1 2026, up 11% year-on-year, per JLL. Hotels led the charge: €508m flowed into Portuguese hotels in H1, a 54% jump, with Corinthia Lisbon, Penha Longa and InterContinental Porto alone worth €350m. Real estate was the single most active M&A sector — 44 deals — even as overall dealmaking cooled 28% to €4.5bn. Nearly all the hotel money, 95.6%, came from abroad. Meanwhile the squeeze on households deepened: renting now swallows 82% of income nationally, and 101% in Faro. Net: foreign capital is still betting heavily on Portuguese yield — even as ordinary buyers and renters get priced out."
+    },
     {
       "date": "2026-08-21",
       "label": "21 Aug",
@@ -48,12 +54,6 @@
       "label": "12 Aug",
       "title": "Algarve ultra-prime breaks €12,000/m² as the 12-month Euribor ticks to a fresh high",
       "summary": "The top end of the Algarve entered a new price tier: Quinta do Lago at €12,793/m², Castro Marim at €12,626/m², and Loulé up 19% year-on-year to €10,804/m², with premium villas routinely at €10,000–€12,000/m². Financing edged the other way, the 12-month Euribor rising to a fresh 2.913% high, even as the six-month benchmark most Portuguese mortgages track eased. The national picture was unchanged — asking prices at a ninth straight record but cooling in Lisbon while the interior compounds ~15% — with no fresh regulatory movement. A quiet mid-August day whose two movers, ultra-prime pricing and the rate uptick, cut the same way: the exit ceiling keeps rising while the cost of reaching it does too."
-    },
-    {
-      "date": "2026-08-11",
-      "label": "11 Aug",
-      "title": "A fiscal-versus-luxury split-screen: incentives reward moderate supply while capital concentrates in prime",
-      "summary": "A split-screen day. The government's housing-supply tax package (DL 97/2026) drew fresh scrutiny — a 6% construction VAT on moderate-price homes capped at €660,982, a 5% tax on affordable-lease fund income, and a new build-to-rent CIA regime with IMT/IMI relief — a direct margin lever, but one that caps eligible product below the prime band. Meanwhile the luxury market pulled the other way: 80% of Portugal's 19,000-plus €1m homes now sit in Lisbon, Faro and Porto, with Setúbal emerging in the €3m-plus tier. International prime demand kept validating the top end, with Knight Frank projecting Lisbon prime prices +4.5% in 2026, ahead of Paris, London and Zurich. The incentives reward moderate-price supply while scarcity keeps concentrating in the prime coastal-urban poles — an argument for structuring around both."
     }
   ]
 }
