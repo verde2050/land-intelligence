@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-22",
+  "updated": "2026-08-24",
   "editions": [
+    {
+      "date": "2026-08-24",
+      "label": "24 Aug",
+      "title": "SOLYD buys Alta de Lisboa lot for 300 homes; CBRE & JLL market Maia logistics",
+      "summary": "Land is moving. SOLYD Property Developers has bought a ~10,000 m² lot in Alta de Lisboa, enough for roughly 300 homes across four blocks plus retail — a rare speculative land bet in a supply-starved city. Up north, CBRE and JLL are marketing the Folgosa I&II logistics assets near Porto — 11,000 m² of scarce quality warehousing put up by Proxity. Policy is bending toward supply too: APPII is backing a rental-law overhaul it says could finally seed a build-to-rent market, while municipalities gain new expropriation powers and Porto tightens the screws on short-lets. And the money keeps flowing — Portuguese construction output rose 1.2% in June even as the eurozone shrank. Net: the pipeline is filling from both ends — land deals at the top, reform at the base."
+    },
     {
       "date": "2026-08-22",
       "label": "22 Aug",
@@ -48,12 +54,6 @@
       "label": "14 Aug",
       "title": "Express rentals and cooling sale prices split the market in two",
       "summary": "The rental and sales markets diverged hard. Fresh data showed 7% of rental listings gone in under 24 hours — Évora above 40% — a vivid read on rental undersupply, just as the 2026 Housing Package's core tax breaks (6% construction VAT, 10% rental-income rate, IMT relief for build-to-rent) sat newly in force. The sales side did the opposite: Q2 asking prices −3.4% QoQ to €3,544/m² with time-to-sell up 54% to 184 days, even as one in ten homes still sold within a week. INE inflation eased to 3.0%, softening the rate outlook; Corum publicly reaffirmed appetite for Portuguese logistics and the €60m half-stake in Acqua Portimão stood out as a large Algarve ticket. A softening entry point paired with policy tailwinds and structurally deep rental demand."
-    },
-    {
-      "date": "2026-08-12",
-      "label": "12 Aug",
-      "title": "Algarve ultra-prime breaks €12,000/m² as the 12-month Euribor ticks to a fresh high",
-      "summary": "The top end of the Algarve entered a new price tier: Quinta do Lago at €12,793/m², Castro Marim at €12,626/m², and Loulé up 19% year-on-year to €10,804/m², with premium villas routinely at €10,000–€12,000/m². Financing edged the other way, the 12-month Euribor rising to a fresh 2.913% high, even as the six-month benchmark most Portuguese mortgages track eased. The national picture was unchanged — asking prices at a ninth straight record but cooling in Lisbon while the interior compounds ~15% — with no fresh regulatory movement. A quiet mid-August day whose two movers, ultra-prime pricing and the rate uptick, cut the same way: the exit ceiling keeps rising while the cost of reaching it does too."
     }
   ]
 }
