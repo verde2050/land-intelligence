@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "editions": [
+    {
+      "date": "2026-08-25",
+      "label": "25 Aug",
+      "title": "Portugal resets the short-let clock: big cities get to Dec 31 to rewrite AL rules",
+      "summary": "Portugal's short-let rulebook just bought itself another year. A new decree-law — 151/2026 — hands every município with 1,000-plus registered short-lets until 31 December 2026 to finalise, or suspend, local Alojamento Local rules. Councils can renew an existing registration freeze once more, but every suspension must end by year's close. It lands as the rental squeeze sharpens: room supply fell 11% in Q2 while demand jumped 27%, pushing Lisbon rooms to €550. Capital, meanwhile, keeps arriving — €1.42bn flowed into commercial property in H1, roughly three-quarters of it foreign, with hospitality still leading. Two Lisbon palaces underline the appetite: one becoming 46 apartments in Arroios, another a Barrière luxury hotel in Príncipe Real. Net: the rules are still being drawn — but the money isn't waiting for them."
+    },
     {
       "date": "2026-08-24",
       "label": "24 Aug",
@@ -48,12 +54,6 @@
       "label": "15 Aug",
       "title": "Countdown to the 1 September launch of the RSAA and CIA rental regimes",
       "summary": "Two weeks out from the launch of the RSAA and CIA regimes under Decreto-Lei 97/2026, the policy-versus-price split defining the summer sharpened. RSAA grants a full IRS exemption on rents at or below 80% of local median, while CIA offers institutional investors 25-year fiscal-stability contracts, layered on the package's already-live 10% rental-income rate and 6% construction VAT. Prices held a ninth straight record (€3,210/m², +8%) but cooled and diverged hard by region — Algarve +17%, Porto +8.4%, Lisbon just +4.1% — while Euribor rose across all tenors. Confidence-side prints were strong: record H1 revenue at the big brokerage networks and a 12% jump in new construction-company formations. The incentive structure is tilting decisively toward long-term rental supply."
-    },
-    {
-      "date": "2026-08-14",
-      "label": "14 Aug",
-      "title": "Express rentals and cooling sale prices split the market in two",
-      "summary": "The rental and sales markets diverged hard. Fresh data showed 7% of rental listings gone in under 24 hours — Évora above 40% — a vivid read on rental undersupply, just as the 2026 Housing Package's core tax breaks (6% construction VAT, 10% rental-income rate, IMT relief for build-to-rent) sat newly in force. The sales side did the opposite: Q2 asking prices −3.4% QoQ to €3,544/m² with time-to-sell up 54% to 184 days, even as one in ten homes still sold within a week. INE inflation eased to 3.0%, softening the rate outlook; Corum publicly reaffirmed appetite for Portuguese logistics and the €60m half-stake in Acqua Portimão stood out as a large Algarve ticket. A softening entry point paired with policy tailwinds and structurally deep rental demand."
     }
   ]
 }
