@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "editions": [
+    {
+      "date": "2026-08-26",
+      "label": "26 Aug",
+      "title": "Orion buys 72% of Lisbon's Corinthia for €102M as hotel capital keeps pouring in",
+      "summary": "Hotel capital is pouring into Portugal — and Lisbon's biggest just changed hands. Orion Capital paid €102M for 72% of the Corinthia Lisbon, valuing the capital's largest five-star hotel at roughly €142M. It's the clearest sign yet that hospitality is Portugal's hottest real-estate trade in 2026, with hotels and retail already leading a commercial market up 11% to €1.4bn in H1. The pipeline is thick: Amorim Luxury opens its first hotel on Avenida da Liberdade in October, and the Tivoli owners are scouting two more in the north. Logistics is just as tight — VGP's new Sintra park pre-let 100% before completion. The flip side is the housing squeeze: only 7% of students can find beds, shared-room demand is up 27% as supply falls, and lawmakers are moving on both short-term lets and condominium rules. Net: money is chasing yield in hotels and sheds while the state tightens its grip on homes."
+    },
     {
       "date": "2026-08-25",
       "label": "25 Aug",
@@ -48,12 +54,6 @@
       "label": "16 Aug",
       "title": "Rental law reaches Parliament; the CIA and RSAA rental regimes go live in two weeks",
       "summary": "The government's rewrite of the rental law landed in Parliament with granular, landlord-favourable terms: the automatic renewal floor drops from three years to one, owners can oppose the very first renewal, and the notice to recover a home for deep works is cut from five years to three. Underneath it, the RSAA and 25-year CIA fiscal regimes go live on 1 September — CIA being the first Portuguese instrument purpose-built for institutional buy-to-rent, offering 25 years of tax certainty. The freshest market prints showed record H1 revenue at every major brokerage against a 10.5% drop in Q1 transactions — a supply-starved, price-led market. The case for a CIA-structurable build-to-rent sleeve strengthened again."
-    },
-    {
-      "date": "2026-08-15",
-      "label": "15 Aug",
-      "title": "Countdown to the 1 September launch of the RSAA and CIA rental regimes",
-      "summary": "Two weeks out from the launch of the RSAA and CIA regimes under Decreto-Lei 97/2026, the policy-versus-price split defining the summer sharpened. RSAA grants a full IRS exemption on rents at or below 80% of local median, while CIA offers institutional investors 25-year fiscal-stability contracts, layered on the package's already-live 10% rental-income rate and 6% construction VAT. Prices held a ninth straight record (€3,210/m², +8%) but cooled and diverged hard by region — Algarve +17%, Porto +8.4%, Lisbon just +4.1% — while Euribor rose across all tenors. Confidence-side prints were strong: record H1 revenue at the big brokerage networks and a 12% jump in new construction-company formations. The incentive structure is tilting decisively toward long-term rental supply."
     }
   ]
 }
