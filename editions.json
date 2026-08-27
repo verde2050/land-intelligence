@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "editions": [
+    {
+      "date": "2026-08-27",
+      "label": "27 Aug",
+      "title": "Foreign capital drives 65% of Portugal's €1.42bn H1 real-estate haul; Clarion buys in",
+      "summary": "Foreign money is running Portugal's market — and it's still buying. Overseas capital drove 65% of Portugal's €1.42bn commercial real-estate spend in H1 (JLL), with hotels (34%) and retail (32%) taking two-thirds and offices lagging at 6%. This week the thesis walked on stage: US manager Clarion Partners bought a Malveira supermarket let long-term to Portugal's biggest grocer. In housing, developers keep pressing — Mesmo Valor is putting €75M into a 24-storey Boavista tower — even as INE data shows price growth decelerating for the first time in nearly two years. Regulators are moving on short-term lets and capital-gains relief. Net: capital is abundant and cross-border, but the buy-side is turning selective — income-secure assets and prime resi still clear."
+    },
     {
       "date": "2026-08-26",
       "label": "26 Aug",
@@ -48,12 +54,6 @@
       "label": "17 Aug",
       "title": "A quiet week consolidates around rental-law reform and the new 90-day short-let cap",
       "summary": "The most consequential item remained the rental-law reform bill before Parliament: automatic renewals would match the original contract term rather than defaulting to three years, landlords could oppose the first renewal immediately, and — directly relevant to yield strategy — tourism sub-letting of a dwelling would be capped at 90 days a year. It sits against a market where H1 commercial investment reached €1.42bn (+11%, hotel-led) and Q1 house prices hit a record €2,337/m². Marquee development signals were unchanged — Coporgest's €220m Park Hyatt Comporta and Panattoni's Valongo logistics lease — with Porto office take-up up ~80% as Lisbon cools. The policy stack keeps tilting away from short-let yield and toward long-lease, BTR and development."
-    },
-    {
-      "date": "2026-08-16",
-      "label": "16 Aug",
-      "title": "Rental law reaches Parliament; the CIA and RSAA rental regimes go live in two weeks",
-      "summary": "The government's rewrite of the rental law landed in Parliament with granular, landlord-favourable terms: the automatic renewal floor drops from three years to one, owners can oppose the very first renewal, and the notice to recover a home for deep works is cut from five years to three. Underneath it, the RSAA and 25-year CIA fiscal regimes go live on 1 September — CIA being the first Portuguese instrument purpose-built for institutional buy-to-rent, offering 25 years of tax certainty. The freshest market prints showed record H1 revenue at every major brokerage against a 10.5% drop in Q1 transactions — a supply-starved, price-led market. The case for a CIA-structurable build-to-rent sleeve strengthened again."
     }
   ]
 }
