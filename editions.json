@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "editions": [
+    {
+      "date": "2026-08-28",
+      "label": "28 Aug",
+      "title": "Orion buys 72% of Corinthia Lisbon for €102M as hotels lead a €1.4bn investment year",
+      "summary": "Orion Capital Managers has bought 72% of the Corinthia Lisbon — the capital's largest five-star hotel — for about €102 million, via a Luxembourg JV that leaves brand-owner IHI with 28% and the operating keys. It's Orion's third Portuguese bet, after Oriente Green Campus and developer Vizta. The timing is no accident: hospitality now tops commercial investment, drawing €508M in H1 2026 (+54%) — 36% of a €1.4bn half-year, per Savills. On the other side of the cycle, Novo Banco is listing €400M of Luís Filipe Vieira's property to claw back debt. And the housing engine keeps running hot: Q2 sales rose 7% and licensing hit its highest since 2011. Net: foreign institutional money is crowding into Portuguese hotels and bank-driven distress at the same moment supply finally starts to move."
+    },
     {
       "date": "2026-08-27",
       "label": "27 Aug",
@@ -48,12 +54,6 @@
       "label": "19 Aug",
       "title": "The affordability squeeze becomes the market's defining story as prices set a ninth straight record",
       "summary": "Fresh idealista data put national rents at 82% of net household income and purchase costs at 76% — more than double the 33% comfort threshold — even as asking prices hit a ninth consecutive record at €3,210/m² (+8% YoY). Into that tension, Banco de Portugal's tighter mortgage rule took effect, cutting the debt-service cap from 50% to 45% and threatening to shave 10–15% off new-loan approvals. The state is answering on supply with 28,000 PRR public homes due by month-end, but that capital sits in the affordable segment, leaving mid-market, prime and rental to private players. The widening wedge — owner-occupiers priced out, institutional and rental capital stepping in — keeps strengthening the build-to-rent and value-add case."
-    },
-    {
-      "date": "2026-08-17",
-      "label": "17 Aug",
-      "title": "A quiet week consolidates around rental-law reform and the new 90-day short-let cap",
-      "summary": "The most consequential item remained the rental-law reform bill before Parliament: automatic renewals would match the original contract term rather than defaulting to three years, landlords could oppose the first renewal immediately, and — directly relevant to yield strategy — tourism sub-letting of a dwelling would be capped at 90 days a year. It sits against a market where H1 commercial investment reached €1.42bn (+11%, hotel-led) and Q1 house prices hit a record €2,337/m². Marquee development signals were unchanged — Coporgest's €220m Park Hyatt Comporta and Panattoni's Valongo logistics lease — with Porto office take-up up ~80% as Lisbon cools. The policy stack keeps tilting away from short-let yield and toward long-lease, BTR and development."
     }
   ]
 }
