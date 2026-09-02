@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-09-02",
   "editions": [
+    {
+      "date": "2026-09-02",
+      "label": "2 Sep",
+      "title": "Portugal draws €1.4bn in H1 as offices flip to flats; CBRE eyes €2.4bn year",
+      "summary": "Foreign capital is back in Portugal — and it's rebuilding the city it buys. Commercial real-estate investment hit €1.4 billion in the first half of 2026, and CBRE now expects the full year to reach €2.4 billion. The money isn't just buying — it's repositioning. Roughly a fifth of office deals now target a change of use, and BPI just sold a 4,500 sqm Saldanha block to be turned into premium flats. Municipalities are moving too: Vila Franca de Xira wants to triple its Lisboa-Norte logistics platform for data centres and 5,000 jobs. And distressed stock is surfacing, with Novo Banco putting Luís Filipe Vieira's portfolio on the block. Net: the capital is deep, but the return is increasingly in the conversion, not the trophy."
+    },
     {
       "date": "2026-08-28",
       "label": "28 Aug",
@@ -30,30 +36,6 @@
       "label": "24 Aug",
       "title": "SOLYD buys Alta de Lisboa lot for 300 homes; CBRE & JLL market Maia logistics",
       "summary": "Land is moving. SOLYD Property Developers has bought a ~10,000 m² lot in Alta de Lisboa, enough for roughly 300 homes across four blocks plus retail — a rare speculative land bet in a supply-starved city. Up north, CBRE and JLL are marketing the Folgosa I&II logistics assets near Porto — 11,000 m² of scarce quality warehousing put up by Proxity. Policy is bending toward supply too: APPII is backing a rental-law overhaul it says could finally seed a build-to-rent market, while municipalities gain new expropriation powers and Porto tightens the screws on short-lets. And the money keeps flowing — Portuguese construction output rose 1.2% in June even as the eurozone shrank. Net: the pipeline is filling from both ends — land deals at the top, reform at the base."
-    },
-    {
-      "date": "2026-08-22",
-      "label": "22 Aug",
-      "title": "Hotel money surges 54% as €1.42bn pours into Portuguese commercial property",
-      "summary": "Capital is rotating hard into Portuguese bricks — hotels above all. Commercial real-estate investment hit €1.42bn in H1 2026, up 11% year-on-year, per JLL. Hotels led the charge: €508m flowed into Portuguese hotels in H1, a 54% jump, with Corinthia Lisbon, Penha Longa and InterContinental Porto alone worth €350m. Real estate was the single most active M&A sector — 44 deals — even as overall dealmaking cooled 28% to €4.5bn. Nearly all the hotel money, 95.6%, came from abroad. Meanwhile the squeeze on households deepened: renting now swallows 82% of income nationally, and 101% in Faro. Net: foreign capital is still betting heavily on Portuguese yield — even as ordinary buyers and renters get priced out."
-    },
-    {
-      "date": "2026-08-21",
-      "label": "21 Aug",
-      "title": "Portugal H1 hotel deals hit €508M, up 54%; commercial investment reaches €1.42bn",
-      "summary": "Portugal pulled in €1.42bn of commercial real-estate investment in H1, up 11% on last year, JLL says. Hotels led the charge — €508m in six months, a 54% jump, with Corinthia Lisbon, Penha Longa and InterContinental Porto alone worth €350m. Retail is heating up too: Clarion Partners just bought a Malveira supermarket, and Sonae Sierra and Norway's Norges are hunting Portuguese malls after a €1.5bn Spanish spree. Developers are moving on land and heritage — SOLYD landed a lot for ~300 homes in Alta de Lisboa. And the clock is ticking on rules: the new accessible-rental regimes go live 1 September. Net: money is abundant and foreign (65% of deals); the scarce thing is product."
-    },
-    {
-      "date": "2026-08-20",
-      "label": "20 Aug",
-      "title": "SOLYD buys Alta de Lisboa plot for ~300 homes — 10,000 m² of buildable in Lumiar",
-      "summary": "A rare buildable plot changed hands in Lisbon as SOLYD acquired a ~10,000 m² lot in Alta de Lisboa (Alto do Lumiar / PUAL) cleared for roughly 300 homes across four autonomous blocks plus retail — permit-ready land at scale is scarce in the capital. The structural evidence sits upstream: Portugal's Lei dos Solos has produced just 27 rustic-to-urban reclassification requests across 23 municipalities in 18 months, so new buildable supply is barely moving. On rules, Lei 48/2026 (published 17 Aug) settles the ARU/ORU fight — the 6% rehabilitation VAT now applies on ARU location alone, retroactive to 2009, a clean build-cost win for value-add. The state is pushing supply the other way, with 28,000 PRR public homes due by end-August (40,000 targeted by December). Foreign capital keeps arriving for land it can build on, led by a €13bn-plus AI data-centre pipeline (Sines, Vila Franca de Xira, Carnaxide). And construction runs hot against a cooling Europe — output +1.2% in June vs the eurozone's −0.7%, with construction the only sector adding companies (+5.7%). Net: shovel-ready land is repricing upward as approvals lag demand."
-    },
-    {
-      "date": "2026-08-19",
-      "label": "19 Aug",
-      "title": "The affordability squeeze becomes the market's defining story as prices set a ninth straight record",
-      "summary": "Fresh idealista data put national rents at 82% of net household income and purchase costs at 76% — more than double the 33% comfort threshold — even as asking prices hit a ninth consecutive record at €3,210/m² (+8% YoY). Into that tension, Banco de Portugal's tighter mortgage rule took effect, cutting the debt-service cap from 50% to 45% and threatening to shave 10–15% off new-loan approvals. The state is answering on supply with 28,000 PRR public homes due by month-end, but that capital sits in the affordable segment, leaving mid-market, prime and rental to private players. The widening wedge — owner-occupiers priced out, institutional and rental capital stepping in — keeps strengthening the build-to-rent and value-add case."
     }
   ]
 }
