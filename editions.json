@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "editions": [
+    {
+      "date": "2026-09-04",
+      "label": "04 Sep",
+      "title": "Portugal's rent tax cut (25%→10%) costs €303M as August rents jump 4.9%",
+      "summary": "Capital keeps coming — but Portugal's market is splitting by asset and by price. Commercial investment hit €1.41bn in H1, up 14%, yet capital is turning selective — Lisbon office occupancy fell 20% even as prime apartments pushed to €5,850/m². Lisbon has now put a €303M price tag on its rental-tax package, cutting IRS on moderate rents from 25% to 10% and construction IVA from 23% to 6%. Rents answered by rising 4.9% in August — a second straight monthly gain that breaks the first-half slide. And Spain's Alfana bought Faro's Forum Algarve from Commerzbank for €130M, its first deal abroad. Net: money and demand are both firm, but the winners are narrowing to the right asset at the right price."
+    },
     {
       "date": "2026-09-03",
       "label": "3 Sep",
@@ -36,12 +42,6 @@
       "label": "25 Aug",
       "title": "Portugal resets the short-let clock: big cities get to Dec 31 to rewrite AL rules",
       "summary": "Portugal's short-let rulebook just bought itself another year. A new decree-law — 151/2026 — hands every município with 1,000-plus registered short-lets until 31 December 2026 to finalise, or suspend, local Alojamento Local rules. Councils can renew an existing registration freeze once more, but every suspension must end by year's close. It lands as the rental squeeze sharpens: room supply fell 11% in Q2 while demand jumped 27%, pushing Lisbon rooms to €550. Capital, meanwhile, keeps arriving — €1.42bn flowed into commercial property in H1, roughly three-quarters of it foreign, with hospitality still leading. Two Lisbon palaces underline the appetite: one becoming 46 apartments in Arroios, another a Barrière luxury hotel in Príncipe Real. Net: the rules are still being drawn — but the money isn't waiting for them."
-    },
-    {
-      "date": "2026-08-24",
-      "label": "24 Aug",
-      "title": "SOLYD buys Alta de Lisboa lot for 300 homes; CBRE & JLL market Maia logistics",
-      "summary": "Land is moving. SOLYD Property Developers has bought a ~10,000 m² lot in Alta de Lisboa, enough for roughly 300 homes across four blocks plus retail — a rare speculative land bet in a supply-starved city. Up north, CBRE and JLL are marketing the Folgosa I&II logistics assets near Porto — 11,000 m² of scarce quality warehousing put up by Proxity. Policy is bending toward supply too: APPII is backing a rental-law overhaul it says could finally seed a build-to-rent market, while municipalities gain new expropriation powers and Porto tightens the screws on short-lets. And the money keeps flowing — Portuguese construction output rose 1.2% in June even as the eurozone shrank. Net: the pipeline is filling from both ends — land deals at the top, reform at the base."
     }
   ]
 }
