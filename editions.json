@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "editions": [
+    {
+      "date": "2026-09-05",
+      "label": "05 Sep",
+      "title": "Sines' €20bn industrial boom outruns its housing — government steps in",
+      "summary": "Sines is Portugal's boomtown — and its cautionary tale. More than €20bn of private industrial investment, led by Repsol's Alba petrochemical complex and the Start Campus data centres, has the town up 12% in population since 2021 — with no rentals below €2,000 and nothing to buy under €300,000. The government has now unveiled a special plan to fund housing, schools and health services alongside the private money. Elsewhere the squeeze is turning into pricing power: Lisbon prime office rents rose 10.3% — the fastest in Europe — as Grade A vacancy fell to a record 0.7%. And Porto gained a heavyweight, as ex-city housing chief Pedro Baganha joined Dils to lead Cities & Investment. Net: industrial and office demand is real, but Portugal's binding constraint everywhere is the same — not enough built space."
+    },
     {
       "date": "2026-09-04",
       "label": "04 Sep",
@@ -36,12 +42,6 @@
       "label": "26 Aug",
       "title": "Orion buys 72% of Lisbon's Corinthia for €102M as hotel capital keeps pouring in",
       "summary": "Hotel capital is pouring into Portugal — and Lisbon's biggest just changed hands. Orion Capital paid €102M for 72% of the Corinthia Lisbon, valuing the capital's largest five-star hotel at roughly €142M. It's the clearest sign yet that hospitality is Portugal's hottest real-estate trade in 2026, with hotels and retail already leading a commercial market up 11% to €1.4bn in H1. The pipeline is thick: Amorim Luxury opens its first hotel on Avenida da Liberdade in October, and the Tivoli owners are scouting two more in the north. Logistics is just as tight — VGP's new Sintra park pre-let 100% before completion. The flip side is the housing squeeze: only 7% of students can find beds, shared-room demand is up 27% as supply falls, and lawmakers are moving on both short-term lets and condominium rules. Net: money is chasing yield in hotels and sheds while the state tightens its grip on homes."
-    },
-    {
-      "date": "2026-08-25",
-      "label": "25 Aug",
-      "title": "Portugal resets the short-let clock: big cities get to Dec 31 to rewrite AL rules",
-      "summary": "Portugal's short-let rulebook just bought itself another year. A new decree-law — 151/2026 — hands every município with 1,000-plus registered short-lets until 31 December 2026 to finalise, or suspend, local Alojamento Local rules. Councils can renew an existing registration freeze once more, but every suspension must end by year's close. It lands as the rental squeeze sharpens: room supply fell 11% in Q2 while demand jumped 27%, pushing Lisbon rooms to €550. Capital, meanwhile, keeps arriving — €1.42bn flowed into commercial property in H1, roughly three-quarters of it foreign, with hospitality still leading. Two Lisbon palaces underline the appetite: one becoming 46 apartments in Arroios, another a Barrière luxury hotel in Príncipe Real. Net: the rules are still being drawn — but the money isn't waiting for them."
     }
   ]
 }
