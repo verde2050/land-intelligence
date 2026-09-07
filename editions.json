@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "editions": [
+    {
+      "date": "2026-09-07",
+      "label": "07 Sep",
+      "title": "Portugal tops the world on house prices: +15.2%, No.1 of 57 economies",
+      "summary": "Portugal posted the world's steepest real house-price growth in Q1 — up 15.2% year-on-year, first of 57 economies tracked by the Bank for International Settlements. Globally, real prices actually fell 1.2%; the eurozone managed just 2.6%. Capital is following the heat: commercial investment hit €1.41bn in H1, up 14%, led by hotels at €508M. Lisbon apartments now average €5,850/m² (+16%), Porto €4,180 (+13%). Retail dealmaking is back too — Spain's Alfana bought Faro's Forum Algarve for €130M, its first move abroad. Net: demand still vastly outruns supply, and foreign money is leaning in, not out."
+    },
     {
       "date": "2026-09-06",
       "label": "6 Sep",
@@ -36,12 +42,6 @@
       "label": "28 Aug",
       "title": "Orion buys 72% of Corinthia Lisbon for €102M as hotels lead a €1.4bn investment year",
       "summary": "Orion Capital Managers has bought 72% of the Corinthia Lisbon — the capital's largest five-star hotel — for about €102 million, via a Luxembourg JV that leaves brand-owner IHI with 28% and the operating keys. It's Orion's third Portuguese bet, after Oriente Green Campus and developer Vizta. The timing is no accident: hospitality now tops commercial investment, drawing €508M in H1 2026 (+54%) — 36% of a €1.4bn half-year, per Savills. On the other side of the cycle, Novo Banco is listing €400M of Luís Filipe Vieira's property to claw back debt. And the housing engine keeps running hot: Q2 sales rose 7% and licensing hit its highest since 2011. Net: foreign institutional money is crowding into Portuguese hotels and bank-driven distress at the same moment supply finally starts to move."
-    },
-    {
-      "date": "2026-08-27",
-      "label": "27 Aug",
-      "title": "Foreign capital drives 65% of Portugal's €1.42bn H1 real-estate haul; Clarion buys in",
-      "summary": "Foreign money is running Portugal's market — and it's still buying. Overseas capital drove 65% of Portugal's €1.42bn commercial real-estate spend in H1 (JLL), with hotels (34%) and retail (32%) taking two-thirds and offices lagging at 6%. This week the thesis walked on stage: US manager Clarion Partners bought a Malveira supermarket let long-term to Portugal's biggest grocer. In housing, developers keep pressing — Mesmo Valor is putting €75M into a 24-storey Boavista tower — even as INE data shows price growth decelerating for the first time in nearly two years. Regulators are moving on short-term lets and capital-gains relief. Net: capital is abundant and cross-border, but the buy-side is turning selective — income-secure assets and prime resi still clear."
     }
   ]
 }
