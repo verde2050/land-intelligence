@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "editions": [
+    {
+      "date": "2026-09-12",
+      "label": "12 Sep",
+      "title": "Davidson Kempner, ECS launch Iberian logistics JV at 630,000 m² Benavente hub",
+      "summary": "ECS Capital and Davidson Kempner have formed a joint venture with builder Magna Industrial to develop logistics across Iberia. Their first move is the Benavente Prime Hub — 630,000 m² of land and 380,000 m² of built space over seven phases, breaking ground this year. It's a clear vote of confidence in Portugal's nearshoring and e-commerce story. Elsewhere the pressure on tenants tightened: INE set the 2027 rent coefficient at 2.56%, the second-highest in a decade. And capital keeps hunting yield — Homely Capital is weighing €100M of tourist apartments that would include Lisbon. Net: institutional money is leaning hard into Portuguese logistics and rental income, even as households feel the squeeze."
+    },
     {
       "date": "2026-09-11",
       "label": "11 Sep",
@@ -54,12 +60,6 @@
       "label": "3 Sep",
       "title": "Rental overhaul heads to Parliament: faster evictions, old rents thaw",
       "summary": "Portugal is about to rewrite the rules of renting. The government's NRAU rental overhaul is now before Parliament. It lets landlords unfreeze pre-1990 rents when the original tenant dies, and fast-tracks evictions after two months of arrears. Ministers point to roughly 250,000 well-kept vacant homes they hope to coax back onto the market. Investors read it as a structural tilt toward landlords — and toward liquidity in a segment that has been frozen for decades. Meanwhile capital keeps arriving: hotel investment tripled to 519M euros in H1 and commercial volumes rose 14% to 1.41bn euros. Net: the rules are loosening just as money crowds into Portuguese bricks."
-    },
-    {
-      "date": "2026-09-02",
-      "label": "2 Sep",
-      "title": "Portugal draws €1.4bn in H1 as offices flip to flats; CBRE eyes €2.4bn year",
-      "summary": "Foreign capital is back in Portugal — and it's rebuilding the city it buys. Commercial real-estate investment hit €1.4 billion in the first half of 2026, and CBRE now expects the full year to reach €2.4 billion. The money isn't just buying — it's repositioning. Roughly a fifth of office deals now target a change of use, and BPI just sold a 4,500 sqm Saldanha block to be turned into premium flats. Municipalities are moving too: Vila Franca de Xira wants to triple its Lisboa-Norte logistics platform for data centres and 5,000 jobs. And distressed stock is surfacing, with Novo Banco putting Luís Filipe Vieira's portfolio on the block. Net: the capital is deep, but the return is increasingly in the conversion, not the trophy."
     }
   ]
 }
