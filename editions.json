@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "editions": [
+    {
+      "date": "2026-09-13",
+      "label": "13 Sep",
+      "title": "ECB hikes to 2.5%: pricier money for Portugal's builders as prime demand runs red-hot",
+      "summary": "The ECB lifted its deposit rate to 2.5% on Wednesday, an energy-fed move that makes construction and acquisition finance costlier for Portuguese developers and funds. Yet demand for the right product is undimmed: ZFC Invest's €60M Belfoz in Foz do Porto reserved all 66 units in about 45 days. Logistics vacancy sits near 1.8% in Lisbon and 0.5% in Porto, forcing occupiers into build-to-suit deals. And landlords just won headroom to raise rents up to 2.56% in 2027. Net: the cost of capital is rising, but scarcity — of quality space and of new supply — is doing the heavy lifting on pricing."
+    },
     {
       "date": "2026-09-12",
       "label": "12 Sep",
@@ -54,12 +60,6 @@
       "label": "04 Sep",
       "title": "Portugal's rent tax cut (25%→10%) costs €303M as August rents jump 4.9%",
       "summary": "Capital keeps coming — but Portugal's market is splitting by asset and by price. Commercial investment hit €1.41bn in H1, up 14%, yet capital is turning selective — Lisbon office occupancy fell 20% even as prime apartments pushed to €5,850/m². Lisbon has now put a €303M price tag on its rental-tax package, cutting IRS on moderate rents from 25% to 10% and construction IVA from 23% to 6%. Rents answered by rising 4.9% in August — a second straight monthly gain that breaks the first-half slide. And Spain's Alfana bought Faro's Forum Algarve from Commerzbank for €130M, its first deal abroad. Net: money and demand are both firm, but the winners are narrowing to the right asset at the right price."
-    },
-    {
-      "date": "2026-09-03",
-      "label": "3 Sep",
-      "title": "Rental overhaul heads to Parliament: faster evictions, old rents thaw",
-      "summary": "Portugal is about to rewrite the rules of renting. The government's NRAU rental overhaul is now before Parliament. It lets landlords unfreeze pre-1990 rents when the original tenant dies, and fast-tracks evictions after two months of arrears. Ministers point to roughly 250,000 well-kept vacant homes they hope to coax back onto the market. Investors read it as a structural tilt toward landlords — and toward liquidity in a segment that has been frozen for decades. Meanwhile capital keeps arriving: hotel investment tripled to 519M euros in H1 and commercial volumes rose 14% to 1.41bn euros. Net: the rules are loosening just as money crowds into Portuguese bricks."
     }
   ]
 }
