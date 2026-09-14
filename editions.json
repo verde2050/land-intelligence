@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "editions": [
+    {
+      "date": "2026-09-14",
+      "label": "14 Sep",
+      "title": "Home permits fall 7%, Lisbon licensing down 35% — Portugal's supply squeeze tightens",
+      "summary": "Portugal's housing math isn't adding up. Building permits fell 7.1% year-on-year in Q2 and completions dropped 4.2% — even as the government calls new supply 'urgent.' The squeeze is worst where demand is hottest: licensing crashed 35.1% in Greater Lisbon and 24.9% in the Algarve. Meanwhile more than half of Portuguese municipalities are now formally under housing pressure. For anyone who can actually deliver units, scarcity is the whole game — Belfoz reserved all 66 Foz do Porto flats in ~45 days. Net: capital is plentiful and permits are not; execution and land are the moat."
+    },
     {
       "date": "2026-09-13",
       "label": "13 Sep",
@@ -54,12 +60,6 @@
       "label": "05 Sep",
       "title": "Sines' €20bn industrial boom outruns its housing — government steps in",
       "summary": "Sines is Portugal's boomtown — and its cautionary tale. More than €20bn of private industrial investment, led by Repsol's Alba petrochemical complex and the Start Campus data centres, has the town up 12% in population since 2021 — with no rentals below €2,000 and nothing to buy under €300,000. The government has now unveiled a special plan to fund housing, schools and health services alongside the private money. Elsewhere the squeeze is turning into pricing power: Lisbon prime office rents rose 10.3% — the fastest in Europe — as Grade A vacancy fell to a record 0.7%. And Porto gained a heavyweight, as ex-city housing chief Pedro Baganha joined Dils to lead Cities & Investment. Net: industrial and office demand is real, but Portugal's binding constraint everywhere is the same — not enough built space."
-    },
-    {
-      "date": "2026-09-04",
-      "label": "04 Sep",
-      "title": "Portugal's rent tax cut (25%→10%) costs €303M as August rents jump 4.9%",
-      "summary": "Capital keeps coming — but Portugal's market is splitting by asset and by price. Commercial investment hit €1.41bn in H1, up 14%, yet capital is turning selective — Lisbon office occupancy fell 20% even as prime apartments pushed to €5,850/m². Lisbon has now put a €303M price tag on its rental-tax package, cutting IRS on moderate rents from 25% to 10% and construction IVA from 23% to 6%. Rents answered by rising 4.9% in August — a second straight monthly gain that breaks the first-half slide. And Spain's Alfana bought Faro's Forum Algarve from Commerzbank for €130M, its first deal abroad. Net: money and demand are both firm, but the winners are narrowing to the right asset at the right price."
     }
   ]
 }
