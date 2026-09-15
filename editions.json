@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "editions": [
+    {
+      "date": "2026-09-15",
+      "label": "15 Sep",
+      "title": "Greater Lisbon building permits crash 35% — yet prices keep rising",
+      "summary": "Portugal's construction pipeline is thinning at the top. Licensed buildings fell 7.1% in Q2, with Greater Lisbon down a startling 35.1%, even as new-dwelling permits crept up 10.8%. Yet prices refuse to cool: Lisbon has shed 8,300 short-term lets since the pandemic — a 41% cull — and values still rose. Institutional capital is leaning in anyway: Davidson Kempner, ECS Capital and Magna Industrial just launched a logistics JV anchored by a 630,000 m² site near Lisbon. And Brussels has effectively endorsed Portugal's €10bn public-housing push. Net: the supply-demand gap is the trade — and the smart money is positioning around it."
+    },
     {
       "date": "2026-09-14",
       "label": "14 Sep",
@@ -54,12 +60,6 @@
       "label": "6 Sep",
       "title": "Alfana buys Forum Algarve for €130M — Spain's first bet outside home turf",
       "summary": "Spain's Alfana bought Forum Algarve for around €130M — its first deal outside its home market, and Commerz Real's exit from the 27,400 sqm Faro centre. Retail keeps proving it can move at scale even as prime offices stay starved of stock. In Lisbon, BPI Gestão de Ativos sold a Saldanha office block for residential conversion, the latest in a wave that turned roughly a fifth of 2025 office deals into change-of-use plays. On the supply side, BPI now expects 2026 home completions to hit a 16-year high near 27,900 units. Porto and Matosinhos are both leaning in, funding more than 2,000 affordable rental homes between them. Net: capital is chasing retail and hospitality while the housing machine finally speeds up — but prime offices remain the market's tightest squeeze."
-    },
-    {
-      "date": "2026-09-05",
-      "label": "05 Sep",
-      "title": "Sines' €20bn industrial boom outruns its housing — government steps in",
-      "summary": "Sines is Portugal's boomtown — and its cautionary tale. More than €20bn of private industrial investment, led by Repsol's Alba petrochemical complex and the Start Campus data centres, has the town up 12% in population since 2021 — with no rentals below €2,000 and nothing to buy under €300,000. The government has now unveiled a special plan to fund housing, schools and health services alongside the private money. Elsewhere the squeeze is turning into pricing power: Lisbon prime office rents rose 10.3% — the fastest in Europe — as Grade A vacancy fell to a record 0.7%. And Porto gained a heavyweight, as ex-city housing chief Pedro Baganha joined Dils to lead Cities & Investment. Net: industrial and office demand is real, but Portugal's binding constraint everywhere is the same — not enough built space."
     }
   ]
 }
