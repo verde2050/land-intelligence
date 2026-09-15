@@ -142,13 +142,12 @@
       <img class="logo" src="https://raw.githubusercontent.com/verde2050/logo/main/verde2050_white.png" alt="Verde 2050">
       <nav class="nav"><a href="archive.html">Archive</a><a href="about.html">About</a></nav>
     </div>
-    <div class="kick">Get The Plot</div>
-    <h1>Portuguese real estate, before your <em>first coffee</em>.</h1>
-    <p class="lede">A free daily briefing on the deals, developments, people, architecture and rules shaping property across Portugal — curated by Verde 2050 for developers, investors and dealmakers.</p>
+    <h1>Get The <em>Plot</em></h1>
+    <p class="lede">A 5-minute daily brief on the deals, developments, people, architecture and rules shaping real estate across Portugal — curated for developers, investors, and dealmakers.</p>
     <div class="meta">
       <span><i class="dot"></i> Every weekday, ~08:00 Lisbon</span>
-      <span><i class="dot"></i> 5-minute read</span>
       <span><i class="dot"></i> Free</span>
+      <span id="subcount" hidden><i class="dot"></i> <span id="subnum"></span> subscribers</span>
     </div>
   </div>
 </section>
@@ -266,6 +265,18 @@
       btn.disabled=false;btn.innerHTML=lbl;
       showMsg('Something went wrong — please try again, or email intel@verde2050.com.','err');
     }
+  });
+
+  /* ---- subscriber count (floor 50) ---- */
+  var STATS_URL="https://raw.githubusercontent.com/verde2050/land-intelligence/main/stats.json";
+  fetch(STATS_URL,{cache:'no-store'}).then(function(r){return r.json();}).then(function(s){
+    var real=(s&&typeof s.subscribers==='number')?s.subscribers:0;
+    var shown=Math.max(real,50);
+    document.getElementById('subnum').textContent=(real<50)?(shown+'+'):shown.toLocaleString('en-US');
+    document.getElementById('subcount').hidden=false;
+  }).catch(function(){
+    document.getElementById('subnum').textContent='50+';
+    document.getElementById('subcount').hidden=false;
   });
 
   /* ---- editions feed ---- */
