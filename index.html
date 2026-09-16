@@ -40,7 +40,7 @@
   /* HERO */
   .hero{background:var(--hero);}
   .hero .wrap{padding-block:34px 42px;}
-  .hero .top{display:flex;justify-content:space-between;align-items:center;gap:16px;}
+  .hero .top{display:flex;justify-content:flex-end;align-items:center;gap:16px;}
   .hero img.logo{width:150px;height:auto;display:block;border:0;}
   .hero .nav a{color:#9fd3b6;font-size:12.5px;font-weight:600;letter-spacing:.04em;margin-left:18px;}
   .hero .kick{color:var(--mint);margin-top:22px;}
@@ -139,14 +139,12 @@
 <section class="hero">
   <div class="wrap">
     <div class="top">
-      <img class="logo" src="https://raw.githubusercontent.com/verde2050/logo/main/verde2050_white.png" alt="Verde 2050">
       <nav class="nav"><a href="archive.html">Archive</a><a href="about.html">About</a></nav>
     </div>
     <h1>Get The <em>Plot</em></h1>
-    <p class="lede">A 5-minute daily brief on the deals, developments, people, architecture and rules shaping real estate across Portugal — curated for developers, investors, and dealmakers.</p>
+    <p class="lede">A 5-minute daily brief on the deals, developments, people, architecture and rules shaping real estate across Portugal — curated by Verde 2050 for developers, investors, and dealmakers.</p>
     <div class="meta">
       <span><i class="dot"></i> Every weekday, ~08:00 Lisbon</span>
-      <span><i class="dot"></i> Free</span>
       <span id="subcount" hidden><i class="dot"></i> <span id="subnum"></span> subscribers</span>
     </div>
   </div>
@@ -155,7 +153,6 @@
 <div class="wrap">
   <div class="card" id="subscribe">
     <div id="formState">
-      <h2>Start tomorrow morning.</h2>
       <p class="sub">Join the list and the next edition lands in your inbox.</p>
       <form id="signupForm" novalidate>
         <div class="field">
@@ -188,7 +185,7 @@
         <p class="msg" id="msg"></p>
         <p class="fineprint">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>
-          We use your email only to send The Plot. No spam, unsubscribe anytime.
+          We use your email only to send <em>Get The Plot</em>. No spam, unsubscribe anytime.
         </p>
       </form>
     </div>
