@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "editions": [
+    {
+      "date": "2026-09-16",
+      "label": "16 Sep",
+      "title": "Euribor jumps to 3.7% — biggest leap in six months as markets price two more ECB hikes",
+      "summary": "The 12-month Euribor climbed to 3.7% on Monday, its biggest one-day move in roughly six months. Markets now price two more ECB hikes at the October and December meetings, taking the deposit rate toward 3.0%. The trigger is external — Middle East tension, oil near $107 and a gas spike are keeping inflation sticky. Dearer debt is landing just as deal flow accelerates: commercial investment ran 11–14% higher in H1 and Lisbon retail rents keep climbing. Expect wider bid-ask spreads and tighter underwriting into year-end. Net: the rate tailwind investors banked on for 2026 is fading — price your debt conservatively."
+    },
     {
       "date": "2026-09-15",
       "label": "15 Sep",
@@ -54,12 +60,6 @@
       "label": "07 Sep",
       "title": "Portugal tops the world on house prices: +15.2%, No.1 of 57 economies",
       "summary": "Portugal posted the world's steepest real house-price growth in Q1 — up 15.2% year-on-year, first of 57 economies tracked by the Bank for International Settlements. Globally, real prices actually fell 1.2%; the eurozone managed just 2.6%. Capital is following the heat: commercial investment hit €1.41bn in H1, up 14%, led by hotels at €508M. Lisbon apartments now average €5,850/m² (+16%), Porto €4,180 (+13%). Retail dealmaking is back too — Spain's Alfana bought Faro's Forum Algarve for €130M, its first move abroad. Net: demand still vastly outruns supply, and foreign money is leaning in, not out."
-    },
-    {
-      "date": "2026-09-06",
-      "label": "6 Sep",
-      "title": "Alfana buys Forum Algarve for €130M — Spain's first bet outside home turf",
-      "summary": "Spain's Alfana bought Forum Algarve for around €130M — its first deal outside its home market, and Commerz Real's exit from the 27,400 sqm Faro centre. Retail keeps proving it can move at scale even as prime offices stay starved of stock. In Lisbon, BPI Gestão de Ativos sold a Saldanha office block for residential conversion, the latest in a wave that turned roughly a fifth of 2025 office deals into change-of-use plays. On the supply side, BPI now expects 2026 home completions to hit a 16-year high near 27,900 units. Porto and Matosinhos are both leaning in, funding more than 2,000 affordable rental homes between them. Net: capital is chasing retail and hospitality while the housing machine finally speeds up — but prime offices remain the market's tightest squeeze."
     }
   ]
 }
