@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "editions": [
+    {
+      "date": "2026-09-19",
+      "label": "19 Sep",
+      "title": "Grande Porto resales -16%, Lisbon luxury +39%: Portugal's two-speed housing market",
+      "summary": "Portugal's housing market is splitting in two. Fresh first-half data shows used-home sales down 16% in Grande Porto and 9.1% in Grande Lisboa - even as new-build sales hit record highs, up 11% in Porto and 6.6% in Lisbon. In prime Lisbon, luxury sales jumped 39% while supply shrank almost 19%. Savills' read is blunt: this is an offer problem, not a demand problem. Meanwhile institutional capital is recycling - Nido Livensa sold 883 student beds - and a new accessible-rent tax holiday is days from its rulebook. Net: the returns are in building and buying new, not in waiting for resale stock to cheapen."
+    },
     {
       "date": "2026-09-18",
       "label": "18 Sep",
@@ -54,12 +60,6 @@
       "label": "10 Sep",
       "title": "Portugal and EIB back 50,000 affordable homes with €1.5bn credit line",
       "summary": "Portugal's housing story split in two this week. The Government and the European Investment Bank opened a €1.5 billion credit line — €500m signed as a first tranche — to finance roughly 50,000 affordable homes that fell outside the PRR. On the private side, foreign developer Nova Atlantic committed €87 million to 245 homes across Sintra, Gaia and Viana, while Pestana broke ground on 236 coastal units already 70% sold. But the cost of building it all keeps climbing: new-build construction costs rose 6.8% year-on-year in July, with copper wire up about 25%. Net: capital — public and private — is piling into Portuguese housing faster than the system can pour concrete."
-    },
-    {
-      "date": "2026-09-09",
-      "label": "09 Sep",
-      "title": "Foreign trio bets €87M on 245 Portuguese homes — outside Lisbon prime",
-      "summary": "Foreign capital is moving past Lisbon prime — and into the mid-market. A new three-founder firm, Nova Atlantic, is committing €87 million to build 245 homes across Sintra, Gaia and Viana do Castelo, with units from €165,000. In Porto, a design-led Foz tower (Belfoz) hit 100% reservations in 45 days. And from 1 September, Portugal's new affordable-rent regime hands landlords a full income-tax exemption if rents sit at or below 80% of the municipal median. Commercial investment, meanwhile, is running at €1.4 billion for the half-year — hotels leading, offices sliding. Net: the money is broadening — down the value chain, out of the capital, and increasingly shaped by tax policy."
     }
   ]
 }
