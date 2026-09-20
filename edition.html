@@ -6,6 +6,30 @@
 <title>Edition — Get The Plot</title>
 <meta name="description" content="An edition of Get The Plot — Verde 2050's daily briefing on Portuguese real estate.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preconnect" href="https://raw.githubusercontent.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Libre+Franklin:wght@400;500;600;700&display=swap"><link rel="stylesheet" href="plot.css">
+<style>
+  .gtp-sec{margin-top:38px}
+  .gtp-sec-label{font-family:'Libre Franklin',system-ui,sans-serif;font-size:12px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#2e6f4e;padding-bottom:14px;border-bottom:1px solid #e2e9e4;margin-bottom:20px}
+  .gtp-item{margin-top:22px}
+  .gtp-item:first-of-type{margin-top:0}
+  .gtp-item h3{font-family:'Libre Franklin',system-ui,sans-serif;font-size:19px;line-height:1.35;font-weight:700;margin:0}
+  .gtp-item h3 a{color:#1b6b43;text-decoration:none}
+  .gtp-item h3 a:hover{text-decoration:underline}
+  .gtp-item .sum{font-family:Newsreader,Georgia,serif;font-size:17px;line-height:1.6;color:#33403a;margin:8px 0 0}
+  .gtp-why{border-left:3px solid #8fce9f;padding:2px 0 2px 14px;margin-top:12px;font-family:'Libre Franklin',system-ui,sans-serif;font-size:14.5px;line-height:1.55;color:#33403a}
+  .gtp-why strong{color:#12241c}
+  .gtp-src{font-family:'Libre Franklin',system-ui,sans-serif;font-size:12.5px;color:#8a938d;margin-top:9px}
+  ul.gtp-read{list-style:none;margin:18px 0 0;padding:0}
+  ul.gtp-read li{font-family:Newsreader,Georgia,serif;font-size:17px;line-height:1.6;color:#33403a;padding-left:20px;position:relative;margin-top:12px}
+  ul.gtp-read li:first-child{margin-top:0}
+  ul.gtp-read li:before{content:"•";color:#2e6f4e;font-weight:700;position:absolute;left:0}
+  ul.gtp-read li strong{color:#12241c}
+  @media (prefers-color-scheme: dark){
+    .gtp-sec-label{border-color:rgba(255,255,255,.12)}
+    .gtp-item h3 a{color:#7fc9a1}
+    .gtp-item .sum,.gtp-why,ul.gtp-read li{color:#c9d4cd}
+    .gtp-why strong,ul.gtp-read li strong{color:#eaf3ee}
+  }
+</style>
 </head>
 <body>
 <section class="hero">
@@ -23,8 +47,9 @@
 <div class="band"><div class="wrap"><div class="article">
   <div class="body" id="ed-body"></div>
   <div id="ed-pull"></div>
+  <div id="ed-full"></div>
   <hr class="art-divider">
-  <p class="note">The full edition was delivered to subscribers by email that morning.</p>
+  <p class="note" id="ed-note">The full edition was delivered to subscribers by email that morning.</p>
   <a href="/#subscribe" class="btn btn-solid">Get tomorrow&rsquo;s edition — subscribe <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
 
   <div style="margin-top:44px">
@@ -61,6 +86,31 @@
     document.getElementById('ed-body').innerHTML=parts.map(function(p,i){return '<p'+(i===0?' class="lead"':'')+'>'+esc(p)+'</p>';}).join('');
     if(pull)document.getElementById('ed-pull').innerHTML='<div class="pullquote">'+esc(pull)+'</div>';
   }
+  function renderFull(e){
+    renderBody(e.summary);
+    var html='';
+    (e.sections||[]).forEach(function(s){
+      html+='<div class="gtp-sec"><div class="gtp-sec-label">'+esc(s.label)+'</div>';
+      (s.items||[]).forEach(function(it){
+        html+='<div class="gtp-item">';
+        html+='<h3><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(it.headline)+' &rarr;</a></h3>';
+        if(it.summary)html+='<p class="sum">'+esc(it.summary)+'</p>';
+        if(it.why)html+='<div class="gtp-why"><strong>Why it matters:</strong> '+esc(it.why)+'</div>';
+        if(it.source)html+='<div class="gtp-src">'+esc(it.source)+'</div>';
+        html+='</div>';
+      });
+      html+='</div>';
+    });
+    if(e.readForFund&&e.readForFund.length){
+      html+='<div class="gtp-sec"><div class="gtp-sec-label">The read for a fund</div><ul class="gtp-read">';
+      e.readForFund.forEach(function(r){
+        html+='<li><strong>'+esc(r.lead)+'</strong> '+esc(r.text)+'</li>';
+      });
+      html+='</ul></div>';
+    }
+    document.getElementById('ed-full').innerHTML=html;
+    document.getElementById('ed-note').textContent='This is the web edition — the same briefing subscribers received by email that morning.';
+  }
   function renderAlso(items){
     document.getElementById('also').innerHTML=items.map(function(e){return (
       '<a class="erow" href="edition.html?date='+encodeURIComponent(e.date)+'">'+
@@ -79,7 +129,8 @@
     document.title=(e.title||'Edition')+' — Get The Plot';
     document.getElementById('ed-date').textContent=fulldate(e.date);
     document.getElementById('ed-headline').textContent=e.title||'';
-    renderBody(e.summary);
+    if(e.sections&&e.sections.length)renderFull(e);
+    else renderBody(e.summary);
     renderAlso(list.filter(function(x){return x.date!==e.date;}).slice(0,3));
   }).catch(function(){document.getElementById('ed-headline').textContent='This edition is loading — check back shortly.';});
 </script>
