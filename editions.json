@@ -5,7 +5,109 @@
       "date": "2026-09-20",
       "label": "20 Sep",
       "title": "Portugal's cheap-asset era is over: investors now want fundamentals, not a discount",
-      "summary": "Portugal's investment story shifted at the Portugal Real Estate Summit. The verdict from Hines, Tristan and Signal was blunt: 'repricing in itself is not an investment thesis.' The capital is still here — it now wants supply constraints, rental growth and a credible exit, not a cheap entry price. Money is concentrating where fundamentals are hardest to fake: Merlin is committing €2.2bn to data centres by 2028, and prime logistics vacancy sits below 3%. But housing has a 'product problem' — roughly 40,000 homes licensed in 2025 against a shortage north of 300,000. Net: the easy Portugal trade is over — underwriting, not discovery, is now the edge."
+      "summary": "Portugal's investment story shifted at the Portugal Real Estate Summit. The verdict from Hines, Tristan and Signal was blunt: 'repricing in itself is not an investment thesis.' The capital is still here — it now wants supply constraints, rental growth and a credible exit, not a cheap entry price. Money is concentrating where fundamentals are hardest to fake: Merlin is committing €2.2bn to data centres by 2028, and prime logistics vacancy sits below 3%. But housing has a 'product problem' — roughly 40,000 homes licensed in 2025 against a shortage north of 300,000. Net: the easy Portugal trade is over — underwriting, not discovery, is now the edge.",
+      "hook": "The discount is gone. Portugal now has to compete on fundamentals.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Panattoni Park Valongo hits 100% occupancy as THC expands",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/09/15/77640-panattoni-park-valongo-atinge-100-de-ocupacao-com-expansao-da-thc",
+              "summary": "Logistics operator THC leased an extra 6,607 m² — taking it to 12,492 m² — which filled the ~75,000 m² Panattoni park near Porto. A prime northern logistics asset is now fully let.",
+              "why": "Sub-3% vacancy and speed-to-full-lease confirm northern Portugal logistics as one of the market's tightest, most investable segments.",
+              "source": "idealista · 15 Sep"
+            },
+            {
+              "headline": "CMVM clears Fomento SGOIC as a large-scale manager",
+              "url": "https://www.iberian.property/news/market-updates/cmvm-gives-the-go-ahead-to-fomento-sgoic-as-a-large-scale-management-company/",
+              "summary": "The regulator upgraded Banco Português de Fomento's fund arm (currently ~€440m under management) to operate above the €500m threshold, clearing it to run bigger, more complex vehicles.",
+              "why": "A state-backed manager with room to scale can co-invest alongside private capital — a potential anchor for larger Portuguese real-estate deals.",
+              "source": "Iberian Property · 15 Sep"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Portugal's data-centre race enters its capital phase",
+              "url": "https://www.iberian.property/news/data-centers/portugals-data-centre-race-enters-a-new-investment-phase/",
+              "summary": "Merlin Properties is deploying €2.2bn to ~200MW by end-2028 (80% for AI workloads), while Start Campus runs 36MW at Sines with 200MW in the pipeline. The pitch now: “power and grid” beat location.",
+              "why": "Data centres are reshaping the deal set — leasing moves from space to megawatts, and grid access becomes the scarce asset to underwrite.",
+              "source": "Iberian Property · 15 Sep"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "iad launches its luxury arm, iad Prestige, in Portugal",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/09/17/77701-iad-prestige-estreia-se-em-portugal-com-foco-no-imobiliario-de-luxo",
+              "summary": "The French brokerage picked Portugal for the first international rollout of its high-end brand, plugging local prime stock into a network of 20,000+ consultants. CEO Ricardo Marques: “Prestige não é apenas luxo.”",
+              "why": "A major network doubling down on Portuguese luxury signals where the buyer demand — and the commissions — still are.",
+              "source": "idealista · 17 Sep"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Construir Portugal targets 50,000+ homes a year",
+              "url": "https://www.iberian.property/news/residential/government-targets-more-than-50000-new-homes-a-year-as-construir-portugal-strategy-takes-shape/",
+              "summary": "Minister Miguel Pinto Luz set ~40,000 homes for 2026 and 50,000+ for 2027 (133,000 long-term), with licensing reform live from 1 October, a 6% VAT rate, and a residential leasing law now in Parliament.",
+              "why": "Faster licensing, reduced VAT and 25-year contracts plus EIB guarantees are the levers that could finally make build-to-rent pencil in Portugal.",
+              "source": "Iberian Property · 14 Sep"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "‘Repricing is not a thesis’: how global capital now reads Portugal",
+              "url": "https://www.iberian.property/news/market-updates/the-ugly-ducklings-and-the-swans-how-international-investors-are-reading-portugal/",
+              "summary": "Hines, Tristan and Signal argued Portugal can no longer sell itself as an undiscovered discount; investors want fundamentals. Prime offices are clearing at €32–35/m² and logistics vacancy is below 3%.",
+              "why": "“Bipolarity” is setting in — prime thrives, secondary struggles, and the margin for error on entry price has narrowed sharply.",
+              "source": "Iberian Property · 16 Sep"
+            },
+            {
+              "headline": "Portugal has the capital and the demand — but a ‘product problem’",
+              "url": "https://www.iberian.property/news/residential/residential-investment-portugal-has-the-capital-and-demand-but-still-needs-the-product/",
+              "summary": "Sonae Sierra, Krest and CGD said build-to-rent stays underbuilt despite strong demand: only ~40,000–42,000 dwellings licensed in 2025 against a 300,000+ shortage, and BTR is just ~20% of CGD's development lending.",
+              "why": "The gap between capital and deliverable product is the opening — whoever solves licensing and construction speed captures the BTR pipeline.",
+              "source": "Iberian Property · 14 Sep"
+            },
+            {
+              "headline": "Greater Porto: listings down 74% from peak, prices up 8.3%",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/17/77631-habitacao-no-grande-porto-oferta-em-queda-e-procura-firme",
+              "summary": "idealista data show Greater Porto stock at ~33,000 listings (down 74% from 2021), prices +8.3% year-on-year — Porto at €4,300/m² — and rental supply down 18% with 17 enquiries per listing.",
+              "why": "A structural supply crunch is pushing demand to the periphery (Valongo, Matosinhos) — where new product can still be priced into a rising market.",
+              "source": "idealista · 17 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwriting beats discovery.",
+          "text": "The “cheap Portugal” case is dead; edge now comes from supply constraints, rental growth and a mapped exit."
+        },
+        {
+          "lead": "Tight beats broad.",
+          "text": "Logistics under 3% vacancy and Porto stock down 74% are where scarcity, not sentiment, drives pricing."
+        },
+        {
+          "lead": "The product gap is the play.",
+          "text": "Capital is abundant and delivery isn't — the licensing-and-construction bottleneck is exactly what a hands-on manager can arbitrage."
+        },
+        {
+          "lead": "Watch the grid.",
+          "text": "Data centres turn megawatts into the scarce asset — land near power and grid capacity is a new, adjacent thesis."
+        }
+      ]
     },
     {
       "date": "2026-09-19",
