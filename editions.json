@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "editions": [
+    {
+      "date": "2026-09-20",
+      "label": "20 Sep",
+      "title": "Portugal's cheap-asset era is over: investors now want fundamentals, not a discount",
+      "summary": "Portugal's investment story shifted at the Portugal Real Estate Summit. The verdict from Hines, Tristan and Signal was blunt: 'repricing in itself is not an investment thesis.' The capital is still here — it now wants supply constraints, rental growth and a credible exit, not a cheap entry price. Money is concentrating where fundamentals are hardest to fake: Merlin is committing €2.2bn to data centres by 2028, and prime logistics vacancy sits below 3%. But housing has a 'product problem' — roughly 40,000 homes licensed in 2025 against a shortage north of 300,000. Net: the easy Portugal trade is over — underwriting, not discovery, is now the edge."
+    },
     {
       "date": "2026-09-19",
       "label": "19 Sep",
@@ -54,12 +60,6 @@
       "label": "11 Sep",
       "title": "Portugal property splits two ways: €1.41bn invested as Euribor nears 3%",
       "summary": "Portugal's property market is running at two speeds — and the gap is widening. Commercial investment hit €1.41 billion in the first half, up 14% — but the money is crowding into hotels and retail while offices weaken. Foreign capital drove 65% of it. Residential prices keep climbing — Lisbon now €5,850/m², up 16% — even as the 12-month Euribor edges toward 3% and payments tick up. Yet top-end demand is white-hot: a €60M Foz tower sold out in 45 days, and a foreign trio just committed €87M to build 245 homes. Net: capital is abundant but choosy — asset quality, not sector, now separates winners from the rest."
-    },
-    {
-      "date": "2026-09-10",
-      "label": "10 Sep",
-      "title": "Portugal and EIB back 50,000 affordable homes with €1.5bn credit line",
-      "summary": "Portugal's housing story split in two this week. The Government and the European Investment Bank opened a €1.5 billion credit line — €500m signed as a first tranche — to finance roughly 50,000 affordable homes that fell outside the PRR. On the private side, foreign developer Nova Atlantic committed €87 million to 245 homes across Sintra, Gaia and Viana, while Pestana broke ground on 236 coastal units already 70% sold. But the cost of building it all keeps climbing: new-build construction costs rose 6.8% year-on-year in July, with copper wire up about 25%. Net: capital — public and private — is piling into Portuguese housing faster than the system can pour concrete."
     }
   ]
 }
