@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "editions": [
+    {
+      "date": "2026-09-21",
+      "label": "21 Sep",
+      "title": "Portugal's licensing overhaul goes live Oct 1 — prior communication replaces permits",
+      "summary": "On 1 October Portugal's new urban-licensing regime (DL 108/2026) takes effect. For projects with settled planning parameters, licensing gives way to 'prior communication' — work can start on the scheduled date, with the council checking afterwards. That compresses timelines but shifts liability onto architects and technical authors, who now certify compliance up front. Alongside it, the 'Construir Portugal' plan is scaling public housing spend to €1bn a year and dangling €3bn in financing lines. Meanwhile capital is chasing a different prize: Merlin has sunk €500M into data centres and is heading past €1bn by 2027. Net: the pipeline is getting faster and better-funded — but the risk is moving from the town hall to your project team.",
+      "hook": "Portugal is about to rewrite how you get a building approved.",
+      "sections": [
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Portugal's data-centre race enters a new investment phase",
+              "url": "https://www.iberian.property/news/data-centers/portugals-data-centre-race-enters-a-new-investment-phase/",
+              "summary": "Merlin Properties has already deployed roughly €500M across ~200MW and expects to pass €1bn by end-2027, while Start Campus advances a 200MW second building at Sines with customers pre-secured.",
+              "why": "Grid capacity and renewable power — not location — now drive Portugal's fastest-growing asset class, pulling institutional capital toward Sines and Lisbon.",
+              "source": "Iberian Property · 15 Sep"
+            },
+            {
+              "headline": "Foreign trio to build 245 homes across Portugal for €87M",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/07/77499-estrangeiros-aterram-em-portugal-e-constroem-245-casas-por-87-milhoes",
+              "summary": "Nova Atlantic, founded by three international investors, is developing 245 units in Sintra (Belas, €43M), Vila Nova de Gaia (€22M) and Viana do Castelo (€22M).",
+              "why": "Foreign capital keeps flowing into mid-market residential development even as domestic supply lags — a signal of where build-to-sell margins still work.",
+              "source": "idealista · 7 Sep"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "CMVM clears Fomento SGOIC to manage above €500M",
+              "url": "https://www.iberian.property/news/market-updates/cmvm-gives-the-go-ahead-to-fomento-sgoic-as-a-large-scale-management-company/",
+              "summary": "The Banco Português de Fomento management company won 'large-scale' status from the regulator, letting it move past the €500M threshold from its current €440M and build more complex vehicles.",
+              "why": "A bigger state-backed manager means more public co-investment firepower for Portuguese real assets — a potential partner or competitor on institutional deals.",
+              "source": "Iberian Property · 15 Sep"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "New urban-licensing regime takes effect 1 October",
+              "url": "https://www.certiamb.com/insights/insight-22.html",
+              "summary": "Under DL 108/2026, projects with settled planning parameters shift from licensing to 'prior communication': work starts on schedule and the council verifies within a year, with tacit approval on defined deadlines.",
+              "why": "The biggest change to Portuguese permitting in years — faster starts, but compliance risk moves onto architects and technical authors.",
+              "source": "Certiamb / DRE · Sep"
+            },
+            {
+              "headline": "'Construir Portugal' scales to €1bn a year in public housing",
+              "url": "https://www.iberian.property/news/residential/government-targets-more-than-50000-new-homes-a-year-as-construir-portugal-strategy-takes-shape/",
+              "summary": "The government targets 40,000 homes in 2026 and 50,000+ in 2027, quadrupling public housing investment to €1bn annually and opening €3bn in financing lines, alongside a 6% VAT rate for qualifying rentals.",
+              "why": "State money and tax breaks are reshaping the residential development equation — and the first PPP land deals begin by mid-2027.",
+              "source": "Iberian Property · 14 Sep"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Global capital turns selective: Portugal's 'swans vs ugly ducklings'",
+              "url": "https://www.iberian.property/news/market-updates/the-ugly-ducklings-and-the-swans-how-international-investors-are-reading-portugal/",
+              "summary": "Investors now favour logistics (sub-3% Lisbon vacancy), urban hotels and prime CBD offices at €32-35/sqm, while shunning suburban offices and secondary retail; 'repricing in itself does not constitute an investment thesis'.",
+              "why": "The buy-anything phase is over — underwriting now needs rental-growth visibility and exit liquidity, not just a discount.",
+              "source": "Iberian Property · 16 Sep"
+            },
+            {
+              "headline": "Portugal has the capital and demand — but not the product",
+              "url": "https://www.iberian.property/news/residential/residential-investment-portugal-has-the-capital-and-demand-but-still-needs-the-product/",
+              "summary": "A 300,000-home deficit persists as build-to-rent stays underdeveloped (CGD says ~80% of development financing is still build-to-sell) and Q1 cement consumption fell despite rising licences.",
+              "why": "The bottleneck is deliverable schemes, not money — whoever can originate shovel-ready product captures outsized demand.",
+              "source": "Iberian Property · 14 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite the new liability.",
+          "text": "With councils checking after the fact from 1 October, technical-author risk and professional indemnity become a line item in every development budget."
+        },
+        {
+          "lead": "Speed is the new alpha.",
+          "text": "Prior communication can shave months off go-to-market; funds that master the tacit-approval clock will out-execute slower buyers on land."
+        },
+        {
+          "lead": "Follow the power, not just the postcode.",
+          "text": "Data centres are pulling institutional capital toward grid-rich Sines and Lisbon; land near substations is repricing fast."
+        },
+        {
+          "lead": "Selectivity beats repricing.",
+          "text": "Global capital wants logistics, urban hotels and prime CBD — a discount alone no longer clears the investment committee."
+        }
+      ]
+    },
     {
       "date": "2026-09-20",
       "label": "20 Sep",
@@ -156,12 +252,6 @@
       "label": "12 Sep",
       "title": "Davidson Kempner, ECS launch Iberian logistics JV at 630,000 m² Benavente hub",
       "summary": "ECS Capital and Davidson Kempner have formed a joint venture with builder Magna Industrial to develop logistics across Iberia. Their first move is the Benavente Prime Hub — 630,000 m² of land and 380,000 m² of built space over seven phases, breaking ground this year. It's a clear vote of confidence in Portugal's nearshoring and e-commerce story. Elsewhere the pressure on tenants tightened: INE set the 2027 rent coefficient at 2.56%, the second-highest in a decade. And capital keeps hunting yield — Homely Capital is weighing €100M of tourist apartments that would include Lisbon. Net: institutional money is leaning hard into Portuguese logistics and rental income, even as households feel the squeeze."
-    },
-    {
-      "date": "2026-09-11",
-      "label": "11 Sep",
-      "title": "Portugal property splits two ways: €1.41bn invested as Euribor nears 3%",
-      "summary": "Portugal's property market is running at two speeds — and the gap is widening. Commercial investment hit €1.41 billion in the first half, up 14% — but the money is crowding into hotels and retail while offices weaken. Foreign capital drove 65% of it. Residential prices keep climbing — Lisbon now €5,850/m², up 16% — even as the 12-month Euribor edges toward 3% and payments tick up. Yet top-end demand is white-hot: a €60M Foz tower sold out in 45 days, and a foreign trio just committed €87M to build 245 homes. Net: capital is abundant but choosy — asset quality, not sector, now separates winners from the rest."
     }
   ]
 }
