@@ -1,6 +1,109 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "editions": [
+    {
+      "date": "2026-09-23",
+      "label": "23 Sep",
+      "title": "IMF flags Portugal's 180% price surge as top bank risk — UBS puts Lisbon on the bubble radar",
+      "summary": "Two heavyweight warnings landed on the same day. The IMF named surging home values — up 180% since 2015 and 19% in 2025 alone — the single biggest medium-term risk to Portugal's banks, estimating homes are 20–40% overvalued. Hours later, UBS put Lisbon on its global bubble radar for the first time, at \"elevated risk,\" with ownership costs now above 40% of a professional's income. Yet the heat is already coming out of transactions: Q2 sales fell 6.4% even as new-build gained share, and rental supply is up 13% with asking rents down 6%. Both institutions point to the same fix — build more, licence faster, mobilise empty stock. Net: the boom isn't broken, but the risk is now written in ink, not whispers — underwriting to a softer, choosier market beats chasing the last cycle's gains.",
+      "hook": "Portugal's price boom just hit the global risk radar.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "wecity backs a €1M Algarve residential play via crowdfunding",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/21/77737-wecity-poe-um-milhao-em-jogo-num-empreendimento-residencial-no-algarve",
+              "summary": "Spanish platform wecity is putting €1M into Consfly Group's 39-unit scheme in Armação de Pêra, on a 12-month note at 11.5% secured by a first-charge mortgage; the ~€9M project targets €16M in sales at a 32% loan-to-value.",
+              "why": "Retail crowd-capital is now funding shovel-ready Algarve resi at double-digit coupons — a signpost to where mid-market development debt is repricing.",
+              "source": "idealista · 21 Sep"
+            },
+            {
+              "headline": "JYSK moves to double its Portuguese store estate to 80",
+              "url": "https://vidaimobiliaria.com/noticias/retalho/jysk-a-caminho-das-80-lojas-em-portugal/",
+              "summary": "The Danish homeware chain, now at 40 stores after an Azores opening, plans 20–30 more in Portugal within four years as part of a 120-store Iberian push — doubling its footprint here.",
+              "why": "Steady big-box occupier growth keeps demand under retail-park and high-street space — a reminder that tenant expansion, not just capital flows, underpins commercial values.",
+              "source": "Vida Imobiliária · 21 Sep"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Stravillia and MOME import the 'cost-rental' model to Portugal",
+              "url": "https://vidaimobiliaria.com/noticias/mercados/stravillia-e-mome-desenvolvem-modelo-de-cost-rental-em-portugal/",
+              "summary": "The two firms are structuring a cost-rental model — rents set on real building costs, not market rates — targeting a first delivery in about four years. Portugal's public and affordable rental stock sits near 2%, against 20–29% in Austria, Denmark and the Netherlands.",
+              "why": "A credible cost-rental framework could open institutional build-to-rent at the affordable end — the thin, policy-favoured segment where 6% VAT and tax breaks now stack.",
+              "source": "Vida Imobiliária · 21 Sep"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Traçado Regulador signs 54-home 'Albatroz' at Oeiras Green Valley",
+              "url": "https://www.diarioimobiliario.pt/Tracado-Regulador-assina-projeto-de-novo-edificio-residencial-no-Oeiras-Green-Valley",
+              "summary": "João de Sousa Rodolfo's studio has designed Edifício Albatroz, a 54-apartment T2–T4 building for Grupo Cobelba now under construction at Oeiras Green Valley — built around indoor-outdoor continuity, deep balconies and large glazing.",
+              "why": "Design-led product in Lisbon's western corridor is where premium absorption holds up — the studio a developer picks increasingly drives sell-through.",
+              "source": "Diário Imobiliário · 22 Sep"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "IMF names house prices Portugal's top medium-term bank risk",
+              "url": "https://www.diarioimobiliario.pt/FMI-aponta-subida-dos-precos-da-habitacao-como-principal-risco-de-medio-prazo-para-a-banca-portuguesa",
+              "summary": "The IMF's financial-sector review calls surging home values — up 180% since 2015 and 19% in 2025 — the main medium-term vulnerability, estimating 20–40% overvaluation and a price-to-income ratio 27% above trend; banks still pass a simulated 40% price-fall stress test.",
+              "why": "An IMF overvaluation flag shapes how regulators and lenders set LTVs and provisioning — expect underwriting discipline, not a credit spigot.",
+              "source": "Diário Imobiliário · 22 Sep"
+            },
+            {
+              "headline": "Lisbon lands on UBS's global bubble radar for the first time",
+              "url": "https://www.diarioimobiliario.pt/Lisboa-entra-no-radar-do-risco-de-bolha-imobiliaria-da-UBS",
+              "summary": "The 2026 UBS Global Real Estate Bubble Index places Lisbon in \"elevated risk,\" alongside Miami, Dubai and Geneva, citing ~10% real price growth and ownership costs above 40% of a skilled professional's gross income; Lisbon and Seoul logged the biggest risk jumps of the year.",
+              "why": "A first-time bubble-index listing is a sentiment marker international capital watches — it sharpens the case for income-backed assets over pure price momentum.",
+              "source": "Diário Imobiliário · 22 Sep"
+            },
+            {
+              "headline": "Q2 sales fall 6.4% as new-build gains and prices hit a record",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/22/77780-venda-de-casas-em-portugal-volta-a-cair-subida-de-precos-perde-ritmo",
+              "summary": "INE recorded 40,142 home sales in Q2, down 6.4% year-on-year — a third straight annual fall — even as the average price hit a record €266,475 and the price index rose 16.5%; new-home values (+12.3%) held up better than the wider cooldown.",
+              "why": "Fewer, pricier deals confirm a volume-led slowdown, not a price crash — the returns sit in delivering new stock, not waiting for resale to cheapen.",
+              "source": "idealista · 22 Sep"
+            },
+            {
+              "headline": "Rental supply climbs 13% as asking rents finally ease 6%",
+              "url": "https://www.diarioimobiliario.pt/Oferta-de-casas-para-arrendar-aumenta-13-e-precos-recuam-6-em-Portugal",
+              "summary": "Imovirtual data shows average daily rental listings up 13% year-to-date to ~38,800, with the median asking rent down 6% to €1,371; Lisbon rents fell 8% to €1,485 and Coimbra 11%, though Faro (+6%) and several interior towns still rose.",
+              "why": "The first real supply relief in years takes some heat out of the prime rental thesis — a tightening of top-end yields, not a demand collapse.",
+              "source": "Diário Imobiliário · 22 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite to overvaluation.",
+          "text": "With the IMF pegging homes 20–40% rich, entry price and rental-growth visibility — not momentum — carry the case."
+        },
+        {
+          "lead": "Volume cools, prime holds.",
+          "text": "Sales are down but new-build and top-end prices aren't; deliverable new product still clears."
+        },
+        {
+          "lead": "Rent relief is arriving.",
+          "text": "Supply up 13% and Lisbon rents off 8% mean BTR must pencil to a softer top line, not last year's spikes."
+        },
+        {
+          "lead": "Affordable is the tailwind.",
+          "text": "Cost-rental models plus 6% VAT and tax breaks make the thin affordable-rental segment the one the state is actively de-risking."
+        }
+      ]
+    },
     {
       "date": "2026-09-22",
       "label": "22 Sep",
@@ -360,12 +463,6 @@
       "label": "14 Sep",
       "title": "Home permits fall 7%, Lisbon licensing down 35% — Portugal's supply squeeze tightens",
       "summary": "Portugal's housing math isn't adding up. Building permits fell 7.1% year-on-year in Q2 and completions dropped 4.2% — even as the government calls new supply 'urgent.' The squeeze is worst where demand is hottest: licensing crashed 35.1% in Greater Lisbon and 24.9% in the Algarve. Meanwhile more than half of Portuguese municipalities are now formally under housing pressure. For anyone who can actually deliver units, scarcity is the whole game — Belfoz reserved all 66 Foz do Porto flats in ~45 days. Net: capital is plentiful and permits are not; execution and land are the moat."
-    },
-    {
-      "date": "2026-09-13",
-      "label": "13 Sep",
-      "title": "ECB hikes to 2.5%: pricier money for Portugal's builders as prime demand runs red-hot",
-      "summary": "The ECB lifted its deposit rate to 2.5% on Wednesday, an energy-fed move that makes construction and acquisition finance costlier for Portuguese developers and funds. Yet demand for the right product is undimmed: ZFC Invest's €60M Belfoz in Foz do Porto reserved all 66 units in about 45 days. Logistics vacancy sits near 1.8% in Lisbon and 0.5% in Porto, forcing occupiers into build-to-suit deals. And landlords just won headroom to raise rents up to 2.56% in 2027. Net: the cost of capital is rising, but scarcity — of quality space and of new supply — is doing the heavy lifting on pricing."
     }
   ]
 }
