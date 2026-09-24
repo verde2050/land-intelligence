@@ -1,6 +1,116 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "editions": [
+    {
+      "date": "2026-09-24",
+      "label": "24 Sep",
+      "title": "Portugal scraps 2% rent cap in reform going to a decisive vote Sept 30",
+      "summary": "Parliament votes on 30 September on a reform that scraps the 2% cap on new-contract rents. Landlords would get faster evictions — two months for non-payment, down from three — and could ask for three months' rent up front. Old, below-market contracts could be updated by tenant age and income. The backdrop is a hot, thinning market: INE says prices rose 16.5% year-on-year in Q2 even as sales fell 6.4%. The IMF now calls housing the \"principal vulnerability\" of Portuguese banks, up 169% since 2015, and Lisbon has entered UBS's global bubble-risk index for the first time. Net: everyone agrees supply is the fix — Tuesday is about who bears the cost until it arrives.",
+      "hook": "Portugal's rental market gets rewritten in a single vote next Tuesday.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Jamestown refinances to reposition IDB Lisbon",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/09/17/77683-jamestown-prepara-se-para-dar-uma-nova-vida-ao-idb-lisbon",
+              "summary": "US investor Jamestown has lined up refinancing from Crédito Agrícola — debt restructuring plus growth capital — to requalify the 60,000 m² office-and-retail complex in Parque das Nações, targeting BREEAM In-Use Excellent.",
+              "why": "A marquee value-add office play — and fresh domestic-bank appetite — signals prime Lisbon offices are far from written off.",
+              "source": "idealista · 17 Sep"
+            },
+            {
+              "headline": "wecity crowdfunds €1M into 39 Algarve homes",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/21/77737-wecity-poe-um-milhao-em-jogo-num-empreendimento-residencial-no-algarve",
+              "summary": "Spanish platform wecity is raising €1M for a €9.06M, 39-home scheme in Armação de Pêra (developer Consfly, €450k equity), on a 12-month term at an 11.5% rate, against projected sales of €15.97M.",
+              "why": "A clean read on the yields and structures small-ticket capital is accepting on Algarve residential development right now.",
+              "source": "idealista · 21 Sep"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "New foundation targets 100,000 affordable rentals by 2045",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/24/77656-fundacao-nasce-para-dar-100-000-casas-de-renda-acessivel-ate-2045",
+              "summary": "Fundação Âncora (founder Pedro Sarmento, 30+ volunteers) launches with a 1,000-home, five-year programme backed by €200M from banks, funds and private investors, on land handed over free by municipalities — an Austrian-inspired model.",
+              "why": "Public land plus private capital is exactly the institutional affordable-rent pipeline funds have been waiting to co-invest into.",
+              "source": "idealista · 24 Sep"
+            },
+            {
+              "headline": "Church portfolio to be rehabbed for affordable rent",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/23/77807-reabilitacao-de-patrimonio-da-novo-impulso-a-habitacao-acessivel",
+              "summary": "IFRRU 2030, the Lisbon Patriarchate and Caritas are partnering to convert Church-owned buildings into accessible and moderate rentals, with energy-efficiency and seismic upgrades and a viable financing model.",
+              "why": "Unlocks well-located urban stock outside the open market — a repeatable template for heritage-led affordable schemes.",
+              "source": "idealista · 23 Sep"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Rental reform heads to a plenary vote on 30 Sept",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/23/77809-novas-regras-do-arrendamento-vao-a-votos-em-plenario-a-30-de-setembro",
+              "summary": "The package scraps the 2% cap on new-contract rents, cuts the non-payment eviction timeline to two months, allows three months' rent in advance, and lets old contracts be updated by tenant age and income.",
+              "why": "Removing the cap resets the risk/return maths on every Portuguese rental — new-build and build-to-rent underwriting improves at a stroke.",
+              "source": "idealista · 23 Sep"
+            },
+            {
+              "headline": "Tax authority: 10% IRS for lets to companies",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/22/77772-fisco-permite-irs-de-10-a-senhorios-que-arrendam-casas-a-empresas",
+              "summary": "The AT confirms landlords can claim the reduced 10% IRS rate when a home of up to €2,300/month is let to a company for use by a single, named person — with no subletting or commercial use.",
+              "why": "A cleaner tax route for corporate-housing and relocation demand — useful for build-to-rent and serviced-living models.",
+              "source": "idealista · 22 Sep"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "INE Q2: prices +16.5%, sales −6.4%",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/22/77780-venda-de-casas-em-portugal-volta-a-cair-subida-de-precos-perde-ritmo",
+              "summary": "Some 40,142 homes changed hands — a third straight quarterly fall year-on-year — while the average price hit a record €266,475. Used homes rose 18%, new builds 12.3%.",
+              "why": "\"Fewer homes, ever pricier\" squeezes volume-driven agents but supports asset values and new-build margins.",
+              "source": "idealista · 22 Sep"
+            },
+            {
+              "headline": "IMF: housing is banks' top vulnerability",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/22/77789-preco-das-casas-e-principal-vulnerabilidade-da-banca-portuguesa-diz-fmi",
+              "summary": "The Fund flags residential values as the \"principal vulnerability\" for the financial sector — up 169% since 2015 versus 55% across the eurozone — though it judges banks could withstand a 40% correction.",
+              "why": "Sets the macro-prudential tone — expect closer monitoring and a push to expand supply, not demand-side lending curbs, for now.",
+              "source": "idealista · 22 Sep"
+            },
+            {
+              "headline": "Lisbon enters UBS's bubble-risk index",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/22/77782-bolha-imobiliaria-lisboa-entre-as-cidades-com-maior-risco-pela-primeira-vez",
+              "summary": "The capital makes its first appearance in the UBS Global Real Estate Bubble Index at \"increased risk\" (score 1.04), up around 10% since mid-2025 — behind only Zurich and Tokyo.",
+              "why": "A reputational flag for foreign capital — but \"increased,\" not \"bubble,\" still reads as room to run for well-located assets.",
+              "source": "idealista · 22 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite the cap going away.",
+          "text": "If the 2% new-contract cap falls on Tuesday, model the market rent, not the capped one — new-build and BTR yields re-rate upward overnight."
+        },
+        {
+          "lead": "Values up, volumes down is a builder's market.",
+          "text": "Record prices on falling transactions reward those who create stock, not those who merely trade it."
+        },
+        {
+          "lead": "Affordable rent is turning investable.",
+          "text": "Public land plus €200M of private capital (Âncora) and Church stock (IFRRU) are assembling a pipeline funds can actually enter."
+        },
+        {
+          "lead": "\"Increased risk,\" not \"bubble.\"",
+          "text": "The IMF and UBS flags raise the cost of being wrong; neither calls the top. Discipline on location and basis beats timing the cycle."
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "label": "23 Sep",
@@ -457,12 +567,6 @@
       "label": "15 Sep",
       "title": "Greater Lisbon building permits crash 35% — yet prices keep rising",
       "summary": "Portugal's construction pipeline is thinning at the top. Licensed buildings fell 7.1% in Q2, with Greater Lisbon down a startling 35.1%, even as new-dwelling permits crept up 10.8%. Yet prices refuse to cool: Lisbon has shed 8,300 short-term lets since the pandemic — a 41% cull — and values still rose. Institutional capital is leaning in anyway: Davidson Kempner, ECS Capital and Magna Industrial just launched a logistics JV anchored by a 630,000 m² site near Lisbon. And Brussels has effectively endorsed Portugal's €10bn public-housing push. Net: the supply-demand gap is the trade — and the smart money is positioning around it."
-    },
-    {
-      "date": "2026-09-14",
-      "label": "14 Sep",
-      "title": "Home permits fall 7%, Lisbon licensing down 35% — Portugal's supply squeeze tightens",
-      "summary": "Portugal's housing math isn't adding up. Building permits fell 7.1% year-on-year in Q2 and completions dropped 4.2% — even as the government calls new supply 'urgent.' The squeeze is worst where demand is hottest: licensing crashed 35.1% in Greater Lisbon and 24.9% in the Algarve. Meanwhile more than half of Portuguese municipalities are now formally under housing pressure. For anyone who can actually deliver units, scarcity is the whole game — Belfoz reserved all 66 Foz do Porto flats in ~45 days. Net: capital is plentiful and permits are not; execution and land are the moat."
     }
   ]
 }
