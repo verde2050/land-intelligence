@@ -1,6 +1,114 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "editions": [
+    {
+      "date": "2026-09-26",
+      "label": "26 Sep",
+      "title": "Portugal home sales fall a 3rd straight quarter — yet prices hit a record €266,475",
+      "summary": "Home sales fell 6.4% year-on-year in the second quarter — the third straight quarterly drop — yet the median price still hit a record €266,475. Buyers are taking fewer homes at higher prices: transaction value rose 4.2% to €10.7 billion even as volumes shrank. Non-resident buyers pulled back hardest, down 10.3%. Meanwhile institutional money is rotating into beds you rent rather than sell — VIDÓR is building the country's largest-ever student residence in Porto, and Nido Livensa has just traded 883 stabilised beds to recycle capital abroad. The one thing that capital is waiting on: Lisbon's new affordable-rent regime, in force since 1 September but frozen until an implementing decree lands. Net: the for-sale market is thinning while rented 'living' assets soak up the smart money.",
+      "hook": "Portugal's housing market is cooling and heating at the same time.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Logistics investment jumps 35% to €181M — and over half the new pipeline is speculative",
+              "url": "https://www.supplychainmagazine.pt/2026/09/23/investimento-logistico-sobe-35-e-mais-de-metade-da-nova-oferta-avanca-sem-ocupante/",
+              "summary": "Industrial and logistics investment reached €181 million in the first half, up 35% year-on-year, on take-up of roughly 200,000 sqm across 30 deals, per JLL. Of the 645,000 sqm under construction, 359,000 sqm (56%) is being built with no tenant yet signed.",
+              "why": "Speculative supply plus prime rents pushing to €7/sqm/month says developers are betting on sustained occupier demand — the widening prime-vs-secondary gap is where the returns, and the risk, now sit.",
+              "source": "Supply Chain Magazine / JLL · 23 Sep"
+            },
+            {
+              "headline": "Nido Livensa sells five stabilised student residences — 883 beds in Lisbon and Porto",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/14/77633-nido-livensa-vende-cinco-residencias-de-estudantes-em-portugal",
+              "summary": "The operator is offloading Nido Carcavelos, Ajuda, Santa Apolónia, Estoril and Asprela — 883 beds it calls “mature and stabilised” — to fund a push toward 25,000 beds across Spain, Italy and Germany by 2031.",
+              "why": "A clean read on the PBSA cycle — Portuguese student beds are now liquid enough to trade at scale, and stabilised assets are changing hands as operators rotate capital elsewhere in Europe.",
+              "source": "idealista · 14 Sep"
+            },
+            {
+              "headline": "wecity puts €1M behind a 39-home Algarve scheme — at 11.5% a year",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/21/77737-wecity-poe-um-milhao-em-jogo-num-empreendimento-residencial-no-algarve",
+              "summary": "The crowdfunding platform is financing Consfly Group's 39-home development in Armação de Pêra with a €1 million mortgage at 11.5% over 12 months and a 32% loan-to-value; the project carries a ~€9M cost against a ~€16M sales estimate.",
+              "why": "Double-digit development debt is filling the gap banks won't — a live signal of the true cost of capital for mid-size residential builders in this cycle.",
+              "source": "idealista · 23 Sep"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "VIDÓR to build Portugal's largest student residence — 2,200+ beds in Porto for ~€100M",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/24/77821-maior-residencia-de-estudantes-do-pais-vem-aliviar-a-escassez-de-camas",
+              "summary": "The premium scheme, next to Porto's Asprela campus, spans three buildings with a pool, gym and study spaces. Portugal needs housing for some 227,000 displaced and international students against fewer than 28,000 existing beds.",
+              "why": "Student housing is the clearest structural-undersupply story in Portuguese real estate — and the reason 'living' capital keeps choosing beds over for-sale stock.",
+              "source": "idealista · 24 Sep"
+            },
+            {
+              "headline": "Nova Atlantic commits €87M to 245 homes in Sintra, Gaia and Viana",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/07/77499-estrangeiros-aterram-em-portugal-e-constroem-245-casas-por-87-milhoes",
+              "summary": "The developer — founded by Israeli, German and Ukrainian investors — is building Belas Residences (46 units, €43M) in Sintra, Gaia Residences (83 flats, €22M) and Green Hills Viana (116 flats from €165k, €22M).",
+              "why": "Foreign operators are moving up the chain from buying to building — and adding supply outside the Lisbon/Porto core, where land is cheaper and competition thinner.",
+              "source": "idealista · 7 Sep"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "APPII's Hugo Santos Ferreira joins OneMark to raise a €300M 'living' fund",
+              "url": "https://jornaleconomico.sapo.pt/noticias/hugo-santos-ferreira-estamos-a-levantar-um-fundo-que-pode-ir-ate-300-milhoes-de-euros/",
+              "summary": "After 12 years leading the developers' association APPII, Santos Ferreira becomes managing partner at José Cardoso Botelho's OneMark Capital & Developments, raising a €250–300M vehicle for branded residences and office-to-resi conversions across Lisbon, Porto and the Algarve.",
+              "why": "One of the sector's most connected figures moving from lobby to capital — and an “Opus Buildings Reborn” conversion play that reads the obsolete-office repricing the way institutional buyers do.",
+              "source": "Jornal Económico · 18 Sep"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Home sales fall 6.4% in Q2 — a third straight drop — as prices hit a record €266,475",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/22/77780-venda-de-casas-em-portugal-volta-a-cair-subida-de-precos-perde-ritmo",
+              "summary": "INE recorded 40,142 homes sold in Q2, down 6.4% year-on-year, with the price index up 16.5% — a second straight quarter of deceleration. Transaction value still rose 4.2% to €10.7 billion; non-resident buyers fell 10.3%.",
+              "why": "The classic late-cycle signature — thinning volumes, still-record prices, retreating foreign demand. Underwriting exits now means assuming price growth keeps decelerating, not compounding.",
+              "source": "INE / idealista · 22 Sep"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Portugal's affordable-rent regime is live — but landlords still can't enrol",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/16/77669-portaria-que-regulamenta-rendas-acessiveis-publicada-nos-proximos-dias",
+              "summary": "The Simplified Affordable Rent regime (RSAA) — full IRS/IRC/Stamp exemption on rents capped at 80% of the municipal median — has been in force since 1 September under Decree-Law 97/2026, but the implementing portaria that lets owners sign up is still pending, “due in the coming days.”",
+              "why": "The developer track (CIA) carries IMT and VAT relief and 25-year benefits for contracts signed by 2029 — potentially reshaping build-to-rent underwriting, but only once the regulation lands. Watch for the portaria.",
+              "source": "idealista / ECO · 16 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Beds beat boxes.",
+          "text": "Capital is rotating decisively into rented 'living' — student housing above all — while the for-sale market thins; the structural bed shortage is the cleaner underwrite."
+        },
+        {
+          "lead": "Underwrite deceleration, not compounding.",
+          "text": "A third straight sales drop with prices still at record levels is the late-cycle tell; model exits on slowing, not accelerating, price growth."
+        },
+        {
+          "lead": "The portaria is the catalyst.",
+          "text": "The affordable-rent CIA track could re-rate build-to-rent economics via IMT/VAT relief — but nothing signs until the implementing decree publishes."
+        },
+        {
+          "lead": "Debt is the honest cost signal.",
+          "text": "wecity lending at 11.5% and speculative logistics pushing prime rents to €7/sqm show where the cost of capital — and the conviction bets — actually sit."
+        }
+      ]
+    },
     {
       "date": "2026-09-25",
       "label": "25 Sep",
@@ -670,12 +778,6 @@
       "label": "17 Sep",
       "title": "Estoril summit warns of supply crunch; Lisbon office rents seen hitting €40/m²",
       "summary": "Scarcity is the through-line of Portugal's market right now. At this week's Portugal Real Estate Summit in Estoril, 400+ investors heard that prime Lisbon office rents could reach €40/m² within two years, with product shortages spanning offices, logistics, hospitality and retail. The housing gap runs deep — 67,000 student beds and 70,000 senior-housing beds still needed — and 72% named faster licensing as the single biggest unlock. Demand isn't blinking: July mortgage lending hit a 2026 high of €2.84bn, renegotiations fell to a record low, and a new Belas villa lot sold 40% before public launch. Logistics again topped investors' pick for the decade. Net: capital is plentiful and space is not — the edge belongs to whoever can actually get product out of the ground."
-    },
-    {
-      "date": "2026-09-16",
-      "label": "16 Sep",
-      "title": "Euribor jumps to 3.7% — biggest leap in six months as markets price two more ECB hikes",
-      "summary": "The 12-month Euribor climbed to 3.7% on Monday, its biggest one-day move in roughly six months. Markets now price two more ECB hikes at the October and December meetings, taking the deposit rate toward 3.0%. The trigger is external — Middle East tension, oil near $107 and a gas spike are keeping inflation sticky. Dearer debt is landing just as deal flow accelerates: commercial investment ran 11–14% higher in H1 and Lisbon retail rents keep climbing. Expect wider bid-ask spreads and tighter underwriting into year-end. Net: the rate tailwind investors banked on for 2026 is fading — price your debt conservatively."
     }
   ]
 }
