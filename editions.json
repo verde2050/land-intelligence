@@ -1,6 +1,116 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "editions": [
+    {
+      "date": "2026-09-27",
+      "label": "27 Sep",
+      "title": "Portugal set to scrap the 2% rent cap — reform votes Sept 30",
+      "summary": "On Tuesday (30 September), Parliament votes on the government's rental reform — and it tilts hard toward landlords. The bill scraps the 2% annual cap on new-contract rents and lets owners set prices freely. It cuts the non-payment eviction clock from three months to two, raises advance rent to three months, and removes the deposit ceiling. Pre-1990 leases could finally be renegotiated against a tenant's age, income and the property's tax value. Backers say it unlocks rental supply; critics warn it deepens tenants' financial exposure — and that the real test is whether the courts can keep pace. Net: if it passes on Sept 30, Portuguese rental underwriting changes overnight.",
+      "hook": "Portugal is about to tear up its rent rulebook.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Solicit takes a new 480 m² office in central Porto",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/09/25/77854-solicit-amplia-horizontes-com-novo-escritorio-no-nicolau-d-almeida-66",
+              "summary": "The firm is expanding into 480 m² at Nicolau d'Almeida 66, a sign of continued occupier appetite for prime Porto office space even as investment volumes lag.",
+              "why": "Occupier demand for quality Porto offices stays firm — leasing, not investment, is where the office story is right now.",
+              "source": "idealista · 25 Sep"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "wecity puts €1m into 39 homes in the Algarve",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/21/77737-wecity-poe-um-milhao-em-jogo-num-empreendimento-residencial-no-algarve",
+              "summary": "The crowdfunding platform is lending €1m (first-lien, 11.5%, 12 months) into a 39-unit scheme in Armação de Pêra by Consfly, at roughly 32% LTV against a €3.1m land value and €16m of projected sales.",
+              "why": "A window into how alternative debt is filling the funding gap on small Algarve residential — and the double-digit yields lenders are commanding.",
+              "source": "idealista · 21 Sep"
+            },
+            {
+              "headline": "Vila Nova de Gaia plans 1,200 social homes across four new districts",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/25/77859-gaia-vai-ter-novos-bairros-com-1-200-apartamentos-de-habitacao-social",
+              "summary": "Gaia will build four social-housing neighbourhoods with 1,200 apartments in Madalena, Pedroso and Mafamude, plus 2,500 affordable rentals, prioritising vacant units and young residents.",
+              "why": "Municipal supply is finally moving at scale in Greater Porto — relevant for contractors, and a signal on where public land and housing demand converge.",
+              "source": "idealista · 25 Sep"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Portugal's rental reform goes to a plenary vote on Sept 30",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/23/77809-novas-regras-do-arrendamento-vao-a-votos-em-plenario-a-30-de-setembro",
+              "summary": "The government's bill removes the 2% cap on new-contract rents, shortens non-payment evictions to two months, raises advance rent to three months, scraps deposit ceilings, and opens pre-1990 leases to renegotiation tied to age, income and tax value.",
+              "why": "A pro-landlord reset of Portuguese rental economics — it directly reshapes achievable rents, void risk and exit timelines on any residential rental underwriting.",
+              "source": "idealista · 23 Sep"
+            },
+            {
+              "headline": "Critics warn the reform will deepen tenants' financial exposure",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/25/77857-nova-lei-do-arrendamento-agravara-exposicao-financeira-dos-inquilinos",
+              "summary": "Housing advocates argue the three-month advance rent and removed deposit caps raise upfront costs and eviction risk for tenants — and that the reform only works if the justice system speeds up.",
+              "why": "The political and headline risk is real — expect amendments, and price delivery risk before you underwrite higher rents.",
+              "source": "idealista · 25 Sep"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "House prices are rising three times faster than wages",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/25/77855-preco-das-casas-em-portugal-cresce-o-triplo-dos-salarios-num-ano",
+              "summary": "INE data show homes up 16.5% in the year to Q2 2026 against 5.1% wage growth — and 182% versus 48% over the decade. After inflation, real wages grew just 1.8%.",
+              "why": "Affordability is stretched to a structural extreme — that sustains rental demand and the case for build-to-rent, but keeps policy intervention on the table.",
+              "source": "INE / idealista · 25 Sep"
+            },
+            {
+              "headline": "Home sales fell 6.4% even as prices kept climbing",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/22/77780-venda-de-casas-em-portugal-volta-a-cair-subida-de-precos-perde-ritmo",
+              "summary": "Transactions dropped 6.4% year-on-year in Q2 2026 while prices still rose 16.5%, one year after the \"fiscal shock\" — volume is thinning but pricing holds.",
+              "why": "A supply-constrained, low-liquidity market rewards owners who can hold; buyers face fewer deals and tougher entry points.",
+              "source": "INE / idealista · 22 Sep"
+            },
+            {
+              "headline": "Commercial property investment hit €1.4bn in H1, up 14%",
+              "url": "https://dinheirovivo.dn.pt/empresas/portugal-capta-14-mil-milhes-de-euros-em-imobilirio-comercial-no-semestre",
+              "summary": "Savills counts €1.4bn across ~55 deals, led by hospitality (€508m, +54%) and logistics (+48%); offices slid 49% on scarce prime stock, and 61% of the capital came from abroad.",
+              "why": "Capital is rotating into hotels and logistics while offices starve for product — a clear steer on where institutional demand sits.",
+              "source": "Savills / Dinheiro Vivo · 24 Sep"
+            },
+            {
+              "headline": "Portugal rises up the global luxury-home map",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/24/77829-novo-mapa-do-mercado-residencial-de-luxo-joga-a-favor-de-portugal",
+              "summary": "Knight Frank's Residence Report puts Comporta and the Algarve among Europe's most coveted coastal spots, with Lisbon still holding \"room to appreciate\" versus London, Paris and Miami. UHNW buyers now own 3.8 homes on average.",
+              "why": "Prime coastal Portugal keeps its scarcity premium and foreign-wealth bid — supportive for high-end residential and branded-residence plays.",
+              "source": "Knight Frank / idealista · 24 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite higher rents, but haircut for delivery.",
+          "text": "If the reform passes, model freer rents and shorter voids — then discount hard for court delays and likely amendments before they reach cashflows."
+        },
+        {
+          "lead": "Follow the capital into hotels and sheds.",
+          "text": "H1's €1.4bn shows institutional money chasing hospitality and logistics; offices are starved of product, not demand."
+        },
+        {
+          "lead": "Scarcity is the Portuguese trade.",
+          "text": "Falling transactions with rising prices, and a luxury bid that won't quit, reward assets you can hold in supply-constrained locations."
+        },
+        {
+          "lead": "Affordability stress cuts both ways.",
+          "text": "Prices at 3× wage growth sustain rental demand for build-to-rent — and keep political intervention firmly in play."
+        }
+      ]
+    },
     {
       "date": "2026-09-26",
       "label": "26 Sep",
@@ -772,12 +882,6 @@
       "label": "18 Sep",
       "title": "Portugal's €1bn/yr housing bet: licensing reform lands Oct 1, 50k-home goal",
       "summary": "Portugal's government laid out its clearest supply plan yet at the Real Estate Summit. Housing Minister Miguel Pinto Luz set a target of 50,000+ new homes a year, backed by public funding rising from €200M to over €1bn annually plus €3bn in investor financing lines. A licensing reform takes effect on 1 October, cutting the municipal discretion that has long throttled development. State land via Estamo will seed public-private projects from mid-2027. Yet investors at the same summit warned Portugal has \"a product problem, not a capital problem\" — roughly 80% of development finance still funds build-to-sell, not the rental stock institutions want. Net: the policy scaffolding for supply is finally going up; execution and build-to-rent product are the test."
-    },
-    {
-      "date": "2026-09-17",
-      "label": "17 Sep",
-      "title": "Estoril summit warns of supply crunch; Lisbon office rents seen hitting €40/m²",
-      "summary": "Scarcity is the through-line of Portugal's market right now. At this week's Portugal Real Estate Summit in Estoril, 400+ investors heard that prime Lisbon office rents could reach €40/m² within two years, with product shortages spanning offices, logistics, hospitality and retail. The housing gap runs deep — 67,000 student beds and 70,000 senior-housing beds still needed — and 72% named faster licensing as the single biggest unlock. Demand isn't blinking: July mortgage lending hit a 2026 high of €2.84bn, renegotiations fell to a record low, and a new Belas villa lot sold 40% before public launch. Logistics again topped investors' pick for the decade. Net: capital is plentiful and space is not — the edge belongs to whoever can actually get product out of the ground."
     }
   ]
 }
