@@ -1,6 +1,116 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "editions": [
+    {
+      "date": "2026-09-28",
+      "label": "28 Sep",
+      "title": "Portugal's rental overhaul faces its 30 Sept vote — rent caps out, evictions faster",
+      "summary": "On 30 September, Parliament votes on a rental reform that would scrap the 2% cap on new-contract rent increases and cut the eviction timeline for non-payment from three months to two. Landlords could demand three months' rent in advance and set deposits with no ceiling. The government frames it as a supply-side fix to restore owner confidence and push idle homes back onto the market. Promulgation likely waits until after the 2027 Budget debate, so the real start date slips into next year. Meanwhile INE data shows house prices up 16.5% against 5.1% wage growth — the affordability gap this reform is meant, eventually, to ease. Net: pricing freedom is coming for landlords, but the timeline and the politics still carry risk.",
+      "hook": "Portugal's biggest rental shake-up in years goes to a vote in two days.",
+      "sections": [
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "New foundation targets 100,000 affordable-rent homes by 2045",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/24/77656-fundacao-nasce-para-dar-100-000-casas-de-renda-acessivel-ate-2045",
+              "summary": "Fundação Âncora, an Austria-inspired non-profit led by Pedro Sarmento, wants 100,000 middle-class rental homes by 2045, starting with a 1,000-unit, €200M first programme. Some €75M of MoUs are signed; no capital raised yet.",
+              "why": "It signals a “patient capital” channel — long-term debt at roughly half-market returns plus free municipal land — that could reshape how affordable rental gets financed in Portugal.",
+              "source": "idealista · 24 Sep"
+            },
+            {
+              "headline": "Gaia plans four new neighbourhoods with 1,200 social homes",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/25/77859-gaia-vai-ter-novos-bairros-com-1-200-apartamentos-de-habitacao-social",
+              "summary": "Vila Nova de Gaia will build four new neighbourhoods delivering 1,200 social-housing apartments.",
+              "why": "Large municipal pipelines shift where construction capacity and infrastructure spend land — context for private schemes competing for the same trades and sites in Greater Porto.",
+              "source": "idealista · 25 Sep"
+            },
+            {
+              "headline": "Funchal to invest €40M in around 300 homes by 2029",
+              "url": "https://www.iberian.property/news/residential/funchal-plans-eur40m-investment-in-around-300-homes-by-2029/",
+              "summary": "Madeira's capital plans a €40M residential push delivering roughly 300 homes by 2029.",
+              "why": "Island markets rarely see municipal-scale residential pipelines; the move points to public capital stepping in where private supply is thin.",
+              "source": "Iberian Property · 22 Sep"
+            },
+            {
+              "headline": "Lisbon to turn the old Council of Ministers building into 90 homes",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/23/77814-antigo-edificio-do-conselho-de-ministros-vai-dar-lugar-a-90-casas",
+              "summary": "The former Conselho de Ministros building in central Lisbon is set to be converted into 90 dwellings.",
+              "why": "Adaptive reuse of state assets is becoming a repeatable supply route in the capital — lower land cost and faster delivery than ground-up, with political tailwind.",
+              "source": "idealista · 23 Sep"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "CMVM clears Fomento SGOIC as a large-scale management company",
+              "url": "https://www.iberian.property/news/market-updates/cmvm-gives-the-go-ahead-to-fomento-sgoic-as-a-large-scale-management-company/",
+              "summary": "Portugal's securities regulator has authorised Fomento SGOIC to operate as a large-scale real-estate fund management company.",
+              "why": "A new large-scale manager means more institutional vehicles competing for Portuguese assets — added buy-side depth for anyone selling into the market.",
+              "source": "Iberian Property · 15 Sep"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Rental reform heads to a plenary vote on 30 September",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/23/77809-novas-regras-do-arrendamento-vao-a-votos-em-plenario-a-30-de-setembro",
+              "summary": "The bill removes the 2% cap on rent rises for new contracts, allows up to three months' rent in advance and uncapped deposits, and shortens the non-payment eviction window from three months to two.",
+              "why": "Freer pricing and faster remedies materially improve the underwriting case for build-to-rent and stabilised residential — but promulgation likely trails the 2027 Budget, so model the change for next year, not this one.",
+              "source": "idealista · 23 Sep"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "House prices grew three times faster than wages",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/25/77855-preco-das-casas-em-portugal-cresce-o-triplo-dos-salarios-num-ano",
+              "summary": "INE figures through Q2 2026 show home values up 16.5% over the year while average wages rose 5.1% (1.8% in real terms). Over the decade, prices are up 182% against 48% wage growth.",
+              "why": "Demand keeps outrunning incomes, underpinning capital values — but sharpening the affordability squeeze that is driving every policy lever now in play.",
+              "source": "idealista · 25 Sep"
+            },
+            {
+              "headline": "Portugal's data-centre race enters a new investment phase",
+              "url": "https://www.iberian.property/news/data-centers/portugals-data-centre-race-enters-a-new-investment-phase/",
+              "summary": "Capital is accelerating into Portuguese data centres as power, connectivity and land availability draw a fresh wave of operators and investors.",
+              "why": "Digital infrastructure is emerging as a distinct Portuguese asset class — long leases, credit tenants and structural demand that residential-heavy portfolios can diversify into.",
+              "source": "Iberian Property · 15 Sep"
+            },
+            {
+              "headline": "Retail parks claim a bigger share of Portugal's retail future",
+              "url": "https://www.idealista.pt/news/imobiliario/lojas/2026/09/25/77843-retail-parks-ganham-espaco-no-futuro-do-retalho-em-portugal",
+              "summary": "Retail parks are expanding above the European average in Portugal, favoured for lower occupancy costs, convenience and resilient footfall.",
+              "why": "For yield-focused investors, retail parks offer defensive income at wider cap rates than prime high street or offices — a segment worth tracking as capital rotates.",
+              "source": "idealista · 25 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Price the reform, don't bank it.",
+          "text": "The rental overhaul improves landlord economics, but promulgation slips past the 2027 Budget — hold the upside as optionality, not base case."
+        },
+        {
+          "lead": "Values still climbing.",
+          "text": "Prices up 16.5% against 5.1% wages means capital appreciation stays intact even as affordability worsens — the tension every policy move is chasing."
+        },
+        {
+          "lead": "Diversify beyond housing.",
+          "text": "Data centres and retail parks are widening the Portuguese opportunity set with longer leases and defensive income."
+        },
+        {
+          "lead": "More buyers are coming.",
+          "text": "A new large-scale manager plus patient-capital vehicles deepen the buy-side — good for exits, tougher on entry pricing."
+        }
+      ]
+    },
     {
       "date": "2026-09-27",
       "label": "27 Sep",
@@ -876,12 +986,6 @@
       "label": "19 Sep",
       "title": "Grande Porto resales -16%, Lisbon luxury +39%: Portugal's two-speed housing market",
       "summary": "Portugal's housing market is splitting in two. Fresh first-half data shows used-home sales down 16% in Grande Porto and 9.1% in Grande Lisboa - even as new-build sales hit record highs, up 11% in Porto and 6.6% in Lisbon. In prime Lisbon, luxury sales jumped 39% while supply shrank almost 19%. Savills' read is blunt: this is an offer problem, not a demand problem. Meanwhile institutional capital is recycling - Nido Livensa sold 883 student beds - and a new accessible-rent tax holiday is days from its rulebook. Net: the returns are in building and buying new, not in waiting for resale stock to cheapen."
-    },
-    {
-      "date": "2026-09-18",
-      "label": "18 Sep",
-      "title": "Portugal's €1bn/yr housing bet: licensing reform lands Oct 1, 50k-home goal",
-      "summary": "Portugal's government laid out its clearest supply plan yet at the Real Estate Summit. Housing Minister Miguel Pinto Luz set a target of 50,000+ new homes a year, backed by public funding rising from €200M to over €1bn annually plus €3bn in investor financing lines. A licensing reform takes effect on 1 October, cutting the municipal discretion that has long throttled development. State land via Estamo will seed public-private projects from mid-2027. Yet investors at the same summit warned Portugal has \"a product problem, not a capital problem\" — roughly 80% of development finance still funds build-to-sell, not the rental stock institutions want. Net: the policy scaffolding for supply is finally going up; execution and build-to-rent product are the test."
     }
   ]
 }
