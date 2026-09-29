@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "editions": [
+    {
+      "date": "2026-09-29",
+      "label": "29 Sep",
+      "title": "Portugal's rental overhaul faces its final vote tomorrow — 2% cap gone, evictions halved",
+      "summary": "Parliament votes tomorrow, 30 September, on the government's rental reform — the most consequential change to Portuguese lettings in years. New contracts would lose the 2% cap on rent increases, deposit ceilings would disappear, and eviction for non-payment would drop from three months to two. Backers say freeing landlord terms will pull more homes onto the market; DECO and tenant groups call it a transfer of risk onto renters. It lands as prices cool to +16.5% and capital quietly rotates — logistics up 35% to €181M, demand spilling out of Lisbon and Porto into Aveiro, Braga, Leiria and the Alentejo coast. Net: the yield case for Portuguese rental stock is being rewritten in real time — read the fine print before you underwrite.",
+      "hook": "Portugal rewrites the rules of renting — in a single vote tomorrow.",
+      "sections": [
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Rental reform reaches its final vote",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/25/77857-nova-lei-do-arrendamento-agravara-exposicao-financeira-dos-inquilinos",
+              "summary": "The package headed to a plenary vote on 30 September scraps the 2% cap on new-contract rent rises, removes limits on security deposits, and cuts the non-payment eviction window from three months to two. Consumer body DECO and tenant associations warn it shifts financial exposure onto renters.",
+              "why": "Uncapped rent growth and larger deposits reprice the income side of every new Portuguese tenancy — and rewrite landlords' underwriting overnight.",
+              "source": "idealista · 25 Sep"
+            },
+            {
+              "headline": "Capital-gains break excludes 2025 sellers",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/28/77879-nova-regra-das-mais-valias-deixa-de-fora-casas-vendidas-em-2025",
+              "summary": "The new IRS exemption — for gains on a primary home reinvested into moderate-rent housing — applies only to sales made between 1 January 2026 and 31 December 2029. Anyone who sold in 2025, even if they reinvest now, is shut out.",
+              "why": "Disposal date is now a hard tax boundary — diligence when a seller sold before pricing their after-tax position.",
+              "source": "idealista · 28 Sep"
+            }
+          ]
+        },
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Logistics investment jumps 35% to €181M",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/28/77869-investimento-em-imobiliario-logistico-acelera-e-chega-aos-181-milhoes",
+              "summary": "JLL reports H1 logistics and industrial investment up 35% year-on-year, with 200,000 m² of take-up across 30 deals and prime rents at €7.00/m²/month. But 359,000 m² of the 645,000 m² under construction is being built speculatively, with no leases signed.",
+              "why": "The sheds thesis is where the money is moving — but a large unlet pipeline is the first place occupier demand gets tested.",
+              "source": "idealista / JLL · 28 Sep"
+            },
+            {
+              "headline": "Madeira buys Lourdes Castro estate for €3M",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/28/77890-madeira-compra-propriedade-de-lourdes-castro-por-3-milhoes-de-euros",
+              "summary": "The regional government acquired the late artist's 12,330 m² quinta in Santa Cruz — designed by Castro and architect Manuel Zimbro — negotiating from a €4.1M asking price. It will become a cultural centre for exhibitions and artistic residencies.",
+              "why": "A reminder that heritage and cultural end-use are live buyers for landmark Portuguese property — and a public bid can reset a stalled private asking price.",
+              "source": "idealista · 28 Sep"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Construction firms up into H2",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/28/77871-construcao-da-sinais-de-forca-no-arranque-do-segundo-semestre",
+              "summary": "Licensed dwellings rose 4.5% to 25,854 through July even as the number of licensed projects fell 7.7% — fewer but larger schemes, led by Greater Lisbon (+6%). New mortgage lending climbed 11.3% to €14.5bn and cement consumption 6%, per AICCOPN.",
+              "why": "Supply is finally building — but consolidation into bigger projects favours developers with scale and financing depth.",
+              "source": "idealista / AICCOPN · 28 Sep"
+            },
+            {
+              "headline": "Coimbra advances 54 municipal homes",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/28/77881-coimbra-dinamiza-habitacao-municipal-com-mais-de-50-casas-e-9-milhoes",
+              "summary": "The city is rehabilitating 54 homes over two phases for €9M, PRR-funded — 33 T2 units delivered at Bairro da Fonte do Castanheiro and 21 more underway. It sits alongside Quinta das Bicas, targeting 268 municipal homes for 128 families.",
+              "why": "Municipal and PRR-backed pipelines are a growing counterparty and comparable set for private developers competing in secondary cities.",
+              "source": "idealista · 28 Sep"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "The demand map moves out of the big two",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/29/77901-investir-em-imobiliario-em-portugal-o-mapa-da-procura-esta-a-mudar",
+              "summary": "With Q2 prices up 16.5% (cooling from ~20%) and transactions down 6.4% but still above 40,000, investors are rotating out of Lisbon and Porto toward Aveiro, Braga, Guimarães and Leiria, the Oeste (Óbidos, Caldas, Peniche) and the Alentejo coast around Sines.",
+              "why": "Secondary markets with real jobs and transport are absorbing the buyers priced out of the metros — infrastructure, not postcode, picks the winners.",
+              "source": "idealista · 29 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite the new lease regime, not the old.",
+          "text": "Removing the 2% cap and deposit limits changes rent-growth and security assumptions on every new tenancy — model both a pass and a fail of tomorrow's vote."
+        },
+        {
+          "lead": "Follow the capital into logistics.",
+          "text": "+35% to €181M with prime rents at €7/m² is a live thesis — but the 359,000 m² being built without leases is where the cycle turns first."
+        },
+        {
+          "lead": "Hunt the secondary map.",
+          "text": "Aveiro, Braga, Leiria, Óbidos and Sines are absorbing demand priced out of Lisbon and Porto — screen for infrastructure, not just yield."
+        },
+        {
+          "lead": "Make tax timing a deal term.",
+          "text": "The mais-valias reinvestment exemption only helps sales from 2026 on — check the disposal date before pricing any seller's after-tax return."
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "label": "28 Sep",
@@ -980,12 +1076,6 @@
           "text": "Data centres turn megawatts into the scarce asset — land near power and grid capacity is a new, adjacent thesis."
         }
       ]
-    },
-    {
-      "date": "2026-09-19",
-      "label": "19 Sep",
-      "title": "Grande Porto resales -16%, Lisbon luxury +39%: Portugal's two-speed housing market",
-      "summary": "Portugal's housing market is splitting in two. Fresh first-half data shows used-home sales down 16% in Grande Porto and 9.1% in Grande Lisboa - even as new-build sales hit record highs, up 11% in Porto and 6.6% in Lisbon. In prime Lisbon, luxury sales jumped 39% while supply shrank almost 19%. Savills' read is blunt: this is an offer problem, not a demand problem. Meanwhile institutional capital is recycling - Nido Livensa sold 883 student beds - and a new accessible-rent tax holiday is days from its rulebook. Net: the returns are in building and buying new, not in waiting for resale stock to cheapen."
     }
   ]
 }
