@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "editions": [
+    {
+      "date": "2026-09-30",
+      "label": "30 Sep",
+      "title": "Portugal logistics investment jumps 35% to €181M as capital chases prime",
+      "summary": "Money is flowing back to Portugal's best assets. Logistics and industrial investment jumped 35% to €181M in H1, JLL reports, with prime rents at €7/m². Lenders are chasing stabilised offices too: Signal Capital's fully-let Cais 5 in Cais do Sodré just secured Abanca financing. The 2030 World Cup is stretching the runway further, with 111 hotels and over 12,000 rooms in the pipeline. Supply is following demand — licensed dwellings rose 4.5% even as project counts fell, a sign developers are building bigger, fewer schemes. Net: the capital-markets thaw is real, and it rewards prime, income-producing assets over discovery.",
+      "hook": "Capital is rotating back into prime Portuguese real estate.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Signal Capital's fully-let Cais 5 secures Abanca financing",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/09/29/77895-edificio-de-escritorios-cais-5-assegura-financiamento-junto-do-abanca",
+              "summary": "Signal Capital Partners refinanced Cais 5, a 5,900 m² office building in Cais do Sodré, with Abanca after reaching 100% occupancy — TagEnergy, HAVI and Trustly are among the tenants of the LEED/WELL Gold-rated asset. CBRE advised on the structuring.",
+              "why": "Lenders are back for stabilised prime Lisbon offices — a signal that debt is flowing to income, not to speculative development.",
+              "source": "idealista · 29 Sep"
+            },
+            {
+              "headline": "NxN Data Centers enters Portugal with Évora acquisition",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/24/77840-nxn-data-centers-compra-centro-de-dados-em-evora-e-esta-a-investir",
+              "summary": "Spain's NxN bought an operating 1 MW data centre in Évora, on the Lisbon–Madrid axis, and pledged €100M of investment in Portugal over three years. CEO Javier Salas framed it as a long-term market entry.",
+              "why": "Digital infrastructure is becoming a Portuguese asset class — land near power and fibre in the Alentejo now has a data-centre bid behind it.",
+              "source": "idealista · 24 Sep"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Conde da Ribeira brings 24 riverside homes to Alcântara",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/07/77487-nasce-uma-nova-forma-de-habitar-entre-o-tejo-e-a-sofisticacao-lisboeta",
+              "summary": "Miguel Saraiva designed the two-block Alcântara scheme — 24 apartments from T0 to T6+1 plus five duplex penthouses, priced €620k to €2.1M, with several already sold. Amenities include a resident garden, gym and two parking levels.",
+              "why": "Early sell-through at €620k-plus confirms depth of demand for design-led riverfront stock along the Tagus — the Alcântara/LX corridor keeps repricing up.",
+              "source": "idealista · 28 Sep"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Ponta Delgada raises building heights in PDM revision",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/29/77922-ponta-delgada-reforca-capacidade-construtiva-para-habitacao",
+              "summary": "The Azorean capital is revising its municipal plan to allow taller buildings — three floors as the standard in consolidated urban areas — to unlock more housing without sprawl. The câmara votes on 1 October before regional review.",
+              "why": "Height relaxations lift buildable area per plot — a direct margin lever for developers, and a template other supply-starved municipalities may copy.",
+              "source": "idealista · 29 Sep"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Logistics investment surges 35% to €181M in H1",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/28/77869-investimento-em-imobiliario-logistico-acelera-e-chega-aos-181-milhoes",
+              "summary": "JLL clocked €181M into industrial and logistics in the first half, up 35% year-on-year, with ~200,000 m² leased across 30 deals. Prime rents hit €7/m², and the CREL Norte corridor rose to €4.50.",
+              "why": "Rent growth on live occupier demand — not yield compression — is driving the sheds trade, the healthiest kind of momentum for underwriters.",
+              "source": "idealista / JLL · 28 Sep"
+            },
+            {
+              "headline": "2030 World Cup lifts investor appetite; 12,000 rooms in pipeline",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/28/77777-mundial-de-futebol-2030-aumenta-apetite-de-investidores-em-portugal",
+              "summary": "A Christie & Co study counts 111 hotels and 12,000+ rooms in Portugal's pipeline, ~80% under international brands, as the tournament and 2025 RevPAR of €82.40 (up 41.7% on 2019) pull chains in for the long term.",
+              "why": "The World Cup is a decade-long visibility play, not an event trade — hospitality and infrastructure exposure in Lisbon, Porto and the Algarve compounds through 2030.",
+              "source": "idealista / Christie & Co · 30 Sep"
+            },
+            {
+              "headline": "Licensed homes rise 4.5% even as project count falls",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/28/77871-construcao-da-sinais-de-forca-no-arranque-do-segundo-semestre",
+              "summary": "AICCOPN data for Jan–Jul show 25,854 licensed dwellings (+4.5%) across 7.7% fewer projects — bigger, denser schemes. Lisbon led with 5,727 units; housing credit grew 11.3% to €14.5bn.",
+              "why": "Consolidation into larger developments favours capitalised players — and rising valuations (+15.2%) confirm the supply gap isn't closing fast.",
+              "source": "idealista / AICCOPN · 28 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Prime is where the money is.",
+          "text": "Cais 5's Abanca debt and the logistics surge both reward stabilised, well-let income over ground-up discovery."
+        },
+        {
+          "lead": "Logistics is the momentum trade.",
+          "text": "35% investment growth on rising rents, not yield compression, points to durable occupier demand."
+        },
+        {
+          "lead": "Scale is the edge on supply.",
+          "text": "Fewer, larger residential schemes and height relaxations reward developers who can build at volume."
+        },
+        {
+          "lead": "Position early for 2030.",
+          "text": "The World Cup reshapes hospitality and infrastructure through the decade — the entry window is now."
+        }
+      ]
+    },
     {
       "date": "2026-09-29",
       "label": "29 Sep",
@@ -966,114 +1062,6 @@
         {
           "lead": "Selectivity beats repricing.",
           "text": "Global capital wants logistics, urban hotels and prime CBD — a discount alone no longer clears the investment committee."
-        }
-      ]
-    },
-    {
-      "date": "2026-09-20",
-      "label": "20 Sep",
-      "title": "Portugal's cheap-asset era is over: investors now want fundamentals, not a discount",
-      "summary": "Portugal's investment story shifted at the Portugal Real Estate Summit. The verdict from Hines, Tristan and Signal was blunt: 'repricing in itself is not an investment thesis.' The capital is still here — it now wants supply constraints, rental growth and a credible exit, not a cheap entry price. Money is concentrating where fundamentals are hardest to fake: Merlin is committing €2.2bn to data centres by 2028, and prime logistics vacancy sits below 3%. But housing has a 'product problem' — roughly 40,000 homes licensed in 2025 against a shortage north of 300,000. Net: the easy Portugal trade is over — underwriting, not discovery, is now the edge.",
-      "hook": "The discount is gone. Portugal now has to compete on fundamentals.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Panattoni Park Valongo hits 100% occupancy as THC expands",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/09/15/77640-panattoni-park-valongo-atinge-100-de-ocupacao-com-expansao-da-thc",
-              "summary": "Logistics operator THC leased an extra 6,607 m² — taking it to 12,492 m² — which filled the ~75,000 m² Panattoni park near Porto. A prime northern logistics asset is now fully let.",
-              "why": "Sub-3% vacancy and speed-to-full-lease confirm northern Portugal logistics as one of the market's tightest, most investable segments.",
-              "source": "idealista · 15 Sep"
-            },
-            {
-              "headline": "CMVM clears Fomento SGOIC as a large-scale manager",
-              "url": "https://www.iberian.property/news/market-updates/cmvm-gives-the-go-ahead-to-fomento-sgoic-as-a-large-scale-management-company/",
-              "summary": "The regulator upgraded Banco Português de Fomento's fund arm (currently ~€440m under management) to operate above the €500m threshold, clearing it to run bigger, more complex vehicles.",
-              "why": "A state-backed manager with room to scale can co-invest alongside private capital — a potential anchor for larger Portuguese real-estate deals.",
-              "source": "Iberian Property · 15 Sep"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Portugal's data-centre race enters its capital phase",
-              "url": "https://www.iberian.property/news/data-centers/portugals-data-centre-race-enters-a-new-investment-phase/",
-              "summary": "Merlin Properties is deploying €2.2bn to ~200MW by end-2028 (80% for AI workloads), while Start Campus runs 36MW at Sines with 200MW in the pipeline. The pitch now: “power and grid” beat location.",
-              "why": "Data centres are reshaping the deal set — leasing moves from space to megawatts, and grid access becomes the scarce asset to underwrite.",
-              "source": "Iberian Property · 15 Sep"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "iad launches its luxury arm, iad Prestige, in Portugal",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/09/17/77701-iad-prestige-estreia-se-em-portugal-com-foco-no-imobiliario-de-luxo",
-              "summary": "The French brokerage picked Portugal for the first international rollout of its high-end brand, plugging local prime stock into a network of 20,000+ consultants. CEO Ricardo Marques: “Prestige não é apenas luxo.”",
-              "why": "A major network doubling down on Portuguese luxury signals where the buyer demand — and the commissions — still are.",
-              "source": "idealista · 17 Sep"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Construir Portugal targets 50,000+ homes a year",
-              "url": "https://www.iberian.property/news/residential/government-targets-more-than-50000-new-homes-a-year-as-construir-portugal-strategy-takes-shape/",
-              "summary": "Minister Miguel Pinto Luz set ~40,000 homes for 2026 and 50,000+ for 2027 (133,000 long-term), with licensing reform live from 1 October, a 6% VAT rate, and a residential leasing law now in Parliament.",
-              "why": "Faster licensing, reduced VAT and 25-year contracts plus EIB guarantees are the levers that could finally make build-to-rent pencil in Portugal.",
-              "source": "Iberian Property · 14 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "‘Repricing is not a thesis’: how global capital now reads Portugal",
-              "url": "https://www.iberian.property/news/market-updates/the-ugly-ducklings-and-the-swans-how-international-investors-are-reading-portugal/",
-              "summary": "Hines, Tristan and Signal argued Portugal can no longer sell itself as an undiscovered discount; investors want fundamentals. Prime offices are clearing at €32–35/m² and logistics vacancy is below 3%.",
-              "why": "“Bipolarity” is setting in — prime thrives, secondary struggles, and the margin for error on entry price has narrowed sharply.",
-              "source": "Iberian Property · 16 Sep"
-            },
-            {
-              "headline": "Portugal has the capital and the demand — but a ‘product problem’",
-              "url": "https://www.iberian.property/news/residential/residential-investment-portugal-has-the-capital-and-demand-but-still-needs-the-product/",
-              "summary": "Sonae Sierra, Krest and CGD said build-to-rent stays underbuilt despite strong demand: only ~40,000–42,000 dwellings licensed in 2025 against a 300,000+ shortage, and BTR is just ~20% of CGD's development lending.",
-              "why": "The gap between capital and deliverable product is the opening — whoever solves licensing and construction speed captures the BTR pipeline.",
-              "source": "Iberian Property · 14 Sep"
-            },
-            {
-              "headline": "Greater Porto: listings down 74% from peak, prices up 8.3%",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/17/77631-habitacao-no-grande-porto-oferta-em-queda-e-procura-firme",
-              "summary": "idealista data show Greater Porto stock at ~33,000 listings (down 74% from 2021), prices +8.3% year-on-year — Porto at €4,300/m² — and rental supply down 18% with 17 enquiries per listing.",
-              "why": "A structural supply crunch is pushing demand to the periphery (Valongo, Matosinhos) — where new product can still be priced into a rising market.",
-              "source": "idealista · 17 Sep"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwriting beats discovery.",
-          "text": "The “cheap Portugal” case is dead; edge now comes from supply constraints, rental growth and a mapped exit."
-        },
-        {
-          "lead": "Tight beats broad.",
-          "text": "Logistics under 3% vacancy and Porto stock down 74% are where scarcity, not sentiment, drives pricing."
-        },
-        {
-          "lead": "The product gap is the play.",
-          "text": "Capital is abundant and delivery isn't — the licensing-and-construction bottleneck is exactly what a hands-on manager can arbitrage."
-        },
-        {
-          "lead": "Watch the grid.",
-          "text": "Data centres turn megawatts into the scarce asset — land near power and grid capacity is a new, adjacent thesis."
         }
       ]
     }
