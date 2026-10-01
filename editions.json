@@ -1,6 +1,128 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "editions": [
+    {
+      "date": "2026-10-01",
+      "label": "01 Oct",
+      "title": "Portugal's rental overhaul clears first vote — 2% rent cap scrapped, evictions sped up",
+      "summary": "Portugal's rental-law reform (NRAU) cleared its general-debate vote on 30 September, after PSD struck a written deal with Chega. The headline shift: new contracts lose the 2% annual rent cap, deposits can run to three months, and eviction for non-payment drops from three months to two. Pre-1990 frozen rents start a five-year glide path to market terms for most tenants under 65. It lands with median rents at a record €10.17/m², up 10% year-on-year. Ninety days of specialty debate could still reshape the detail — but the direction is unmistakably toward landlords. Net: if it holds, Portuguese residential underwriting gets materially more investable.",
+      "hook": "The rules of being a landlord in Portugal just started to change.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "NxN Data Centers buys an Évora data centre, entering Portugal",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/24/77840-nxn-data-centers-compra-centro-de-dados-em-evora-e-esta-a-investir",
+              "summary": "Spain's NxN Data Centers has acquired an operating ~1-MW data centre in Évora — its first move into Portugal — and plans further investment in the asset.",
+              "why": "Portugal's data-centre story is now pulling in specialist cross-border operators, not just hyperscalers — a thesis worth tracking for land near power and fibre.",
+              "source": "idealista · 24 Sep"
+            },
+            {
+              "headline": "Government cedes land for a new tech centre in Ponte de Lima",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/25/77851-governo-cede-terreno-para-novo-centro-tecnologico-em-ponte-de-lima",
+              "summary": "The state is handing over a former university property to anchor a new technology centre, pairing public land with private tech infrastructure.",
+              "why": "Public land contributions are becoming a real development tool — watch for similar municipal plays that de-risk site assembly.",
+              "source": "idealista · 25 Sep"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Lisbon's refurbished Malhoa 11 hits 100% occupancy",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/09/30/77926-malhoa-11-fecha-portas-ao-mercado-edificio-esta-100-ocupado",
+              "summary": "All eleven floors of the renovated Malhoa 11 office building are now let, closing fully occupied after a comprehensive overhaul.",
+              "why": "Prime, renovated Lisbon offices are still absorbing tenants despite hybrid-work noise — refurb-to-core remains a viable office play.",
+              "source": "idealista · 30 Sep"
+            },
+            {
+              "headline": "Vitasal brings 254 new homes to Aveiro's salt flats",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/30/77925-sal-ria-e-cidade-a-receita-residencial-de-aveiro-com-254-novas-casas",
+              "summary": "A new scheme will deliver 254 apartments across three buildings in Aveiro's historic salt-producing district.",
+              "why": "Secondary cities like Aveiro are where mid-market residential pipeline is now being built — cheaper land, real demand.",
+              "source": "idealista · 30 Sep"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Mota-Engil launches AUDACIOUS, a global construction-tech push",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/09/30/77930-mota-engil-desafia-startups-com-programa-internacional-de-inovacao",
+              "summary": "Portugal's biggest contractor has launched AUDACIOUS, an international programme to scout and accelerate startup technologies across its building operations.",
+              "why": "The country's largest builder is betting on construction-tech — cost and speed gains here flow straight to developer margins.",
+              "source": "idealista · 30 Sep"
+            },
+            {
+              "headline": "Fomento cleared as a large-scale manager, eyeing €500M AUM",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/17/77694-fomento-reforca-musculo-financeiro-e-aponta-aos-500-milhoes-sob-gestao",
+              "summary": "Real-estate fund manager Fomento has secured regulatory classification as a large-scale operator and is targeting €500 million under management.",
+              "why": "A maturing domestic fund-management layer gives local developers more homegrown capital to partner with.",
+              "source": "idealista · 18 Sep"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Rental-law reform clears its first vote via a PSD–Chega deal",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/30/77950-lei-das-rendas-vai-a-especialidade-sem-votar-montenegro-aposta-no-chega",
+              "summary": "The NRAU overhaul passed general debate on 30 September — scrapping the 2% rent cap on new contracts, allowing three-month deposits and cutting eviction timelines — and now enters 90 days of specialty debate.",
+              "why": "This is the single biggest swing in Portuguese residential economics in years — it directly reshapes yield assumptions on rented stock.",
+              "source": "idealista · 30 Sep"
+            },
+            {
+              "headline": "Free BUPi land registration ends — now €15 a plot",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/30/77929-registo-gratuito-de-terrenos-no-bupi-termina-e-passa-a-custar-15-euros",
+              "summary": "Free rural-land registration through the BUPi platform ended on 1 October; new registrations now cost €15 each.",
+              "why": "A modest cost, but it formalises the rural cadastre further — relevant to anyone assembling or titling land plots.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Logistics investment hits €181M, up ~35% year-on-year",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/28/77869-investimento-em-imobiliario-logistico-acelera-e-chega-aos-181-milhoes",
+              "summary": "Logistics and industrial real estate drew €181 million in H1 2026, up roughly 35% on the year, as occupier demand keeps outpacing supply.",
+              "why": "Sheds remain Portugal's tightest, best-bid sector — rental growth is doing the heavy lifting on returns.",
+              "source": "idealista · 28 Sep"
+            },
+            {
+              "headline": "2030 World Cup lifts investor appetite for hospitality",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/28/77777-mundial-de-futebol-2030-aumenta-apetite-de-investidores-em-portugal",
+              "summary": "Major hotel groups are treating the runway to the co-hosted 2030 World Cup as a long-term growth signal, lifting appetite for Portuguese hospitality assets.",
+              "why": "A 2030 tournament is becoming an underwriting tailwind for hotels and tourism-linked assets through the decade.",
+              "source": "idealista · 28 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwriting beats discovery.",
+          "text": "Removing the rent cap on new contracts changes the residential model more than any single deal this week."
+        },
+        {
+          "lead": "Capital is rotating to beds and sheds.",
+          "text": "Logistics +35% and new data-centre entrants show where institutional money is going."
+        },
+        {
+          "lead": "Watch the 90 days.",
+          "text": "The specialty phase is where the rental reform's teeth get set — track it before committing to residential."
+        },
+        {
+          "lead": "Land plumbing matters.",
+          "text": "Paid BUPi registration is small, but it signals the state formalising rural land — useful for plot assembly."
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "label": "30 Sep",
@@ -966,102 +1088,6 @@
         {
           "lead": "Refi windows are reopening.",
           "text": "Jamestown's Crédito Agrícola line shows lenders will fund value-add capex again on quality Lisbon assets."
-        }
-      ]
-    },
-    {
-      "date": "2026-09-21",
-      "label": "21 Sep",
-      "title": "Portugal's licensing overhaul goes live Oct 1 — prior communication replaces permits",
-      "summary": "On 1 October Portugal's new urban-licensing regime (DL 108/2026) takes effect. For projects with settled planning parameters, licensing gives way to 'prior communication' — work can start on the scheduled date, with the council checking afterwards. That compresses timelines but shifts liability onto architects and technical authors, who now certify compliance up front. Alongside it, the 'Construir Portugal' plan is scaling public housing spend to €1bn a year and dangling €3bn in financing lines. Meanwhile capital is chasing a different prize: Merlin has sunk €500M into data centres and is heading past €1bn by 2027. Net: the pipeline is getting faster and better-funded — but the risk is moving from the town hall to your project team.",
-      "hook": "Portugal is about to rewrite how you get a building approved.",
-      "sections": [
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Portugal's data-centre race enters a new investment phase",
-              "url": "https://www.iberian.property/news/data-centers/portugals-data-centre-race-enters-a-new-investment-phase/",
-              "summary": "Merlin Properties has already deployed roughly €500M across ~200MW and expects to pass €1bn by end-2027, while Start Campus advances a 200MW second building at Sines with customers pre-secured.",
-              "why": "Grid capacity and renewable power — not location — now drive Portugal's fastest-growing asset class, pulling institutional capital toward Sines and Lisbon.",
-              "source": "Iberian Property · 15 Sep"
-            },
-            {
-              "headline": "Foreign trio to build 245 homes across Portugal for €87M",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/07/77499-estrangeiros-aterram-em-portugal-e-constroem-245-casas-por-87-milhoes",
-              "summary": "Nova Atlantic, founded by three international investors, is developing 245 units in Sintra (Belas, €43M), Vila Nova de Gaia (€22M) and Viana do Castelo (€22M).",
-              "why": "Foreign capital keeps flowing into mid-market residential development even as domestic supply lags — a signal of where build-to-sell margins still work.",
-              "source": "idealista · 7 Sep"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "CMVM clears Fomento SGOIC to manage above €500M",
-              "url": "https://www.iberian.property/news/market-updates/cmvm-gives-the-go-ahead-to-fomento-sgoic-as-a-large-scale-management-company/",
-              "summary": "The Banco Português de Fomento management company won 'large-scale' status from the regulator, letting it move past the €500M threshold from its current €440M and build more complex vehicles.",
-              "why": "A bigger state-backed manager means more public co-investment firepower for Portuguese real assets — a potential partner or competitor on institutional deals.",
-              "source": "Iberian Property · 15 Sep"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "New urban-licensing regime takes effect 1 October",
-              "url": "https://www.certiamb.com/insights/insight-22.html",
-              "summary": "Under DL 108/2026, projects with settled planning parameters shift from licensing to 'prior communication': work starts on schedule and the council verifies within a year, with tacit approval on defined deadlines.",
-              "why": "The biggest change to Portuguese permitting in years — faster starts, but compliance risk moves onto architects and technical authors.",
-              "source": "Certiamb / DRE · Sep"
-            },
-            {
-              "headline": "'Construir Portugal' scales to €1bn a year in public housing",
-              "url": "https://www.iberian.property/news/residential/government-targets-more-than-50000-new-homes-a-year-as-construir-portugal-strategy-takes-shape/",
-              "summary": "The government targets 40,000 homes in 2026 and 50,000+ in 2027, quadrupling public housing investment to €1bn annually and opening €3bn in financing lines, alongside a 6% VAT rate for qualifying rentals.",
-              "why": "State money and tax breaks are reshaping the residential development equation — and the first PPP land deals begin by mid-2027.",
-              "source": "Iberian Property · 14 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Global capital turns selective: Portugal's 'swans vs ugly ducklings'",
-              "url": "https://www.iberian.property/news/market-updates/the-ugly-ducklings-and-the-swans-how-international-investors-are-reading-portugal/",
-              "summary": "Investors now favour logistics (sub-3% Lisbon vacancy), urban hotels and prime CBD offices at €32-35/sqm, while shunning suburban offices and secondary retail; 'repricing in itself does not constitute an investment thesis'.",
-              "why": "The buy-anything phase is over — underwriting now needs rental-growth visibility and exit liquidity, not just a discount.",
-              "source": "Iberian Property · 16 Sep"
-            },
-            {
-              "headline": "Portugal has the capital and demand — but not the product",
-              "url": "https://www.iberian.property/news/residential/residential-investment-portugal-has-the-capital-and-demand-but-still-needs-the-product/",
-              "summary": "A 300,000-home deficit persists as build-to-rent stays underdeveloped (CGD says ~80% of development financing is still build-to-sell) and Q1 cement consumption fell despite rising licences.",
-              "why": "The bottleneck is deliverable schemes, not money — whoever can originate shovel-ready product captures outsized demand.",
-              "source": "Iberian Property · 14 Sep"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwrite the new liability.",
-          "text": "With councils checking after the fact from 1 October, technical-author risk and professional indemnity become a line item in every development budget."
-        },
-        {
-          "lead": "Speed is the new alpha.",
-          "text": "Prior communication can shave months off go-to-market; funds that master the tacit-approval clock will out-execute slower buyers on land."
-        },
-        {
-          "lead": "Follow the power, not just the postcode.",
-          "text": "Data centres are pulling institutional capital toward grid-rich Sines and Lisbon; land near substations is repricing fast."
-        },
-        {
-          "lead": "Selectivity beats repricing.",
-          "text": "Global capital wants logistics, urban hotels and prime CBD — a discount alone no longer clears the investment committee."
         }
       ]
     }
