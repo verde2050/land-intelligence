@@ -1,6 +1,128 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "editions": [
+    {
+      "date": "2026-10-02",
+      "label": "02 Oct",
+      "title": "New building code takes effect as Portugal tops EU house-price growth at 16.5%",
+      "summary": "Portugal's new building and urban-planning code (RJUE) took effect on 1 October, scrapping up-front municipal checks for a prior-communication model in which developers start work immediately and carry the compliance risk. Small works — interiors, sub-10m² structures, solar panels — are now licence-free. Sale contracts must now state whether a property holds valid urban licensing, pushing diligence onto buyers. It lands into a market running hot: Portuguese house prices rose 16.5% year-on-year in Q2, the steepest in the EU, with September asking prices up 7.9% to a record €3,228/m². Capital keeps arriving — NxN just entered via an Évora data centre, and Sonae Sierra lined up a new CEO. Net: faster permitting rewards developers who can underwrite their own risk — in the most expensive market Portugal has ever had.",
+      "hook": "Portugal rewrote how you build — just as it became Europe's hottest housing market.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "NxN enters Portugal with an Évora data centre and a €100M plan",
+              "url": "https://www.iberian.property/news/data-centers/nxn-data-centers-acquires-evora-data-centre/",
+              "summary": "NxN Data Centers bought a 1 MW facility in Évora from the insolvent Portuguese operator Decsis — its first Portuguese asset — and says it will invest up to €100M in the country over three years.",
+              "why": "A live, cash-flowing data centre bought out of insolvency is operational infrastructure at a distressed basis — and a marker that the AI-driven data-centre land grab has reached Portugal's interior.",
+              "source": "Iberian Property · 30 Sep"
+            },
+            {
+              "headline": "Levira furniture complex heads to auction for nearly €10M",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77963-antiga-fabrica-de-mobiliario-vai-a-leilao-por-quase-10-milhoes",
+              "summary": "The former Levira furniture factory is listed for auction at roughly €10M, with bidding closing on 9 October.",
+              "why": "Large industrial sites coming to market by auction are repositioning plays — logistics conversion or mixed-use — priced off land value rather than existing use.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Matosinhos plans 108 homes on the old Leixões sports ground",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77970-matosinhos-quer-construir-casas-e-lojas-no-antigo-campo-do-leixoes",
+              "summary": "The municipality wants to build 108 dwellings plus retail, parking and a public plaza on the former Leixões Sports Club grounds.",
+              "why": "Municipally-driven infill on under-used urban land in Greater Porto is exactly where new RJUE timelines meet acute supply shortage — watch for developer tenders.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Sonae Sierra names Luís Mota Duarte as CEO from 2027",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77961-luis-mota-duarte-assume-lideranca-da-sonae-sierra-em-2027",
+              "summary": "Mota Duarte, vice-president and an M&A and investment hand who joined the group in 2014, takes over in January 2027 from Fernando Guedes de Oliveira after more than 15 years. Sonae Sierra owns and runs centres including Colombo and NorteShopping.",
+              "why": "An investment-side leader at the helm of Portugal's biggest retail-property platform signals a capital-recycling, deal-led chapter — relevant to anyone trading Iberian retail assets.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Arrow Global takes 6,200 m² at República 5 in Saldanha",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/01/77949-arrow-global-portugal-encontra-nova-casa-no-coracao-de-lisboa",
+              "summary": "The investment manager is relocating to 6,200 m² across the República 5 building in central Lisbon, housing roughly 700 staff.",
+              "why": "A 6,200 m² prime-CBD letting is a rare large-ticket office take-up in a tight Lisbon market — a data point for anyone underwriting central office rents.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Rental reform advances to committee as Chega abstains",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/30/77950-lei-das-rendas-vai-a-especialidade-sem-votar-montenegro-aposta-no-chega",
+              "summary": "The government's housing/rental package moved to the committee stage after Chega abstained, letting it clear its first vote — with Montenegro banking on that abstention to pass the detail.",
+              "why": "The terms that survive committee will set the risk profile of residential rental income — the single biggest swing factor for build-to-rent underwriting in Portugal.",
+              "source": "idealista · 30 Sep"
+            },
+            {
+              "headline": "Rules set for moderate-rent investment contracts",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77964-ja-ha-regras-para-investimento-em-casas-com-rendas-moderadas",
+              "summary": "Detailed requirements and obligations are now in place for developers who want to join the state's moderate-rent investment contract scheme.",
+              "why": "A defined incentive framework for moderate-rent product gives funds a policy-backed route into residential income — worth modelling against pure market-rate plays.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Portugal leads the EU on house prices, up 16.5%",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77967-portugal-lidera-subida-dos-precos-das-casas-na-uniao-europeia",
+              "summary": "Eurostat put Portuguese house-price growth at 16.5% year-on-year in Q2 2026 — the highest of any EU member state, ahead of Bulgaria (15.5%) and Lithuania (14.3%), with a 3.6% quarterly rise.",
+              "why": "EU-topping appreciation sustains capital-value momentum but compresses entry yields — the case for buying development and value-add over stabilised core only strengthens.",
+              "source": "idealista / Eurostat · 1 Oct"
+            },
+            {
+              "headline": "Asking prices hit a record €3,228/m² in September",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77923-casas-a-venda-preco-aumenta-7-9-em-setembro-e-atinge-novo-recorde",
+              "summary": "The median asking price rose 7.9% to a record €3,228/m² in September, even as the pace of growth moderates.",
+              "why": "Record pricing with cooling momentum is the classic signal to be selective — exit assumptions should lean on income and cost discipline, not further price inflation.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Logistics investment accelerates to €181M",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/28/77869-investimento-em-imobiliario-logistico-acelera-e-chega-aos-181-milhoes",
+              "summary": "Capital into Portuguese logistics real estate is speeding up, reaching €181M, though deals keep running into a shortage of available space.",
+              "why": "Demand outrunning supply in logistics points to rental growth and a development premium — the clearest build-to-core opportunity in the market right now.",
+              "source": "idealista · 28 Sep"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Speed now favours the prepared.",
+          "text": "The RJUE's prior-communication regime compresses timelines but moves legal risk onto developers — value accrues to teams that underwrite their own compliance, not those relying on câmara pre-checks."
+        },
+        {
+          "lead": "Underwrite the licensing, not just the asset.",
+          "text": "With contracts now required to disclose urban-title status, undocumented stock gets cheaper and riskier — a sourcing edge for buyers who can cure title."
+        },
+        {
+          "lead": "Distress is feeding the pipeline.",
+          "text": "NxN's Évora buy from an insolvent operator and the €10M Levira auction show operational assets changing hands below replacement cost."
+        },
+        {
+          "lead": "Rents are the policy battleground.",
+          "text": "The arrendamento reform and the new moderate-rent contract rules will define residential income returns — the Chega abstention is the vote to watch."
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "label": "01 Oct",
@@ -968,126 +1090,6 @@
         {
           "lead": "Affordable is the tailwind.",
           "text": "Cost-rental models plus 6% VAT and tax breaks make the thin affordable-rental segment the one the state is actively de-risking."
-        }
-      ]
-    },
-    {
-      "date": "2026-09-22",
-      "label": "22 Sep",
-      "title": "OneMark targets €300M fund as Portugal's housing gap tops 300,000 homes",
-      "summary": "The capital keeps arriving; the buildable schemes don't. Investors at this week's Iberian gathering were blunt: Portugal has no capital problem and no demand problem — it has a product problem, with a structural shortfall now above 300,000 homes against roughly 40,000 dwellings licensed last year. The answer taking shape is bigger vehicles chasing the same scarce pipeline. Hugo Santos Ferreira, the APPII president, jumped to new platform OneMark to raise a €250–300M fund; the regulator cleared Fomento to break its €500M ceiling; and Jamestown refinanced the 60,000 m² IDB Lisbon for a full reboot. Meanwhile data centres and prime rents keep pulling capital toward the assets that can actually be delivered. Net: money is not the constraint in Portugal — deliverable product is, and the firms that solve for it get to price it.",
-      "hook": "Portugal isn't short of money — it's short of product.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Luso-French chamber buys its new Lisbon HQ from Carmowood",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/09/17/77696-ccilf-encontra-nova-casa-no-coracao-do-eixo-de-escritorios-de-lisboa",
-              "summary": "The CCILF acquired the Edifício Marquês de Tomar 2, between Saldanha and Campo Pequeno, from Carmowood in a deal advised by Savills — an owner-occupier purchase in the heart of Lisbon's core office axis.",
-              "why": "Institutional owner-occupiers are competing with funds for prime central offices, tightening supply in the corridor where yields are firmest.",
-              "source": "idealista · 17 Sep"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Jamestown refinances IDB Lisbon for a 60,000 m² reboot",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/09/17/77683-jamestown-prepara-se-para-dar-uma-nova-vida-ao-idb-lisbon",
-              "summary": "Jamestown secured a Crédito Agrícola package — debt restructuring plus a capex line — to upgrade the 60,000 m² Innovation & Design Building in Parque das Nações, adding office and retail space and chasing BREEAM In-Use Excellent. It paid €98M for the asset in 2021; tenants include AXA and Syensqo.",
-              "why": "Lenders are funding value-add capex on quality Lisbon offices again — a green light for repositioning plays after two lean years for office debt.",
-              "source": "idealista · 17 Sep"
-            },
-            {
-              "headline": "Funchal to spend €40M on 300 public homes by 2029",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/18/77727-funchal-camara-investe-40-milhoes-na-construcao-de-300-casas-ate-2029",
-              "summary": "The Funchal city council will invest €40 million to build 300 dwellings by 2029, part of the municipal push against Madeira's acute housing shortage.",
-              "why": "Municipal supply is arriving in trickles against a 300,000-home gap — useful demand signal, but it leaves the delivery opening to private capital wide open.",
-              "source": "idealista · 18 Sep"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "APPII's Hugo Santos Ferreira joins OneMark to raise a €300M fund",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/18/77721-imobiliario-em-alta-hugo-santos-ferreira-deixa-corcoran-e-entra-na-onemark",
-              "summary": "Ferreira — still president of developer body APPII — left Corcoran Atlantic to become partner and MD of OneMark Capital & Developments, the investment arm of the platform founded this year by José Cardoso Botelho and partners. He aims to raise a €250–300M fund for luxury, mid-premium and conversion projects, with family-office partners already lined up.",
-              "why": "A heavyweight name and a fresh €300M vehicle signal that domestic developer-led capital is scaling up to chase Lisbon's premium residential pipeline.",
-              "source": "idealista · 18 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Romeu Ribeiro: “an almost experimental method of making architecture”",
-              "url": "https://www.idealista.pt/news/especiais/em-casa-do-arquiteto/2026/09/18/75909-romeu-ribeiro-temos-um-metodo-quase-experimental-de-fazer-arquitetura",
-              "summary": "idealista's architect profile spotlights Romeu Ribeiro's material-led, prototype-driven practice — a look at how a younger generation of Portuguese studios is shaping residential design.",
-              "why": "Design differentiation is a pricing lever in a crowded premium market — the studios developers pick increasingly set the sell-through.",
-              "source": "idealista · 18 Sep"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "CMVM clears Fomento SGOIC to break the €500M ceiling",
-              "url": "https://www.iberian.property/news/market-updates/cmvm-gives-the-go-ahead-to-fomento-sgoic-as-a-large-scale-management-company/",
-              "summary": "Portugal's securities regulator authorised Fomento to operate as a large-scale management company, lifting it past the €500M asset threshold and letting it launch bigger, more complex vehicles. It currently manages some €440M.",
-              "why": "The regulatory plumbing for larger domestic real-estate funds is being unlocked — expect more institutional-scale Portuguese vehicles competing for the same product.",
-              "source": "Iberian Property · 15 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "“Portugal doesn't have a capital problem — it has a product problem”",
-              "url": "https://www.iberian.property/news/residential/residential-investment-portugal-has-the-capital-and-demand-but-still-needs-the-product/",
-              "summary": "Investors from Sonae Sierra, Krest, CGD and SANJOSE flagged a 300,000-home structural shortfall against only 40,000–42,000 dwellings licensed in 2025, blaming 308 municipalities' divergent rules, un-underwritable build costs and thin build-to-rent stock.",
-              "why": "The binding constraint is execution, not capital — the alpha sits with teams that can navigate permitting and lock construction pricing.",
-              "source": "Iberian Property · 14 Sep"
-            },
-            {
-              "headline": "Data centres power the construction upcycle — but costs bite",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/19/77715-construcao-levanta-voo-com-data-centers-mas-tropeca-nos-custos",
-              "summary": "Portugal ranks among the world's 10 fastest-growing data-centre markets, with installed capacity up 23% since 2024 on an AI-driven wave. But new-build costs rose 6.8% year-on-year in July, and labour and licensing keep squeezing margins.",
-              "why": "Data centres are the deliverable-and-fundable asset class right now — but rising build costs mean fixed-price exposure can quietly erase the yield.",
-              "source": "idealista · 19 Sep"
-            },
-            {
-              "headline": "Lisbon prime rents jump 7.6% — second-fastest of 30 cities",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/08/77508-lisboa-sobe-aos-primeiros-lugares-das-rendas-de-imoveis-prime",
-              "summary": "Prime residential rents in Lisbon rose 7.6%, placing the city second globally among 30 markets tracked, as constrained supply keeps top-end rental growth well above the wider market.",
-              "why": "Prime rental growth this strong underwrites build-to-rent economics at the top end — the thin part of the market where product is scarcest.",
-              "source": "idealista · 8 Sep"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwriting beats sourcing.",
-          "text": "With 308 municipalities pricing risk differently, the edge is getting schemes built, not found — back teams with a permitting and delivery record."
-        },
-        {
-          "lead": "Bigger vehicles, same pipeline.",
-          "text": "OneMark's €300M raise and Fomento's lifted ceiling mean more dry powder chasing scarce product — entry discipline matters more, not less."
-        },
-        {
-          "lead": "Follow the deliverable assets.",
-          "text": "Data centres, prime offices and prime rentals are where capital is actually clearing — income-backed and refinanceable."
-        },
-        {
-          "lead": "Refi windows are reopening.",
-          "text": "Jamestown's Crédito Agrícola line shows lenders will fund value-add capex again on quality Lisbon assets."
         }
       ]
     }
