@@ -1,6 +1,109 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "editions": [
+    {
+      "date": "2026-10-03",
+      "label": "3 Oct",
+      "title": "Portugal rents reaccelerate to 6.1%; accountants warn new 6% build-VAT breeds disputes",
+      "summary": "Portuguese asking rents rose 6.1% year-on-year in September — the third straight month of acceleration — to €18.3/m², with Lisbon at €25.1. The supply-side answer is proving messy: the new 6% construction VAT on primary homes has accountants warning of a “complicómetro” and probable fights with the tax authority. Public land is being mobilised — the state just handed 256,000 m² of the old Bobadela logistics complex to Loures, and seven Algarve councils lodged €105M of social-housing bids. And the capital keeps coming: Portugal now ranks among Europe's top magnets for private wealth. Net: the demand curve is steepening while the supply response stalls — a setup that keeps values firm and execution at a premium.",
+      "hook": "Demand is reheating faster than Portugal can build its way out.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Coldwell Banker enters Porto, absorbing the Homelovers team",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/02/77971-coldwell-banker-acelera-expansao-em-portugal-com-nova-agencia-no-porto",
+              "summary": "Coldwell Banker opened its first Porto office in Boavista, integrating the 10-strong Homelovers Porto team and its €60M-plus prime-property portfolio — the brand's second new Portuguese market this year after the Algarve.",
+              "why": "International networks consolidating prime brokerage means wider cross-border buyer access for sellers of trophy stock — and sharper competition for high-end listings in the north.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "State hands 256,000 m² of the Bobadela riverside to Loures",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/02/77990-estado-transfere-area-do-antigo-complexo-logistico-da-bobadela-para-loures",
+              "summary": "The state transferred 256,161 m² of the former Bobadela logistics complex to Loures for a Tagus-side regeneration — the Pope Francis Park — for €196,400 plus €9.45M of infrastructure spend through 2030; works begin in 2027.",
+              "why": "Public riverfront regeneration lifts the value of adjacent developable land along the estuary — a quiet tailwind for schemes in Greater Lisbon's eastern arc.",
+              "source": "idealista · 2 Oct"
+            },
+            {
+              "headline": "Seven Algarve councils lodge €105M of social-housing bids",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/02/77984-sete-municipios-algarvios-candidatam-se-para-reforcar-habitacao-social",
+              "summary": "Lagos, Portimão, Tavira and four more Algarve municipalities filed 11 applications worth over €105M to the Algarve2030 programme for building, rehabbing and converting social housing; a second phase runs to March 2027.",
+              "why": "A deep EU-funded municipal pipeline reshapes where trades and land compete in the Algarve — context, and potential JV counterparties, for private developers in the region.",
+              "source": "idealista · 2 Oct"
+            },
+            {
+              "headline": "Madeira launches a housing fund in December",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/02/77982-fundo-de-habitacao-avanca-em-dezembro-para-construir-casas-na-madeira",
+              "summary": "Madeira's regional government will open a housing fund in December to finance new homebuilding without burdening the regional budget, channelling third-party capital into supply.",
+              "why": "A fund-based model for public housing invites private co-investment — an emerging, policy-backed channel for residential exposure on a supply-starved island.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "6% construction VAT draws 'complicómetro' litigation warnings",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/02/77993-iva-reduzido-na-construcao-contabilistas-alertam-para-complicometro",
+              "summary": "The cut from 23% to 6% VAT on building owner-occupied primary homes is welcome, but the Order of Certified Accountants warns of a “complicómetro” and likely disputes with the tax authority over eligibility and 4% clawback interest.",
+              "why": "A 17-point VAT swing materially improves build economics — but eligibility ambiguity and clawback risk are execution hazards that belong in the budget, not the footnotes.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Rents accelerate to 6.1% as supply stays tight",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/02/77932-rendas-das-casas-aceleram-ritmo-de-aumento-para-6-1-em-setembro",
+              "summary": "September asking rents rose 6.1% year-on-year to €18.3/m², a third straight month of acceleration (August was 4.9%). Lisbon leads at €25.1/m² and Porto €19, though both cooled slightly while Aveiro surged 22.1%.",
+              "why": "Rent growth reaccelerating — and strongest outside the saturated metros — supports PRS and resi-to-rent yields, with the best momentum now in secondary cities.",
+              "source": "idealista · 2 Oct"
+            },
+            {
+              "headline": "The national rent map lays bare a coast-interior divide",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/02/77989-rendas-altas-e-baixas-nos-municipios-mapa-nacional-mostra-contraste",
+              "summary": "A municipality-level map shows coastal urban centres commanding multiples of interior towns, where some ten municipalities still rent for around €300 a month.",
+              "why": "The coast-interior gap defines where affordability pressure — and the next policy intervention — concentrates; a cheap interior basis can be a contrarian entry where jobs and transport follow.",
+              "source": "idealista · 2 Oct"
+            },
+            {
+              "headline": "Portugal ranks among Europe's top magnets for private capital",
+              "url": "https://www.idealista.pt/news/imobiliario/internacional/2026/10/02/77992-portugal-entre-os-paises-que-mais-atraem-capital-estrangeiro",
+              "summary": "The Henley Private Capital Migration Report 2026 lists Portugal among Europe's leading destinations for mobile wealth — alongside the Netherlands, Italy, Switzerland and Greece — crediting fiscal policy, stability and investor-residence visas.",
+              "why": "Inbound HNW migration is a durable demand tailwind for prime resi and branded hospitality — and a reminder that visa and tax policy is a first-order market driver, not a footnote.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Demand is outrunning supply.",
+          "text": "Rents reaccelerating to 6.1% while the 6% VAT fix snags means the gap values are built on isn't closing fast."
+        },
+        {
+          "lead": "Underwrite the VAT, don't assume it.",
+          "text": "The 17-point cut only helps if eligibility holds — price the clawback and litigation risk into the build."
+        },
+        {
+          "lead": "Follow the public pipeline.",
+          "text": "Algarve's €105M bids, Madeira's new fund and the Bobadela regeneration all move where land and trades compete."
+        },
+        {
+          "lead": "Policy is the demand driver.",
+          "text": "Portugal's place on Henley's list shows visa and tax settings pull capital as hard as yield does."
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "label": "02 Oct",
@@ -987,109 +1090,6 @@
         {
           "lead": "\"Increased risk,\" not \"bubble.\"",
           "text": "The IMF and UBS flags raise the cost of being wrong; neither calls the top. Discipline on location and basis beats timing the cycle."
-        }
-      ]
-    },
-    {
-      "date": "2026-09-23",
-      "label": "23 Sep",
-      "title": "IMF flags Portugal's 180% price surge as top bank risk — UBS puts Lisbon on the bubble radar",
-      "summary": "Two heavyweight warnings landed on the same day. The IMF named surging home values — up 180% since 2015 and 19% in 2025 alone — the single biggest medium-term risk to Portugal's banks, estimating homes are 20–40% overvalued. Hours later, UBS put Lisbon on its global bubble radar for the first time, at \"elevated risk,\" with ownership costs now above 40% of a professional's income. Yet the heat is already coming out of transactions: Q2 sales fell 6.4% even as new-build gained share, and rental supply is up 13% with asking rents down 6%. Both institutions point to the same fix — build more, licence faster, mobilise empty stock. Net: the boom isn't broken, but the risk is now written in ink, not whispers — underwriting to a softer, choosier market beats chasing the last cycle's gains.",
-      "hook": "Portugal's price boom just hit the global risk radar.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "wecity backs a €1M Algarve residential play via crowdfunding",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/21/77737-wecity-poe-um-milhao-em-jogo-num-empreendimento-residencial-no-algarve",
-              "summary": "Spanish platform wecity is putting €1M into Consfly Group's 39-unit scheme in Armação de Pêra, on a 12-month note at 11.5% secured by a first-charge mortgage; the ~€9M project targets €16M in sales at a 32% loan-to-value.",
-              "why": "Retail crowd-capital is now funding shovel-ready Algarve resi at double-digit coupons — a signpost to where mid-market development debt is repricing.",
-              "source": "idealista · 21 Sep"
-            },
-            {
-              "headline": "JYSK moves to double its Portuguese store estate to 80",
-              "url": "https://vidaimobiliaria.com/noticias/retalho/jysk-a-caminho-das-80-lojas-em-portugal/",
-              "summary": "The Danish homeware chain, now at 40 stores after an Azores opening, plans 20–30 more in Portugal within four years as part of a 120-store Iberian push — doubling its footprint here.",
-              "why": "Steady big-box occupier growth keeps demand under retail-park and high-street space — a reminder that tenant expansion, not just capital flows, underpins commercial values.",
-              "source": "Vida Imobiliária · 21 Sep"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Stravillia and MOME import the 'cost-rental' model to Portugal",
-              "url": "https://vidaimobiliaria.com/noticias/mercados/stravillia-e-mome-desenvolvem-modelo-de-cost-rental-em-portugal/",
-              "summary": "The two firms are structuring a cost-rental model — rents set on real building costs, not market rates — targeting a first delivery in about four years. Portugal's public and affordable rental stock sits near 2%, against 20–29% in Austria, Denmark and the Netherlands.",
-              "why": "A credible cost-rental framework could open institutional build-to-rent at the affordable end — the thin, policy-favoured segment where 6% VAT and tax breaks now stack.",
-              "source": "Vida Imobiliária · 21 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Traçado Regulador signs 54-home 'Albatroz' at Oeiras Green Valley",
-              "url": "https://www.diarioimobiliario.pt/Tracado-Regulador-assina-projeto-de-novo-edificio-residencial-no-Oeiras-Green-Valley",
-              "summary": "João de Sousa Rodolfo's studio has designed Edifício Albatroz, a 54-apartment T2–T4 building for Grupo Cobelba now under construction at Oeiras Green Valley — built around indoor-outdoor continuity, deep balconies and large glazing.",
-              "why": "Design-led product in Lisbon's western corridor is where premium absorption holds up — the studio a developer picks increasingly drives sell-through.",
-              "source": "Diário Imobiliário · 22 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "IMF names house prices Portugal's top medium-term bank risk",
-              "url": "https://www.diarioimobiliario.pt/FMI-aponta-subida-dos-precos-da-habitacao-como-principal-risco-de-medio-prazo-para-a-banca-portuguesa",
-              "summary": "The IMF's financial-sector review calls surging home values — up 180% since 2015 and 19% in 2025 — the main medium-term vulnerability, estimating 20–40% overvaluation and a price-to-income ratio 27% above trend; banks still pass a simulated 40% price-fall stress test.",
-              "why": "An IMF overvaluation flag shapes how regulators and lenders set LTVs and provisioning — expect underwriting discipline, not a credit spigot.",
-              "source": "Diário Imobiliário · 22 Sep"
-            },
-            {
-              "headline": "Lisbon lands on UBS's global bubble radar for the first time",
-              "url": "https://www.diarioimobiliario.pt/Lisboa-entra-no-radar-do-risco-de-bolha-imobiliaria-da-UBS",
-              "summary": "The 2026 UBS Global Real Estate Bubble Index places Lisbon in \"elevated risk,\" alongside Miami, Dubai and Geneva, citing ~10% real price growth and ownership costs above 40% of a skilled professional's gross income; Lisbon and Seoul logged the biggest risk jumps of the year.",
-              "why": "A first-time bubble-index listing is a sentiment marker international capital watches — it sharpens the case for income-backed assets over pure price momentum.",
-              "source": "Diário Imobiliário · 22 Sep"
-            },
-            {
-              "headline": "Q2 sales fall 6.4% as new-build gains and prices hit a record",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/22/77780-venda-de-casas-em-portugal-volta-a-cair-subida-de-precos-perde-ritmo",
-              "summary": "INE recorded 40,142 home sales in Q2, down 6.4% year-on-year — a third straight annual fall — even as the average price hit a record €266,475 and the price index rose 16.5%; new-home values (+12.3%) held up better than the wider cooldown.",
-              "why": "Fewer, pricier deals confirm a volume-led slowdown, not a price crash — the returns sit in delivering new stock, not waiting for resale to cheapen.",
-              "source": "idealista · 22 Sep"
-            },
-            {
-              "headline": "Rental supply climbs 13% as asking rents finally ease 6%",
-              "url": "https://www.diarioimobiliario.pt/Oferta-de-casas-para-arrendar-aumenta-13-e-precos-recuam-6-em-Portugal",
-              "summary": "Imovirtual data shows average daily rental listings up 13% year-to-date to ~38,800, with the median asking rent down 6% to €1,371; Lisbon rents fell 8% to €1,485 and Coimbra 11%, though Faro (+6%) and several interior towns still rose.",
-              "why": "The first real supply relief in years takes some heat out of the prime rental thesis — a tightening of top-end yields, not a demand collapse.",
-              "source": "Diário Imobiliário · 22 Sep"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwrite to overvaluation.",
-          "text": "With the IMF pegging homes 20–40% rich, entry price and rental-growth visibility — not momentum — carry the case."
-        },
-        {
-          "lead": "Volume cools, prime holds.",
-          "text": "Sales are down but new-build and top-end prices aren't; deliverable new product still clears."
-        },
-        {
-          "lead": "Rent relief is arriving.",
-          "text": "Supply up 13% and Lisbon rents off 8% mean BTR must pencil to a softer top line, not last year's spikes."
-        },
-        {
-          "lead": "Affordable is the tailwind.",
-          "text": "Cost-rental models plus 6% VAT and tax breaks make the thin affordable-rental segment the one the state is actively de-risking."
         }
       ]
     }
