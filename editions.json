@@ -1,6 +1,128 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "editions": [
+    {
+      "date": "2026-10-05",
+      "label": "05 Oct",
+      "title": "Portugal's build-to-rent tax package is law: IMT, stamp duty and 8-yr IMI breaks",
+      "summary": "Portugal published the rules for its Investment Contracts for Rental (CIA) on 1 October — a fiscal package aimed squarely at institutional landlords. Buy, build or refurbish for rent and you get exemption from IMT and stamp duty, up to eight years free of IMI, AIMI relief and reduced construction VAT. The trade-off: at least 70% of the space must be let, rents are capped at €2,300/month, and the commitment runs 10 to 25 years. It lands in a market where prices rose 16.5% in Q2 — the fastest in the EU — and rents climbed 6.1% in September. Elsewhere, Sonae Sierra named a new CEO, and €60M bought half of Portimão's Acqua centre. Net: the state is subsidising the one thing the market won't supply on its own — long-term rental stock.",
+      "hook": "Portugal is now paying investors to build rental homes.",
+      "sections": [
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Build-to-rent tax package is now law",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77964-ja-ha-regras-para-investimento-em-casas-com-rendas-moderadas",
+              "summary": "The CIA regulation sets the terms for investment contracts that acquire, build or refurbish homes to let: 10–25-year commitments, ≥70% of floor area for rental, rents capped at €2,300, applications via IHRU. In return, IMT, stamp duty and up to eight years of IMI fall away.",
+              "why": "This is the first concrete fiscal framework for institutional build-to-rent in Portugal — the incentive stack can swing a deal's return, if you can underwrite the rent cap and the lock-up.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Accountants warn reduced construction VAT is a maze",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/02/77993-iva-reduzido-na-construcao-contabilistas-alertam-para-complicometro",
+              "summary": "The cut from 23% to 6% VAT on construction is welcome, but professional bodies say the eligibility rules are so intricate that misclassification risk is high — and the saving may not reach developers cleanly.",
+              "why": "A headline VAT cut only improves build cost if it survives the paperwork; price your pro-forma on the net rate you can actually defend, not the sticker.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "€60M buys half of Acqua Portimão",
+              "url": "https://postal.pt/economia/acqua-portimao-entre-os-maiores-negocios-do-imobiliario-com-operacao-de-60-milhoes/",
+              "summary": "A 50% stake in the Acqua Portimão retail-and-leisure scheme changed hands for €60M, flagged as one of the quarter's largest Portuguese transactions in a newly released market report, with the Algarve showing strong performance.",
+              "why": "Retail is quietly trading again, and the Algarve is drawing institutional tickets — a signal for anyone weighing secondary-city or leisure-led assets.",
+              "source": "Postal · Oct"
+            },
+            {
+              "headline": "Former Oiã furniture factory to e-auction at €9.98M",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77963-antiga-fabrica-de-mobiliario-vai-a-leilao-por-quase-10-milhoes",
+              "summary": "A large former furniture-manufacturing complex in Oiã (Aveiro) goes to electronic auction with a €9.98M base value, bids open through 9 October — a sizeable industrial lot with repositioning potential.",
+              "why": "Distressed and legacy-industrial lots are where value-add money finds basis in a hot market — worth watching the clearing price against the €9.98M reserve.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Matosinhos plans 108 homes on the old Leixões ground",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77970-matosinhos-quer-construir-casas-e-lojas-no-antigo-campo-do-leixoes",
+              "summary": "The municipality wants to turn the former Leixões sports field into a mixed-use scheme: 108 dwellings, ground-floor retail and underground parking, in a dense, well-connected part of greater Porto.",
+              "why": "Councils converting their own underused sites is the clearest near-term source of urban housing pipeline — and of partnership deals for developers.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "State hands 256,000 m² of Bobadela land to Loures",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/02/77990-estado-transfere-area-do-antigo-complexo-logistico-da-bobadela-para-loures",
+              "summary": "The former Bobadela logistics complex — 256,161 m² on the Tagus — passes to Loures for €196,400, ring-fenced as the Papa Francisco riverside park; development is barred without government sign-off.",
+              "why": "A reminder that not all public land unlocks for building — riverfront sites increasingly carry green-use covenants that shape what's developable nearby.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Luís Mota Duarte to lead Sonae Sierra from 2027",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77961-luis-mota-duarte-assume-lideranca-da-sonae-sierra-em-2027",
+              "summary": "The current vice-president becomes CEO in January 2027, succeeding Fernando Guedes de Oliveira after 15+ years. Mota Duarte joined Sonae in 2014 on M&A and moved to Sierra's investment side in 2018. Sonae Sierra runs Centro Colombo and NorteShopping.",
+              "why": "An M&A-bred CEO at Portugal's biggest retail-RE platform points to a more deal-active Sierra — watch for portfolio moves into 2027.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Coldwell Banker opens its first Porto office",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/02/77971-coldwell-banker-acelera-expansao-em-portugal-com-nova-agencia-no-porto",
+              "summary": "Coldwell Banker Move lands in Boavista, led by Rui Lopes and Ana Ribeiro with a 10-strong team moved over from Homelovers Porto and a €60M+ prime portfolio — the network's first northern base after an Algarve launch in May.",
+              "why": "International brands doubling down on Porto's prime segment signals confidence in northern demand — and more competition for high-end stock.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Rents accelerate to +6.1% in September",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/02/77932-rendas-das-casas-aceleram-ritmo-de-aumento-para-6-1-em-setembro",
+              "summary": "Asking rents rose 6.1% year-on-year, a third straight month of acceleration, to a median €18.3/m². Lisbon hit €25.1/m² (+8.8%); Porto eased to €19/m² (−4.4%); Aveiro led gains at +22.1%.",
+              "why": "Lisbon rental growth is reaccelerating while Porto cools — the rent story is now a city-by-city one, and secondary markets like Aveiro are where the momentum is.",
+              "source": "idealista · 2 Oct"
+            },
+            {
+              "headline": "Portugal leads EU house-price growth at +16.5%",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77967-portugal-lidera-subida-dos-precos-das-casas-na-uniao-europeia",
+              "summary": "Portuguese house prices jumped 16.5% in Q2, far ahead of the eurozone (1.1%) and EU (1.2%) averages — the sharpest rise in the bloc and a sign demand is still comfortably outstripping supply.",
+              "why": "Entry pricing keeps climbing, so basis discipline matters — but the same imbalance is exactly what underpins the rental thesis the new CIA regime is built to fund.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite the incentive, not just the asset.",
+          "text": "The CIA stack — IMT, stamp duty and up to eight years of IMI gone — can reshape a build-to-rent return, if the €2,300 cap and 10–25-year lock-up fit the plan."
+        },
+        {
+          "lead": "Supply is the whole story.",
+          "text": "Prices +16.5% and rents +6.1% with construction still constrained — every policy lever now points at adding rental stock."
+        },
+        {
+          "lead": "Public land is in play.",
+          "text": "Loures, Matosinhos and seven Algarve councils are all moving municipal sites — the next cycle's pipeline is being drawn on câmara maps now."
+        },
+        {
+          "lead": "Capital keeps coming.",
+          "text": "Henley ranks Portugal among Europe's top magnets for mobile private wealth — a tailwind for exits and upward pressure on entry pricing."
+        }
+      ]
+    },
     {
       "date": "2026-10-04",
       "label": "04 Oct",
@@ -987,121 +1109,6 @@
         {
           "lead": "Debt is the honest cost signal.",
           "text": "wecity lending at 11.5% and speculative logistics pushing prime rents to €7/sqm show where the cost of capital — and the conviction bets — actually sit."
-        }
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "label": "25 Sep",
-      "title": "Rental reform hits parliament Sept 30: 2% cap scrapped, new rents freed, evictions faster",
-      "summary": "On 30 September, parliament votes on the government's rental reform — the most consequential change to Portuguese leasing rules in years. New contracts would lose the 2% annual increase cap, deposit limits and the two-month advance ceiling, handing landlords pricing freedom. Eviction for non-payment would speed up, from three months to two. Pre-1990 contracts could finally be adjusted to tenants' age and income, with state support for those displaced. Meanwhile INE data shows the market already cooling — prices up 16.5% but sales down 6.4% — and the IMF has named house prices the banking sector's chief vulnerability. Net: supply-side deregulation is arriving just as demand softens — the terms you underwrite leases on are about to change.",
-      "hook": "Portugal's rental market is about to be rewritten on the parliament floor.",
-      "sections": [
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Rental reform goes to a plenary vote on 30 September",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/23/77809-novas-regras-do-arrendamento-vao-a-votos-em-plenario-a-30-de-setembro",
-              "summary": "The government's package scraps the 2% cap on annual rent rises for new contracts, lifts deposit limits, raises the advance-payment ceiling to three months, and cuts the non-payment eviction window from three months to two. Pre-1990 contracts could be adjusted to tenants' age and income, with support for those displaced.",
-              "why": "It rewrites the economics of holding rental stock — pricing freedom and faster recovery of non-paying units lift the investable yield on new leases.",
-              "source": "idealista · 23 Sep"
-            },
-            {
-              "headline": "'Cost-rental' lands in Portugal to change the logic of rents",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/21/77761-cost-rental-chega-a-portugal-para-mudar-a-logica-das-rendas",
-              "summary": "Stravillia and MOME are introducing a cost-rental model that prices homes off actual build and financing costs rather than the open market, targeting mid-income tenants priced out of both buying and renting.",
-              "why": "A new institutional product class — moderate, stable yields tied to cost, not market peaks — that pairs naturally with public land and affordable-housing incentives.",
-              "source": "idealista · 21 Sep"
-            }
-          ]
-        },
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "wecity raises €1M for a 39-home scheme in Armação de Pêra",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/21/77737-wecity-poe-um-milhao-em-jogo-num-empreendimento-residencial-no-algarve",
-              "summary": "The crowdfunding platform is financing Consfly Group's Algarve residential project at an 11.5% annual rate over 12 months. Total project cost is ~€9.1M against an estimated €16M sales value, with the developer putting in €450k of equity at a 32% loan-to-value.",
-              "why": "A clean read on today's private-credit pricing for Portuguese residential development — double-digit coupons on land and pre-construction risk, even at low leverage.",
-              "source": "idealista · 21 Sep"
-            },
-            {
-              "headline": "Quadrante buys engineering unit Geometric Talks",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/09/23/77813-quadrante-amplia-o-pulso-energetico-para-projetos-de-grande-escala",
-              "summary": "Consultancy Quadrante has acquired the Geometric Talks engineering team, adding six specialists to strengthen its capacity in electrical grids and renewable-energy infrastructure for large-scale projects.",
-              "why": "Power and grid engineering is the new bottleneck for data-centre and large development pipelines — vertical integration here signals where the big projects are heading.",
-              "source": "idealista · 23 Sep"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Lisbon's old cabinet HQ to become ~90 homes",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/23/77814-antigo-edificio-do-conselho-de-ministros-vai-dar-lugar-a-90-casas",
-              "summary": "Lisbon City Council will convert the former Presidency of the Council of Ministers building in Campo de Ourique into roughly 90 mostly one-bed homes — a €20M+ project — once state agency ESTAMO transfers the surface rights. Units are earmarked for security, health and education workers.",
-              "why": "State-to-municipal surface-right transfers are becoming a real supply channel in prime Lisbon — a template worth watching for developers bidding on public conversions.",
-              "source": "idealista · 23 Sep"
-            },
-            {
-              "headline": "Funchal plans €40M for ~300 homes by 2029",
-              "url": "https://www.iberian.property/news/residential/funchal-plans-eur40m-investment-in-around-300-homes-by-2029/",
-              "summary": "Madeira's capital is committing about €40M to deliver around 300 homes by 2029, part of a wider municipal push to expand housing supply on the island.",
-              "why": "Municipal-led development is spreading beyond the mainland metros; Madeira's tourism-heavy economy makes its residential shortfall a distinct, under-covered opportunity.",
-              "source": "Iberian Property · 22 Sep"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "New foundation targets 100,000 affordable-rent homes by 2045",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/24/77656-fundacao-nasce-para-dar-100-000-casas-de-renda-acessivel-ate-2045",
-              "summary": "Consultant Pedro Sarmento has launched a non-profit foundation aiming to deliver 100,000 accessible-rent homes across Portugal by 2045, positioning itself as a long-horizon player in the housing crisis.",
-              "why": "A new, mission-driven counterparty on the affordable-housing side — a potential partner, and rival, for institutional capital chasing the same public land and incentives.",
-              "source": "idealista · 24 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Prices still up 16.5%, but sales fall 6.4% as the market cools",
-              "url": "https://eco.sapo.pt/2026/09/23/promotores-e-imobiliarias-antecipam-arrefecimento-dos-precos-das-casas-sem-sobressaltos/",
-              "summary": "INE data for Q2 2026 shows house prices up 16.5% year-on-year — the softest gain since early 2025 — while transactions dropped 6.4% to 40,142 and total value rose 4.2% to €10.7bn. Developers and agents expect further moderation, not a crash.",
-              "why": "The inflection is here — pricing power is fading faster than volumes, so exit assumptions built on 15%+ appreciation now carry real downside.",
-              "source": "INE / ECO · 23 Sep"
-            },
-            {
-              "headline": "IMF flags house prices as Portuguese banks' top vulnerability",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/22/77789-preco-das-casas-e-principal-vulnerabilidade-da-banca-portuguesa-diz-fmi",
-              "summary": "The IMF has named property valuations the \"principal vulnerability with future implications\" for Portugal's banking sector, given how much lending is tied to housing.",
-              "why": "Regulatory and lender caution tends to follow IMF warnings — expect tighter LTVs and more selective development finance if the message lands.",
-              "source": "idealista · 22 Sep"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwrite for softer exits.",
-          "text": "With prices decelerating and volumes falling, model low-single-digit appreciation, not the 15–20% of recent years."
-        },
-        {
-          "lead": "Deregulation lifts held-rental yields.",
-          "text": "If the 2% cap and slow evictions go, the case for holding leased stock strengthens — reprice new leases to the freer rules, not the old ceiling."
-        },
-        {
-          "lead": "Private credit is the pricing signal.",
-          "text": "Double-digit coupons on residential development debt (wecity's 11.5%) tell you where equity should demand its returns too."
-        },
-        {
-          "lead": "Public land is the supply story.",
-          "text": "From Lisbon conversions to Funchal's build-out and cost-rental, the state is now the marginal developer — position to partner, not just compete."
         }
       ]
     }
