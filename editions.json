@@ -1,6 +1,128 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "editions": [
+    {
+      "date": "2026-10-06",
+      "label": "6 Oct",
+      "title": "Portugal leads EU house-price growth at 16.5% as asking prices hit €3,228/m² record",
+      "summary": "Portugal led the entire EU for house-price growth in Q2, up 16.5% year-on-year against a eurozone average of just 1.1%. The heat carried into autumn: September asking prices rose 7.9% to a record €3,228/m², even as quarterly growth cooled to +0.5%. It is happening while Euribor climbs and mortgage rates touch 3%, squeezing buyers but not supply-starved pricing. On the supply side, the new RJUE planning regime took effect on 1 October, promising faster licensing for construction, rehabilitation and sales. Capital keeps arriving — commercial investment hit €1.4bn in the first half — and the dealmaking rolled on this week, from Saldanha offices to Matosinhos redevelopment. Net: demand still vastly outruns supply, and the new rules are a bet that Portugal can finally build toward balance.",
+      "hook": "Portugal is the EU's hottest housing market — and prices just set another record.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Arrow Global takes 6,200 m² for its new Lisbon home near Saldanha",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/01/77949-arrow-global-portugal-encontra-nova-casa-no-coracao-de-lisboa",
+              "summary": "The credit and asset manager will occupy the whole of the República 5 building by Praça do Saldanha, a single-tenant base for roughly 700 staff.",
+              "why": "A full-building letting to an institutional occupier shows prime Lisbon offices still draw demand even with rates rising — a bid under core office values.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Former Levira furniture plant heads to auction at almost €10m",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77963-antiga-fabrica-de-mobiliario-vai-a-leilao-por-quase-10-milhoes",
+              "summary": "Levira's old industrial complex in Oliveira do Bairro is listed with a €9.98m base price; bidding closes on 9 October.",
+              "why": "Large industrial sites coming to market at a clearing price are exactly the value-add and logistics-conversion stock supply-starved funds are hunting.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Matosinhos plans 108 homes and shops on the old Leixões ground",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77970-matosinhos-quer-construir-casas-e-lojas-no-antigo-campo-do-leixoes",
+              "summary": "The council wants 108 dwellings, ground-floor retail, underground parking and a public plaza on the former Leixões Sport Club pitch.",
+              "why": "Municipal-led redevelopment of legacy sites is becoming a core pipeline source in Greater Porto — watch it for JV and forward-purchase entry points.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "State hands 256,000 m² of the old Bobadela logistics site to Loures",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/02/77990-estado-transfere-area-do-antigo-complexo-logistico-da-bobadela-para-loures",
+              "summary": "The government is transferring 256,161 m² of the former Bobadela logistics complex — now home to Pope Francis Park — to Loures council.",
+              "why": "A quarter of a million square metres of public land changing hands on the Lisbon riverfront logistics corridor is a long-dated supply signal in a tight industrial market.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Luís Mota Duarte to lead Sonae Sierra from January 2027",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77961-luis-mota-duarte-assume-lideranca-da-sonae-sierra-em-2027",
+              "summary": "He becomes CEO in January, succeeding Fernando Guedes de Oliveira, who has run the group for more than 15 years.",
+              "why": "A leadership change at one of Iberia's largest retail and mixed-use platforms can reset strategy, disposals and capital partners across the region.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Coldwell Banker opens its first Porto agency",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/02/77971-coldwell-banker-acelera-expansao-em-portugal-com-nova-agencia-no-porto",
+              "summary": "Marking its 120th year, the brokerage launched a Porto office and absorbed a 10-strong team from Homelovers Porto.",
+              "why": "International brokerages doubling down on Porto confirm the northern market's institutional coming-of-age — more intermediated stock and sharper price discovery.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "New RJUE planning regime takes effect — what changes for building and buying",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77955-novo-rjue-em-vigor-o-que-muda-na-construcao-e-compra-de-casa",
+              "summary": "The overhauled Urban Development Regime (RJUE) came into force on 1 October, cutting bureaucracy across construction, rehabilitation and property sales.",
+              "why": "Licensing speed is the single biggest driver of development returns in Portugal; if the reform delivers, it lifts feasibility on stalled schemes.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Rules land for investing in 'moderate rent' housing",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77964-ja-ha-regras-para-investimento-em-casas-com-rendas-moderadas",
+              "summary": "A regulatory order sets out the requirements for Moderate Rent Investment Contracts (CIA), the framework for investors backing capped-rent homes.",
+              "why": "It creates a defined, incentivised product for institutional residential capital — a potential entry route into Portuguese living with policy tailwinds.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Asking prices up 7.9% in September to a new record €3,228/m²",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77923-casas-a-venda-preco-aumenta-7-9-em-setembro-e-atinge-novo-recorde",
+              "summary": "September asking prices rose 7.9% year-on-year to a record median, while quarterly growth cooled to +0.5%.",
+              "why": "A fresh record with decelerating quarterly momentum points to a market still rising but losing pace — entry timing matters.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Portugal leads the EU for house-price growth",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77967-portugal-lidera-subida-dos-precos-das-casas-na-uniao-europeia",
+              "summary": "Portugal topped the bloc at 16.5% year-on-year in Q2, against a eurozone average of just 1.1%, per Eurostat.",
+              "why": "Being the EU's fastest-rising market pulls in cross-border capital — and sharpens the affordability and regulatory risk funds must underwrite.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Pricing power is still the story.",
+          "text": "EU-topping +16.5% growth and a fresh €3,228/m² record argue for underwriting to continued scarcity, not reversion."
+        },
+        {
+          "lead": "Deregulation is the catalyst to watch.",
+          "text": "The new RJUE regime could compress licensing timelines — the biggest lever on Portuguese development IRRs."
+        },
+        {
+          "lead": "Rates cut both ways.",
+          "text": "Euribor near two-year highs trims leveraged buyers but widens the gap institutional equity can exploit."
+        },
+        {
+          "lead": "A regulated-rent lane opens.",
+          "text": "The new CIA framework formalises an investable moderate-rent product for patient, policy-aligned capital."
+        }
+      ]
+    },
     {
       "date": "2026-10-05",
       "label": "05 Oct",
@@ -1001,114 +1123,6 @@
         {
           "lead": "Affordability stress cuts both ways.",
           "text": "Prices at 3× wage growth sustain rental demand for build-to-rent — and keep political intervention firmly in play."
-        }
-      ]
-    },
-    {
-      "date": "2026-09-26",
-      "label": "26 Sep",
-      "title": "Portugal home sales fall a 3rd straight quarter — yet prices hit a record €266,475",
-      "summary": "Home sales fell 6.4% year-on-year in the second quarter — the third straight quarterly drop — yet the median price still hit a record €266,475. Buyers are taking fewer homes at higher prices: transaction value rose 4.2% to €10.7 billion even as volumes shrank. Non-resident buyers pulled back hardest, down 10.3%. Meanwhile institutional money is rotating into beds you rent rather than sell — VIDÓR is building the country's largest-ever student residence in Porto, and Nido Livensa has just traded 883 stabilised beds to recycle capital abroad. The one thing that capital is waiting on: Lisbon's new affordable-rent regime, in force since 1 September but frozen until an implementing decree lands. Net: the for-sale market is thinning while rented 'living' assets soak up the smart money.",
-      "hook": "Portugal's housing market is cooling and heating at the same time.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Logistics investment jumps 35% to €181M — and over half the new pipeline is speculative",
-              "url": "https://www.supplychainmagazine.pt/2026/09/23/investimento-logistico-sobe-35-e-mais-de-metade-da-nova-oferta-avanca-sem-ocupante/",
-              "summary": "Industrial and logistics investment reached €181 million in the first half, up 35% year-on-year, on take-up of roughly 200,000 sqm across 30 deals, per JLL. Of the 645,000 sqm under construction, 359,000 sqm (56%) is being built with no tenant yet signed.",
-              "why": "Speculative supply plus prime rents pushing to €7/sqm/month says developers are betting on sustained occupier demand — the widening prime-vs-secondary gap is where the returns, and the risk, now sit.",
-              "source": "Supply Chain Magazine / JLL · 23 Sep"
-            },
-            {
-              "headline": "Nido Livensa sells five stabilised student residences — 883 beds in Lisbon and Porto",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/14/77633-nido-livensa-vende-cinco-residencias-de-estudantes-em-portugal",
-              "summary": "The operator is offloading Nido Carcavelos, Ajuda, Santa Apolónia, Estoril and Asprela — 883 beds it calls “mature and stabilised” — to fund a push toward 25,000 beds across Spain, Italy and Germany by 2031.",
-              "why": "A clean read on the PBSA cycle — Portuguese student beds are now liquid enough to trade at scale, and stabilised assets are changing hands as operators rotate capital elsewhere in Europe.",
-              "source": "idealista · 14 Sep"
-            },
-            {
-              "headline": "wecity puts €1M behind a 39-home Algarve scheme — at 11.5% a year",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/21/77737-wecity-poe-um-milhao-em-jogo-num-empreendimento-residencial-no-algarve",
-              "summary": "The crowdfunding platform is financing Consfly Group's 39-home development in Armação de Pêra with a €1 million mortgage at 11.5% over 12 months and a 32% loan-to-value; the project carries a ~€9M cost against a ~€16M sales estimate.",
-              "why": "Double-digit development debt is filling the gap banks won't — a live signal of the true cost of capital for mid-size residential builders in this cycle.",
-              "source": "idealista · 23 Sep"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "VIDÓR to build Portugal's largest student residence — 2,200+ beds in Porto for ~€100M",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/24/77821-maior-residencia-de-estudantes-do-pais-vem-aliviar-a-escassez-de-camas",
-              "summary": "The premium scheme, next to Porto's Asprela campus, spans three buildings with a pool, gym and study spaces. Portugal needs housing for some 227,000 displaced and international students against fewer than 28,000 existing beds.",
-              "why": "Student housing is the clearest structural-undersupply story in Portuguese real estate — and the reason 'living' capital keeps choosing beds over for-sale stock.",
-              "source": "idealista · 24 Sep"
-            },
-            {
-              "headline": "Nova Atlantic commits €87M to 245 homes in Sintra, Gaia and Viana",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/07/77499-estrangeiros-aterram-em-portugal-e-constroem-245-casas-por-87-milhoes",
-              "summary": "The developer — founded by Israeli, German and Ukrainian investors — is building Belas Residences (46 units, €43M) in Sintra, Gaia Residences (83 flats, €22M) and Green Hills Viana (116 flats from €165k, €22M).",
-              "why": "Foreign operators are moving up the chain from buying to building — and adding supply outside the Lisbon/Porto core, where land is cheaper and competition thinner.",
-              "source": "idealista · 7 Sep"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "APPII's Hugo Santos Ferreira joins OneMark to raise a €300M 'living' fund",
-              "url": "https://jornaleconomico.sapo.pt/noticias/hugo-santos-ferreira-estamos-a-levantar-um-fundo-que-pode-ir-ate-300-milhoes-de-euros/",
-              "summary": "After 12 years leading the developers' association APPII, Santos Ferreira becomes managing partner at José Cardoso Botelho's OneMark Capital & Developments, raising a €250–300M vehicle for branded residences and office-to-resi conversions across Lisbon, Porto and the Algarve.",
-              "why": "One of the sector's most connected figures moving from lobby to capital — and an “Opus Buildings Reborn” conversion play that reads the obsolete-office repricing the way institutional buyers do.",
-              "source": "Jornal Económico · 18 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Home sales fall 6.4% in Q2 — a third straight drop — as prices hit a record €266,475",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/22/77780-venda-de-casas-em-portugal-volta-a-cair-subida-de-precos-perde-ritmo",
-              "summary": "INE recorded 40,142 homes sold in Q2, down 6.4% year-on-year, with the price index up 16.5% — a second straight quarter of deceleration. Transaction value still rose 4.2% to €10.7 billion; non-resident buyers fell 10.3%.",
-              "why": "The classic late-cycle signature — thinning volumes, still-record prices, retreating foreign demand. Underwriting exits now means assuming price growth keeps decelerating, not compounding.",
-              "source": "INE / idealista · 22 Sep"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Portugal's affordable-rent regime is live — but landlords still can't enrol",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/16/77669-portaria-que-regulamenta-rendas-acessiveis-publicada-nos-proximos-dias",
-              "summary": "The Simplified Affordable Rent regime (RSAA) — full IRS/IRC/Stamp exemption on rents capped at 80% of the municipal median — has been in force since 1 September under Decree-Law 97/2026, but the implementing portaria that lets owners sign up is still pending, “due in the coming days.”",
-              "why": "The developer track (CIA) carries IMT and VAT relief and 25-year benefits for contracts signed by 2029 — potentially reshaping build-to-rent underwriting, but only once the regulation lands. Watch for the portaria.",
-              "source": "idealista / ECO · 16 Sep"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Beds beat boxes.",
-          "text": "Capital is rotating decisively into rented 'living' — student housing above all — while the for-sale market thins; the structural bed shortage is the cleaner underwrite."
-        },
-        {
-          "lead": "Underwrite deceleration, not compounding.",
-          "text": "A third straight sales drop with prices still at record levels is the late-cycle tell; model exits on slowing, not accelerating, price growth."
-        },
-        {
-          "lead": "The portaria is the catalyst.",
-          "text": "The affordable-rent CIA track could re-rate build-to-rent economics via IMT/VAT relief — but nothing signs until the implementing decree publishes."
-        },
-        {
-          "lead": "Debt is the honest cost signal.",
-          "text": "wecity lending at 11.5% and speculative logistics pushing prime rents to €7/sqm show where the cost of capital — and the conviction bets — actually sit."
         }
       ]
     }
