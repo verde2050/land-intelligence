@@ -1,6 +1,128 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "editions": [
+    {
+      "date": "2026-10-08",
+      "label": "8 Oct",
+      "title": "Davidson Kempner sells ECS, Portugal's biggest alt-asset manager, to Draycott",
+      "summary": "US fund Davidson Kempner has agreed to sell ECS — the Portuguese manager it bought for about €850m in 2022 — to Draycott, the alternatives house run by João Coelho Borges. ECS was built on tourism and real-estate assets carved out of Portuguese banks' post-crisis balance sheets. Draycott already runs more than €3bn and recently absorbed Square Asset Management, making it one of the dominant local platforms. Terms were undisclosed and the deal still needs Autoridade da Concorrência clearance. Elsewhere today: Sonae Sierra lined up a new CEO, the government split its rental-law reform from the 2027 budget, and asking rents accelerated again. Net: consolidation among Portugal's alternative managers is speeding up — scale and bank relationships are becoming the moat.",
+      "hook": "Portugal's biggest alternatives manager is changing hands.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Davidson Kempner sells ECS to Draycott",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/06/78049-fundo-norte-americano-vende-gestora-portuguesa-ecs-a-draycott",
+              "summary": "The US fund is offloading ECS — one of Portugal's largest alternative and private-asset managers, built from distressed bank portfolios — to João Coelho Borges's Draycott, which already oversees €3bn+. Terms undisclosed; Davidson Kempner stays on as a strategic partner.",
+              "why": "A landmark consolidation — the platforms that cleaned up Portugal's post-crisis NPLs are now the targets. Scale and workout expertise are what's being bought.",
+              "source": "idealista · 6 Oct"
+            },
+            {
+              "headline": "Former Levira furniture factory heads to auction at €9.98m",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77963-antiga-fabrica-de-mobiliario-vai-a-leilao-por-quase-10-milhoes",
+              "summary": "The ex-Levira industrial complex in Oiã (Aveiro) is up for online auction with a €9.98m opening bid, with bidding open until 9 October.",
+              "why": "A rare large industrial-repositioning play in the Aveiro corridor — and a live read on where reserve pricing sits for secondary industrial land.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "State transfers 25.6ha Bobadela site to Loures",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/02/77990-estado-transfere-area-do-antigo-complexo-logistico-da-bobadela-para-loures",
+              "summary": "Loures takes ~256,000 m² of the former Bobadela rail-logistics complex — now Parque Papa Francisco — for €196,400, with €9.45m of infrastructure investment committed through 2030 and the riverside zone earmarked for green and public space.",
+              "why": "Public land being requalified on Lisbon's eastern edge reshapes the Loures regeneration pipeline — and the value of land around it.",
+              "source": "idealista / Lusa · 2 Oct"
+            },
+            {
+              "headline": "Matosinhos to build 108 homes on the old Leixões ground",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77970-matosinhos-quer-construir-casas-e-lojas-no-antigo-campo-do-leixoes",
+              "summary": "The câmara plans 108 dwellings, shops, an underground car park and a public square on the club's former pitch — an urban-infill redevelopment in Greater Porto.",
+              "why": "Municipal-led infill on legacy sites is where new urban supply is actually coming from — watch the delivery model (public, private or JV).",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Seven Algarve councils bid €105m+ for social housing",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/02/77984-sete-municipios-algarvios-candidatam-se-para-reforcar-habitacao-social",
+              "summary": "Seven Algarve municipalities filed 11 Algarve2030 applications for social housing, a programme worth more than €105m.",
+              "why": "EU-funded public housing is a counter-cyclical source of construction demand in a region otherwise driven by tourism and second homes.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Luís Mota Duarte named Sonae Sierra CEO from January 2027",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77961-luis-mota-duarte-assume-lideranca-da-sonae-sierra-em-2027",
+              "summary": "The investment-management chief succeeds Fernando Guedes de Oliveira, CEO for 15+ years. Sonae Sierra closed 2025 at 98% occupancy and in 2026 formed a ~€1.5bn JV with Norges Bank to buy eight Spanish shopping centres.",
+              "why": "A generational handover at Iberia's biggest retail landlord — and a signal that shopping-centre capital is back on offense.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Coldwell Banker opens first Porto office, absorbs Homelovers team",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/02/77971-coldwell-banker-acelera-expansao-em-portugal-com-nova-agencia-no-porto",
+              "summary": "Marking its 120th anniversary, the brand opens its first Porto agency and folds in a 10-person team from Homelovers Porto.",
+              "why": "International-brand expansion into Porto signals where brokers expect transaction volume to grow next.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Montenegro splits the rental-law reform from the 2027 budget",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/06/78039-montenegro-desliga-do-oe2027-a-negociacao-da-lei-das-rendas",
+              "summary": "The PM pulled rental-law negotiations out of OE2027 talks. The AD reform — faster evictions, more contract flexibility and scrapping the 2% cap on new-contract increases — cleared its first vote on 30 Sept after Chega abstained, and is now in committee.",
+              "why": "A more landlord-friendly regime would reprice rental underwriting — but the path still depends on Chega/PS, so model both outcomes.",
+              "source": "idealista · 6 Oct"
+            },
+            {
+              "headline": "Existing-contract rents can rise 2.56% in 2027",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/06/77997-rendas-podem-subir-2-56-em-2027-guia-para-senhorios-e-inquilinos",
+              "summary": "The official update coefficient for ongoing leases is set at 2.56% for 2027, up from 2.24% in 2026, based on final inflation.",
+              "why": "This is the cap on in-place rent growth for existing contracts — it directly sets NOI growth on stabilised residential.",
+              "source": "idealista · 6 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Asking rents accelerate to +6.1% year-on-year in September",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/02/77932-rendas-das-casas-aceleram-ritmo-de-aumento-para-6-1-em-setembro",
+              "summary": "idealista's index shows asking rents up 6.1% year-on-year in September — a third straight month of acceleration — while 7% of luxury listings cut prices in Q2, the most since early 2025.",
+              "why": "Market asking rents still outrun the 2.56% coefficient on in-place leases — the widening gap is the core thesis for rental-exposed strategies.",
+              "source": "idealista · 2 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Consolidation is the trade.",
+          "text": "The ECS sale shows scale and bank-workout relationships — not origination — command the premium among Portugal's alternative managers."
+        },
+        {
+          "lead": "Public land is the pipeline.",
+          "text": "Bobadela, the old Leixões ground and €105m of Algarve social housing — municipal and EU-funded sites are where new supply is actually originating."
+        },
+        {
+          "lead": "Underwrite the rent gap, not the headline.",
+          "text": "Market rents (+6.1%) keep outrunning the 2.56% cap on in-place leases; the spread is the return, and the reform could widen it."
+        },
+        {
+          "lead": "Watch the vote math.",
+          "text": "A landlord-friendly rental law is live but hostage to Chega/PS — size positions to both the capped and uncapped case."
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "label": "7 Oct",
@@ -1018,116 +1140,6 @@
         {
           "lead": "Make tax timing a deal term.",
           "text": "The mais-valias reinvestment exemption only helps sales from 2026 on — check the disposal date before pricing any seller's after-tax return."
-        }
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "label": "28 Sep",
-      "title": "Portugal's rental overhaul faces its 30 Sept vote — rent caps out, evictions faster",
-      "summary": "On 30 September, Parliament votes on a rental reform that would scrap the 2% cap on new-contract rent increases and cut the eviction timeline for non-payment from three months to two. Landlords could demand three months' rent in advance and set deposits with no ceiling. The government frames it as a supply-side fix to restore owner confidence and push idle homes back onto the market. Promulgation likely waits until after the 2027 Budget debate, so the real start date slips into next year. Meanwhile INE data shows house prices up 16.5% against 5.1% wage growth — the affordability gap this reform is meant, eventually, to ease. Net: pricing freedom is coming for landlords, but the timeline and the politics still carry risk.",
-      "hook": "Portugal's biggest rental shake-up in years goes to a vote in two days.",
-      "sections": [
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "New foundation targets 100,000 affordable-rent homes by 2045",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/24/77656-fundacao-nasce-para-dar-100-000-casas-de-renda-acessivel-ate-2045",
-              "summary": "Fundação Âncora, an Austria-inspired non-profit led by Pedro Sarmento, wants 100,000 middle-class rental homes by 2045, starting with a 1,000-unit, €200M first programme. Some €75M of MoUs are signed; no capital raised yet.",
-              "why": "It signals a “patient capital” channel — long-term debt at roughly half-market returns plus free municipal land — that could reshape how affordable rental gets financed in Portugal.",
-              "source": "idealista · 24 Sep"
-            },
-            {
-              "headline": "Gaia plans four new neighbourhoods with 1,200 social homes",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/25/77859-gaia-vai-ter-novos-bairros-com-1-200-apartamentos-de-habitacao-social",
-              "summary": "Vila Nova de Gaia will build four new neighbourhoods delivering 1,200 social-housing apartments.",
-              "why": "Large municipal pipelines shift where construction capacity and infrastructure spend land — context for private schemes competing for the same trades and sites in Greater Porto.",
-              "source": "idealista · 25 Sep"
-            },
-            {
-              "headline": "Funchal to invest €40M in around 300 homes by 2029",
-              "url": "https://www.iberian.property/news/residential/funchal-plans-eur40m-investment-in-around-300-homes-by-2029/",
-              "summary": "Madeira's capital plans a €40M residential push delivering roughly 300 homes by 2029.",
-              "why": "Island markets rarely see municipal-scale residential pipelines; the move points to public capital stepping in where private supply is thin.",
-              "source": "Iberian Property · 22 Sep"
-            },
-            {
-              "headline": "Lisbon to turn the old Council of Ministers building into 90 homes",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/23/77814-antigo-edificio-do-conselho-de-ministros-vai-dar-lugar-a-90-casas",
-              "summary": "The former Conselho de Ministros building in central Lisbon is set to be converted into 90 dwellings.",
-              "why": "Adaptive reuse of state assets is becoming a repeatable supply route in the capital — lower land cost and faster delivery than ground-up, with political tailwind.",
-              "source": "idealista · 23 Sep"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "CMVM clears Fomento SGOIC as a large-scale management company",
-              "url": "https://www.iberian.property/news/market-updates/cmvm-gives-the-go-ahead-to-fomento-sgoic-as-a-large-scale-management-company/",
-              "summary": "Portugal's securities regulator has authorised Fomento SGOIC to operate as a large-scale real-estate fund management company.",
-              "why": "A new large-scale manager means more institutional vehicles competing for Portuguese assets — added buy-side depth for anyone selling into the market.",
-              "source": "Iberian Property · 15 Sep"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Rental reform heads to a plenary vote on 30 September",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/23/77809-novas-regras-do-arrendamento-vao-a-votos-em-plenario-a-30-de-setembro",
-              "summary": "The bill removes the 2% cap on rent rises for new contracts, allows up to three months' rent in advance and uncapped deposits, and shortens the non-payment eviction window from three months to two.",
-              "why": "Freer pricing and faster remedies materially improve the underwriting case for build-to-rent and stabilised residential — but promulgation likely trails the 2027 Budget, so model the change for next year, not this one.",
-              "source": "idealista · 23 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "House prices grew three times faster than wages",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/25/77855-preco-das-casas-em-portugal-cresce-o-triplo-dos-salarios-num-ano",
-              "summary": "INE figures through Q2 2026 show home values up 16.5% over the year while average wages rose 5.1% (1.8% in real terms). Over the decade, prices are up 182% against 48% wage growth.",
-              "why": "Demand keeps outrunning incomes, underpinning capital values — but sharpening the affordability squeeze that is driving every policy lever now in play.",
-              "source": "idealista · 25 Sep"
-            },
-            {
-              "headline": "Portugal's data-centre race enters a new investment phase",
-              "url": "https://www.iberian.property/news/data-centers/portugals-data-centre-race-enters-a-new-investment-phase/",
-              "summary": "Capital is accelerating into Portuguese data centres as power, connectivity and land availability draw a fresh wave of operators and investors.",
-              "why": "Digital infrastructure is emerging as a distinct Portuguese asset class — long leases, credit tenants and structural demand that residential-heavy portfolios can diversify into.",
-              "source": "Iberian Property · 15 Sep"
-            },
-            {
-              "headline": "Retail parks claim a bigger share of Portugal's retail future",
-              "url": "https://www.idealista.pt/news/imobiliario/lojas/2026/09/25/77843-retail-parks-ganham-espaco-no-futuro-do-retalho-em-portugal",
-              "summary": "Retail parks are expanding above the European average in Portugal, favoured for lower occupancy costs, convenience and resilient footfall.",
-              "why": "For yield-focused investors, retail parks offer defensive income at wider cap rates than prime high street or offices — a segment worth tracking as capital rotates.",
-              "source": "idealista · 25 Sep"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Price the reform, don't bank it.",
-          "text": "The rental overhaul improves landlord economics, but promulgation slips past the 2027 Budget — hold the upside as optionality, not base case."
-        },
-        {
-          "lead": "Values still climbing.",
-          "text": "Prices up 16.5% against 5.1% wages means capital appreciation stays intact even as affordability worsens — the tension every policy move is chasing."
-        },
-        {
-          "lead": "Diversify beyond housing.",
-          "text": "Data centres and retail parks are widening the Portuguese opportunity set with longer leases and defensive income."
-        },
-        {
-          "lead": "More buyers are coming.",
-          "text": "A new large-scale manager plus patient-capital vehicles deepen the buy-side — good for exits, tougher on entry pricing."
         }
       ]
     }
