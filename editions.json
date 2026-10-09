@@ -1,6 +1,121 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "editions": [
+    {
+      "date": "2026-10-09",
+      "label": "09 Oct",
+      "title": "Draycott buys ECS from Davidson Kempner, forging a €3.5bn+ Portuguese alternatives platform",
+      "summary": "Draycott is buying ECS from New York's Davidson Kempner, folding a tourism-heavy property book into a Portuguese platform that already runs over €3.5bn. Davidson Kempner, which paid about €850m for ECS at the end of 2022, stays on as a strategic partner; the deal still needs Competition Authority and CMVM sign-off. The backdrop is a market that keeps drawing capital: JLL now counts Portugal as 23% of Southern Europe's real-estate debt this year, with non-bank lenders funding roughly 74% of deals. Greater Porto just logged a €451m investment record for the half — its best in a decade. And the new RJUE licensing regime is live, shifting planning risk onto developers. Net: capital is consolidating and financing is widening, but the people underwriting Portuguese real estate are changing.",
+      "hook": "Portugal's fund-management map just got redrawn.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Draycott buys ECS from Davidson Kempner",
+              "url": "https://eco.sapo.pt/2026/10/06/draycott-compra-ecs-a-davidson-kempner/",
+              "summary": "Draycott — the PE firm founded in 2019 by João Coelho Borges, with €3.5bn+ under management after absorbing Square AM — is acquiring ECS, the manager of a tourism-heavy book of hotels, resorts and golf built from post-crisis bank portfolios. Davidson Kempner, which bought ECS for ~€850m in 2022, remains a strategic partner; the deal awaits regulatory approval.",
+              "why": "An independent Portuguese alternatives platform of this scale means the biggest, most complex national tickets will increasingly route through fewer, better-capitalised hands.",
+              "source": "ECO · 6 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Prime logistics box hits the market by Porto airport",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/06/78002-nave-logistica-junto-ao-aeroporto-do-porto-procura-novo-ocupante",
+              "summary": "CBRE has an exclusive mandate on a 5,485 m² stand-alone warehouse-and-office unit in Vila Nova da Telha (Maia), 500m from the airport's cargo terminal, with 21 docks, 8m clear height and A28/A41/A4 access. It is pitched at occupiers expanding in the north.",
+              "why": "Modern logistics space in Greater Porto is scarce, and scarcity near the airport is where rental growth is concentrating — a signal for yield-seeking developers.",
+              "source": "idealista · 6 Oct"
+            },
+            {
+              "headline": "PortoBay Falésia closes for a €20M overhaul",
+              "url": "https://www.idealista.pt/news/ferias/turismo/2026/10/07/78070-renovacao-de-20-milhoes-leva-hotel-portobay-falesia-a-vender-mobiliario",
+              "summary": "The Algarve hotel has shut its doors and is auctioning its furnishings online ahead of a ~€20m renovation, set to reopen under an adults-only concept. It is part of PortoBay's wider reinvestment across Madeira and the Algarve.",
+              "why": "Repositioning rather than new-build is where Algarve hospitality value is being created — branded operators are trading up existing stock to defend record room rates.",
+              "source": "idealista · 7 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Luís Mota Duarte to lead Sonae Sierra from 2027",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77961-luis-mota-duarte-assume-lideranca-da-sonae-sierra-em-2027",
+              "summary": "The group's investment-management chief will take over as CEO in January 2027, succeeding Fernando Guedes de Oliveira after 15+ years. Mota Duarte joined Sonae in 2014 to run M&A and moved to Sierra — owner of Centro Colombo and NorteShopping — in 2018.",
+              "why": "A dealmaker takes the helm of Portugal's largest retail landlord — a signal of more active capital recycling across its shopping-centre portfolio.",
+              "source": "idealista · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "New RJUE licensing regime is now in force",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77955-novo-rjue-em-vigor-o-que-muda-na-construcao-e-compra-de-casa",
+              "summary": "In effect since 1 October, the revised urban-planning code replaces upfront municipal review with \"prior communication\" — works can start on the applicant's responsibility, with councils reviewing once, afterwards. Sale contracts must now state whether a property holds an urban-planning title.",
+              "why": "Faster starts, but compliance liability shifts squarely onto developers, designers and site managers — and banks' stance on utilisation licences for mortgages is still unsettled.",
+              "source": "idealista · 1 Oct"
+            },
+            {
+              "headline": "Porto overtakes Lisbon on new short-term lets",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/07/78068-porto-supera-lisboa-no-numero-de-novos-alojamentos-locais-em-2026",
+              "summary": "Porto has registered more new Alojamento Local units than Lisbon in 2026 — a shift in where short-term-rental supply is growing as the capital's contention zones bite and the north draws more tourism capital.",
+              "why": "AL licensing is the single biggest swing factor on short-stay yields — and the growth is now in the north, not Lisbon.",
+              "source": "idealista · 7 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Portugal is now 23% of Southern Europe's property debt",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/08/78106-portugal-ganha-peso-no-novo-mapa-do-financiamento-imobiliario",
+              "summary": "JLL counts ~€560m of Portuguese real-estate financing to end-September — 23% of a €2.46bn Southern-European total across 21 deals. Non-bank lenders (debt funds, i-banks, insurers) now supply ~74% of volume; hospitality (42%) and logistics (26%) lead demand.",
+              "why": "The lender pool is deeper than the banks alone — but JLL calls it \"more selective,\" so asset quality and cash-flow visibility decide who gets funded.",
+              "source": "idealista · 8 Oct"
+            },
+            {
+              "headline": "Greater Porto hits a €451M investment record",
+              "url": "https://www.diarioimobiliario.pt/Investimento-imobiliario-no-Grande-Porto-atinge-recorde-de-451-milhoes-de-euros",
+              "summary": "Cushman & Wakefield's first Market Focus Porto puts H1 commercial investment at €451m, up 8% and the best in a decade, led by retail and hotels. Office take-up rose 37% through August, with 90,000+ m² of modern space under development.",
+              "why": "Porto has graduated from secondary market to a core allocation — and a thin modern pipeline keeps rental tension on the developers' side.",
+              "source": "Diário Imobiliário · 8 Oct"
+            },
+            {
+              "headline": "H1 investment hits €1.39bn as data centres emerge",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/06/77991-mercado-imobiliario-portugues-mantem-se-firme-perante-a-incerteza",
+              "summary": "B. Prime's Prime Watch puts national H1 commercial investment at €1,386m, up 13%, with hotels and retail at 63% of capital. Lisbon absorbed 66,906 m² of offices and 199,182 m² of logistics — data centres are now ~9% of space under development.",
+              "why": "The fundamentals are solid, but B. Prime warns the office pipeline to 2028 may undershoot demand — and data centres are the new competitor for industrial land.",
+              "source": "idealista · 6 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwriting is consolidating.",
+          "text": "The ECS deal builds a €3.5bn+ independent platform — the biggest Portuguese tickets will route through fewer, deeper-pocketed managers."
+        },
+        {
+          "lead": "Non-bank capital is here.",
+          "text": "With debt funds, i-banks and insurers at ~74% of financing, well-structured deals have more lenders to court — on stricter cash-flow terms."
+        },
+        {
+          "lead": "RJUE shifts the burden.",
+          "text": "Prior communication replaces upfront review, so compliance and liability now sit with promoters and designers — price the risk in."
+        },
+        {
+          "lead": "Watch the north.",
+          "text": "A €451m regional record, faster rent growth and more new AL registrations make Greater Porto the momentum market."
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "label": "8 Oct",
@@ -1044,102 +1159,6 @@
         {
           "lead": "Position early for 2030.",
           "text": "The World Cup reshapes hospitality and infrastructure through the decade — the entry window is now."
-        }
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "label": "29 Sep",
-      "title": "Portugal's rental overhaul faces its final vote tomorrow — 2% cap gone, evictions halved",
-      "summary": "Parliament votes tomorrow, 30 September, on the government's rental reform — the most consequential change to Portuguese lettings in years. New contracts would lose the 2% cap on rent increases, deposit ceilings would disappear, and eviction for non-payment would drop from three months to two. Backers say freeing landlord terms will pull more homes onto the market; DECO and tenant groups call it a transfer of risk onto renters. It lands as prices cool to +16.5% and capital quietly rotates — logistics up 35% to €181M, demand spilling out of Lisbon and Porto into Aveiro, Braga, Leiria and the Alentejo coast. Net: the yield case for Portuguese rental stock is being rewritten in real time — read the fine print before you underwrite.",
-      "hook": "Portugal rewrites the rules of renting — in a single vote tomorrow.",
-      "sections": [
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Rental reform reaches its final vote",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/25/77857-nova-lei-do-arrendamento-agravara-exposicao-financeira-dos-inquilinos",
-              "summary": "The package headed to a plenary vote on 30 September scraps the 2% cap on new-contract rent rises, removes limits on security deposits, and cuts the non-payment eviction window from three months to two. Consumer body DECO and tenant associations warn it shifts financial exposure onto renters.",
-              "why": "Uncapped rent growth and larger deposits reprice the income side of every new Portuguese tenancy — and rewrite landlords' underwriting overnight.",
-              "source": "idealista · 25 Sep"
-            },
-            {
-              "headline": "Capital-gains break excludes 2025 sellers",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/28/77879-nova-regra-das-mais-valias-deixa-de-fora-casas-vendidas-em-2025",
-              "summary": "The new IRS exemption — for gains on a primary home reinvested into moderate-rent housing — applies only to sales made between 1 January 2026 and 31 December 2029. Anyone who sold in 2025, even if they reinvest now, is shut out.",
-              "why": "Disposal date is now a hard tax boundary — diligence when a seller sold before pricing their after-tax position.",
-              "source": "idealista · 28 Sep"
-            }
-          ]
-        },
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Logistics investment jumps 35% to €181M",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/28/77869-investimento-em-imobiliario-logistico-acelera-e-chega-aos-181-milhoes",
-              "summary": "JLL reports H1 logistics and industrial investment up 35% year-on-year, with 200,000 m² of take-up across 30 deals and prime rents at €7.00/m²/month. But 359,000 m² of the 645,000 m² under construction is being built speculatively, with no leases signed.",
-              "why": "The sheds thesis is where the money is moving — but a large unlet pipeline is the first place occupier demand gets tested.",
-              "source": "idealista / JLL · 28 Sep"
-            },
-            {
-              "headline": "Madeira buys Lourdes Castro estate for €3M",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/28/77890-madeira-compra-propriedade-de-lourdes-castro-por-3-milhoes-de-euros",
-              "summary": "The regional government acquired the late artist's 12,330 m² quinta in Santa Cruz — designed by Castro and architect Manuel Zimbro — negotiating from a €4.1M asking price. It will become a cultural centre for exhibitions and artistic residencies.",
-              "why": "A reminder that heritage and cultural end-use are live buyers for landmark Portuguese property — and a public bid can reset a stalled private asking price.",
-              "source": "idealista · 28 Sep"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Construction firms up into H2",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/28/77871-construcao-da-sinais-de-forca-no-arranque-do-segundo-semestre",
-              "summary": "Licensed dwellings rose 4.5% to 25,854 through July even as the number of licensed projects fell 7.7% — fewer but larger schemes, led by Greater Lisbon (+6%). New mortgage lending climbed 11.3% to €14.5bn and cement consumption 6%, per AICCOPN.",
-              "why": "Supply is finally building — but consolidation into bigger projects favours developers with scale and financing depth.",
-              "source": "idealista / AICCOPN · 28 Sep"
-            },
-            {
-              "headline": "Coimbra advances 54 municipal homes",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/28/77881-coimbra-dinamiza-habitacao-municipal-com-mais-de-50-casas-e-9-milhoes",
-              "summary": "The city is rehabilitating 54 homes over two phases for €9M, PRR-funded — 33 T2 units delivered at Bairro da Fonte do Castanheiro and 21 more underway. It sits alongside Quinta das Bicas, targeting 268 municipal homes for 128 families.",
-              "why": "Municipal and PRR-backed pipelines are a growing counterparty and comparable set for private developers competing in secondary cities.",
-              "source": "idealista · 28 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "The demand map moves out of the big two",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/29/77901-investir-em-imobiliario-em-portugal-o-mapa-da-procura-esta-a-mudar",
-              "summary": "With Q2 prices up 16.5% (cooling from ~20%) and transactions down 6.4% but still above 40,000, investors are rotating out of Lisbon and Porto toward Aveiro, Braga, Guimarães and Leiria, the Oeste (Óbidos, Caldas, Peniche) and the Alentejo coast around Sines.",
-              "why": "Secondary markets with real jobs and transport are absorbing the buyers priced out of the metros — infrastructure, not postcode, picks the winners.",
-              "source": "idealista · 29 Sep"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwrite the new lease regime, not the old.",
-          "text": "Removing the 2% cap and deposit limits changes rent-growth and security assumptions on every new tenancy — model both a pass and a fail of tomorrow's vote."
-        },
-        {
-          "lead": "Follow the capital into logistics.",
-          "text": "+35% to €181M with prime rents at €7/m² is a live thesis — but the 359,000 m² being built without leases is where the cycle turns first."
-        },
-        {
-          "lead": "Hunt the secondary map.",
-          "text": "Aveiro, Braga, Leiria, Óbidos and Sines are absorbing demand priced out of Lisbon and Porto — screen for infrastructure, not just yield."
-        },
-        {
-          "lead": "Make tax timing a deal term.",
-          "text": "The mais-valias reinvestment exemption only helps sales from 2026 on — check the disposal date before pricing any seller's after-tax return."
         }
       ]
     }
