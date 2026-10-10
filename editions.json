@@ -1,6 +1,133 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "editions": [
+    {
+      "date": "2026-10-10",
+      "label": "10 Oct",
+      "title": "OE2027 puts €2bn behind housing — and lifts the IMT Jovem ceiling to €338k",
+      "summary": "The Government's OE2027 proposal, delivered to Parliament on Wednesday night, earmarks €2,003 million to expand affordable housing and rebuild the public stock. The bulk — €1,071M — goes to the IHRU for new supply and rehabilitation, with €917M for rental support (Porta 65+, PAER, affordable-rent tax breaks) and €15M to digitise urban licensing. The budget also moves to finance 45,000 homes dropped from the PRR and leans on public-private partnerships built on State-owned land. On the demand side, the IMT Jovem exemption for under-35 first-time buyers rises to €338,141 and all IMT brackets step up 2.3%. The parliamentary debate runs 27–28 October, with the final global vote set for 24 November. Net: supply is the stated priority, but the money that actually moves deals is still the IMT relief and the land the State is willing to let go.",
+      "hook": "Portugal's 2027 budget bets €2bn on housing supply",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Lisbon council lists 10 properties for auction, targeting €60M",
+              "url": "https://jornaleconomico.sapo.pt/noticias/camara-de-lisboa-coloca-a-venda-imoveis-por-60-milhoes/",
+              "summary": "The Câmara de Lisboa is putting ten sites — nearly 30,000 m² across the city — to public auction on 10 December, with base bids from €1.1M to €13.7M (the largest a 10,000 m² plot in Penha de França). Proceeds fund the council's investment plan to 2030; the land is explicitly not earmarked for housing.",
+              "why": "A rare block of developable inner-city land coming to market at once — and a read on where the municipality itself values plots across Penha de França, Marvila, Campolide and Beato.",
+              "source": "Jornal Económico · 9 Oct"
+            },
+            {
+              "headline": "MVGM adds 47 hotels, reaching 77 assets under management",
+              "url": "https://www.iberian.property/news/hotels/mvgm-adds-47-assets-to-its-hotel-portfolio-reaching-77-under-management/",
+              "summary": "Property manager MVGM has grown its Iberian hotel book by 47 assets to 77 under management, consolidating its position in the segment that is drawing the most capital.",
+              "why": "Operating platforms, not just owners, are scaling fastest in hospitality — mandates flow to whoever can run the assets, which is how institutional capital enters the trade.",
+              "source": "Iberian Property · 6 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Kronos Homes commits €125M+ to 214-home Distrikt in Parque das Nações",
+              "url": "https://www.iberian.property/news/residential/kronos-homes-invests-over-eur125m-in-distrikt-residential-project-in-lisbon/",
+              "summary": "Kronos Homes is investing over €125M in Distrikt, its largest residential scheme to date: 214 homes (T1–T5) across four towers, plus six retail units and a public car park in Lisbon's Parque das Nações, designed by Morph Studio. The project won Best Real Estate Project at the 2026 World Class District Awards in Madrid.",
+              "why": "A top-tier institutional developer doubling down on prime Lisbon residential signals continued conviction in the high-end band even as affordability dominates the policy conversation.",
+              "source": "Iberian Property · 6 Oct"
+            },
+            {
+              "headline": "IHRU to build 204 affordable homes in Matosinhos — now on EIB money",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/08/78095-ihru-quer-construir-204-casas-em-matosinhos-com-financiamento-do-bei",
+              "summary": "With the project (est. €35.2M) dropped from the PRR, the IHRU says it will fund 204 affordable-rent homes at Parque de Picoutos via its EIB facility — which backs up to 12,000 affordable homes by 2030. Atelier Carvalho Araújo was picked in 2023, but says it still has no signed contract.",
+              "why": "The template for Portugal's post-PRR affordable pipeline: EIB debt replacing grant money, with the execution risk that tenders stalled for years still carry.",
+              "source": "idealista · 8 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Savills opens a bespoke Porto office at VIVA Offices",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/08/78100-savills-instala-se-no-viva-offices-com-um-escritorio-feito-a-medida",
+              "summary": "Savills Portugal's Porto team has moved into VIVA Offices in Ramalde — a 21,500 m², nine-floor building owned by Sonae Sierra and GFH, designed by Broadway Malyan and in line for LEED Platinum. MD Ricardo Valente frames it as a commitment to the North.",
+              "why": "The international agencies are staffing up around Porto, confirming the North as the next institutional battleground beyond Lisbon — and that modern, certified office stock still lets space there.",
+              "source": "idealista · 8 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Four Portuguese projects make the Dezeen Awards 2026 shortlist",
+              "url": "https://espacodearquitetura.com/noticias/quatro-projectos-portugueses-na-shortlist-dos-dezeen-awards-2026/",
+              "summary": "Portugal lands four of the 152 shortlisted projects: Casa Plaj by Extrastudio (Lourinhã), Mercado do Bairro Padre Cruz by REDO architects (Lisbon), the Canning Factory conversion by OODA (Matosinhos), and Casa Sem Pele by Didier Faustino (Ribatejo). Winners are announced 16 November in London.",
+              "why": "Heritage conversion (OODA's cannery) and civic regeneration are where Portuguese studios are winning global recognition — the asset classes where design quality most directly drives value.",
+              "source": "Espaço de Arquitetura · 1 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "OE2027 injects €2,003M to reinforce housing supply in 2027",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/08/78128-habitacao-governo-injeta-2-003-milhoes-para-reforcar-oferta-em-2027",
+              "summary": "The 2027 Budget commits €2,003M to affordable housing: €1,071M to the IHRU for new supply and rehabilitation, €917M for rental support, and €15M to digitise licensing. It also pledges to finance 45,000 homes cut from the PRR and to open State land to public-private partnerships.",
+              "why": "The clearest statement yet of where public capital is going — and the partnership-on-State-land model is the single biggest potential source of development-ready sites for private players.",
+              "source": "idealista · 8 Oct"
+            },
+            {
+              "headline": "IMT Jovem exemption rises to €338k; all brackets up 2.3%",
+              "url": "https://eco.sapo.pt/2026/10/08/governo-atualiza-escaloes-do-imt-em-23-veja-aqui-as-tabelas/",
+              "summary": "OE2027 lifts the under-35 first-home exemption from IMT and Stamp Duty to €338,141, and raises every IMT bracket 2.3%: the permanent-home exemption threshold goes to €108,792 and the top 7.5% rate now starts above €1,177,323.",
+              "why": "A higher youth ceiling pulls more transactions into the tax-free band — concentrating demand (and price pressure) just under €338k, exactly where volume developers should be building.",
+              "source": "ECO · 8 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Commercial investment hits €1.39bn in H1, up 13% — hotels and retail lead",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/06/77991-mercado-imobiliario-portugues-mantem-se-firme-perante-a-incerteza",
+              "summary": "B. Prime's Prime Watch puts H1 2026 commercial investment at ~€1,386M, +13% y/y, with hotels and retail together taking 63% of capital. Lisbon office take-up reached 66,906 m² and logistics absorption 199,182 m²; data centres are now ~9% of the development pipeline, and yields are described as stable.",
+              "why": "The capital map for the year: operational, income-producing assets (hotels, retail) are winning, while a thin office pipeline to 2028 flags a future supply squeeze in prime Lisbon.",
+              "source": "idealista · 6 Oct"
+            },
+            {
+              "headline": "A quieter shift: Portugal's brokerage sector is heading for consolidation",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/09/77981-a-transformacao-silenciosa-que-esta-a-redesenhar-o-imobiliario",
+              "summary": "Licensed brokerages jumped from 7,270 (2020) to 11,174 (2025), per IMPIC — but with a structural shortage of homes to sell, transaction volumes can fall even as prices hold. The piece argues the market is tilting toward concentration, rewarding firms that generate their own deal flow.",
+              "why": "Fewer transactions per firm means fee compression and churn ahead — a reason for capital to own origination rather than rent it from a crowded intermediary layer.",
+              "source": "idealista · 9 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Land is the lever.",
+          "text": "Both the budget's PPP-on-State-land push and Lisbon's €60M auction point the same way — the pipeline that matters now is public land coming to market, not new private listings."
+        },
+        {
+          "lead": "Demand relief is priced in.",
+          "text": "A €338k IMT Jovem ceiling widens the tax-free band for sub-35 buyers; underwrite exit demand around that threshold, not above it."
+        },
+        {
+          "lead": "Operational capability wins mandates.",
+          "text": "Hotels and retail took 63% of H1's €1.39bn and MVGM is scaling to 77 hotels — platforms that can run assets capture the capital that discovery alone cannot."
+        },
+        {
+          "lead": "Control your origination.",
+          "text": "With 11,174 brokerages chasing a shrinking transaction pool, fee compression is coming — a reason to own deal flow rather than rent it."
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "label": "09 Oct",
@@ -1063,102 +1190,6 @@
         {
           "lead": "Land plumbing matters.",
           "text": "Paid BUPi registration is small, but it signals the state formalising rural land — useful for plot assembly."
-        }
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "label": "30 Sep",
-      "title": "Portugal logistics investment jumps 35% to €181M as capital chases prime",
-      "summary": "Money is flowing back to Portugal's best assets. Logistics and industrial investment jumped 35% to €181M in H1, JLL reports, with prime rents at €7/m². Lenders are chasing stabilised offices too: Signal Capital's fully-let Cais 5 in Cais do Sodré just secured Abanca financing. The 2030 World Cup is stretching the runway further, with 111 hotels and over 12,000 rooms in the pipeline. Supply is following demand — licensed dwellings rose 4.5% even as project counts fell, a sign developers are building bigger, fewer schemes. Net: the capital-markets thaw is real, and it rewards prime, income-producing assets over discovery.",
-      "hook": "Capital is rotating back into prime Portuguese real estate.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Signal Capital's fully-let Cais 5 secures Abanca financing",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/09/29/77895-edificio-de-escritorios-cais-5-assegura-financiamento-junto-do-abanca",
-              "summary": "Signal Capital Partners refinanced Cais 5, a 5,900 m² office building in Cais do Sodré, with Abanca after reaching 100% occupancy — TagEnergy, HAVI and Trustly are among the tenants of the LEED/WELL Gold-rated asset. CBRE advised on the structuring.",
-              "why": "Lenders are back for stabilised prime Lisbon offices — a signal that debt is flowing to income, not to speculative development.",
-              "source": "idealista · 29 Sep"
-            },
-            {
-              "headline": "NxN Data Centers enters Portugal with Évora acquisition",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/24/77840-nxn-data-centers-compra-centro-de-dados-em-evora-e-esta-a-investir",
-              "summary": "Spain's NxN bought an operating 1 MW data centre in Évora, on the Lisbon–Madrid axis, and pledged €100M of investment in Portugal over three years. CEO Javier Salas framed it as a long-term market entry.",
-              "why": "Digital infrastructure is becoming a Portuguese asset class — land near power and fibre in the Alentejo now has a data-centre bid behind it.",
-              "source": "idealista · 24 Sep"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Conde da Ribeira brings 24 riverside homes to Alcântara",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/07/77487-nasce-uma-nova-forma-de-habitar-entre-o-tejo-e-a-sofisticacao-lisboeta",
-              "summary": "Miguel Saraiva designed the two-block Alcântara scheme — 24 apartments from T0 to T6+1 plus five duplex penthouses, priced €620k to €2.1M, with several already sold. Amenities include a resident garden, gym and two parking levels.",
-              "why": "Early sell-through at €620k-plus confirms depth of demand for design-led riverfront stock along the Tagus — the Alcântara/LX corridor keeps repricing up.",
-              "source": "idealista · 28 Sep"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Ponta Delgada raises building heights in PDM revision",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/29/77922-ponta-delgada-reforca-capacidade-construtiva-para-habitacao",
-              "summary": "The Azorean capital is revising its municipal plan to allow taller buildings — three floors as the standard in consolidated urban areas — to unlock more housing without sprawl. The câmara votes on 1 October before regional review.",
-              "why": "Height relaxations lift buildable area per plot — a direct margin lever for developers, and a template other supply-starved municipalities may copy.",
-              "source": "idealista · 29 Sep"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Logistics investment surges 35% to €181M in H1",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/28/77869-investimento-em-imobiliario-logistico-acelera-e-chega-aos-181-milhoes",
-              "summary": "JLL clocked €181M into industrial and logistics in the first half, up 35% year-on-year, with ~200,000 m² leased across 30 deals. Prime rents hit €7/m², and the CREL Norte corridor rose to €4.50.",
-              "why": "Rent growth on live occupier demand — not yield compression — is driving the sheds trade, the healthiest kind of momentum for underwriters.",
-              "source": "idealista / JLL · 28 Sep"
-            },
-            {
-              "headline": "2030 World Cup lifts investor appetite; 12,000 rooms in pipeline",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/28/77777-mundial-de-futebol-2030-aumenta-apetite-de-investidores-em-portugal",
-              "summary": "A Christie & Co study counts 111 hotels and 12,000+ rooms in Portugal's pipeline, ~80% under international brands, as the tournament and 2025 RevPAR of €82.40 (up 41.7% on 2019) pull chains in for the long term.",
-              "why": "The World Cup is a decade-long visibility play, not an event trade — hospitality and infrastructure exposure in Lisbon, Porto and the Algarve compounds through 2030.",
-              "source": "idealista / Christie & Co · 30 Sep"
-            },
-            {
-              "headline": "Licensed homes rise 4.5% even as project count falls",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/09/28/77871-construcao-da-sinais-de-forca-no-arranque-do-segundo-semestre",
-              "summary": "AICCOPN data for Jan–Jul show 25,854 licensed dwellings (+4.5%) across 7.7% fewer projects — bigger, denser schemes. Lisbon led with 5,727 units; housing credit grew 11.3% to €14.5bn.",
-              "why": "Consolidation into larger developments favours capitalised players — and rising valuations (+15.2%) confirm the supply gap isn't closing fast.",
-              "source": "idealista / AICCOPN · 28 Sep"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Prime is where the money is.",
-          "text": "Cais 5's Abanca debt and the logistics surge both reward stabilised, well-let income over ground-up discovery."
-        },
-        {
-          "lead": "Logistics is the momentum trade.",
-          "text": "35% investment growth on rising rents, not yield compression, points to durable occupier demand."
-        },
-        {
-          "lead": "Scale is the edge on supply.",
-          "text": "Fewer, larger residential schemes and height relaxations reward developers who can build at volume."
-        },
-        {
-          "lead": "Position early for 2030.",
-          "text": "The World Cup reshapes hospitality and infrastructure through the decade — the entry window is now."
         }
       ]
     }
