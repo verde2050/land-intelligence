@@ -1,6 +1,121 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "editions": [
+    {
+      "date": "2026-10-12",
+      "label": "12 Oct",
+      "title": "Draycott buys ECS from Davidson Kempner, building a €3bn+ Portuguese property platform",
+      "summary": "Draycott, the alternative-asset house led by João Coelho Borges, has agreed to buy ECS — one of Portugal's largest managers of tourism and real-estate assets — from US fund Davidson Kempner. The deal lands months after Draycott absorbed Square AM, pushing its platform past €3 billion in assets. Davidson Kempner paid about €850 million for ECS at the end of 2022 and has since sold pieces, including the Conrad Algarve for €150 million; it stays on as a strategic partner. Terms were not disclosed, and the deal has been notified to the Autoridade da Concorrência. Meanwhile, the OE2027 budget would cut VAT on construction from 23% to 6% while build costs climbed 7.5% year on year in August. Net: capital is concentrating in fewer, bigger Portuguese platforms just as building gets more expensive and the State leans on tax to unblock supply.",
+      "hook": "Draycott is buying ECS — and consolidating Portuguese property fast",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Draycott agrees to buy ECS from Davidson Kempner",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/06/78049-fundo-norte-americano-vende-gestora-portuguesa-ecs-a-draycott",
+              "summary": "Draycott — João Coelho Borges's alternative-asset manager, already past €3bn after swallowing Square AM — will acquire ECS, the tourism-and-real-estate house Davidson Kempner bought for ~€850M in 2022. Terms undisclosed; the deal is before the competition authority.",
+              "why": "A second major independent manager folding into Draycott in a year reshapes the buy-side — fewer, larger platforms sit on the other side of every Portuguese deal you do.",
+              "source": "idealista · 8 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Santarém gets a premium Tagus-view scheme, Andaluz Residence",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/09/78023-santarem-prepara-conceito-de-habitacao-premium-com-vista-para-o-tejo",
+              "summary": "The Andaluz Residence is under construction on Avenida Madre Andaluz in Santarém's upscale quarter, positioned as a premium concept overlooking the Tejo.",
+              "why": "Upper-tier product is spreading to secondary riverside cities — a read on where developers see pricing power beyond the metros.",
+              "source": "idealista · 9 Oct"
+            },
+            {
+              "headline": "New 47-home scheme IRIS Açoteia rises in Olhão",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78022-entre-a-ria-e-a-cidade-nasce-um-novo-projeto-residencial-em-olhao",
+              "summary": "IRIS Açoteia brings 47 apartments in T1–T3 layouts to Olhão, set between the Ria Formosa lagoon and the town centre.",
+              "why": "The eastern Algarve keeps drawing mid-density residential — steady absorption outside the saturated Golden Triangle.",
+              "source": "idealista · 8 Oct"
+            },
+            {
+              "headline": "OE2027 earmarks €174M for Lisbon and Porto metro expansion",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78133-obras-nos-metros-de-lisboa-e-porto-investimento-supera-170-milhoes",
+              "summary": "The draft 2027 budget allocates about €174 million to extending the Lisbon and Porto metro networks.",
+              "why": "New stations redraw catchment areas — transit lines are among the most reliable signals for where land and rents re-rate.",
+              "source": "idealista · 8 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Carvalho Araújo demands answers on 204 promised homes",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/06/78041-atelier-portugues-exige-explicacoes-ao-estado-sobre-casas-prometidas",
+              "summary": "Atelier Carvalho Araújo says it is still waiting — three years after winning the design competition — for the contract to develop a 204-home affordable project in Matosinhos.",
+              "why": "A public reminder of how slowly State-led affordable pipelines convert from competition to contract — execution risk on the supply the market is counting on.",
+              "source": "idealista · 6 Oct"
+            },
+            {
+              "headline": "Matosinhos to host architecture criticism's CICA congress",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78112-matosinhos-vai-ser-palco-internacional-da-critica-de-arquitetura",
+              "summary": "Casa da Arquitetura in Matosinhos will stage the first CICA (international architecture critics) conference held in Portugal, largely back in person.",
+              "why": "More global design attention on Portugal burnishes the build-quality story that underpins premium pricing and the export of Portuguese studios.",
+              "source": "idealista · 8 Oct"
+            },
+            {
+              "headline": "Focus Group to design a €25M office tower in Algeria",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78045-focus-group-reforca-presenca-na-argelia-com-torre-de-25-milhoes",
+              "summary": "Portuguese firm Focus Group will design a new office tower for Algerian personal-care company Faderco, deepening its North African footprint.",
+              "why": "Portuguese architecture and engineering practices are increasingly exporting billings — a diversification worth tracking as domestic margins tighten.",
+              "source": "idealista · 8 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "OE2027 cuts construction VAT to 6%, carves out rental reform",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/08/78135-habitacao-no-oe2027-guia-das-medidas-propostas-pelo-governo",
+              "summary": "The 2027 budget proposal drops VAT on construction from 23% to 6% (~€94M cost), adds IRS relief for landlords charging up to €2,300, and keeps IMT/IS exemptions for under-35 first buyers — but the rental-law revision is pulled out for separate talks. Debate 27–28 Oct; final vote 24 Nov.",
+              "why": "The VAT cut materially improves new-build economics, but with rental reform parked, the income side of the investment case stays unresolved.",
+              "source": "idealista · 9 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "New-home build costs up 7.5% year on year in August",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/09/78146-construir-casas-novas-custo-acelera-em-agosto-a-boleia-dos-materiais",
+              "summary": "INE's construction-cost index rose 7.5% YoY in August (labour +8.0%, materials +7.1%), with diesel and copper up ~30%; prices have climbed sharply since March on higher energy costs.",
+              "why": "Cost inflation is re-accelerating just as the VAT cut arrives — underwrite build budgets on the current curve, not last year's.",
+              "source": "idealista / INE · 9 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Consolidation is the trade.",
+          "text": "Two big independents (Square AM, now ECS) folding into Draycott in one year means fewer counterparties and more scale across the table on any deal."
+        },
+        {
+          "lead": "Underwrite the current cost curve.",
+          "text": "A 7.5% annual build-cost rise — diesel and copper up ~30% — eats margin on anything priced today; stress new-build budgets hard."
+        },
+        {
+          "lead": "The tax tailwind is real but narrow.",
+          "text": "VAT at 6% on construction and landlord IRS relief help delivery economics, but rental-law reform was pulled from the budget, so the income side stays uncertain."
+        },
+        {
+          "lead": "Demand is broadening.",
+          "text": "Santarém, Olhão and Torres Vedras all saw new upper-tier residential this week — pricing power is spreading beyond the Lisbon / Porto / Algarve cores."
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "label": "11 Oct",
@@ -1080,128 +1195,6 @@
         {
           "lead": "Policy is the demand driver.",
           "text": "Portugal's place on Henley's list shows visa and tax settings pull capital as hard as yield does."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-02",
-      "label": "02 Oct",
-      "title": "New building code takes effect as Portugal tops EU house-price growth at 16.5%",
-      "summary": "Portugal's new building and urban-planning code (RJUE) took effect on 1 October, scrapping up-front municipal checks for a prior-communication model in which developers start work immediately and carry the compliance risk. Small works — interiors, sub-10m² structures, solar panels — are now licence-free. Sale contracts must now state whether a property holds valid urban licensing, pushing diligence onto buyers. It lands into a market running hot: Portuguese house prices rose 16.5% year-on-year in Q2, the steepest in the EU, with September asking prices up 7.9% to a record €3,228/m². Capital keeps arriving — NxN just entered via an Évora data centre, and Sonae Sierra lined up a new CEO. Net: faster permitting rewards developers who can underwrite their own risk — in the most expensive market Portugal has ever had.",
-      "hook": "Portugal rewrote how you build — just as it became Europe's hottest housing market.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "NxN enters Portugal with an Évora data centre and a €100M plan",
-              "url": "https://www.iberian.property/news/data-centers/nxn-data-centers-acquires-evora-data-centre/",
-              "summary": "NxN Data Centers bought a 1 MW facility in Évora from the insolvent Portuguese operator Decsis — its first Portuguese asset — and says it will invest up to €100M in the country over three years.",
-              "why": "A live, cash-flowing data centre bought out of insolvency is operational infrastructure at a distressed basis — and a marker that the AI-driven data-centre land grab has reached Portugal's interior.",
-              "source": "Iberian Property · 30 Sep"
-            },
-            {
-              "headline": "Levira furniture complex heads to auction for nearly €10M",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77963-antiga-fabrica-de-mobiliario-vai-a-leilao-por-quase-10-milhoes",
-              "summary": "The former Levira furniture factory is listed for auction at roughly €10M, with bidding closing on 9 October.",
-              "why": "Large industrial sites coming to market by auction are repositioning plays — logistics conversion or mixed-use — priced off land value rather than existing use.",
-              "source": "idealista · 1 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Matosinhos plans 108 homes on the old Leixões sports ground",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77970-matosinhos-quer-construir-casas-e-lojas-no-antigo-campo-do-leixoes",
-              "summary": "The municipality wants to build 108 dwellings plus retail, parking and a public plaza on the former Leixões Sports Club grounds.",
-              "why": "Municipally-driven infill on under-used urban land in Greater Porto is exactly where new RJUE timelines meet acute supply shortage — watch for developer tenders.",
-              "source": "idealista · 1 Oct"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "Sonae Sierra names Luís Mota Duarte as CEO from 2027",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77961-luis-mota-duarte-assume-lideranca-da-sonae-sierra-em-2027",
-              "summary": "Mota Duarte, vice-president and an M&A and investment hand who joined the group in 2014, takes over in January 2027 from Fernando Guedes de Oliveira after more than 15 years. Sonae Sierra owns and runs centres including Colombo and NorteShopping.",
-              "why": "An investment-side leader at the helm of Portugal's biggest retail-property platform signals a capital-recycling, deal-led chapter — relevant to anyone trading Iberian retail assets.",
-              "source": "idealista · 1 Oct"
-            },
-            {
-              "headline": "Arrow Global takes 6,200 m² at República 5 in Saldanha",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/01/77949-arrow-global-portugal-encontra-nova-casa-no-coracao-de-lisboa",
-              "summary": "The investment manager is relocating to 6,200 m² across the República 5 building in central Lisbon, housing roughly 700 staff.",
-              "why": "A 6,200 m² prime-CBD letting is a rare large-ticket office take-up in a tight Lisbon market — a data point for anyone underwriting central office rents.",
-              "source": "idealista · 1 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Rental reform advances to committee as Chega abstains",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/30/77950-lei-das-rendas-vai-a-especialidade-sem-votar-montenegro-aposta-no-chega",
-              "summary": "The government's housing/rental package moved to the committee stage after Chega abstained, letting it clear its first vote — with Montenegro banking on that abstention to pass the detail.",
-              "why": "The terms that survive committee will set the risk profile of residential rental income — the single biggest swing factor for build-to-rent underwriting in Portugal.",
-              "source": "idealista · 30 Sep"
-            },
-            {
-              "headline": "Rules set for moderate-rent investment contracts",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77964-ja-ha-regras-para-investimento-em-casas-com-rendas-moderadas",
-              "summary": "Detailed requirements and obligations are now in place for developers who want to join the state's moderate-rent investment contract scheme.",
-              "why": "A defined incentive framework for moderate-rent product gives funds a policy-backed route into residential income — worth modelling against pure market-rate plays.",
-              "source": "idealista · 1 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Portugal leads the EU on house prices, up 16.5%",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77967-portugal-lidera-subida-dos-precos-das-casas-na-uniao-europeia",
-              "summary": "Eurostat put Portuguese house-price growth at 16.5% year-on-year in Q2 2026 — the highest of any EU member state, ahead of Bulgaria (15.5%) and Lithuania (14.3%), with a 3.6% quarterly rise.",
-              "why": "EU-topping appreciation sustains capital-value momentum but compresses entry yields — the case for buying development and value-add over stabilised core only strengthens.",
-              "source": "idealista / Eurostat · 1 Oct"
-            },
-            {
-              "headline": "Asking prices hit a record €3,228/m² in September",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77923-casas-a-venda-preco-aumenta-7-9-em-setembro-e-atinge-novo-recorde",
-              "summary": "The median asking price rose 7.9% to a record €3,228/m² in September, even as the pace of growth moderates.",
-              "why": "Record pricing with cooling momentum is the classic signal to be selective — exit assumptions should lean on income and cost discipline, not further price inflation.",
-              "source": "idealista · 1 Oct"
-            },
-            {
-              "headline": "Logistics investment accelerates to €181M",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/09/28/77869-investimento-em-imobiliario-logistico-acelera-e-chega-aos-181-milhoes",
-              "summary": "Capital into Portuguese logistics real estate is speeding up, reaching €181M, though deals keep running into a shortage of available space.",
-              "why": "Demand outrunning supply in logistics points to rental growth and a development premium — the clearest build-to-core opportunity in the market right now.",
-              "source": "idealista · 28 Sep"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Speed now favours the prepared.",
-          "text": "The RJUE's prior-communication regime compresses timelines but moves legal risk onto developers — value accrues to teams that underwrite their own compliance, not those relying on câmara pre-checks."
-        },
-        {
-          "lead": "Underwrite the licensing, not just the asset.",
-          "text": "With contracts now required to disclose urban-title status, undocumented stock gets cheaper and riskier — a sourcing edge for buyers who can cure title."
-        },
-        {
-          "lead": "Distress is feeding the pipeline.",
-          "text": "NxN's Évora buy from an insolvent operator and the €10M Levira auction show operational assets changing hands below replacement cost."
-        },
-        {
-          "lead": "Rents are the policy battleground.",
-          "text": "The arrendamento reform and the new moderate-rent contract rules will define residential income returns — the Chega abstention is the vote to watch."
         }
       ]
     }
