@@ -1,6 +1,133 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "editions": [
+    {
+      "date": "2026-10-16",
+      "label": "16 Oct",
+      "title": "Funds drove 78% of Portugal's €1.4bn H1 property spend — hotels and retail took two-thirds",
+      "summary": "Funds now drive 78% of real-estate investment in Portugal. Colliers counts ~€1.4bn deployed in H1 2026 — flat on last year, but far more concentrated. Hotels (€508m) and retail (€422m) soaked up two-thirds of it; logistics took €169m, living just €88m and offices €70m. Foreign capital led at 55%, though Portuguese family offices are stepping in as some international funds pull back. Beneath the headline calm, the money is quietly picking its spots. Net: capital is abundant but selective — the scarce thing is institutional-grade product, not buyers.",
+      "hook": "Portugal's capital is pooling into funds — and into hotels and shops.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "CBRE sells the 59,000 m² Logispark complex in Montijo",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/15/78087-montijo-ganha-protagonismo-na-logistica-com-venda-de-dois-ativos",
+              "summary": "Two last-mile logistics assets in the Lisbon metro area changed hands, with CBRE as exclusive adviser; ~10,000 m² remains available to let. Buyer and price undisclosed.",
+              "why": "CBRE says it has handled ~60% of Portugal's industrial & logistics volume this year (~€200m) — and institutions are now reaching past prime for scarce big-box product.",
+              "source": "idealista · 15 Oct"
+            },
+            {
+              "headline": "Aticco buys Nimbler Spaces, taking on ~16,000 m² of Lisbon coworking",
+              "url": "https://www.diarioimobiliario.pt/Build-to-Rent-em-debate-na-Semana-da-Reabilitacao-Urbana-do-Porto",
+              "summary": "The flex-office operator absorbs Nimbler's Lisbon portfolio, consolidating a fragmented coworking market as Savills also relocates its Porto office to VIVA Offices.",
+              "why": "Flex continues to consolidate under larger platforms — a signal that occupier demand for serviced space is deep enough to support scale operators, not just one-off floors.",
+              "source": "Diário Imobiliário · 15 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Grupo NOURI unveils a €25m, timber-built resort in Comporta",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/16/78082-projeto-de-25-milhoes-de-euros-quer-redefinir-a-vida-na-comporta",
+              "summary": "Aldea Comporta puts 21 homes — T4 villas with pools plus T2/T3 residences — across 4,700 m² on a 19-hectare Muda estate, using cross-laminated timber and modular systems. AROLLA designs and builds; JLL manages delivery.",
+              "why": "Low-density, CLT-led luxury is becoming the Comporta playbook — proof that premium buyers will pay for sustainability credentials and scarcity, not density.",
+              "source": "idealista · 16 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "LDC Group and inmho merge into an Iberian condo-management giant",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/15/78277-gestao-de-condominios-ldc-group-e-inmho-unem-se-e-criam-gigante-iberico",
+              "summary": "Portugal's LDC Group (Loja do Condomínio) and Spain's inmho combine ~24,000 condominiums, ~2,500 staff and roughly 1m clients. Antonio Baldellou leads the new group; LDC's Pedro Pinheiro stays on as Portugal property-management director.",
+              "why": "Property and condo management is institutionalising fast (LDC sits inside Sweden's Odevo) — recurring-fee platforms are quietly becoming an investable asset class of their own.",
+              "source": "idealista · 15 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Inês Carneiro wins the Fernando Távora Prize",
+              "url": "https://www.diarioimobiliario.pt/Ines-Carneiro-vence-Premio-Fernando-Tavora-com-projeto-sobre-Arquiteturas-do-Cosmos",
+              "summary": "The architect takes one of Portugal's most prestigious research awards for a project on \"Arquiteturas do Cosmos,\" continuing the prize's tradition of funding exploratory travel and thinking.",
+              "why": "Portugal's design reputation is a quiet asset for developers — the architects winning today are the names that sell schemes tomorrow.",
+              "source": "Diário Imobiliário · 13 Oct"
+            },
+            {
+              "headline": "A Portuguese studio puts AI into architectural plan review",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78122-ia-entra-na-revisao-de-projetos-pelas-maos-de-um-atelier-portugues",
+              "summary": "Atelier Segmento Urbano launched an AI-assisted service that screens architectural projects for errors and compliance issues before they reach the câmara.",
+              "why": "Anything that de-risks municipal approval shortens the single most unpredictable line in a development schedule — and licensing delay is where Portuguese projects bleed time and money.",
+              "source": "idealista · 15 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Government launches a working group to draft a single Construction Code",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78283-governo-cria-grupo-de-trabalho-para-elaborar-codigo-da-construcao",
+              "summary": "Despacho 12528/2026 (Diário da República, 15 Oct) creates a team — IMPIC, LNEC and Construção Pública, chaired by the Housing Secretary of State's office — to consolidate Portugal's scattered building law into one code under the \"Construir Portugal\" plan.",
+              "why": "A coherent code could eventually cut the legal uncertainty and cross-referencing that slows every licence — the most consequential structural reform for developers now on the table.",
+              "source": "Diário da República / idealista · 15 Oct"
+            },
+            {
+              "headline": "PJ raids 53 sites over a €66m IMT-exemption fraud",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/15/78287-fraude-com-imt-em-negocios-imobiliarios-lesa-estado-em-66-milhoes",
+              "summary": "Investigators allege shell companies shuttled property between themselves at token prices to win IMT exemptions, then sold on — including bank portfolios — costing the state €66m+ over 2017–2025. Searches hit homes, banks and a law firm in Lisbon, Porto and Setúbal.",
+              "why": "Expect tighter scrutiny of IMT exemptions and corporate-wrapper deals — the structures used to defer transfer tax are now firmly in the authorities' sights.",
+              "source": "idealista · 15 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Funds took 78% of a €1.4bn H1 investment market",
+              "url": "https://www.diarioimobiliario.pt/Fundos-concentram-78-do-investimento-imobiliario-em-Portugal-no-primeiro-semestre",
+              "summary": "Colliers' Q2 snapshot puts H1 2026 volume at ~€1.4bn, flat year-on-year. Hotels (€508m) and retail (€422m) led; logistics €169m, living €88m, offices €70m. Foreign capital was 55%, with family offices filling gaps left by retreating international funds.",
+              "why": "The weight in hotels and retail, and the thinness in living and offices, shows where institutional appetite — and pricing tension — actually sits right now.",
+              "source": "Diário Imobiliário (Colliers) · 15 Oct"
+            },
+            {
+              "headline": "Asking prices up 3.4% in Q3 — but homes take 25% longer to sell",
+              "url": "https://noticias-oeiras.pt/2026/10/14/precos-das-casas-sobem-34-em-portugal-e-venda-demora-mais-tempo/",
+              "summary": "Doutor Finanças' observatory puts national asking prices at €3,666/m² (+3.4% in Q3), reversing Q2's dip. Average time to sell an apartment jumped 25% to 132 days; Lisbon is dearest at €5,582/m², though down 1.4%.",
+              "why": "Prices and clearing speed are diverging — sellers keep marking up while buyers take longer, a classic late-cycle gap that rewards patient, well-priced product.",
+              "source": "Notícias de Oeiras (Doutor Finanças) · 14 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Scarcity is on the sell side.",
+          "text": "With funds pushing €1.4bn into a market short of institutional-grade stock, the edge is originating product others can't — the back-the-expert thesis, exactly."
+        },
+        {
+          "lead": "Logistics is repricing by location.",
+          "text": "Capital reaching into Montijo for last-mile space says prime yields are compressing beyond the core — second-tier corridors are where value still sits."
+        },
+        {
+          "lead": "Track the Construction Code.",
+          "text": "A single code replacing scattered building law could cut entitlement risk and timelines — a structural tailwind worth following from despacho to draft."
+        },
+        {
+          "lead": "Underwrite to exit velocity.",
+          "text": "Asking prices up 3.4% while time-to-sell climbs 25% to 132 days: the list-to-clearing gap is widening — model the exit, not the headline growth."
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "label": "15 Oct",
@@ -1071,128 +1198,6 @@
         {
           "lead": "Watch the rulebook, not the rhetoric.",
           "text": "A 2.56% rent cap and an affordable-rental regime still missing its portaria show regulated income and policy upside both hinge on paperwork that lags the market."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "label": "6 Oct",
-      "title": "Portugal leads EU house-price growth at 16.5% as asking prices hit €3,228/m² record",
-      "summary": "Portugal led the entire EU for house-price growth in Q2, up 16.5% year-on-year against a eurozone average of just 1.1%. The heat carried into autumn: September asking prices rose 7.9% to a record €3,228/m², even as quarterly growth cooled to +0.5%. It is happening while Euribor climbs and mortgage rates touch 3%, squeezing buyers but not supply-starved pricing. On the supply side, the new RJUE planning regime took effect on 1 October, promising faster licensing for construction, rehabilitation and sales. Capital keeps arriving — commercial investment hit €1.4bn in the first half — and the dealmaking rolled on this week, from Saldanha offices to Matosinhos redevelopment. Net: demand still vastly outruns supply, and the new rules are a bet that Portugal can finally build toward balance.",
-      "hook": "Portugal is the EU's hottest housing market — and prices just set another record.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Arrow Global takes 6,200 m² for its new Lisbon home near Saldanha",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/01/77949-arrow-global-portugal-encontra-nova-casa-no-coracao-de-lisboa",
-              "summary": "The credit and asset manager will occupy the whole of the República 5 building by Praça do Saldanha, a single-tenant base for roughly 700 staff.",
-              "why": "A full-building letting to an institutional occupier shows prime Lisbon offices still draw demand even with rates rising — a bid under core office values.",
-              "source": "idealista · 1 Oct"
-            },
-            {
-              "headline": "Former Levira furniture plant heads to auction at almost €10m",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77963-antiga-fabrica-de-mobiliario-vai-a-leilao-por-quase-10-milhoes",
-              "summary": "Levira's old industrial complex in Oliveira do Bairro is listed with a €9.98m base price; bidding closes on 9 October.",
-              "why": "Large industrial sites coming to market at a clearing price are exactly the value-add and logistics-conversion stock supply-starved funds are hunting.",
-              "source": "idealista · 1 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Matosinhos plans 108 homes and shops on the old Leixões ground",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77970-matosinhos-quer-construir-casas-e-lojas-no-antigo-campo-do-leixoes",
-              "summary": "The council wants 108 dwellings, ground-floor retail, underground parking and a public plaza on the former Leixões Sport Club pitch.",
-              "why": "Municipal-led redevelopment of legacy sites is becoming a core pipeline source in Greater Porto — watch it for JV and forward-purchase entry points.",
-              "source": "idealista · 1 Oct"
-            },
-            {
-              "headline": "State hands 256,000 m² of the old Bobadela logistics site to Loures",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/02/77990-estado-transfere-area-do-antigo-complexo-logistico-da-bobadela-para-loures",
-              "summary": "The government is transferring 256,161 m² of the former Bobadela logistics complex — now home to Pope Francis Park — to Loures council.",
-              "why": "A quarter of a million square metres of public land changing hands on the Lisbon riverfront logistics corridor is a long-dated supply signal in a tight industrial market.",
-              "source": "idealista · 2 Oct"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "Luís Mota Duarte to lead Sonae Sierra from January 2027",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77961-luis-mota-duarte-assume-lideranca-da-sonae-sierra-em-2027",
-              "summary": "He becomes CEO in January, succeeding Fernando Guedes de Oliveira, who has run the group for more than 15 years.",
-              "why": "A leadership change at one of Iberia's largest retail and mixed-use platforms can reset strategy, disposals and capital partners across the region.",
-              "source": "idealista · 1 Oct"
-            },
-            {
-              "headline": "Coldwell Banker opens its first Porto agency",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/02/77971-coldwell-banker-acelera-expansao-em-portugal-com-nova-agencia-no-porto",
-              "summary": "Marking its 120th year, the brokerage launched a Porto office and absorbed a 10-strong team from Homelovers Porto.",
-              "why": "International brokerages doubling down on Porto confirm the northern market's institutional coming-of-age — more intermediated stock and sharper price discovery.",
-              "source": "idealista · 2 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "New RJUE planning regime takes effect — what changes for building and buying",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77955-novo-rjue-em-vigor-o-que-muda-na-construcao-e-compra-de-casa",
-              "summary": "The overhauled Urban Development Regime (RJUE) came into force on 1 October, cutting bureaucracy across construction, rehabilitation and property sales.",
-              "why": "Licensing speed is the single biggest driver of development returns in Portugal; if the reform delivers, it lifts feasibility on stalled schemes.",
-              "source": "idealista · 1 Oct"
-            },
-            {
-              "headline": "Rules land for investing in 'moderate rent' housing",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77964-ja-ha-regras-para-investimento-em-casas-com-rendas-moderadas",
-              "summary": "A regulatory order sets out the requirements for Moderate Rent Investment Contracts (CIA), the framework for investors backing capped-rent homes.",
-              "why": "It creates a defined, incentivised product for institutional residential capital — a potential entry route into Portuguese living with policy tailwinds.",
-              "source": "idealista · 1 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Asking prices up 7.9% in September to a new record €3,228/m²",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77923-casas-a-venda-preco-aumenta-7-9-em-setembro-e-atinge-novo-recorde",
-              "summary": "September asking prices rose 7.9% year-on-year to a record median, while quarterly growth cooled to +0.5%.",
-              "why": "A fresh record with decelerating quarterly momentum points to a market still rising but losing pace — entry timing matters.",
-              "source": "idealista · 1 Oct"
-            },
-            {
-              "headline": "Portugal leads the EU for house-price growth",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77967-portugal-lidera-subida-dos-precos-das-casas-na-uniao-europeia",
-              "summary": "Portugal topped the bloc at 16.5% year-on-year in Q2, against a eurozone average of just 1.1%, per Eurostat.",
-              "why": "Being the EU's fastest-rising market pulls in cross-border capital — and sharpens the affordability and regulatory risk funds must underwrite.",
-              "source": "idealista · 1 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Pricing power is still the story.",
-          "text": "EU-topping +16.5% growth and a fresh €3,228/m² record argue for underwriting to continued scarcity, not reversion."
-        },
-        {
-          "lead": "Deregulation is the catalyst to watch.",
-          "text": "The new RJUE regime could compress licensing timelines — the biggest lever on Portuguese development IRRs."
-        },
-        {
-          "lead": "Rates cut both ways.",
-          "text": "Euribor near two-year highs trims leveraged buyers but widens the gap institutional equity can exploit."
-        },
-        {
-          "lead": "A regulated-rent lane opens.",
-          "text": "The new CIA framework formalises an investable moderate-rent product for patient, policy-aligned capital."
         }
       ]
     }
