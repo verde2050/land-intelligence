@@ -1,6 +1,126 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "editions": [
+    {
+      "date": "2026-10-18",
+      "label": "18 Oct",
+      "title": "Bank of Portugal: demand-side housing fixes just push prices higher",
+      "summary": "A new study from Banco de Portugal delivers an awkward verdict: demand-side housing measures — buyer subsidies, tax breaks, cheaper credit — mainly push up prices and rents, not access. The bank finds demand shocks lift home values more as financial assets than as places to rent, widening the price-to-rent gap. That lands just as OE2027 doubles down on demand relief — a higher IMT Jovem ceiling and a bigger rent deduction. The implied fix is supply, which the budget also funds but which takes years to arrive. For now, the subsidies risk inflating the very assets they target. Net: the policy tailwind investors have priced in may be propping up values more than affordability — underwrite scarcity, not stimulus.",
+      "hook": "Portugal's central bank says you can't subsidise your way out of a housing crisis.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Tupperware's former Montalvo factory fails to sell at auction",
+              "url": "https://www.idealista.pt/news/financas/negocios/2026/10/15/78275-leilao-da-fabrica-da-tupperware-falha-e-propostas-vao-ser-reavaliadas",
+              "summary": "The ex-Tupperware plant in Montalvo (Constância) drew no buyer; the leading bids came in well below creditors' reference values, so the offers will be reassessed rather than awarded.",
+              "why": "Large single-use industrial sites are hard to clear at book — price repositioning and demolition risk into any distressed-asset bid, not the headline reserve.",
+              "source": "idealista · 15 Oct"
+            },
+            {
+              "headline": "Logicor to replace an obsolete platform with 34,000 m² of Class A logistics",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/15/78258-passado-industrial-da-lugar-a-nova-geracao-logistica-as-portas-de-lisboa",
+              "summary": "Logicor will demolish an outdated facility on a 66,000 m² site in Póvoa de Santa Iria and build 34,000 m² of modern Class A logistics space on the northern edge of Lisbon.",
+              "why": "Redevelopment, not greenfield, is how prime logistics gets delivered where land is scarce — brownfield near the capital is the input driving rental growth.",
+              "source": "idealista · 15 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Palm Luxury Living brings four detached villas to Carcavelos",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/16/78050-palm-luxury-living-moradias-onde-o-luxo-encontra-a-privacidade",
+              "summary": "A new scheme in Carcavelos offers four T4 detached houses with minimalist design and energy-efficient specs, on the Cascais line just west of Lisbon.",
+              "why": "The Lisbon–Cascais coast keeps absorbing low-density luxury — small, high-ticket villa plays are where pricing power is firmest in Verde's home corridor.",
+              "source": "idealista · 16 Oct"
+            },
+            {
+              "headline": "Almora Melides adds 22 houses on the Alentejo coast",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78056-viver-no-centro-historico-as-portas-da-praia-assim-e-o-almora-melides",
+              "summary": "A new 22-house development totalling about 2,300 m² of construction is rising in the historic centre of Melides, the Alentejo coastal village increasingly billed as the next Comporta.",
+              "why": "Melides is the frontier of the Comporta luxury thesis — early, low-density product tests how far second-home demand will travel down the coast.",
+              "source": "idealista · 15 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Grupo Casais opens a construction-tech hub in Braga",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78257-grupo-casais-junta-industria-e-tecnologia-para-reinventar-a-construcao",
+              "summary": "The Casais group launched a Braga technology hub focused on digital coordination, off-site production and industrialised building components, part of its push to modernise how it builds.",
+              "why": "Portugal's big contractors are betting on industrialised construction to beat labour shortages and cost inflation — delivery capacity, not just capital, is becoming the differentiator.",
+              "source": "idealista · 15 Oct"
+            },
+            {
+              "headline": "Cristiano Ronaldo backs a €20M water-bottling plant in Bragança",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/14/78251-cristiano-ronaldo-constroi-fabrica-de-agua-em-aldeia-de-braganca",
+              "summary": "A company jointly owned by Grupo Outeirinho and Cristiano Ronaldo is building a water-bottling factory costing nearly €20M in the village of Gostei, Bragança — a rare industrial bet on Portugal's interior.",
+              "why": "Name-backed industrial investment in the low-density interior is a reminder that capital — and jobs — are spreading beyond the coastal metros, seeding future demand.",
+              "source": "idealista · 14 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "A Portuguese-Norwegian partnership bets on mass-timber building",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78259-parceria-luso-norueguesa-reforca-o-futuro-da-construcao-em-madeira",
+              "summary": "A Portuguese firm signed a strategic partnership through 2030 with a Norwegian timber-engineering specialist, announced at the Wood Giants congress, to advance engineered-timber construction in Portugal.",
+              "why": "Mass timber is moving from showcase to supply chain — a route to faster, lower-carbon builds that can command a sustainability premium with institutional buyers.",
+              "source": "idealista · 15 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Minister denies the new urban-rehabilitation regime was 'made to measure'",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/14/78252-reabilitacao-urbana-pinto-luz-nega-nova-lei-feita-a-sua-medida",
+              "summary": "Infrastructure and Housing Minister Miguel Pinto Luz rejected claims that Portugal's revised urban-rehabilitation rules were written to suit him, and offered to explain the regime to Parliament.",
+              "why": "The rehab regime underpins value-add underwriting — political noise around it is worth tracking, because any wobble in the rules changes the maths on refurbishing older stock.",
+              "source": "idealista · 14 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Homes for sale fall 4% — a seventh straight quarterly drop",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/15/78222-casas-a-venda-em-portugal-oferta-volta-a-cair-recuando-4-no-verao",
+              "summary": "idealista data show the stock of homes for sale in Portugal fell about 4% year-on-year in Q3 2026, the seventh consecutive quarterly decline, keeping upward pressure on prices.",
+              "why": "Shrinking resale supply is the structural floor under Portuguese prices — and the clearest evidence for the central bank's point that the shortage sits on the supply side.",
+              "source": "idealista · 15 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Supply, not subsidy, is the thesis.",
+          "text": "The Bank of Portugal and a seventh straight supply drop point the same way — bet on scarcity of product, not on demand-side stimulus that mostly lifts prices."
+        },
+        {
+          "lead": "Brownfield beats greenfield.",
+          "text": "Logicor's Póvoa redevelopment shows the only way to add prime logistics near Lisbon is to replace obsolete stock — scan for change-of-use and demolition plays on serviced land."
+        },
+        {
+          "lead": "The coast still pays.",
+          "text": "Carcavelos villas and Melides houses confirm low-density luxury on the Lisbon–Alentejo littoral holds pricing power — small tickets, high margins, Verde's home turf."
+        },
+        {
+          "lead": "Delivery capacity is the new moat.",
+          "text": "Casais's industrialised-build hub and the mass-timber tie-up signal that whoever builds faster and cheaper wins — back operators, not just assets."
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "label": "17 Oct",
@@ -1064,128 +1184,6 @@
         {
           "lead": "Watch the north.",
           "text": "A €451m regional record, faster rent growth and more new AL registrations make Greater Porto the momentum market."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "label": "8 Oct",
-      "title": "Davidson Kempner sells ECS, Portugal's biggest alt-asset manager, to Draycott",
-      "summary": "US fund Davidson Kempner has agreed to sell ECS — the Portuguese manager it bought for about €850m in 2022 — to Draycott, the alternatives house run by João Coelho Borges. ECS was built on tourism and real-estate assets carved out of Portuguese banks' post-crisis balance sheets. Draycott already runs more than €3bn and recently absorbed Square Asset Management, making it one of the dominant local platforms. Terms were undisclosed and the deal still needs Autoridade da Concorrência clearance. Elsewhere today: Sonae Sierra lined up a new CEO, the government split its rental-law reform from the 2027 budget, and asking rents accelerated again. Net: consolidation among Portugal's alternative managers is speeding up — scale and bank relationships are becoming the moat.",
-      "hook": "Portugal's biggest alternatives manager is changing hands.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Davidson Kempner sells ECS to Draycott",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/06/78049-fundo-norte-americano-vende-gestora-portuguesa-ecs-a-draycott",
-              "summary": "The US fund is offloading ECS — one of Portugal's largest alternative and private-asset managers, built from distressed bank portfolios — to João Coelho Borges's Draycott, which already oversees €3bn+. Terms undisclosed; Davidson Kempner stays on as a strategic partner.",
-              "why": "A landmark consolidation — the platforms that cleaned up Portugal's post-crisis NPLs are now the targets. Scale and workout expertise are what's being bought.",
-              "source": "idealista · 6 Oct"
-            },
-            {
-              "headline": "Former Levira furniture factory heads to auction at €9.98m",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77963-antiga-fabrica-de-mobiliario-vai-a-leilao-por-quase-10-milhoes",
-              "summary": "The ex-Levira industrial complex in Oiã (Aveiro) is up for online auction with a €9.98m opening bid, with bidding open until 9 October.",
-              "why": "A rare large industrial-repositioning play in the Aveiro corridor — and a live read on where reserve pricing sits for secondary industrial land.",
-              "source": "idealista · 1 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "State transfers 25.6ha Bobadela site to Loures",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/02/77990-estado-transfere-area-do-antigo-complexo-logistico-da-bobadela-para-loures",
-              "summary": "Loures takes ~256,000 m² of the former Bobadela rail-logistics complex — now Parque Papa Francisco — for €196,400, with €9.45m of infrastructure investment committed through 2030 and the riverside zone earmarked for green and public space.",
-              "why": "Public land being requalified on Lisbon's eastern edge reshapes the Loures regeneration pipeline — and the value of land around it.",
-              "source": "idealista / Lusa · 2 Oct"
-            },
-            {
-              "headline": "Matosinhos to build 108 homes on the old Leixões ground",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/01/77970-matosinhos-quer-construir-casas-e-lojas-no-antigo-campo-do-leixoes",
-              "summary": "The câmara plans 108 dwellings, shops, an underground car park and a public square on the club's former pitch — an urban-infill redevelopment in Greater Porto.",
-              "why": "Municipal-led infill on legacy sites is where new urban supply is actually coming from — watch the delivery model (public, private or JV).",
-              "source": "idealista · 1 Oct"
-            },
-            {
-              "headline": "Seven Algarve councils bid €105m+ for social housing",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/02/77984-sete-municipios-algarvios-candidatam-se-para-reforcar-habitacao-social",
-              "summary": "Seven Algarve municipalities filed 11 Algarve2030 applications for social housing, a programme worth more than €105m.",
-              "why": "EU-funded public housing is a counter-cyclical source of construction demand in a region otherwise driven by tourism and second homes.",
-              "source": "idealista · 2 Oct"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "Luís Mota Duarte named Sonae Sierra CEO from January 2027",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77961-luis-mota-duarte-assume-lideranca-da-sonae-sierra-em-2027",
-              "summary": "The investment-management chief succeeds Fernando Guedes de Oliveira, CEO for 15+ years. Sonae Sierra closed 2025 at 98% occupancy and in 2026 formed a ~€1.5bn JV with Norges Bank to buy eight Spanish shopping centres.",
-              "why": "A generational handover at Iberia's biggest retail landlord — and a signal that shopping-centre capital is back on offense.",
-              "source": "idealista · 1 Oct"
-            },
-            {
-              "headline": "Coldwell Banker opens first Porto office, absorbs Homelovers team",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/02/77971-coldwell-banker-acelera-expansao-em-portugal-com-nova-agencia-no-porto",
-              "summary": "Marking its 120th anniversary, the brand opens its first Porto agency and folds in a 10-person team from Homelovers Porto.",
-              "why": "International-brand expansion into Porto signals where brokers expect transaction volume to grow next.",
-              "source": "idealista · 2 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Montenegro splits the rental-law reform from the 2027 budget",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/06/78039-montenegro-desliga-do-oe2027-a-negociacao-da-lei-das-rendas",
-              "summary": "The PM pulled rental-law negotiations out of OE2027 talks. The AD reform — faster evictions, more contract flexibility and scrapping the 2% cap on new-contract increases — cleared its first vote on 30 Sept after Chega abstained, and is now in committee.",
-              "why": "A more landlord-friendly regime would reprice rental underwriting — but the path still depends on Chega/PS, so model both outcomes.",
-              "source": "idealista · 6 Oct"
-            },
-            {
-              "headline": "Existing-contract rents can rise 2.56% in 2027",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/06/77997-rendas-podem-subir-2-56-em-2027-guia-para-senhorios-e-inquilinos",
-              "summary": "The official update coefficient for ongoing leases is set at 2.56% for 2027, up from 2.24% in 2026, based on final inflation.",
-              "why": "This is the cap on in-place rent growth for existing contracts — it directly sets NOI growth on stabilised residential.",
-              "source": "idealista · 6 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Asking rents accelerate to +6.1% year-on-year in September",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/02/77932-rendas-das-casas-aceleram-ritmo-de-aumento-para-6-1-em-setembro",
-              "summary": "idealista's index shows asking rents up 6.1% year-on-year in September — a third straight month of acceleration — while 7% of luxury listings cut prices in Q2, the most since early 2025.",
-              "why": "Market asking rents still outrun the 2.56% coefficient on in-place leases — the widening gap is the core thesis for rental-exposed strategies.",
-              "source": "idealista · 2 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Consolidation is the trade.",
-          "text": "The ECS sale shows scale and bank-workout relationships — not origination — command the premium among Portugal's alternative managers."
-        },
-        {
-          "lead": "Public land is the pipeline.",
-          "text": "Bobadela, the old Leixões ground and €105m of Algarve social housing — municipal and EU-funded sites are where new supply is actually originating."
-        },
-        {
-          "lead": "Underwrite the rent gap, not the headline.",
-          "text": "Market rents (+6.1%) keep outrunning the 2.56% cap on in-place leases; the spread is the return, and the reform could widen it."
-        },
-        {
-          "lead": "Watch the vote math.",
-          "text": "A landlord-friendly rental law is live but hostage to Chega/PS — size positions to both the capped and uncapped case."
         }
       ]
     }
