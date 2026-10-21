@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "editions": [
+    {
+      "date": "2026-10-21",
+      "label": "21 Oct",
+      "title": "Rent-law overhaul slips past November as Chega threatens to tear up its deal",
+      "summary": "The AD government's rental-market overhaul cleared its first vote on 30 September, but the line-by-line debate won't start until the end of November — after the 2027 state budget. Chega, whose abstention let it through, now says its support is “no blank cheque” and it will vote the changes down unless the bill is fixed. The government has opened the door to the PS, with Housing Minister Miguel Pinto Luz offering a full cross-party debate. With a 180-day drafting window and presidential promulgation still ahead, the final regime may not land before summer 2027. Meanwhile the deals keep moving: the ruined Miramar Hotel site in Cascais sold for €17.4M, and Colliers counted €1.4bn invested in H1. Net: the rules that govern Portuguese rental yields are now a 2027 story — underwrite today's deals on today's law.",
+      "hook": "Portugal's rental reform is parked in the waiting room until the budget clears.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Estoril-Sol sells the ruined Miramar Hotel site in Cascais for €17.4M",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/16/78318-terreno-do-antigo-hotel-miramar-em-cascais-vendido-por-17-3-milhoes",
+              "summary": "DTH, a wholly owned Estoril-Sol unit, deeded the 6,046 m² Cascais plot — home to the fire-gutted 1970s hotel — to an undisclosed buyer for €17,397,594, more than double the €8M the group had carried it at. The land is zoned for housing under the 2015 PDM.",
+              "why": "A permitted residential ruin on the Estoril coast clears at 2x book — proof that scarce, licensed land on the Lisbon riviera is repricing hard, right on Verde's doorstep.",
+              "source": "idealista · 16 Oct"
+            },
+            {
+              "headline": "Square AM eyes €300M of deals in 2026, now backed by Draycott",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/16/78324-square-am-aponta-aos-300-milhoes-em-transacoes-e-aposta-forte-na-iberia",
+              "summary": "Iberia's largest independent open-ended fund manager expects to close €300M by year-end (€250M in Portugal, €50M in Spain) after Portuguese VC house Draycott bought 100% of it. CEO Nuno Nunes says the firm wants to leave the “second league” for the “first” before 2030.",
+              "why": "Platform consolidation is accelerating — the independents are being bought and scaled, a signal of where fee income and deal flow are concentrating in Iberian funds.",
+              "source": "idealista · 16 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Grupo NOURI puts €25M into a 21-home timber scheme in Comporta",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/16/78082-projeto-de-25-milhoes-de-euros-quer-redefinir-a-vida-na-comporta",
+              "summary": "Aldea Comporta, on a 19-hectare site in Muda, will mix 21 residences — T4 villas with pools plus T2/T3 units — with a club house, sanctuary space and natural pool. AROLLA handles architecture and build in CLT and modular systems; JLL coordinates the project.",
+              "why": "Low-density, timber-built branded residences remain the Comporta playbook — small unit counts, big tickets, and a sustainability story that now sells the sqm.",
+              "source": "idealista · 16 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Saraiva Associados turns a two-century Lapa palacete into 12 homes",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78052-antiga-residencia-burguesa-da-lugar-a-12-novas-habitacoes-em-lisboa",
+              "summary": "“The Verdian”, on Rua das Janelas Verdes, converts a former bourgeois residence (and 1911–2007 primary school) into eight apartments and four townhouses, T1 to T5+, 91–468 m². Decorated ceilings, stonework and wrought iron are kept against contemporary interiors; developer ReTrend, sold by Sotheby's, finishing September 2028.",
+              "why": "Heritage conversion in prime Lisbon keeps the amenity that new-build can't replicate — and the named-house, gallery-style product is how developers justify the top of the price band.",
+              "source": "idealista · 15 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Loulé declares a 'housing emergency' and demands land be freed",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/19/78344-loule-alerta-para-emergencia-habitacional-e-precisa-de-terrenos",
+              "summary": "The Algarve council is pressing for a faster revision of the regional land plan (PROT) and exceptional measures to unlock terrain for affordable housing, warning that current zoning cannot meet demand.",
+              "why": "Municipalities are now the ones pushing to reclassify land — a tailwind for anyone holding, or optioning, developable sites where the PDM/PROT is the binding constraint.",
+              "source": "idealista · 19 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Colliers: €1.4bn invested in H1 as hospitality and logistics lead",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/15/78286-investidores-fazem-check-in-na-hotelaria-e-apostam-na-logistica",
+              "summary": "Portugal held H1 volume roughly flat at €1.4bn while Europe fell 23%, Colliers reports. Hospitality took €508M (+25%, ~37% of the total) and logistics €169M (+73%, the fastest-growing segment); offices sank 47% and residential/living fell 74%. Prime yields held steady.",
+              "why": "Capital is rotating decisively into operational, income-producing assets; the plain resi and office trades that defined the last cycle are drying up.",
+              "source": "idealista · Colliers · 20 Oct"
+            },
+            {
+              "headline": "Household property wealth up ~50% in 15 years to €708bn",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/20/78370-imoveis-detidos-pelas-familias-valor-sobe-quase-50-em-15-anos",
+              "summary": "Banco de Portugal data show the value of households' real estate rose from €473bn (2010) to €708bn (2025), even as property slipped from 54% to 52% of household assets. For below-median households real estate is ~74% of wealth; for the top 10%, under 40%.",
+              "why": "Portuguese wealth is overwhelmingly bricks — which is exactly why housing is this parliament's hottest political wire and why any rent-law shift moves real money.",
+              "source": "idealista · Banco de Portugal · 20 Oct"
+            },
+            {
+              "headline": "One in eight homes now sells in under a week",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/20/78288-uma-em-cada-8-casas-em-portugal-e-vendida-em-menos-de-uma-semana",
+              "summary": "idealista data show 12% of homes listed in Q3 2026 went under offer within seven days, with pricing and listing quality driving time on market — a read on just how tight the demand-supply gap has become.",
+              "why": "Velocity like this means the market still clears priced stock fast — exit risk on well-located resi product stays low even as policy noise rises.",
+              "source": "idealista · 20 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite on today's law.",
+          "text": "The rental regime is a 2027 story — price deals on the rules in force, not the ones being promised."
+        },
+        {
+          "lead": "Follow the capital, not the headlines.",
+          "text": "Foreign money was 55% of H1 volume and funds drove 78% of it — institutional appetite for Portugal is intact."
+        },
+        {
+          "lead": "Beds and boxes are winning.",
+          "text": "Hospitality (+25%) and logistics (+73%) took the lion's share of H1; the yield story has moved to operational assets."
+        },
+        {
+          "lead": "Land is the chokepoint.",
+          "text": "From Loulé's “emergency” to Cascais's €17.4M ruin, control of permitted sites is the edge."
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "label": "20 Oct",
@@ -1007,140 +1115,6 @@
         {
           "lead": "Demand is broadening.",
           "text": "Santarém, Olhão and Torres Vedras all saw new upper-tier residential this week — pricing power is spreading beyond the Lisbon / Porto / Algarve cores."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-11",
-      "label": "11 Oct",
-      "title": "Draycott to buy ECS from Davidson Kempner, consolidating Portugal's RE fund management",
-      "summary": "US fund Davidson Kempner has agreed to sell ECS — one of Portugal's largest alternative-asset managers, built on post-crisis tourism and real estate pulled off bank balance sheets — to Draycott, already steward of over €3bn and fresh from buying Square Asset Management. Davidson Kempner paid roughly €850m for ECS in 2022 and stays on as a strategic partner; the deal is now before Portugal's competition authority. The backdrop is a budget week that matters more than the headline deal: OE2027 earmarks €2.003bn for affordable housing, cuts construction VAT to 6%, keeps first-home IMT/IS exemptions, and softens IRS on moderate rents. Sonae Sierra named a new CEO, and the Oeste and Santarém pipelines added premium stock. Net: ownership of Portugal's fund-management shelf is consolidating into fewer, bigger hands — just as the state writes a €2bn supply cheque.",
-      "hook": "Draycott is quietly rolling up Portugal's real estate fund managers.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Davidson Kempner sells manager ECS to Draycott",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/06/78049-fundo-norte-americano-vende-gestora-portuguesa-ecs-a-draycott",
-              "summary": "Draycott — €3bn+ in alternatives and recent buyer of Square Asset Management — is acquiring ECS, the platform Davidson Kempner bought for ~€850m in 2022 and whose assets have included the Conrad Algarve. Terms undisclosed; notified to the Autoridade da Concorrência.",
-              "why": "Portugal's independent fund-management universe is being rolled up into a handful of large sponsors — reshaping who you co-invest alongside and who sets pricing on tourism and NPL-sourced portfolios.",
-              "source": "idealista · 8 Oct"
-            },
-            {
-              "headline": "State targets €530m from selling public property in 2027",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/08/78130-governo-preve-encaixar-530-milhoes-de-euros-com-venda-de-imoveis",
-              "summary": "The 2027 budget pencils in ~€530.3m of disposals — €324.8m in buildings and €178.3m in housing — and the state plans to inventory its entire property estate by 2030.",
-              "why": "A half-billion-euro public pipeline plus a full asset inventory is a multi-year source of off-market stock — land and buildings that rarely reach open-market agents.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Six contemporary villas rise among the Oeste vineyards",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/09/78025-refugio-residencial-contemporaneo-nasce-entre-as-vinhas-do-oeste",
-              "summary": "Quinta de Santo António in Turcifal (Torres Vedras) will deliver six T4+1 villas over 2+1 levels, pitched as a design-led rural retreat within easy reach of Lisbon.",
-              "why": "Low-density, high-spec schemes in the Oeste are testing whether buyers will pay Lisbon-adjacent premiums an hour outside the city — a live question for land plays beyond the capital.",
-              "source": "idealista · 9 Oct"
-            },
-            {
-              "headline": "Santarém gets a premium project with Tejo views",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/09/78023-santarem-prepara-conceito-de-habitacao-premium-com-vista-para-o-tejo",
-              "summary": "The Andaluz Residence is under construction on Avenida Madre Andaluz, bringing a premium housing concept to a secondary market more associated with value than luxury.",
-              "why": "Premium product is migrating into interior cities like Santarém — a signal of where developers see headroom now that Lisbon and Porto pricing has stalled.",
-              "source": "idealista · 9 Oct"
-            },
-            {
-              "headline": "€174m for Lisbon and Porto metro expansion in OE2027",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78133-obras-nos-metros-de-lisboa-e-porto-investimento-supera-170-milhoes",
-              "summary": "The 2027 budget allocates €174m to extend both metro networks — continued public investment in the transit corridors that underpin urban land values.",
-              "why": "New stations reprice the land around them. Tracking confirmed alignments is one of the cleaner ways to front-run value uplift in both cities.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "Luís Mota Duarte to lead Sonae Sierra from 2027",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/01/77961-luis-mota-duarte-assume-lideranca-da-sonae-sierra-em-2027",
-              "summary": "Sonae Sierra named Luís Mota Duarte as next CEO from January 2027, succeeding Fernando Guedes de Oliveira after more than 15 years at the helm of the retail-and-development group.",
-              "why": "A generational change at one of Iberia's biggest retail-RE platforms can shift its appetite for development, disposals and third-party mandates — worth watching for anyone in its orbit.",
-              "source": "idealista · 1 Oct"
-            },
-            {
-              "headline": "Savills opens a custom Porto office at VIVA Offices",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/08/78100-savills-instala-se-no-viva-offices-com-um-escritorio-feito-a-medida",
-              "summary": "The adviser's Porto team has moved into a purpose-fitted space at VIVA Offices, deepening the big-brand brokerage footprint in the northern market.",
-              "why": "International advisers committing fitted space to Porto is a vote of confidence in deal flow outside Lisbon — and more competition for local agents.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Focus Group takes Portuguese design to a €25m Algerian tower",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78045-focus-group-reforca-presenca-na-argelia-com-torre-de-25-milhoes",
-              "summary": "Portuguese firm Focus Group is designing a €25m office tower for Algerian company Faderco, extending its presence in North Africa.",
-              "why": "Portugal's design and engineering studios are increasingly export businesses — a reminder that the country's built-environment talent is a tradeable asset, not just a domestic one.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "OE2027: VAT on construction cut to 6%, first-home exemptions stay",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/08/78135-habitacao-no-oe2027-guia-das-medidas-propostas-pelo-governo",
-              "summary": "The 2027 budget cuts construction VAT from 23% to 6% (~€94m cost), keeps IMT/IS exemptions for first owner-occupied homes, and lowers IRS on \"moderate\" rents up to €2,300 (~€209m cost). Rental-law changes are being negotiated separately. General debate 27–28 Oct; final vote 24 Nov.",
-              "why": "A 17-point VAT cut on construction is a direct margin lever for developers — and the moderate-rent IRS break nudges the economics of build-to-rent.",
-              "source": "idealista · 8 Oct"
-            },
-            {
-              "headline": "First White Paper on short-term lets, led by Caldeira Cabral",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/08/78105-primeiro-livro-branco-do-al-coordenado-por-ex-ministro-caldeira-cabral",
-              "summary": "Former economy minister Manuel Caldeira Cabral will coordinate Portugal's first White Paper on alojamento local, due by May 2027 — the groundwork for the next round of AL rules.",
-              "why": "AL regulation has whipsawed valuations for years. A formal evidence base signals the policy direction — and the timeline — for anyone underwriting short-let yield.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Dwelling Portugal: 210 deals, €50m+ in year one",
-              "url": "https://vidaimobiliaria.com/noticias/mercados/dwelling-portugal-210-neg%C3%B3cios-e-50-milh%C3%B5es-em-transa%C3%A7%C3%B5es-no-primeiro-ano/",
-              "summary": "The 100% Portuguese-owned brokerage — backed by ex-athletes and fintech Doutor Finanças — closed 210 deals at an average above €368,000 across Lisbon, Cascais, Porto and the Algarve, in what it calls a more selective, deliberate market.",
-              "why": "A €368k average and \"more demanding buyers\" confirm the market has shifted from momentum to selection — underwriting, not discovery, is where returns are now made.",
-              "source": "Vida Imobiliária · 9 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Consolidation changes the table.",
-          "text": "As Draycott absorbs ECS and Square, fewer, larger sponsors will set pricing on tourism and NPL-sourced portfolios — know who you're bidding against."
-        },
-        {
-          "lead": "The state is both buyer-side and supplier.",
-          "text": "A €2bn affordable-housing cheque and a €530m disposal pipeline make the public sector the biggest single mover in the market next year."
-        },
-        {
-          "lead": "The VAT cut is a margin gift.",
-          "text": "23% to 6% on construction reshapes feasibility — marginal schemes pencil, and build-to-rent gains from the moderate-rent IRS break."
-        },
-        {
-          "lead": "Premium is moving inland.",
-          "text": "Santarém and the Oeste are the frontier for high-spec product — the land math there, not in stalled Lisbon, is where the next spread sits."
         }
       ]
     }
