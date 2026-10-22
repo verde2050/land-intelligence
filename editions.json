@@ -1,6 +1,128 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "editions": [
+    {
+      "date": "2026-10-22",
+      "label": "22 Oct",
+      "title": "Portugal homes for sale fall 4% as mortgage rates hit 3.19% — supply squeeze bites",
+      "summary": "Portugal's housing market is now tightening from both sides at once. Homes listed for sale fell 4% year-on-year in Q3 — the seventh straight quarterly decline. At the same time the average mortgage rate climbed to 3.194% in September and Euribor rose again this week across all tenors. The Banco de Portugal warns the crisis won't be solved from the demand side, and Lisbon has just entered UBS's Global Real Estate Bubble Index. Yet capital keeps arriving: €1.4bn flowed into commercial property in H1, 78% of it through funds. Net: scarce supply and costlier money are propping prices up, not cooling them — and institutional money isn't waiting for a correction.",
+      "hook": "Portugal's housing squeeze tightens from both sides — less to buy, dearer to borrow.",
+      "sections": [
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Funds still own the board: €1.4bn into commercial property in H1",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/16/78309-imobiliario-portugues-joga-com-cartas-internacionais",
+              "summary": "A Colliers snapshot puts H1 commercial investment at about €1.4bn, with foreign capital at 55% and funds making up 78% of all buyers. Local family offices are stepping into assets the big funds have vacated.",
+              "why": "Institutional and foreign money is the price-setter in Portuguese commercial real estate — and the retreat of some fund buyers is opening a rare window for well-capitalised domestic players.",
+              "source": "idealista · 16 Oct"
+            },
+            {
+              "headline": "Mortgage rate climbs to 3.194% as Euribor grinds higher",
+              "url": "https://www.diarioimobiliario.pt/Taxa-de-juro-no-credito-a-habitacao-sobe-para-3-194-em-setembro",
+              "summary": "INE data show the average housing-loan rate rose again in September, with the typical monthly payment reaching €423 and interest back above half of it. Euribor rose on 21 October to 2.670% (3m), 3.030% (6m) and 3.263% (12m).",
+              "why": "Rising debt costs squeeze buyer affordability and underwriting headroom — a tailwind for cash buyers and equity-heavy structures, a headwind for leveraged acquirers.",
+              "source": "Diário Imobiliário · 21 Oct"
+            },
+            {
+              "headline": "Listings down 4% for a seventh quarter — and Lisbon joins UBS's bubble index",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/15/78222-casas-a-venda-em-portugal-oferta-volta-a-cair-recuando-4-no-verao",
+              "summary": "Homes for sale fell 4% year-on-year in Q3, the seventh consecutive quarterly drop, keeping pressure on prices at the affordable end. Lisbon has now entered UBS's Global Real Estate Bubble Index, with real prices up ~7%/year over the decade.",
+              "why": "Chronic undersupply underpins the value case for new delivery, but a bubble-index flag signals stretched valuations — stock selection and entry price now matter more than the rising tide.",
+              "source": "idealista · 15 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "inHabitus targets 1,080 industrialised homes by 2028",
+              "url": "https://reportugal.vidaimobiliaria.com/atualidade/construcao/inhabitus-vai-construir-mais-1000-casas-ate-2028/",
+              "summary": "The Portuguese industrialised-housing start-up, co-founded by Mário Ferraz, has a first phase of 468 homes — Alfena (79, sold out), Setúbal (136), plus Viseu and Greater Porto (253) — with prices from €139,000, claimed ~24% below market per m².",
+              "why": "Industrialised construction is the clearest path to building mid-market product at a profit in a high-cost market — watch whether the cost claims survive at scale.",
+              "source": "Vida Imobiliária · 21 Oct"
+            },
+            {
+              "headline": "Loivos 475 opens as a new wine-tourism venue in the Douro",
+              "url": "https://reportugal.vidaimobiliaria.com/atualidade/investimento/loivos-475-e-o-novo-espaco-de-enoturismo-no-douro/",
+              "summary": "A new enoturismo space has opened in the Douro valley, adding to a pipeline of hospitality-led rural investment in Portugal's wine regions.",
+              "why": "Wine-tourism assets convert agricultural land into yielding hospitality — a template for value-add plays in Portugal's premium rural corridors.",
+              "source": "Vida Imobiliária · 20 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "JLL hands Vítor Dias operations for Project & Development Services across Southern Europe",
+              "url": "https://www.diarioimobiliario.pt/Vitor-Dias-assume-novas-responsabilidades-da-JLL-no-Sul-da-Europa",
+              "summary": "JLL Portugal's COO adds Head of Operations for P&DS and Tétris across Portugal, Spain and Italy, keeping his Lisbon base. He joined JLL in 2019 and became COO in 2024.",
+              "why": "A Lisbon-based lead gaining a three-country remit signals JLL is running Iberia and Italy as one project-delivery market — useful for sponsors coordinating cross-border builds.",
+              "source": "Diário Imobiliário · 21 Oct"
+            },
+            {
+              "headline": "Ingrid Koeck named CEO of Torel Boutiques",
+              "url": "https://www.diarioimobiliario.pt/Ingrid-Koeck-assume-lideranca-executiva-do-grupo-Torel-Boutiques",
+              "summary": "After a decade leading marketing and communications at the Portuguese luxury-hotel group, Koeck steps up to chief executive of Torel Boutiques.",
+              "why": "Leadership continuity at a growing boutique-hotel operator matters as hospitality remains Portugal's hottest investment class — operators that can scale brand are prized by capital.",
+              "source": "Diário Imobiliário · 21 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Openbook takes an Architecture MasterPrize 2026",
+              "url": "https://www.diarioimobiliario.pt/Openbook-distinguida-nos-Architecture-MasterPrize-2026",
+              "summary": "The Portuguese studio Openbook has been distinguished at the international Architecture MasterPrize 2026, adding to a strong year for Portuguese design on the global stage.",
+              "why": "International design recognition burnishes Portugal's brand with global buyers — award-winning architecture is a real premium lever on prime schemes.",
+              "source": "Diário Imobiliário · 20 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "State-property auctions stall: only 1 of 3 planned sales went ahead",
+              "url": "https://observador.pt/2026/10/21/governo-previa-tres-leiloes-de-imoveis-do-estado-para-financiar-habitacao-mas-so-um-avancou/",
+              "summary": "The government planned three 2026 auctions of state property to fund housing, but only March's went ahead, raising ~€21m from three assets. A further 13 properties are authorised for sale, and the 2027 Budget pencils in €526m of disposal revenue.",
+              "why": "A stalled state-disposal pipeline means a big pool of prime public assets stays off-market — but the authorised 13 and the €526m Budget line are a pipeline worth tracking.",
+              "source": "Observador · 21 Oct"
+            },
+            {
+              "headline": "Affordable-rent caps now live: €224 to €2,066 by municipality and typology",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/14/78229-renda-acessivel-vai-ate-2-066-euros-descobre-os-limites-por-municipio",
+              "summary": "A decree in force since 14 October sets maximum affordable rents ranging from €224 to €2,066 depending on location and unit type — and a new working group has been created to draft a national Construction Code.",
+              "why": "Caps define the revenue ceiling on affordable-rent schemes; getting the location-and-typology maths right is now central to underwriting any subsidised product.",
+              "source": "idealista · 14 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwriting beats discovery.",
+          "text": "With rates up and a bubble flag on Lisbon, entry price and stress-tested debt carry the deal — not the assumption prices keep rising."
+        },
+        {
+          "lead": "Supply is the thesis.",
+          "text": "A seventh straight quarterly fall in listings and 78% fund-driven capital keep new, well-located delivery the surest way to meet real demand."
+        },
+        {
+          "lead": "Cost-out is the edge.",
+          "text": "inHabitus's industrialised model points to where margin now lives in mid-market housing — building cheaper, not just selling higher."
+        },
+        {
+          "lead": "Watch the state pipeline.",
+          "text": "Thirteen authorised assets and a €526m disposal line in the 2027 Budget could put prime public real estate in play — if the auctions actually run."
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "label": "21 Oct",
@@ -1000,121 +1122,6 @@
         {
           "lead": "Consented beats raw.",
           "text": "From Tomás Ribeiro 89 to the AL misfire, the premium is on permit certainty — shovel-ready assets and tools that compress licensing time are where the alpha sits."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "label": "12 Oct",
-      "title": "Draycott buys ECS from Davidson Kempner, building a €3bn+ Portuguese property platform",
-      "summary": "Draycott, the alternative-asset house led by João Coelho Borges, has agreed to buy ECS — one of Portugal's largest managers of tourism and real-estate assets — from US fund Davidson Kempner. The deal lands months after Draycott absorbed Square AM, pushing its platform past €3 billion in assets. Davidson Kempner paid about €850 million for ECS at the end of 2022 and has since sold pieces, including the Conrad Algarve for €150 million; it stays on as a strategic partner. Terms were not disclosed, and the deal has been notified to the Autoridade da Concorrência. Meanwhile, the OE2027 budget would cut VAT on construction from 23% to 6% while build costs climbed 7.5% year on year in August. Net: capital is concentrating in fewer, bigger Portuguese platforms just as building gets more expensive and the State leans on tax to unblock supply.",
-      "hook": "Draycott is buying ECS — and consolidating Portuguese property fast",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Draycott agrees to buy ECS from Davidson Kempner",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/06/78049-fundo-norte-americano-vende-gestora-portuguesa-ecs-a-draycott",
-              "summary": "Draycott — João Coelho Borges's alternative-asset manager, already past €3bn after swallowing Square AM — will acquire ECS, the tourism-and-real-estate house Davidson Kempner bought for ~€850M in 2022. Terms undisclosed; the deal is before the competition authority.",
-              "why": "A second major independent manager folding into Draycott in a year reshapes the buy-side — fewer, larger platforms sit on the other side of every Portuguese deal you do.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Santarém gets a premium Tagus-view scheme, Andaluz Residence",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/09/78023-santarem-prepara-conceito-de-habitacao-premium-com-vista-para-o-tejo",
-              "summary": "The Andaluz Residence is under construction on Avenida Madre Andaluz in Santarém's upscale quarter, positioned as a premium concept overlooking the Tejo.",
-              "why": "Upper-tier product is spreading to secondary riverside cities — a read on where developers see pricing power beyond the metros.",
-              "source": "idealista · 9 Oct"
-            },
-            {
-              "headline": "New 47-home scheme IRIS Açoteia rises in Olhão",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78022-entre-a-ria-e-a-cidade-nasce-um-novo-projeto-residencial-em-olhao",
-              "summary": "IRIS Açoteia brings 47 apartments in T1–T3 layouts to Olhão, set between the Ria Formosa lagoon and the town centre.",
-              "why": "The eastern Algarve keeps drawing mid-density residential — steady absorption outside the saturated Golden Triangle.",
-              "source": "idealista · 8 Oct"
-            },
-            {
-              "headline": "OE2027 earmarks €174M for Lisbon and Porto metro expansion",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78133-obras-nos-metros-de-lisboa-e-porto-investimento-supera-170-milhoes",
-              "summary": "The draft 2027 budget allocates about €174 million to extending the Lisbon and Porto metro networks.",
-              "why": "New stations redraw catchment areas — transit lines are among the most reliable signals for where land and rents re-rate.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Carvalho Araújo demands answers on 204 promised homes",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/06/78041-atelier-portugues-exige-explicacoes-ao-estado-sobre-casas-prometidas",
-              "summary": "Atelier Carvalho Araújo says it is still waiting — three years after winning the design competition — for the contract to develop a 204-home affordable project in Matosinhos.",
-              "why": "A public reminder of how slowly State-led affordable pipelines convert from competition to contract — execution risk on the supply the market is counting on.",
-              "source": "idealista · 6 Oct"
-            },
-            {
-              "headline": "Matosinhos to host architecture criticism's CICA congress",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78112-matosinhos-vai-ser-palco-internacional-da-critica-de-arquitetura",
-              "summary": "Casa da Arquitetura in Matosinhos will stage the first CICA (international architecture critics) conference held in Portugal, largely back in person.",
-              "why": "More global design attention on Portugal burnishes the build-quality story that underpins premium pricing and the export of Portuguese studios.",
-              "source": "idealista · 8 Oct"
-            },
-            {
-              "headline": "Focus Group to design a €25M office tower in Algeria",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78045-focus-group-reforca-presenca-na-argelia-com-torre-de-25-milhoes",
-              "summary": "Portuguese firm Focus Group will design a new office tower for Algerian personal-care company Faderco, deepening its North African footprint.",
-              "why": "Portuguese architecture and engineering practices are increasingly exporting billings — a diversification worth tracking as domestic margins tighten.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "OE2027 cuts construction VAT to 6%, carves out rental reform",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/08/78135-habitacao-no-oe2027-guia-das-medidas-propostas-pelo-governo",
-              "summary": "The 2027 budget proposal drops VAT on construction from 23% to 6% (~€94M cost), adds IRS relief for landlords charging up to €2,300, and keeps IMT/IS exemptions for under-35 first buyers — but the rental-law revision is pulled out for separate talks. Debate 27–28 Oct; final vote 24 Nov.",
-              "why": "The VAT cut materially improves new-build economics, but with rental reform parked, the income side of the investment case stays unresolved.",
-              "source": "idealista · 9 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "New-home build costs up 7.5% year on year in August",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/09/78146-construir-casas-novas-custo-acelera-em-agosto-a-boleia-dos-materiais",
-              "summary": "INE's construction-cost index rose 7.5% YoY in August (labour +8.0%, materials +7.1%), with diesel and copper up ~30%; prices have climbed sharply since March on higher energy costs.",
-              "why": "Cost inflation is re-accelerating just as the VAT cut arrives — underwrite build budgets on the current curve, not last year's.",
-              "source": "idealista / INE · 9 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Consolidation is the trade.",
-          "text": "Two big independents (Square AM, now ECS) folding into Draycott in one year means fewer counterparties and more scale across the table on any deal."
-        },
-        {
-          "lead": "Underwrite the current cost curve.",
-          "text": "A 7.5% annual build-cost rise — diesel and copper up ~30% — eats margin on anything priced today; stress new-build budgets hard."
-        },
-        {
-          "lead": "The tax tailwind is real but narrow.",
-          "text": "VAT at 6% on construction and landlord IRS relief help delivery economics, but rental-law reform was pulled from the budget, so the income side stays uncertain."
-        },
-        {
-          "lead": "Demand is broadening.",
-          "text": "Santarém, Olhão and Torres Vedras all saw new upper-tier residential this week — pricing power is spreading beyond the Lisbon / Porto / Algarve cores."
         }
       ]
     }
