@@ -1,6 +1,133 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "editions": [
+    {
+      "date": "2026-10-24",
+      "label": "24 Oct",
+      "title": "House prices keep climbing 18.4% even as sales fall 9%",
+      "summary": "Portugal's housing market is pulling apart. INE's Q2 numbers show prices up 18.4% year-on-year to a median €2,445/m², even as transactions fell 9% to 37,854 — the clearest sign yet that buyers are priced out faster than they walk away. The cooling is uneven: volumes dropped in 22 of 26 sub-regions, steepest in Madeira (-17.9%) and metropolitan Porto (-16.2%), yet prices rose in every one. Lisbon's own sales slid 9.3% while its median held at €4,030/m². Against that squeeze, the government's OE2027 earmarks €2,003 million to push supply, the largest slice to public housing and rehabilitation. Meanwhile the capital that is moving is chasing trophies — Penha Longa at €140M, a €220M AI data centre in Coruche — even as broad M&A dries up. Net: the gap between what Portugal costs and what it can absorb is the story of 2027, and smart money is already positioning around it.",
+      "hook": "Fewer homes change hands — for ever more money.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Penha Longa resort sells for €140M to Catterton and Cedar Capital",
+              "url": "https://www.essential-business.pt/2026/10/23/portugal-bucks-southern-european-dealmaking-boom-as-acquisitions-slump/",
+              "summary": "The five-star Caesar Park hotel and golf resort in Sintra is among the few large Portuguese transactions still closing, bought by Catterton Management and Cedar Capital Partners as the broader deal market thins.",
+              "why": "Trophy hospitality is where international capital is concentrating — proof the appetite is selective, not gone.",
+              "source": "Essential Business · 23 Oct"
+            },
+            {
+              "headline": "The Lince Hotels buys Villa Garden in Braga for a five-star makeover",
+              "url": "https://www.iberian.property/news/hotels/the-lince-hotels-acquires-villa-garden-in-braga-with-plans-for-five-star-upgrade/",
+              "summary": "Arliz group's hospitality arm acquires the 26-room hotel set in a 19th-century palace, with works to lift it to five stars starting in 2027. Price undisclosed.",
+              "why": "Heritage-conversion hotels in secondary cities are drawing operators hunting yield beyond saturated Lisbon and the Algarve.",
+              "source": "Iberian Property · 22 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Aura Capital plans a €220M AI data centre in Coruche",
+              "url": "https://www.iberian.property/news/data-centers/aura-capital-plans-eur220m-ai-data-centre-in-santarem/",
+              "summary": "Aura Technologies will build a 6.4 MW AI data centre at Sorraia Business Park in Santarém, operational by end-2027 and the first in a planned network set to expand into Spain and southern France.",
+              "why": "Digital infrastructure is repricing cheap, gridded land in the Lisbon hinterland — a new competitor for development sites.",
+              "source": "Iberian Property · 20 Oct"
+            },
+            {
+              "headline": "€25M Aldea Comporta scheme planned for Muda",
+              "url": "https://www.idealista.pt/en/news/property-for-sale-in-portugal/2026/10/23/78418-eu25m-aldea-comporta-project-planned-for-muda-portugal",
+              "summary": "Grupo Nouri will invest €25 million in 21 residential units at Muda, Grândola, with JLL appointed to manage the project — the latest luxury play in the fast-densifying Comporta belt.",
+              "why": "Comporta keeps absorbing capital even as mass-market volumes fall — the top end runs on its own cycle.",
+              "source": "idealista · 23 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "IMOLEGAL fuses law and engineering under Filipa Arantes Pedroso",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/21/78391-imolegal-une-direito-e-engenharia-numa-nova-abordagem-ao-imobiliario",
+              "summary": "A new Portuguese real-estate advisory launches combining legal and engineering expertise under one roof, led by Filipa Arantes Pedroso, aimed at a more integrated approach to property projects.",
+              "why": "Integrated legal-technical shops signal a market professionalising around complex, licensing-heavy deals.",
+              "source": "idealista · 21 Oct"
+            },
+            {
+              "headline": "Inmho and LDC Group complete their merger into one Iberian firm",
+              "url": "https://www.iberian.property/news/residential/inmho-and-ldc-group-complete-integration-to-operate-as-a-single-iberian-organisation/",
+              "summary": "The two residential specialists finish integrating and will now operate as a single organisation across Portugal and Spain, consolidating management and development capacity.",
+              "why": "Scale is consolidating on an Iberian footprint — expect fewer, bigger counterparties on residential platforms.",
+              "source": "Iberian Property · 19 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Nine Portuguese projects win at the Architecture MasterPrize 2026",
+              "url": "https://www.idealista.pt/news/decoracao/espacos/2026/10/23/78385-arquitetura-portuguesa-brilha-no-architecture-masterprize-2026",
+              "summary": "Winners span Openbook's 30,000 m² BNP Paribas workplace in Parque das Nações, Atelier Sérgio Rebelo's Douro winery and Plano Humano's scout park — from hillside houses in Braga to interiors on Avenida da Liberdade.",
+              "why": "Design credibility sells space — award-grade architecture is a pricing lever on both offices and villas.",
+              "source": "idealista · 23 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "OE2027 earmarks €2,003M for housing — and keeps the under-35 IMT break",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/08/78128-habitacao-governo-injeta-2-003-milhoes-para-reforcar-oferta-em-2027",
+              "summary": "The 2027 budget puts €1,071M into public housing and rehabilitation and €917M into rent support, with the IMT and stamp-duty exemption for first-time buyers under 35 set to continue and €15M to digitise urban licensing.",
+              "why": "State money and faster permitting tilt the field toward affordable and rehab plays — and a continued demand floor under entry-level stock.",
+              "source": "idealista · 8 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "House prices +18.4% as sales fall 9%, INE confirms",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/23/78436-preco-das-casas-em-portugal-abranda-para-18-4-com-recuo-das-vendas",
+              "summary": "Q2 prices rose 18.4% year-on-year to a median €2,445/m² (up 4.6% on Q1), while transactions fell 9% to 37,854 — down in 22 of 26 sub-regions. Médio Tejo (+25.4%) and Oeste (+24.0%) led the gains.",
+              "why": "Price momentum is now driven by scarcity, not demand — underwrite to absorption, not headline appreciation.",
+              "source": "idealista · 23 Oct"
+            },
+            {
+              "headline": "Portugal M&A bucks the regional boom — deals down 37%",
+              "url": "https://www.essential-business.pt/2026/10/23/portugal-bucks-southern-european-dealmaking-boom-as-acquisitions-slump/",
+              "summary": "Qualifying H1 deals fell 37% to 82, worth roughly €800M, even as capital mobilised across southern Europe rose 37%, per a Forvis Mazars study — though a handful of large deals can swing a small market sharply.",
+              "why": "Thinner deal flow rewards proprietary sourcing — and makes the trophies that do trade a read on where conviction sits.",
+              "source": "Essential Business · 22 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite the gap, not the trend.",
+          "text": "Prices up 18.4% while volumes fall 9% means pricing power is concentrating in supply-short sub-markets, not rising everywhere."
+        },
+        {
+          "lead": "Hospitality is where the money is landing.",
+          "text": "Penha Longa at €140M and Villa Garden's five-star play show international capital still chasing trophy hotels even as broad M&A dries up."
+        },
+        {
+          "lead": "Data centres are the new land play.",
+          "text": "Aura's €220M Coruche scheme shows digital-infrastructure demand reaching the Santarém hinterland — cheap, gridded land near Lisbon is being repriced."
+        },
+        {
+          "lead": "€2bn of state money reshapes supply.",
+          "text": "OE2027's housing tranche and licensing digitisation favour affordable/rehab plays and faster permitting — a timing signal for developers."
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "label": "23 Oct",
@@ -976,121 +1103,6 @@
         {
           "lead": "Watch the state pipeline.",
           "text": "A 2030 inventory of public property is the leading indicator of the next wave of disposals and PPP land."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "label": "14 Oct",
-      "title": "UBS puts Lisbon on its global property-bubble list for the first time",
-      "summary": "Lisbon has entered the UBS Global Real Estate Bubble Index for the first time, landing in elevated-risk territory. Real house prices have climbed about 7% a year over the past decade — the fastest of the 23 cities UBS tracks — and roughly 10% since mid-2025. The signal lands just as Budget 2027 doubles down on bricks: urban-rehab tax breaks are extended to 2031 and the IRS rent deduction rises to €1,000. Yet the heat is easing at the edges — asking rents have stabilised at +5.2% and buy-to-let yields slipped to 6.8% with lower risk. Capital keeps finding the deals, from the €33M Bessa stadium sale in Porto to €60M of Lisbon municipal assets heading to auction. Net: prices look stretched and policy still favours the builder — underwrite for a cooler 2027, not a replay of the last decade.",
-      "hook": "Lisbon just joined UBS's global property-bubble watchlist — a first.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Boavista's Bessa stadium sells for €33M to Confrasilvas",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/12/78183-grupo-imobiliario-portugues-compra-estadio-do-boavista-por-33-milhoes",
-              "summary": "Frozenspark, part of the Maurício family's Confrasilvas group, won creditor approval to buy Boavista FC's Estádio do Bessa and sports complex for €33M, just above the €32.92M auction floor. The ~78,000 m² site — with 21,000+ m² of development potential — could host a mixed-use scheme of housing and retail.",
-              "why": "A bankrupt club's trophy asset becomes a central-Porto land play — distressed sports and institutional property is where patient capital still finds scale inside the city.",
-              "source": "idealista / Jornal de Negócios · 12 Oct"
-            },
-            {
-              "headline": "Lisbon council sends €60M of property to public auction",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/13/78205-camara-de-lisboa-leva-a-hasta-publica-imoveis-avaliados-em-60-milhoes",
-              "summary": "Câmara de Lisboa will put ten municipal properties, valued together at about €60M, under the hammer on 10 December.",
-              "why": "Rare direct access to prime municipal stock — a route into Lisbon assets outside the broker-led process, if reserve prices leave room to create value.",
-              "source": "idealista · 13 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Gaia riverfront scheme sells 94% before completion",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/12/78026-empreendimento-na-frente-historica-de-gaia-e-enorme-sucesso-de-vendas",
-              "summary": "The Royal Pescaria project on Vila Nova de Gaia's historic waterfront is 94.4% sold ahead of delivery, with just one of its 18 apartments left.",
-              "why": "Prime, small-lot riverfront product still clears off-plan — evidence that scarcity beats any broad market slowdown in the Porto/Gaia core.",
-              "source": "idealista · 12 Oct"
-            },
-            {
-              "headline": "Budget 2027 earmarks €174M for Lisbon & Porto metro expansion",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78133-obras-nos-metros-de-lisboa-e-porto-investimento-supera-170-milhoes",
-              "summary": "The 2027 State Budget proposal allocates €174M to extend the Lisbon and Porto metro networks.",
-              "why": "New stations reprice the land around them — the corridors on each extension are where early site assembly pays off well before the lines open.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Matosinhos to host the first CICA architecture-criticism congress in Portugal",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/08/78112-matosinhos-vai-ser-palco-internacional-da-critica-de-arquitetura",
-              "summary": "Casa da Arquitetura in Matosinhos will stage the first International Committee of Architectural Critics (CICA) congress ever held in Portugal, convening critics largely in person.",
-              "why": "Portugal's design reputation is a soft-power asset for developers — global critical attention lifts the premium on well-authored Portuguese schemes.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Budget 2027: rehab tax breaks extended to 2031, rent deduction up to €1,000",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/12/78182-governo-estende-incentivos-fiscais-a-imoveis-reabilitados-ate-2031",
-              "summary": "The OE2027 proposal prolongs urban-rehabilitation tax benefits for another five years, to 2031, and lifts the IRS deduction for tenants' rent by €100 to €1,000.",
-              "why": "A five-year runway on rehab incentives underpins value-add underwriting — refurbishment keeps its fiscal edge over new-build well into the next cycle.",
-              "source": "idealista · 12 Oct"
-            },
-            {
-              "headline": "Porto leans on owners of ~6,400 vacant buildings",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/13/78202-porto-pressiona-proprietarios-de-imoveis-devolutos-a-recuperar-patrimonio",
-              "summary": "Porto's council has flagged about 6,400 potentially vacant buildings and signalled it may raise IMI on owners who fail to act.",
-              "why": "Penal IMI turns dormant stock into either a cost or a forced sale — watch Porto's vacant registry for discounted acquisition targets.",
-              "source": "idealista · 13 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Asking rents cool, steadying at +5.2%",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/13/78198-rendas-das-casas-pagas-pelos-inquilinos-estabilizam-subida-em-5-2",
-              "summary": "After rising through the year, residential rents across Portugal are levelling off, with annual growth settling around 5.2%.",
-              "why": "Rent growth decelerating toward mid-single digits caps income upside — the next leg of returns has to come from basis, not from runaway rents.",
-              "source": "idealista · 13 Oct"
-            },
-            {
-              "headline": "Buy-to-let gross yield holds at 6.8% in Q3, with lower risk",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/13/78173-comprar-casa-para-arrendar-rende-6-8-em-portugal-e-tem-menor-risco",
-              "summary": "Gross residential rental yield came in at 6.8% in the third quarter — slightly below a year earlier — while the investment risk attached to it fell.",
-              "why": "Yields compressing on lower risk is late-cycle behaviour — price discipline at entry matters more now than chasing headline cash-on-cash.",
-              "source": "idealista · 13 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwrite for a cooler 2027.",
-          "text": "UBS's bubble flag and stabilising rents say the easy price gains are behind us — model mid-single-digit growth, not the last decade's run."
-        },
-        {
-          "lead": "Policy still rewards the builder.",
-          "text": "Rehab tax breaks running to 2031 and sweeter rent deductions keep value-add and refurbishment fiscally ahead of new-build."
-        },
-        {
-          "lead": "Distress is the entry point.",
-          "text": "From the €33M Bessa stadium to €60M of Lisbon municipal lots, the cleanest access to scale runs through creditors and councils, not the open market."
-        },
-        {
-          "lead": "Vacancy is becoming a cost.",
-          "text": "Porto's move to penalise ~6,400 empty buildings via IMI should surface forced sellers — keep the acquisition list ready."
         }
       ]
     }
