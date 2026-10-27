@@ -1,6 +1,128 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "editions": [
+    {
+      "date": "2026-10-27",
+      "label": "27 Oct",
+      "title": "PRR cliff: Portugal's public housing investment to drop 63.5% in 2027",
+      "summary": "Portugal's 2027 State Budget shows public housing investment falling 63.5% next year as PRR money runs dry. The government counters with a €2bn pledge for public and affordable housing and a new team to launch concessions targeting 10,000 affordable rental homes by 2035. But the near-term cliff is real: fewer public starts just as prices hit records — houses are up 41.5% since 2020, the EU's steepest climb. Private capital keeps flowing, with international investors now 39% of office deals and prime Lisbon yields ticking up. For developers, the gap between public retreat and private demand is the opening. Net: the state is stepping back from delivery — and handing the baton to private builders and PPP concessions.",
+      "hook": "The PRR tap is closing — and public housing money goes with it.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Cooprofar pours €15M into an automated logistics hub in Alcochete",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/24/78432-cooprofar-inaugura-um-futuro-mais-automatizado-em-alcochete",
+              "summary": "The pharma-distribution group opened an expanded, highly automated platform south of Lisbon, deepening the Setúbal peninsula's pull as a logistics corridor.",
+              "why": "Occupier-led logistics expansion is the clearest signal of where industrial rents and Class-A demand are heading — and the south bank is absorbing it.",
+              "source": "idealista · 24 Oct"
+            },
+            {
+              "headline": "Former Hotel Miramar site in Cascais sells for €17.39M",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/16/78318-terreno-do-antigo-hotel-miramar-em-cascais-vendido-por-17-3-milhoes",
+              "summary": "Estoril-Sol's subsidiary offloaded the prime seafront plot; the buyer stayed undisclosed. One of the cleaner land trades of the month on the Cascais line.",
+              "why": "Prime coastal land still clears at scale despite higher financing costs — site control on the Lisbon-Cascais axis remains the scarce, repriceable asset.",
+              "source": "idealista · 16 Oct"
+            },
+            {
+              "headline": "Sintra puts nine municipal properties up for public auction",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/26/78489-sintra-leva-nove-imoveis-a-hasta-publica-em-novembro",
+              "summary": "The council auctions nine assets on 25 November, with opening bids from €30,400 to €779,000 — a rare direct route to municipal stock in a tight Greater Lisbon market.",
+              "why": "Municipal disposals are a low-competition entry point for small-ticket buyers and value-add plays near Lisbon — worth watching the clearing prices on 25 Nov.",
+              "source": "idealista · 26 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Porto's Santa Casa da Misericórdia to add ~400 rental homes",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/23/78451-santa-casa-do-porto-vai-reforcar-o-mercado-de-arrendamento-com-400-casas",
+              "summary": "The centuries-old institution plans to bring roughly 400 rental homes to market over the next two to three years, mobilising its own property portfolio.",
+              "why": "Legacy institutional landlords quietly re-activating dormant stock is the supply story that doesn't show up in headline starts — and it eases Porto's rental squeeze at the margin.",
+              "source": "idealista · 25 Oct"
+            },
+            {
+              "headline": "Logicor to rebuild a Póvoa de Santa Iria site into 34,000 m² of Class-A logistics",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/15/78258-passado-industrial-da-lugar-a-nova-geracao-logistica-as-portas-de-lisboa",
+              "summary": "An obsolete platform at Lisbon's gates gives way to a new-generation logistics scheme, as institutional owners churn ageing stock into modern space.",
+              "why": "Brownfield-to-Class-A redevelopment is where the logistics yield story now lives — scarce modern space near Lisbon, built on land already zoned industrial.",
+              "source": "idealista · 15 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "PROMONTORIO's Ombria resort lands in Loulé",
+              "url": "https://www.archdaily.com/pt/1187444/ombria-hotel-and-apartments-loule-promontorio",
+              "summary": "ArchDaily published the hotel-and-branded-apartments scheme by one of Portugal's most prolific studios — a polished template for the inland-Algarve resort product investors keep chasing.",
+              "why": "Branded-residence-plus-hotel is the format underwriting Algarve land today; design quality from a name studio is what sells the pre-sales.",
+              "source": "ArchDaily · 25 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "End of PRR to cut housing investment 63.5% in 2027",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/26/78490-fim-do-prr-dita-quebra-de-63-no-investimento-na-habitacao-em-2027",
+              "summary": "The draft 2027 State Budget shows public housing investment collapsing as Recovery Plan money ends — even as the government earmarks €2bn for public and affordable housing.",
+              "why": "A 63.5% drop in public delivery tightens supply precisely where it was supposed to loosen — a tailwind for private pricing and a cue to read the budget line-by-line.",
+              "source": "idealista · 26 Oct"
+            },
+            {
+              "headline": "PPP concessions to deliver 10,000 affordable rental homes by 2035",
+              "url": "https://dinheirovivo.dn.pt/economia/concesso-de-imveis-pblicos-prev-10000-casas-para-arrendamento-acessvel-at-2035",
+              "summary": "A new government team will launch public-private partnerships that hand state-owned buildings to private operators to produce affordable rental housing over the next decade.",
+              "why": "The concession model is the new public channel for private capital — the funds and developers who get positioned on the first tenders will set the template.",
+              "source": "Dinheiro Vivo · 26 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Portugal's house prices up 41.5% since 2020 — the EU's biggest rise",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/26/78476-portugal-e-o-pais-da-ue-onde-as-casas-mais-encareceram-desde-2020",
+              "summary": "New Pordata data put Portugal top of the EU for house-price growth between 2020 and 2025, outpacing every other member state.",
+              "why": "Five years of EU-leading appreciation sets the affordability backdrop every policy move is now reacting to — and underpins the case for new supply at the right basis.",
+              "source": "idealista / Pordata · 26 Oct"
+            },
+            {
+              "headline": "International capital is 39% of 2026 office deals — and still buying",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/24/78417-capital-internacional-continua-de-olho-nos-escritorios-portugueses",
+              "summary": "Foreign investors account for 39% of office transactions so far this year, with appetite holding up even as prime Lisbon yields edged higher in the third quarter.",
+              "why": "Cross-border demand that holds through a rate-driven yield uptick is the definition of a market investors still trust — and the repricing is the entry window.",
+              "source": "idealista · 24 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite the gap.",
+          "text": "Public starts fall 63.5% next year while prices sit at EU-leading records — pricing power stays with whoever can actually deliver."
+        },
+        {
+          "lead": "PPP is the new channel.",
+          "text": "The 10,000-home concession program routes state land to private builders; early positioning on the first tenders is the edge."
+        },
+        {
+          "lead": "Land still clears.",
+          "text": "The €17.4M Miramar sale shows prime Cascais plots trade briskly despite financing costs — site control is the scarce asset."
+        },
+        {
+          "lead": "Logistics compounds.",
+          "text": "Alcochete and Póvoa confirm brownfield-to-Class-A logistics is where institutional capital keeps leaning in."
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "label": "26 Oct",
@@ -1019,109 +1141,6 @@
         {
           "lead": "Delivery capacity is the new moat.",
           "text": "Casais's industrialised-build hub and the mass-timber tie-up signal that whoever builds faster and cheaper wins — back operators, not just assets."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-17",
-      "label": "17 Oct",
-      "title": "Funds take 78% of Portugal's €1.4bn property investment — foreign money back on top",
-      "summary": "Funds drove 78% of Portugal's real estate investment in the first half of 2026, Colliers data shows. Total volume reached about €1.4 billion, with international capital at 55% and domestic family offices taking much of the rest. The structural read: Portugal now trades like an institutional market, not a buy-a-villa story. Meanwhile Parliament's NRAU overhaul — faster evictions, no 2% cap on new-contract rents — cleared a first vote and sits in committee. And logistics is the quiet winner, with a 1.1 million m² pipeline through 2029. Net: capital is flowing and rules are tightening — the edge now is in sourcing, not discovery.",
-      "hook": "Portugal's property market is a funds game now — and the capital is mostly foreign.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Confrasilvas buys Boavista's Estádio do Bessa for €33m",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/12/78183-grupo-imobiliario-portugues-compra-estadio-do-boavista-por-33-milhoes",
-              "summary": "Lisbon real estate group Confrasilvas, owned by the Maurício family, will acquire the Bessa stadium and sports complex after the bankrupt club's creditors approved its bid on 14 October, clearing the €32.92m auction floor. The group is eyeing a mixed housing-and-retail scheme on the 21,000+ m² plot.",
-              "why": "Distressed-sport real estate is becoming a repositioning play — a landmark urban plot acquired below book and primed for mixed-use density.",
-              "source": "idealista · 12 Oct"
-            },
-            {
-              "headline": "Estoril-Sol sells former Hotel Miramar land for €17.3m",
-              "url": "https://vidaimobiliaria.com/noticias/hoteis/estoril-sol-vende-terreno-do-antigo-hotel-miramar-por-173-milhoes/",
-              "summary": "The casino group has offloaded the plot of the old Miramar hotel on the Estoril coast for €17.3 million, releasing a prime seafront site into the development pipeline.",
-              "why": "Scarce Linha de Cascais seafront land rarely trades — a price benchmark for anyone underwriting the Estoril–Cascais corridor.",
-              "source": "Vida Imobiliária · 16 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Mello RDC turns a Benfica office block into 85 homes",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/16/78161-edificio-de-escritorios-convertido-em-85-habitacoes-em-benfica",
-              "summary": "Family office Mello RDC, led by António Ribeiro da Cunha, is converting a former office building into \"Panorama\" — 85 flats (T1–T3) across ~11,000 m², a €50m investment with a €6,500/m² reference price. Pending Lisbon council licensing; build slated for H2 2027 to end-2029.",
-              "why": "Office-to-resi conversion is live in secondary Lisbon — a template for repricing obsolete stock into mid-market housing.",
-              "source": "idealista · 16 Oct"
-            },
-            {
-              "headline": "Grupo NOURI's €25m \"Aldea Comporta\" lands in Muda",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/16/78082-projeto-de-25-milhoes-de-euros-quer-redefinir-a-vida-na-comporta",
-              "summary": "A €25m, 21-home scheme on 19 hectares near Comporta — T4 villas with pools down to T2/T3 residences, plus a clubhouse and natural pool — developed by Grupo NOURI, with AROLLA on architecture and JLL on project management.",
-              "why": "The Comporta luxury-second-home thesis keeps absorbing capital — low density, high ticket, and a JLL/architect pairing signalling institutional polish.",
-              "source": "idealista · 16 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "NRAU rental-law overhaul clears first vote",
-              "url": "https://lisboaparapessoas.pt/2026/10/07/nova-lei-arrendamento-habitacao/",
-              "summary": "Parliament approved the government's urban-leasing revision in principle on 30 September; it is now in committee. The draft ends the 2% cap on new-contract rents (with income/age exceptions), lets landlords evict after two months' arrears instead of three, and allows three months' advance rent.",
-              "why": "A landlord-friendlier regime would lift achievable rents and cut void risk — materially improving the case for build-to-rent underwriting.",
-              "source": "Lisboa Para Pessoas · 7 Oct"
-            },
-            {
-              "headline": "New 2026 capital-gains coefficients published",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/16/78322-mais-valias-imobiliarias-novos-coeficientes-para-2026-ja-publicados",
-              "summary": "Portaria n.º 457/2026/1 (Diário da República, 15 Oct) sets the currency-devaluation coefficients that adjust a property's acquisition price when computing taxable gains on 2026 sales — directly shaping IRS due on disposals.",
-              "why": "A small input that moves net proceeds — refresh exit models for any 2026 disposal before signing.",
-              "source": "idealista · 16 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Funds took 78% of H1 investment; foreign capital leads",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/16/78309-imobiliario-portugues-joga-com-cartas-internacionais",
-              "summary": "Colliers' Q2 snapshot puts H1 2026 commercial investment near €1.4bn, with funds at 78% of volume, international capital at 55% and domestic family offices prominent in the remainder. Operators (13%), promoters (5%) and private investors (4%) round it out.",
-              "why": "Pricing is set by institutional money — to compete, match their cost of capital or win on off-market sourcing.",
-              "source": "idealista · 16 Oct"
-            },
-            {
-              "headline": "Portugal climbs the global logistics radar",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/14/78210-portugal-no-radar-do-investimento-imobiliario-logistico",
-              "summary": "A B. Prime report flags Portugal's gateway location, e-commerce growth and supply-chain resilience demand: ~199,000 m² absorbed in H1 2026, a 2026–2029 pipeline above 1.1 million m², and prime rents still rising, with data centres and last-mile in focus.",
-              "why": "Industrial & logistics is Portugal's structural growth leg — rising rents plus a deep pipeline point to durable income, not a cycle blip.",
-              "source": "idealista · 14 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Sourcing beats discovery.",
-          "text": "With funds at 78% of volume, the only reliable alpha left is off-market origination, not buying what's listed."
-        },
-        {
-          "lead": "Rent reform resets BTR math.",
-          "text": "Uncapping new-contract rents and faster evictions would lift net yields — model the committee outcome into any build-to-rent case."
-        },
-        {
-          "lead": "Conversions are the value play.",
-          "text": "Benfica's €6,500/m² office-to-resi shows obsolete stock repricing into mid-market housing — scan for licensable change-of-use."
-        },
-        {
-          "lead": "Logistics is the income anchor.",
-          "text": "A 1.1M m² pipeline with rising prime rents is the steadiest cash-flow leg in the Portuguese market right now."
         }
       ]
     }
