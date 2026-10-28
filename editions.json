@@ -1,6 +1,128 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "editions": [
+    {
+      "date": "2026-10-28",
+      "label": "28 Oct",
+      "title": "PRR cliff: public housing investment set to fall 63% in 2027 as private capital circles",
+      "summary": "The end of the PRR is about to pull the floor out from under public housing: state-backed investment is set to fall 63% in 2027. That cliff arrives as the state admits it has almost nothing in reserve — Social Security holds just 32 vacant properties fit for housing. Private capital, by contrast, is still moving: The Lince bought Braga's Villa Garden for a five-star upgrade, Aura is planning a €220M AI data centre in Santarém, and Greater Porto just logged its best investment half in a decade at €451M. But that money is crowding into hospitality, logistics and alternatives while offices lag and overall M&A slumps 37%. Net: the public pipeline is draining exactly as private developers are being counted on to fill it.",
+      "hook": "Portugal's public housing taps are closing just as private money looks for a home.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "The Lince Hotels buys Braga's Villa Garden for a five-star upgrade",
+              "url": "https://www.iberian.property/news/hotels/the-lince-hotels-acquires-villa-garden-in-braga-with-plans-for-five-star-upgrade/",
+              "summary": "The Portuguese group has acquired the Villa Garden property in Braga and plans to reposition it as a five-star hotel, extending its footprint in the fast-growing north.",
+              "why": "Upscale hospitality is where the capital is going — a domestic operator buying to reposition shows the five-star thesis isn't only a foreign-fund play.",
+              "source": "Iberian Property · 22 Oct"
+            },
+            {
+              "headline": "Aticco buys Nimbler Spaces, pushing to 16,000 sqm of Lisbon flex office",
+              "url": "https://www.iberian.property/news/offices/aticco-acquires-nimbler-spaces-and-expands-to-16000-sqm-in-lisbon/",
+              "summary": "The flexible-workspace operator absorbed Nimbler Spaces to reach 16,000 sqm across Lisbon, consolidating a still-fragmented coworking market.",
+              "why": "Flex demand is one of the few bright spots in an office market that is otherwise the laggard sector — and it supports occupancy in assets that are hard to let on traditional leases.",
+              "source": "Iberian Property · 14 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Aura plans a €220M, 6.4 MW AI data centre in Coruche",
+              "url": "https://www.iberian.property/news/data-centers/aura-capital-plans-eur220m-ai-data-centre-in-santarem/",
+              "summary": "Aura Capital, through its Aura Technologies platform, is backing a €220M AI data centre at Sorraia Business Park in Coruche (Santarém), due on line end-2027 as the first of a network of compact AI sites spreading into Spain and southern France.",
+              "why": "Data centres are turning interior, lower-value land into institutional-grade digital infrastructure — a land-play template with a power and permitting moat.",
+              "source": "Iberian Property · 20 Oct"
+            },
+            {
+              "headline": "Mello RDC puts €50M into turning a Lisbon office block into 85 homes",
+              "url": "https://www.iberian.property/news/residential/mello-rdc-invests-eur50m-in-converting-lisbon-office-building-into-85-homes/",
+              "summary": "A €50M office-to-residential conversion in Lisbon will deliver 85 homes, recycling obsolete office stock into housing where demand is deepest.",
+              "why": "With offices the weakest sector and housing the tightest, conversion arbitrage is becoming one of the cleaner ways to make Lisbon numbers work.",
+              "source": "Iberian Property · 12 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Savills opens a new Porto office at Viva Offices",
+              "url": "https://www.iberian.property/news/offices/savills-inaugurates-new-porto-offices-at-viva-offices/",
+              "summary": "The advisory firm has inaugurated a new Porto base, deepening its presence in a northern market that just posted record half-year investment.",
+              "why": "When the international agencies physically expand in Porto, it signals where they expect the next wave of deal flow — not just Lisbon.",
+              "source": "Iberian Property · 23 Oct"
+            },
+            {
+              "headline": "Inmho and LDC Group complete merger into one Iberian platform",
+              "url": "https://www.iberian.property/news/residential/inmho-and-ldc-group-complete-integration-to-operate-as-a-single-iberian-organisation/",
+              "summary": "The two property-services groups have finished integrating and will now operate as a single Iberian organisation across Portugal and Spain.",
+              "why": "Consolidation of the service layer points to a maturing Iberian market where scale and cross-border coverage increasingly win mandates.",
+              "source": "Iberian Property · 19 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "End of the PRR to cut public housing investment 63% in 2027",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/26/78490-fim-do-prr-dita-quebra-de-63-no-investimento-na-habitacao-em-2027",
+              "summary": "With the EU Recovery and Resilience Plan winding down, state-backed investment in housing is projected to drop 63% next year, pulling the main public funding engine out of the market.",
+              "why": "If public delivery stalls, pressure — and opportunity — shifts to private developers and funds to supply the units the state no longer will.",
+              "source": "idealista · 26 Oct"
+            },
+            {
+              "headline": "Social Security has just 32 vacant properties fit for housing",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/27/78500-seguranca-social-so-tem-32-imoveis-devolutos-para-habitacao",
+              "summary": "Portugal's Social Security system holds only 32 vacant buildings suitable for housing, underlining how little usable public property sits in reserve to ease the shortage.",
+              "why": "\"Mobilise the public stock\" is a thin lever — the real supply has to be built, which keeps land and development squarely in focus.",
+              "source": "idealista · 27 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Greater Porto posts its best investment half in a decade: €451M",
+              "url": "https://www.cushmanwakefield.com/pt-pt/portugal/news/2026/10/strong-demand-continues-to-outpace-supply-across-most-real-estate-segments-in-greater-porto",
+              "summary": "Cushman & Wakefield's first Porto market report puts H1 commercial investment at €451M (+8% y/y, a ten-year record), with office absorption up 37%, retail openings up 50%, and over 90,000 sqm of new offices in the pipeline — demand outpacing supply in almost every segment.",
+              "why": "The binding constraint in Porto is product, not capital — which is exactly the gap a developer or land-led fund is positioned to close.",
+              "source": "Cushman & Wakefield · 12 Oct"
+            },
+            {
+              "headline": "Portugal M&A bucks the southern-European boom, slumping 37%",
+              "url": "https://www.essential-business.pt/2026/10/23/portugal-bucks-southern-european-dealmaking-boom-as-acquisitions-slump/",
+              "summary": "A Forvis Mazars study shows qualifying Portuguese deals fell 37% to 82 in H1, worth about €800M, even as capital raised across southern Europe rose 37% — though foreign buyers stayed active in select tickets.",
+              "why": "Thin, lumpy deal flow in a small market rewards proprietary, off-market origination over waiting for a competitive process.",
+              "source": "Essential Business · 23 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "The public tap closes, the private one has to open.",
+          "text": "A 63% drop in state housing investment plus near-empty public stock means supply now depends on private developers — a structural tailwind for land-led delivery."
+        },
+        {
+          "lead": "Capital is concentrating, not broadening.",
+          "text": "Hospitality, logistics, data centres and conversions are absorbing the money while offices and overall M&A soften — underwrite to the sector, not the headline."
+        },
+        {
+          "lead": "Porto is a supply story.",
+          "text": "Record investment with product the binding constraint favours whoever controls land and can actually build."
+        },
+        {
+          "lead": "Origination beats process.",
+          "text": "With deal volumes thin and lumpy, the edge is proprietary, off-market sourcing rather than bidding into scarce competitive assets."
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "label": "27 Oct",
@@ -1021,126 +1143,6 @@
         {
           "lead": "Momentum is cooling, not breaking.",
           "text": "Resi still rose 2.3% q/q but annual growth halved to 14.5%; plan entries on normalising appreciation, not another 20% year."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-18",
-      "label": "18 Oct",
-      "title": "Bank of Portugal: demand-side housing fixes just push prices higher",
-      "summary": "A new study from Banco de Portugal delivers an awkward verdict: demand-side housing measures — buyer subsidies, tax breaks, cheaper credit — mainly push up prices and rents, not access. The bank finds demand shocks lift home values more as financial assets than as places to rent, widening the price-to-rent gap. That lands just as OE2027 doubles down on demand relief — a higher IMT Jovem ceiling and a bigger rent deduction. The implied fix is supply, which the budget also funds but which takes years to arrive. For now, the subsidies risk inflating the very assets they target. Net: the policy tailwind investors have priced in may be propping up values more than affordability — underwrite scarcity, not stimulus.",
-      "hook": "Portugal's central bank says you can't subsidise your way out of a housing crisis.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Tupperware's former Montalvo factory fails to sell at auction",
-              "url": "https://www.idealista.pt/news/financas/negocios/2026/10/15/78275-leilao-da-fabrica-da-tupperware-falha-e-propostas-vao-ser-reavaliadas",
-              "summary": "The ex-Tupperware plant in Montalvo (Constância) drew no buyer; the leading bids came in well below creditors' reference values, so the offers will be reassessed rather than awarded.",
-              "why": "Large single-use industrial sites are hard to clear at book — price repositioning and demolition risk into any distressed-asset bid, not the headline reserve.",
-              "source": "idealista · 15 Oct"
-            },
-            {
-              "headline": "Logicor to replace an obsolete platform with 34,000 m² of Class A logistics",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/15/78258-passado-industrial-da-lugar-a-nova-geracao-logistica-as-portas-de-lisboa",
-              "summary": "Logicor will demolish an outdated facility on a 66,000 m² site in Póvoa de Santa Iria and build 34,000 m² of modern Class A logistics space on the northern edge of Lisbon.",
-              "why": "Redevelopment, not greenfield, is how prime logistics gets delivered where land is scarce — brownfield near the capital is the input driving rental growth.",
-              "source": "idealista · 15 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Palm Luxury Living brings four detached villas to Carcavelos",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/16/78050-palm-luxury-living-moradias-onde-o-luxo-encontra-a-privacidade",
-              "summary": "A new scheme in Carcavelos offers four T4 detached houses with minimalist design and energy-efficient specs, on the Cascais line just west of Lisbon.",
-              "why": "The Lisbon–Cascais coast keeps absorbing low-density luxury — small, high-ticket villa plays are where pricing power is firmest in Verde's home corridor.",
-              "source": "idealista · 16 Oct"
-            },
-            {
-              "headline": "Almora Melides adds 22 houses on the Alentejo coast",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78056-viver-no-centro-historico-as-portas-da-praia-assim-e-o-almora-melides",
-              "summary": "A new 22-house development totalling about 2,300 m² of construction is rising in the historic centre of Melides, the Alentejo coastal village increasingly billed as the next Comporta.",
-              "why": "Melides is the frontier of the Comporta luxury thesis — early, low-density product tests how far second-home demand will travel down the coast.",
-              "source": "idealista · 15 Oct"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "Grupo Casais opens a construction-tech hub in Braga",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78257-grupo-casais-junta-industria-e-tecnologia-para-reinventar-a-construcao",
-              "summary": "The Casais group launched a Braga technology hub focused on digital coordination, off-site production and industrialised building components, part of its push to modernise how it builds.",
-              "why": "Portugal's big contractors are betting on industrialised construction to beat labour shortages and cost inflation — delivery capacity, not just capital, is becoming the differentiator.",
-              "source": "idealista · 15 Oct"
-            },
-            {
-              "headline": "Cristiano Ronaldo backs a €20M water-bottling plant in Bragança",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/14/78251-cristiano-ronaldo-constroi-fabrica-de-agua-em-aldeia-de-braganca",
-              "summary": "A company jointly owned by Grupo Outeirinho and Cristiano Ronaldo is building a water-bottling factory costing nearly €20M in the village of Gostei, Bragança — a rare industrial bet on Portugal's interior.",
-              "why": "Name-backed industrial investment in the low-density interior is a reminder that capital — and jobs — are spreading beyond the coastal metros, seeding future demand.",
-              "source": "idealista · 14 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "A Portuguese-Norwegian partnership bets on mass-timber building",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78259-parceria-luso-norueguesa-reforca-o-futuro-da-construcao-em-madeira",
-              "summary": "A Portuguese firm signed a strategic partnership through 2030 with a Norwegian timber-engineering specialist, announced at the Wood Giants congress, to advance engineered-timber construction in Portugal.",
-              "why": "Mass timber is moving from showcase to supply chain — a route to faster, lower-carbon builds that can command a sustainability premium with institutional buyers.",
-              "source": "idealista · 15 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Minister denies the new urban-rehabilitation regime was 'made to measure'",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/14/78252-reabilitacao-urbana-pinto-luz-nega-nova-lei-feita-a-sua-medida",
-              "summary": "Infrastructure and Housing Minister Miguel Pinto Luz rejected claims that Portugal's revised urban-rehabilitation rules were written to suit him, and offered to explain the regime to Parliament.",
-              "why": "The rehab regime underpins value-add underwriting — political noise around it is worth tracking, because any wobble in the rules changes the maths on refurbishing older stock.",
-              "source": "idealista · 14 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Homes for sale fall 4% — a seventh straight quarterly drop",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/15/78222-casas-a-venda-em-portugal-oferta-volta-a-cair-recuando-4-no-verao",
-              "summary": "idealista data show the stock of homes for sale in Portugal fell about 4% year-on-year in Q3 2026, the seventh consecutive quarterly decline, keeping upward pressure on prices.",
-              "why": "Shrinking resale supply is the structural floor under Portuguese prices — and the clearest evidence for the central bank's point that the shortage sits on the supply side.",
-              "source": "idealista · 15 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Supply, not subsidy, is the thesis.",
-          "text": "The Bank of Portugal and a seventh straight supply drop point the same way — bet on scarcity of product, not on demand-side stimulus that mostly lifts prices."
-        },
-        {
-          "lead": "Brownfield beats greenfield.",
-          "text": "Logicor's Póvoa redevelopment shows the only way to add prime logistics near Lisbon is to replace obsolete stock — scan for change-of-use and demolition plays on serviced land."
-        },
-        {
-          "lead": "The coast still pays.",
-          "text": "Carcavelos villas and Melides houses confirm low-density luxury on the Lisbon–Alentejo littoral holds pricing power — small tickets, high margins, Verde's home turf."
-        },
-        {
-          "lead": "Delivery capacity is the new moat.",
-          "text": "Casais's industrialised-build hub and the mass-timber tie-up signal that whoever builds faster and cheaper wins — back operators, not just assets."
         }
       ]
     }
