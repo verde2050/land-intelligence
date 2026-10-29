@@ -1,6 +1,95 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "editions": [
+    {
+      "date": "2026-10-29",
+      "label": "29 Oct",
+      "title": "EIB lends Portugal €300M for housing — steered to private builders",
+      "summary": "The European Investment Bank is lending Portugal another €300 million for affordable housing and urban rehabilitation — and, unlike past tranches that went to public social housing, this one is mostly aimed at the private sector. It flows through the IFRRU 2030 instrument at very low, AAA-backed rates, and the homes can be sold, rented or used for commerce. It lands as the public build thins: public-works tenders fell 29% through September. Private money is filling specific gaps — a southwest-Alentejo growers' body is readying €16M for 2,000 worker beds in Odemira. And policy pressure is rising: the architects' body wants an emergency National Housing Council and a single Housing and Leasing Code. Net: the state is handing more of the build-out to private capital — and wiring the cheap money to match.",
+      "hook": "The EIB's new €300M for housing is aimed at private builders this time.",
+      "sections": [
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "EIB lends Portugal €300M more for housing — steered to private builders",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/28/78525-bei-empresta-300-milhoes-a-portugal-para-construir-e-reabilitar-casas",
+              "summary": "The European Investment Bank will lend Portugal €300 million to build and rehabilitate affordable homes, routed through the IFRRU 2030 urban-rehabilitation instrument at very low rates. Unlike earlier EIB housing money that funded public social housing, this tranche is mostly for the private sector, and the homes can be sold, rented or used for commerce. EIB president Nadia Calviño says the bank has mobilised €3bn for Portuguese housing over two years.",
+              "why": "Cheap, AAA-backed debt reaching private developers lowers the cost of capital on exactly the affordable and rehab product the market is short of — a tailwind for build-to-rent and conversion plays.",
+              "source": "idealista · 28 Oct"
+            },
+            {
+              "headline": "Public-works tenders fall 29% through September",
+              "url": "https://reportugal.vidaimobiliaria.com/atualidade/construcao/contratacao-obras-publicas-cai-29-ate-setembro/",
+              "summary": "AICCOPN's public-works barometer shows €6,166M of tenders launched to September, down 29% in value and 30% in number year on year. Contracts awarded by public tender fell 52% — flattered by the 2025 award of the first Porto–Oiã high-speed-rail phase (~€1,700M). Only direct awards grew, up 32% to €713M.",
+              "why": "A shrinking public pipeline means less state-funded work for contractors — tightening build capacity and bargaining power just as private housing delivery is asked to scale.",
+              "source": "Vida Imobiliária / AICCOPN · 27 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "A €16M, 2,000-bed worker-housing scheme takes shape in Odemira",
+              "url": "https://vidaimobiliaria.com/noticias/habitacao/ahsa-quer-investir-16-milhoes-em-2000-camas-para-trabalhadores-sazonais-em-odemira/",
+              "summary": "The southwest-Alentejo growers' association AHSA unveiled ACTTO — four collective units with 2,000 beds for seasonal workers, at an estimated €16M, part state-funded (up to €8M) and part private. The first 500-bed unit is targeted for 2029 and the full scheme for 2036, in a municipality whose population has roughly doubled in a decade.",
+              "why": "Purpose-built worker accommodation is an emerging, policy-backed residential niche in Portugal's farm belts — structural demand with blended public-private funding that specialist developers can underwrite.",
+              "source": "Vida Imobiliária · 28 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Dils hires Nuno Ferreira to lead retail leasing",
+              "url": "https://vidaimobiliaria.com/noticias/retalho/dils-contrata-nuno-ferreira-como-retail-leasing-manager/",
+              "summary": "Commercial consultancy Dils Portugal has appointed Nuno Ferreira — previously at Whitestar, JLL and Cushman & Wakefield, and a high-street retail specialist — as Retail Leasing Manager, to drive its retail line and deepen ties with brands and landlords.",
+              "why": "Senior leasing talent moving into retail signals where advisers see activity returning — a read on which commercial segments are warming as investors rotate.",
+              "source": "Vida Imobiliária · 28 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Architects demand an emergency National Housing Council",
+              "url": "https://vidaimobiliaria.com/noticias/habitacao/ordem-dos-arquitectos-pede-convocacao-extraordinaria-do-conselho-nacional-de-habitacao/",
+              "summary": "In a letter to the housing ministry, the Ordem dos Arquitectos has called for an urgent extraordinary session of the National Housing Council, a coordinated \"National Housing System\", a new inspection-and-regulation body, and a single Housing and Leasing Code to consolidate the rules — warning against one-off, reactive measures.",
+              "why": "A push for a consolidated Housing and Leasing Code points to where regulation is heading — codified rules would cut the legal uncertainty that prices into every underwrite.",
+              "source": "Vida Imobiliária / Lusa · 28 Oct"
+            },
+            {
+              "headline": "Funchal adds €2M to municipal housing support for 2026–27",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/28/78526-funchal-com-mais-2-milhoes-para-facilitar-habitacao-em-2026-e-2027",
+              "summary": "Madeira's capital is reinforcing its housing budget with an extra €2 million across 2026 and 2027, expanding municipal rent-support and access measures as it works through a long social-housing waiting list.",
+              "why": "Municipal rent-support budgets underpin tenant demand at the affordable end — a factor when sizing effective demand for income residential in secondary markets.",
+              "source": "idealista · 28 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Cheap capital is being wired to private supply.",
+          "text": "The EIB's €300M via IFRRU 2030, aimed at the private sector, lowers the cost of building the affordable and rehab stock the market lacks."
+        },
+        {
+          "lead": "The public build is thinning.",
+          "text": "Public-works tenders down 29% means state delivery is receding — private developers inherit the demand and the pricing power."
+        },
+        {
+          "lead": "Niche beds, real demand.",
+          "text": "Worker housing in Odemira and rent-support top-ups in Funchal show where policy-backed, income-type residential is opening up."
+        },
+        {
+          "lead": "Watch the rulebook.",
+          "text": "A codified Housing and Leasing Code, if the architects' push lands, would reprice legal risk across every rental underwrite."
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "label": "28 Oct",
@@ -1047,102 +1136,6 @@
         {
           "lead": "Watch the rental rewrite.",
           "text": "A scrapped 2% cap and faster evictions reset BTR returns — model the upside and the political risk of a reversal."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "label": "19 Oct",
-      "title": "Funds grabbed 78% of Portugal's €1.4bn H1 property spend — and most was foreign",
-      "summary": "Portuguese commercial real estate drew roughly €1.4 billion in the first half of 2026, and the capital behind it is narrowing to a type. Funds supplied 78% of that investment, dwarfing operators (13%), developers (5%) and private buyers (4%). International capital made up 55% of the total, with local family offices filling much of the rest. Colliers reads it as confirmation of Portugal's pull on foreign money — and of domestic players stepping in while some traditional funds sit on the sidelines. The deal flow tells the same story: Barcelona's Aticco bought operator Nimbler Spaces to anchor a Lisbon coworking push, while a Benfica office block is being reborn as 85 apartments. Net: the market is liquid, foreign-led and fund-driven — pricing power sits with whoever can pool patient capital.",
-      "hook": "Portugal's property market has become a funds' game — and the chips are foreign.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Aticco buys Nimbler Spaces to build a Lisbon coworking platform",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/17/78292-coworking-em-lisboa-aticco-cresce-com-aquisicao-da-nimbler-spaces",
-              "summary": "Barcelona-based Aticco acquired one of Portugal's leading coworking operators, taking over two renovated CBD buildings (Marquês and Picoas) totalling 7,948 m² at 99% occupancy. With a third Lisbon asset in works, it will manage 16 centres and 87,500 m² across Iberia; price undisclosed.",
-              "why": "Office-to-coworking consolidation, with 53% of space now on management (not lease) contracts, lets owners share operating upside — a model worth watching as flex demand reprices Lisbon offices.",
-              "source": "idealista · 17 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Benfica office block to become 85 apartments in a €50M conversion",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/16/78161-edificio-de-escritorios-convertido-em-85-habitacoes-em-benfica",
-              "summary": "Family office Mello RDC bought the ~11,000 m² building from Grupo Ageas and will turn it into 85 T1–T3 homes with Monsanto views, at about €6,500/m². Designed by Atelier Posto 9; still in licensing, with construction slated for H2 2027 and completion end-2029.",
-              "why": "Change-of-use from obsolete offices to residential is where Lisbon value is being made — the underwriting skill is licensing risk and construction cost, not land discovery.",
-              "source": "idealista · 16 Oct"
-            },
-            {
-              "headline": "Viana do Castelo approves €8.5M for 64 controlled-cost homes",
-              "url": "https://www.theportugalnews.com/news/2026-10-18/portugal-city-invests-85-million-in-housing/1101575",
-              "summary": "The municipality awarded the contract for 64 T1–T3 units in Darque aimed at middle-class and young families at below-market rents, part of a local housing strategy that has now committed nearly €51M and reached 641 households, much of it PRR-funded.",
-              "why": "PRR deadlines are pushing municipal supply into the market outside the big cities — a signal of where public co-investment and future rental stock will land.",
-              "source": "The Portugal News · 18 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Vanguard's Terraços do Monte crowns a Graça hilltop, by ARX Arquitetos",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78187-terracos-do-monte-eleva-o-luxo-residencial-a-uma-das-colinas-de-lisboa",
-              "summary": "Vanguard Properties is delivering 15 apartments — including two ~330 m² penthouses — across two blocks on the highest point of Rua Damasceno Monteiro, with Tagus views, indoor/outdoor pools, spa and BREEAM certification. ARX Portugal designed it; roughly a third is already sold, with JLL co-marketing and completion due 2028.",
-              "why": "Branded architecture plus sustainability certification is becoming table stakes at Lisbon's prime end — design and ESG credentials now carry the pricing premium.",
-              "source": "idealista · 15 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Funds took 78% of H1 investment; 55% of capital was foreign",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/16/78309-imobiliario-portugues-joga-com-cartas-internacionais",
-              "summary": "Colliers' Q2 snapshot puts H1 2026 commercial investment near €1.4bn, with funds at 78%, operators 13%, developers 5% and private 4%. International capital was 55%, local family offices much of the rest, as stable prime yields and steadier financing underpin activity.",
-              "why": "A fund-dominated, foreign-led bid sets Portugal's clearing price offshore — domestic buyers compete on access to pooled capital, not just local knowledge.",
-              "source": "idealista · 16 Oct"
-            },
-            {
-              "headline": "Q3 house prices up 2.3% q/q — but annual growth has halved",
-              "url": "https://jornaleconomico.sapo.pt/noticias/precos-das-casas-sobem-23-no-terceiro-trimestre/",
-              "summary": "Confidencial Imobiliário's residential index rose 2.3% in Q3 over Q2 (after 3.5% in Q2), while year-on-year growth cooled to 14.5% from 21.7% a year earlier — a 7.2-point deceleration on the national mainland index.",
-              "why": "Prices are still rising, but the pace is normalising — base cases built on 20%+ appreciation need a reset toward low-teens.",
-              "source": "Jornal Económico · 15 Oct"
-            },
-            {
-              "headline": "83% of Portuguese retail property investors reinvest their gains",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/14/78154-oito-em-cada-dez-investidores-portugueses-reinvestem-capital",
-              "summary": "On crowdfunding platform wecity, 83% of Portuguese investors have reinvested at least once, spreading about €4,000 across five projects; 15% are under 30, and Porto is the favourite domestic city — a growing Iberian retail-capital habit.",
-              "why": "Retail capital is becoming stickier and more diversified — a widening pool that fractional and fund vehicles can tap as institutional tickets get scarcer.",
-              "source": "idealista · 14 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Pooled capital wins the auction.",
-          "text": "With funds taking 78% of H1 volume, deals flow to whoever aggregates patient money — the structural tailwind behind a vehicle like Verde 2050."
-        },
-        {
-          "lead": "Foreign demand is the floor.",
-          "text": "At 55% international capital, Portugal's bid is set offshore — a European allocation shift moves prices as much as local rates do."
-        },
-        {
-          "lead": "Conversion is the development edge.",
-          "text": "Benfica offices → 85 homes, Graça's hilltop revival: value is being created by repositioning tired stock, so underwrite change-of-use and licensing, not just land."
-        },
-        {
-          "lead": "Momentum is cooling, not breaking.",
-          "text": "Resi still rose 2.3% q/q but annual growth halved to 14.5%; plan entries on normalising appreciation, not another 20% year."
         }
       ]
     }
