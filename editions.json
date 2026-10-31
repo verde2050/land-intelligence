@@ -1,6 +1,107 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "editions": [
+    {
+      "date": "2026-10-31",
+      "label": "31 Oct",
+      "title": "Banco de Portugal buys €225M Entrecampos HQ from Fidelidade; EIB adds €300M for homes",
+      "summary": "Banco de Portugal has agreed to buy the A1 tower in Fidelidade's Entrecampos development, consolidating its new Lisbon headquarters into one building instead of two. The core-and-shell price is €165M; all-in with fit-out, the investment runs to about €225M — roughly €35M less than the two-building plan. The deal hands Fidelidade a marquee institutional exit and sets a visible price point for prime Lisbon offices, a sector that has lagged hotels and retail all year. Elsewhere the EIB committed another €300M to Portuguese affordable housing, an international investor bought Mem Martins Business Park, and Ando Living opened in Comporta. Net: institutional capital is still closing on Portuguese bricks — but it is picking its assets, not the whole market.",
+      "hook": "Lisbon's biggest office buyer this autumn is the central bank.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Banco de Portugal buys one Entrecampos tower from Fidelidade, saving €35M",
+              "url": "https://observador.pt/2026/10/29/nova-sede-banco-de-portugal-assina-acordo-com-fidelidade-para-comprar-um-edificio-em-vez-de-dois-e-poupar-35-milhoes/",
+              "summary": "The central bank will take only the A1 building (plus an auditorium and ground-floor retail) rather than the planned two, for €165M shell and about €225M including works — its single largest real-estate commitment and a landmark Lisbon office trade.",
+              "why": "A €225M owner-occupier deal gives thin prime-office Lisbon a rare, visible comp — and confirms institutions will still write big cheques for the right building.",
+              "source": "Observador · 29 Oct"
+            },
+            {
+              "headline": "International investor acquires Mem Martins Business Park in Sintra",
+              "url": "https://vidaimobiliaria.com/noticias/investimento/investidor-internacional-compra-o-mem-martins-business-park/",
+              "summary": "A private international buyer has picked up the roughly 12,500 m² business park, with Cushman & Wakefield advising the seller. Price undisclosed.",
+              "why": "Suburban business parks remain a quiet cross-border yield play while prime CBD offices stay scarce and expensive.",
+              "source": "Vida Imobiliária · 29 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Ando Living opens 16 villas in Comporta with TAN Investments",
+              "url": "https://vidaimobiliaria.com/noticias/hoteis/ando-living-abre-portas-na-comporta/",
+              "summary": "The serviced-stay brand's first project outside urban centres lands between Comporta and Melides — 16 villas with private pools, developed with TAN Investments on the Alentejo coast.",
+              "why": "Operator-led, branded hospitality keeps absorbing premium Comporta land — the clearest route to pricing power in Portugal's thin luxury-leisure market.",
+              "source": "Vida Imobiliária · 30 Oct"
+            },
+            {
+              "headline": "Limehome targets 25,000 European units by 2030",
+              "url": "https://www.idealista.pt/news/ferias/turismo/2026/10/30/78547-limehome-acelera-expansao-sem-perder-o-foco-na-rentabilidade",
+              "summary": "The design-led serviced-apartment operator — which converts vacant buildings into tech-run short-stay homes, including in Lisbon — set a 25,000-unit European goal while stressing profitability over pure growth.",
+              "why": "Asset-light operators turning dead stock into income are a natural tenant/partner for owners of older Portuguese buildings seeking yield without a full refit.",
+              "source": "idealista · 30 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "JNcQUOI House sets a 3 December opening on Avenida da Liberdade",
+              "url": "https://www.nit.pt/fora-de-casa/turismos-rurais-e-hoteis/jncquoi-house-ja-ha-data-para-a-abertura-do-novo-hotel-de-luxo-da-avenida-da-liberdade",
+              "summary": "Amorim Luxury's 16-suite hotel will open in the restored former Hotel Veneza at Liberdade 189, with architecture and interiors by Belgian architect Vincent Van Duysen in a minimalist white-and-dark-green palette.",
+              "why": "A starchitect-led micro-hotel on Portugal's priciest avenue shows how design pedigree is being used to justify ultra-prime per-key values.",
+              "source": "NiT · 30 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "EIB lends Portugal another €300M for affordable housing and rehab",
+              "url": "https://www.dn.pt/economia/bei-empresta-mais-300-milhes-de-euros-a-portugal-para-fazer-casas-a-preo-acessvel",
+              "summary": "The new loan, channelled through the IFRRU 2030 urban-rehabilitation instrument, mostly backs private-sector projects. The EIB says it has committed over €3bn to Portuguese housing in 2025–26, underwriting 70,000-plus homes.",
+              "why": "Cheap public debt via IFRRU 2030 de-risks affordable and rehab schemes — a direct tailwind for developers with product in the controlled-price bracket.",
+              "source": "Diário de Notícias · 28 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Permits down 7.3%, but new dwellings and mortgage credit keep rising",
+              "url": "https://dinheirovivo.dn.pt/empresas/construo-projetos-licenciados-caem-73-mas-nmero-de-fogos-sobe-41-at-agosto",
+              "summary": "AICCOPN data for Jan–Aug: licensed projects fell 7.3% yet the homes within them rose 4.1% to 29,030. New home-purchase loans hit €16.7bn (+12.5%), the outstanding mortgage book a record €119.1bn, and bank-appraised values €2,254/m² (+14.7%).",
+              "why": "Fewer permits but bigger schemes, plus double-digit credit and valuation growth, point to persistent supply tightness holding prices up.",
+              "source": "Dinheiro Vivo · 29 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Prime offices just got a benchmark.",
+          "text": "A €225M central-bank HQ gives Lisbon's thin office market a public comp while most capital chases hotels and retail."
+        },
+        {
+          "lead": "Public debt underwrites the downside.",
+          "text": "The EIB's €300M via IFRRU 2030 keeps affordable and rehab construction financed — favourable for developers with controlled-price product."
+        },
+        {
+          "lead": "Supply stays tight.",
+          "text": "Permits are down 7.3% year-to-date even as completed dwellings rise — the pipeline isn't refilling fast enough to cool prices."
+        },
+        {
+          "lead": "Operators own the premium.",
+          "text": "Ando Living in Comporta and JNcQUOI House on Liberdade show branded, operator-led concepts are where top-end land and keys still trade."
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "label": "30 Oct",
@@ -1047,114 +1148,6 @@
         {
           "lead": "Watch the state pipeline.",
           "text": "Thirteen authorised assets and a €526m disposal line in the 2027 Budget could put prime public real estate in play — if the auctions actually run."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "label": "21 Oct",
-      "title": "Rent-law overhaul slips past November as Chega threatens to tear up its deal",
-      "summary": "The AD government's rental-market overhaul cleared its first vote on 30 September, but the line-by-line debate won't start until the end of November — after the 2027 state budget. Chega, whose abstention let it through, now says its support is “no blank cheque” and it will vote the changes down unless the bill is fixed. The government has opened the door to the PS, with Housing Minister Miguel Pinto Luz offering a full cross-party debate. With a 180-day drafting window and presidential promulgation still ahead, the final regime may not land before summer 2027. Meanwhile the deals keep moving: the ruined Miramar Hotel site in Cascais sold for €17.4M, and Colliers counted €1.4bn invested in H1. Net: the rules that govern Portuguese rental yields are now a 2027 story — underwrite today's deals on today's law.",
-      "hook": "Portugal's rental reform is parked in the waiting room until the budget clears.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Estoril-Sol sells the ruined Miramar Hotel site in Cascais for €17.4M",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/16/78318-terreno-do-antigo-hotel-miramar-em-cascais-vendido-por-17-3-milhoes",
-              "summary": "DTH, a wholly owned Estoril-Sol unit, deeded the 6,046 m² Cascais plot — home to the fire-gutted 1970s hotel — to an undisclosed buyer for €17,397,594, more than double the €8M the group had carried it at. The land is zoned for housing under the 2015 PDM.",
-              "why": "A permitted residential ruin on the Estoril coast clears at 2x book — proof that scarce, licensed land on the Lisbon riviera is repricing hard, right on Verde's doorstep.",
-              "source": "idealista · 16 Oct"
-            },
-            {
-              "headline": "Square AM eyes €300M of deals in 2026, now backed by Draycott",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/16/78324-square-am-aponta-aos-300-milhoes-em-transacoes-e-aposta-forte-na-iberia",
-              "summary": "Iberia's largest independent open-ended fund manager expects to close €300M by year-end (€250M in Portugal, €50M in Spain) after Portuguese VC house Draycott bought 100% of it. CEO Nuno Nunes says the firm wants to leave the “second league” for the “first” before 2030.",
-              "why": "Platform consolidation is accelerating — the independents are being bought and scaled, a signal of where fee income and deal flow are concentrating in Iberian funds.",
-              "source": "idealista · 16 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Grupo NOURI puts €25M into a 21-home timber scheme in Comporta",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/16/78082-projeto-de-25-milhoes-de-euros-quer-redefinir-a-vida-na-comporta",
-              "summary": "Aldea Comporta, on a 19-hectare site in Muda, will mix 21 residences — T4 villas with pools plus T2/T3 units — with a club house, sanctuary space and natural pool. AROLLA handles architecture and build in CLT and modular systems; JLL coordinates the project.",
-              "why": "Low-density, timber-built branded residences remain the Comporta playbook — small unit counts, big tickets, and a sustainability story that now sells the sqm.",
-              "source": "idealista · 16 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Saraiva Associados turns a two-century Lapa palacete into 12 homes",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/15/78052-antiga-residencia-burguesa-da-lugar-a-12-novas-habitacoes-em-lisboa",
-              "summary": "“The Verdian”, on Rua das Janelas Verdes, converts a former bourgeois residence (and 1911–2007 primary school) into eight apartments and four townhouses, T1 to T5+, 91–468 m². Decorated ceilings, stonework and wrought iron are kept against contemporary interiors; developer ReTrend, sold by Sotheby's, finishing September 2028.",
-              "why": "Heritage conversion in prime Lisbon keeps the amenity that new-build can't replicate — and the named-house, gallery-style product is how developers justify the top of the price band.",
-              "source": "idealista · 15 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Loulé declares a 'housing emergency' and demands land be freed",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/19/78344-loule-alerta-para-emergencia-habitacional-e-precisa-de-terrenos",
-              "summary": "The Algarve council is pressing for a faster revision of the regional land plan (PROT) and exceptional measures to unlock terrain for affordable housing, warning that current zoning cannot meet demand.",
-              "why": "Municipalities are now the ones pushing to reclassify land — a tailwind for anyone holding, or optioning, developable sites where the PDM/PROT is the binding constraint.",
-              "source": "idealista · 19 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Colliers: €1.4bn invested in H1 as hospitality and logistics lead",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/15/78286-investidores-fazem-check-in-na-hotelaria-e-apostam-na-logistica",
-              "summary": "Portugal held H1 volume roughly flat at €1.4bn while Europe fell 23%, Colliers reports. Hospitality took €508M (+25%, ~37% of the total) and logistics €169M (+73%, the fastest-growing segment); offices sank 47% and residential/living fell 74%. Prime yields held steady.",
-              "why": "Capital is rotating decisively into operational, income-producing assets; the plain resi and office trades that defined the last cycle are drying up.",
-              "source": "idealista · Colliers · 20 Oct"
-            },
-            {
-              "headline": "Household property wealth up ~50% in 15 years to €708bn",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/20/78370-imoveis-detidos-pelas-familias-valor-sobe-quase-50-em-15-anos",
-              "summary": "Banco de Portugal data show the value of households' real estate rose from €473bn (2010) to €708bn (2025), even as property slipped from 54% to 52% of household assets. For below-median households real estate is ~74% of wealth; for the top 10%, under 40%.",
-              "why": "Portuguese wealth is overwhelmingly bricks — which is exactly why housing is this parliament's hottest political wire and why any rent-law shift moves real money.",
-              "source": "idealista · Banco de Portugal · 20 Oct"
-            },
-            {
-              "headline": "One in eight homes now sells in under a week",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/20/78288-uma-em-cada-8-casas-em-portugal-e-vendida-em-menos-de-uma-semana",
-              "summary": "idealista data show 12% of homes listed in Q3 2026 went under offer within seven days, with pricing and listing quality driving time on market — a read on just how tight the demand-supply gap has become.",
-              "why": "Velocity like this means the market still clears priced stock fast — exit risk on well-located resi product stays low even as policy noise rises.",
-              "source": "idealista · 20 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwrite on today's law.",
-          "text": "The rental regime is a 2027 story — price deals on the rules in force, not the ones being promised."
-        },
-        {
-          "lead": "Follow the capital, not the headlines.",
-          "text": "Foreign money was 55% of H1 volume and funds drove 78% of it — institutional appetite for Portugal is intact."
-        },
-        {
-          "lead": "Beds and boxes are winning.",
-          "text": "Hospitality (+25%) and logistics (+73%) took the lion's share of H1; the yield story has moved to operational assets."
-        },
-        {
-          "lead": "Land is the chokepoint.",
-          "text": "From Loulé's “emergency” to Cascais's €17.4M ruin, control of permitted sites is the edge."
         }
       ]
     }
