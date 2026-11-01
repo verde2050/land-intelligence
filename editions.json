@@ -1,6 +1,119 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "editions": [
+    {
+      "date": "2026-11-01",
+      "label": "1 Nov",
+      "title": "House prices hit a record +18.4% as sales fall — OE2027 widens buyer tax breaks",
+      "summary": "Portuguese house prices rose 18.4% year-on-year in Q2 — still near-record growth, even as transaction volumes fell. The acceleration reached 10 of the country's 24 largest municipalities, so this is broad, not just a Lisbon-and-Porto story. Policy is leaning in: the 2027 State Budget widens IMT relief and lifts the under-35 first-home exemption ceiling to €338,141. Capital keeps arriving, with €1.42bn into commercial real estate in H1, up 11%, two-thirds of it foreign. Supply is the missing piece — the EIB's new €300m line for building and rehab is aimed squarely at it. Net: demand is cooling at the margin, but prices, policy and capital are still pushing the same way — up.",
+      "hook": "Portugal's market keeps setting price records even as buyers back away.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Lisbon's Restelo Business Center goes to market — with all three big agencies on it",
+              "url": "https://www.cushmanwakefield.com/en/portugal/news/2026/10/cw-cbre-and-jll-appointed-to-market-restelo-business-center",
+              "summary": "Owner Restelo XXI has handed Cushman & Wakefield, CBRE and JLL a rare co-exclusive mandate to lease roughly 4,820 sq m across the six-building, Francisco Simões-designed office campus in one of Lisbon's most exclusive districts.",
+              "why": "Three rival houses sharing one mandate is a tell on how competitive prime Lisbon office leasing has become — and a reminder that quality space still turns over even with offices at just 6% of investment.",
+              "source": "Cushman & Wakefield · 22 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "A next-generation logistics hub lands on the Alverca–Azambuja axis",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/31/78593-plataforma-logistica-de-nova-geracao-chega-ao-eixo-alverca-azambuja",
+              "summary": "Castanheira do Ribatejo gains a new distribution and logistics platform on Greater Lisbon's busiest industrial corridor, extending the A1/Vila Franca cluster that already anchors the national supply chain.",
+              "why": "The Alverca–Azambuja strip is where modern logistics stock is actually being built; land and pre-lets here set the rent benchmark for the whole Lisbon industrial market.",
+              "source": "idealista · 31 Oct"
+            },
+            {
+              "headline": "The EIB lends Portugal another €300m to build and rehabilitate homes",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/28/78525-bei-empresta-300-milhoes-a-portugal-para-construir-e-reabilitar-casas",
+              "summary": "The European Investment Bank is extending €300m to fund new construction and the refurbishment of existing housing stock, channelled through Portugal's public housing programme.",
+              "why": "Cheap, long-dated public capital for build-and-rehab is exactly the supply-side lever the market needs — and a potential co-funding partner for developers delivering affordable and mid-market units.",
+              "source": "idealista · 28 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Savills plants a northern flag with a new Porto HQ at VIVA Offices",
+              "url": "https://en.savills.pt/news-and-research/savills-news/389126/savills-strengthens-its-presence-in-the-north-with-new-headquarters-at-viva-offices",
+              "summary": "The agency is moving its northern operation into Sonae Sierra's sustainable VIVA Offices scheme in Porto, formalising a bigger bet on the north after its merger into Savills Iberia earlier this year.",
+              "why": "When the advisers expand their own footprint in Porto, it signals where they expect deal flow — the north is quietly becoming a two-city investment story.",
+              "source": "Savills · 23 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Portuguese studios take four wins and seven honourable mentions at the MasterPrize",
+              "url": "https://www.idealista.pt/news/decoracao/espacos/2026/10/23/78385-arquitetura-portuguesa-brilha-no-architecture-masterprize-2026",
+              "summary": "Portuguese architecture shone at the Architecture MasterPrize 2026 with four category wins and seven honourable mentions, with Plano Humano Arquitectos among the names collecting international recognition.",
+              "why": "Design pedigree is a marketing asset. Projects carrying award-winning architects command price premiums and faster absorption — worth tracking when sourcing development partners.",
+              "source": "idealista · 23 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "OE2027 nudges IMT brackets up 2.3% and widens the under-35 break",
+              "url": "https://eco.sapo.pt/2026/10/08/governo-atualiza-escaloes-do-imt-em-23-veja-aqui-as-tabelas/",
+              "summary": "The 2027 Budget proposal raises IMT brackets by 2.3%: a permanent home up to €108,792 would be fully exempt, and the under-35 first-home exemption from IMT and stamp duty rises to a €338,141 ceiling. Measures are pending parliamentary approval.",
+              "why": "A higher young-buyer ceiling pulls more entry-level and mid-market stock into tax-free territory — direct demand support at the price points where most units actually trade.",
+              "source": "ECO · 8 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Prices +18.4% in Q2 even as sales slide — and 10 cities are still speeding up",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/23/78436-preco-das-casas-em-portugal-abranda-para-18-4-com-recuo-das-vendas",
+              "summary": "INE data show house prices up 18.4% year-on-year in Q2, a slight easing nationally but an acceleration in 10 of the 24 largest municipalities, all while transaction volumes continued to fall.",
+              "why": "Rising prices on falling volumes is a classic late-cycle signal — scarcity, not froth, is doing the lifting, which rewards owners of the right stock and punishes overpaying on entry.",
+              "source": "INE / idealista · 23 Oct"
+            },
+            {
+              "headline": "€1.42bn flowed into Portuguese commercial property in H1, two-thirds from abroad",
+              "url": "https://www.iberian.property/news/market-updates/portugal-records-eur1-42b-in-real-estate-investment-in-h1/",
+              "summary": "JLL puts H1 commercial real estate investment at €1.42bn, up 11% year-on-year, led by hotels (43%) and retail (32%); foreign investors accounted for 65% of the total.",
+              "why": "Hotels and retail soaking up the capital while offices sit at 6% tells you where conviction is — and leaves room for well-priced entries in the sectors the crowd is ignoring.",
+              "source": "JLL / Iberian Property · 6 Aug"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite the cooldown, not the headline.",
+          "text": "Record prices on falling volumes means pricing power is thinning — stress-test exit assumptions, not just entry."
+        },
+        {
+          "lead": "Tax relief is a demand tailwind.",
+          "text": "A higher under-35 exemption ceiling (€338,141) keeps first-time buyers active at exactly the price points where most stock changes hands."
+        },
+        {
+          "lead": "Supply is the real constraint.",
+          "text": "EIB and public money point at build-and-rehab; developers who can actually deliver units will command the scarcity premium."
+        },
+        {
+          "lead": "Capital is still foreign — and still here.",
+          "text": "65% of H1 volume came from abroad; the geopolitical noise hasn't knocked Portugal off the shortlist."
+        }
+      ]
+    },
     {
       "date": "2026-10-31",
       "label": "31 Oct",
@@ -1026,128 +1139,6 @@
         {
           "lead": "Don't bank on the State.",
           "text": "Its own asset sales are slipping, so public land and stock shouldn't anchor a supply thesis."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "label": "22 Oct",
-      "title": "Portugal homes for sale fall 4% as mortgage rates hit 3.19% — supply squeeze bites",
-      "summary": "Portugal's housing market is now tightening from both sides at once. Homes listed for sale fell 4% year-on-year in Q3 — the seventh straight quarterly decline. At the same time the average mortgage rate climbed to 3.194% in September and Euribor rose again this week across all tenors. The Banco de Portugal warns the crisis won't be solved from the demand side, and Lisbon has just entered UBS's Global Real Estate Bubble Index. Yet capital keeps arriving: €1.4bn flowed into commercial property in H1, 78% of it through funds. Net: scarce supply and costlier money are propping prices up, not cooling them — and institutional money isn't waiting for a correction.",
-      "hook": "Portugal's housing squeeze tightens from both sides — less to buy, dearer to borrow.",
-      "sections": [
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Funds still own the board: €1.4bn into commercial property in H1",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/16/78309-imobiliario-portugues-joga-com-cartas-internacionais",
-              "summary": "A Colliers snapshot puts H1 commercial investment at about €1.4bn, with foreign capital at 55% and funds making up 78% of all buyers. Local family offices are stepping into assets the big funds have vacated.",
-              "why": "Institutional and foreign money is the price-setter in Portuguese commercial real estate — and the retreat of some fund buyers is opening a rare window for well-capitalised domestic players.",
-              "source": "idealista · 16 Oct"
-            },
-            {
-              "headline": "Mortgage rate climbs to 3.194% as Euribor grinds higher",
-              "url": "https://www.diarioimobiliario.pt/Taxa-de-juro-no-credito-a-habitacao-sobe-para-3-194-em-setembro",
-              "summary": "INE data show the average housing-loan rate rose again in September, with the typical monthly payment reaching €423 and interest back above half of it. Euribor rose on 21 October to 2.670% (3m), 3.030% (6m) and 3.263% (12m).",
-              "why": "Rising debt costs squeeze buyer affordability and underwriting headroom — a tailwind for cash buyers and equity-heavy structures, a headwind for leveraged acquirers.",
-              "source": "Diário Imobiliário · 21 Oct"
-            },
-            {
-              "headline": "Listings down 4% for a seventh quarter — and Lisbon joins UBS's bubble index",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/15/78222-casas-a-venda-em-portugal-oferta-volta-a-cair-recuando-4-no-verao",
-              "summary": "Homes for sale fell 4% year-on-year in Q3, the seventh consecutive quarterly drop, keeping pressure on prices at the affordable end. Lisbon has now entered UBS's Global Real Estate Bubble Index, with real prices up ~7%/year over the decade.",
-              "why": "Chronic undersupply underpins the value case for new delivery, but a bubble-index flag signals stretched valuations — stock selection and entry price now matter more than the rising tide.",
-              "source": "idealista · 15 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "inHabitus targets 1,080 industrialised homes by 2028",
-              "url": "https://reportugal.vidaimobiliaria.com/atualidade/construcao/inhabitus-vai-construir-mais-1000-casas-ate-2028/",
-              "summary": "The Portuguese industrialised-housing start-up, co-founded by Mário Ferraz, has a first phase of 468 homes — Alfena (79, sold out), Setúbal (136), plus Viseu and Greater Porto (253) — with prices from €139,000, claimed ~24% below market per m².",
-              "why": "Industrialised construction is the clearest path to building mid-market product at a profit in a high-cost market — watch whether the cost claims survive at scale.",
-              "source": "Vida Imobiliária · 21 Oct"
-            },
-            {
-              "headline": "Loivos 475 opens as a new wine-tourism venue in the Douro",
-              "url": "https://reportugal.vidaimobiliaria.com/atualidade/investimento/loivos-475-e-o-novo-espaco-de-enoturismo-no-douro/",
-              "summary": "A new enoturismo space has opened in the Douro valley, adding to a pipeline of hospitality-led rural investment in Portugal's wine regions.",
-              "why": "Wine-tourism assets convert agricultural land into yielding hospitality — a template for value-add plays in Portugal's premium rural corridors.",
-              "source": "Vida Imobiliária · 20 Oct"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "JLL hands Vítor Dias operations for Project & Development Services across Southern Europe",
-              "url": "https://www.diarioimobiliario.pt/Vitor-Dias-assume-novas-responsabilidades-da-JLL-no-Sul-da-Europa",
-              "summary": "JLL Portugal's COO adds Head of Operations for P&DS and Tétris across Portugal, Spain and Italy, keeping his Lisbon base. He joined JLL in 2019 and became COO in 2024.",
-              "why": "A Lisbon-based lead gaining a three-country remit signals JLL is running Iberia and Italy as one project-delivery market — useful for sponsors coordinating cross-border builds.",
-              "source": "Diário Imobiliário · 21 Oct"
-            },
-            {
-              "headline": "Ingrid Koeck named CEO of Torel Boutiques",
-              "url": "https://www.diarioimobiliario.pt/Ingrid-Koeck-assume-lideranca-executiva-do-grupo-Torel-Boutiques",
-              "summary": "After a decade leading marketing and communications at the Portuguese luxury-hotel group, Koeck steps up to chief executive of Torel Boutiques.",
-              "why": "Leadership continuity at a growing boutique-hotel operator matters as hospitality remains Portugal's hottest investment class — operators that can scale brand are prized by capital.",
-              "source": "Diário Imobiliário · 21 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Openbook takes an Architecture MasterPrize 2026",
-              "url": "https://www.diarioimobiliario.pt/Openbook-distinguida-nos-Architecture-MasterPrize-2026",
-              "summary": "The Portuguese studio Openbook has been distinguished at the international Architecture MasterPrize 2026, adding to a strong year for Portuguese design on the global stage.",
-              "why": "International design recognition burnishes Portugal's brand with global buyers — award-winning architecture is a real premium lever on prime schemes.",
-              "source": "Diário Imobiliário · 20 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "State-property auctions stall: only 1 of 3 planned sales went ahead",
-              "url": "https://observador.pt/2026/10/21/governo-previa-tres-leiloes-de-imoveis-do-estado-para-financiar-habitacao-mas-so-um-avancou/",
-              "summary": "The government planned three 2026 auctions of state property to fund housing, but only March's went ahead, raising ~€21m from three assets. A further 13 properties are authorised for sale, and the 2027 Budget pencils in €526m of disposal revenue.",
-              "why": "A stalled state-disposal pipeline means a big pool of prime public assets stays off-market — but the authorised 13 and the €526m Budget line are a pipeline worth tracking.",
-              "source": "Observador · 21 Oct"
-            },
-            {
-              "headline": "Affordable-rent caps now live: €224 to €2,066 by municipality and typology",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/14/78229-renda-acessivel-vai-ate-2-066-euros-descobre-os-limites-por-municipio",
-              "summary": "A decree in force since 14 October sets maximum affordable rents ranging from €224 to €2,066 depending on location and unit type — and a new working group has been created to draft a national Construction Code.",
-              "why": "Caps define the revenue ceiling on affordable-rent schemes; getting the location-and-typology maths right is now central to underwriting any subsidised product.",
-              "source": "idealista · 14 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwriting beats discovery.",
-          "text": "With rates up and a bubble flag on Lisbon, entry price and stress-tested debt carry the deal — not the assumption prices keep rising."
-        },
-        {
-          "lead": "Supply is the thesis.",
-          "text": "A seventh straight quarterly fall in listings and 78% fund-driven capital keep new, well-located delivery the surest way to meet real demand."
-        },
-        {
-          "lead": "Cost-out is the edge.",
-          "text": "inHabitus's industrialised model points to where margin now lives in mid-market housing — building cheaper, not just selling higher."
-        },
-        {
-          "lead": "Watch the state pipeline.",
-          "text": "Thirteen authorised assets and a €526m disposal line in the 2027 Budget could put prime public real estate in play — if the auctions actually run."
         }
       ]
     }
