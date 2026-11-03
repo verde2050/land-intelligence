@@ -1,6 +1,133 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "editions": [
+    {
+      "date": "2026-11-03",
+      "label": "3 Nov",
+      "title": "Portuguese house prices hit record €3,249/m² — up 7.5% as the interior leads",
+      "summary": "Portuguese asking prices climbed 7.5% in the year to October to a record €3,249/m², idealista data showed. The surge is now led by the interior and the Alentejo — Vila Real (+20%), Guarda (+18%) and Beja (+18%) — while Lisbon cooled to +3.9%, the slowest among district capitals. Deal flow stayed selective: The Lince Hotels bought a Braga palace to take five-star, and the €140M Caesar Park Penha Longa resort changed hands in Sintra. On the capital-markets side, CBRE repriced prime yields up 25bps (offices to 5.25%, logistics to 5.75%) and pitched the North as a counter-cycle FDI play. Policy kept moving too, with the government promising to free 83,000 public properties for housing while defending a €2,300 rent cap. Net: prices are breaking records on thinning volumes — the value is migrating inland and into operational assets, not the Lisbon core.",
+      "hook": "Portugal's asking prices just set another record — and the interior is driving it.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "The Lince Hotels buys Braga's Villa Garden for a five-star reset",
+              "url": "https://www.iberian.property/news/hotels/the-lince-hotels-acquires-villa-garden-in-braga-with-plans-for-five-star-upgrade/",
+              "summary": "The Lince Hotels, the hospitality arm of the Arliz group, acquired Villa Garden — a 26-room 19th-century palace hotel in Braga — from the businessmen who converted it a decade ago, with plans to reposition it to five stars. Works begin in 2027; price undisclosed.",
+              "why": "Trophy conversions in secondary cities are where hospitality value is compressing — the upside is operational repositioning, not land.",
+              "source": "Iberian Property · 22 Oct"
+            },
+            {
+              "headline": "Caesar Park Penha Longa resort trades for €140M",
+              "url": "https://www.essential-business.pt/2026/10/23/portugal-bucks-southern-european-dealmaking-boom-as-acquisitions-slump/",
+              "summary": "Catterton Management and Cedar Capital Partners acquired the five-star Caesar Park Penha Longa hotel and golf resort in Sintra for about €140M — one of the few large Portuguese tickets in a half-year when qualifying M&A fell 37% to 82 deals.",
+              "why": "Portugal is bucking the southern-European dealmaking boom — big capital is still landing, but only on flagship, income-producing resort assets.",
+              "source": "Essential Business · 23 Oct"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Aura Capital plans a €220M AI data centre in Santarém",
+              "url": "https://www.iberian.property/news/data-centers/aura-capital-plans-eur220m-ai-data-centre-in-santarem/",
+              "summary": "Aura Capital unveiled plans for a €220M AI-focused data centre in Santarém, adding to a widening pipeline of compute-driven schemes landing outside the Lisbon–Porto axis.",
+              "why": "Cheap, clean Atlantic power is pulling AI infrastructure into the interior, opening a new land-and-build story for developers in a fast-maturing asset class.",
+              "source": "Iberian Property · 20 Oct"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Savills opens new Porto offices at Viva Offices",
+              "url": "https://www.iberian.property/news/offices/savills-inaugurates-new-porto-offices-at-viva-offices/",
+              "summary": "Savills inaugurated expanded Porto offices at the Viva Offices building, deepening its northern footprint as advisers chase the region's industrial and investment momentum.",
+              "why": "When the big agencies physically scale up in Porto, it signals where they expect fee income — and transaction volume — to grow next.",
+              "source": "Iberian Property · 23 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Azorean house takes the only Portuguese TECHNAL 2026 prize",
+              "url": "https://espacodearquitetura.com/noticias/palmares-architecture-aluminium-technal-2026-distingue-cinco-projetos-de-arquitetura-em-portugal-e-espanha/",
+              "summary": "Casa da Rocha Quebrada in the Azores, by SO Arquitetura & Design, was the sole Portuguese winner among five projects at the Iberian Palmarès Architecture Aluminium TECHNAL 2026, cited for design quality, technical resolution and sustainability.",
+              "why": "Award-winning island residential design burnishes Portugal's architectural brand — a soft but real driver of the premium buyers and developers can command.",
+              "source": "Espaço de Arquitetura · 29 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Government to free 83,000 public properties, defends €2,300 rent cap",
+              "url": "https://www.diarioimobiliario.pt/Governo-quer-transferir-83-mil-imoveis-publicos-para-municipios-e-defende-medidas-de-apoio-a-habitacao",
+              "summary": "Housing minister Miguel Pinto Luz told parliament the state will accelerate transferring 83,000 public properties (c.30,000 rural) to municipalities for housing, and defended a €2,300 'moderate rent' cap with a 0% IRS rate for compliant landlords — without ruling out a €1,500 cap. He projected 70,000–80,000 new homes a year from 2031.",
+              "why": "Public-land mobilisation plus tax-incentivised rent caps reshapes build-to-rent maths — the mooted €1,500 cap is the key risk to watch for income underwriting.",
+              "source": "Diário Imobiliário · 2 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Asking prices hit a record €3,249/m², up 7.5%",
+              "url": "https://www.diarioimobiliario.pt/Precos-das-casas-sobem-7-5-em-outubro-e-atingem-novo-maximo-historico",
+              "summary": "idealista's October index put the national median asking price at a record €3,249/m² (+7.5% YoY). Vila Real (+20.3%), Guarda (+18.4%) and Beja (+17.6%) led; Lisbon rose just 3.9% to €6,248/m² and Porto 7% to €4,339/m². The Alentejo was the fastest-rising region (+14.3%).",
+              "why": "Growth has decisively left the Lisbon core — the interior and Alentejo now carry the momentum, on an entry basis a fraction of the capital's.",
+              "source": "idealista / Diário Imobiliário · 2 Nov"
+            },
+            {
+              "headline": "CBRE reprices yields and pitches the North as a counter-cycle bet",
+              "url": "https://e24.pt/cbre-destaca-o-norte-de-portugal-como-polo-prioritario-de-atracao-de-investimento-estrangeiro/",
+              "summary": "At its Porto Property Pace event, CBRE raised prime yields 25bps — offices to 5.25%, logistics/industrial to 5.75%, retail steady at 6.50% — and argued northern Portugal's clean power (only 16% fossil) and industrial base make it a priority FDI region. FDI stock in northern industry rose from €7.8bn (2012) to €36bn (Q2 2026).",
+              "why": "A 25bps outward move in prime yields resets valuations across every sector — and CBRE is explicitly steering capital north, where energy and industry underwrite demand.",
+              "source": "e24 / CBRE · 2 Nov"
+            },
+            {
+              "headline": "Tourism revenue up 6.1% as September stays grow 2%",
+              "url": "https://www.diarioimobiliario.pt/Dormidas-turisticas-em-Portugal-crescem-2-em-setembro-e-receitas-sobem-6-1",
+              "summary": "INE recorded 8.7M overnight stays in September (+2%) and €890.2M in revenue (+6.1%), with RevPAR at €102 (+2.8%) and ADR €147.3. US arrivals grew 5.7%; the North led regional growth (+6.6%).",
+              "why": "Revenue is outpacing volume — hotels are earning more per room, exactly what underpins the hospitality deals (Lince, Penha Longa) landing this month.",
+              "source": "INE / Diário Imobiliário · 30 Oct"
+            },
+            {
+              "headline": "EIB signs a further €300M for Portuguese housing",
+              "url": "https://www.iberian.property/news/market-updates/portugal-is-set-to-receive-a-further-eur300m-from-the-european-investment-bank-for-housing/",
+              "summary": "The European Investment Bank signed a new €300M loan for housing construction and refurbishment — mainly private sector — taking its two-year housing commitment in Portugal to €3bn. Announced by EIB President Nadia Calviño in Lisbon.",
+              "why": "Cheap institutional debt for private delivery improves the developer financing stack — a tailwind for build-out while bank credit stays cautious.",
+              "source": "Iberian Property · 28 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite inland, not the Lisbon core.",
+          "text": "The sharpest price growth is in Vila Real, Guarda, Beja and the Alentejo while Lisbon is flat — the risk-adjusted upside has moved to secondary capitals."
+        },
+        {
+          "lead": "Records on falling volumes means a selectivity market.",
+          "text": "Prices are at an all-time high even as deal counts thin; pricing power sits with quality stock and motivated sellers, so entry-basis discipline beats chasing momentum."
+        },
+        {
+          "lead": "Yields are repricing — widen your margin.",
+          "text": "CBRE just pushed prime office yields to 5.25% and logistics to 5.75%; refresh exit assumptions and stop underwriting to last year's cap rates."
+        },
+        {
+          "lead": "Capital is flowing to operational and alternative assets.",
+          "text": "Hotels, data centres and northern living formats are absorbing the deal flow — a built-to-operate lens beats pure buy-and-hold."
+        }
+      ]
+    },
     {
       "date": "2026-11-02",
       "label": "02 Nov",
@@ -1024,133 +1151,6 @@
         {
           "lead": "Watch the plumbing.",
           "text": "Easier partition of undivided inheritances could thaw a long-frozen pool of acquirable land and buildings for those ready to move."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "label": "24 Oct",
-      "title": "House prices keep climbing 18.4% even as sales fall 9%",
-      "summary": "Portugal's housing market is pulling apart. INE's Q2 numbers show prices up 18.4% year-on-year to a median €2,445/m², even as transactions fell 9% to 37,854 — the clearest sign yet that buyers are priced out faster than they walk away. The cooling is uneven: volumes dropped in 22 of 26 sub-regions, steepest in Madeira (-17.9%) and metropolitan Porto (-16.2%), yet prices rose in every one. Lisbon's own sales slid 9.3% while its median held at €4,030/m². Against that squeeze, the government's OE2027 earmarks €2,003 million to push supply, the largest slice to public housing and rehabilitation. Meanwhile the capital that is moving is chasing trophies — Penha Longa at €140M, a €220M AI data centre in Coruche — even as broad M&A dries up. Net: the gap between what Portugal costs and what it can absorb is the story of 2027, and smart money is already positioning around it.",
-      "hook": "Fewer homes change hands — for ever more money.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Penha Longa resort sells for €140M to Catterton and Cedar Capital",
-              "url": "https://www.essential-business.pt/2026/10/23/portugal-bucks-southern-european-dealmaking-boom-as-acquisitions-slump/",
-              "summary": "The five-star Caesar Park hotel and golf resort in Sintra is among the few large Portuguese transactions still closing, bought by Catterton Management and Cedar Capital Partners as the broader deal market thins.",
-              "why": "Trophy hospitality is where international capital is concentrating — proof the appetite is selective, not gone.",
-              "source": "Essential Business · 23 Oct"
-            },
-            {
-              "headline": "The Lince Hotels buys Villa Garden in Braga for a five-star makeover",
-              "url": "https://www.iberian.property/news/hotels/the-lince-hotels-acquires-villa-garden-in-braga-with-plans-for-five-star-upgrade/",
-              "summary": "Arliz group's hospitality arm acquires the 26-room hotel set in a 19th-century palace, with works to lift it to five stars starting in 2027. Price undisclosed.",
-              "why": "Heritage-conversion hotels in secondary cities are drawing operators hunting yield beyond saturated Lisbon and the Algarve.",
-              "source": "Iberian Property · 22 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Aura Capital plans a €220M AI data centre in Coruche",
-              "url": "https://www.iberian.property/news/data-centers/aura-capital-plans-eur220m-ai-data-centre-in-santarem/",
-              "summary": "Aura Technologies will build a 6.4 MW AI data centre at Sorraia Business Park in Santarém, operational by end-2027 and the first in a planned network set to expand into Spain and southern France.",
-              "why": "Digital infrastructure is repricing cheap, gridded land in the Lisbon hinterland — a new competitor for development sites.",
-              "source": "Iberian Property · 20 Oct"
-            },
-            {
-              "headline": "€25M Aldea Comporta scheme planned for Muda",
-              "url": "https://www.idealista.pt/en/news/property-for-sale-in-portugal/2026/10/23/78418-eu25m-aldea-comporta-project-planned-for-muda-portugal",
-              "summary": "Grupo Nouri will invest €25 million in 21 residential units at Muda, Grândola, with JLL appointed to manage the project — the latest luxury play in the fast-densifying Comporta belt.",
-              "why": "Comporta keeps absorbing capital even as mass-market volumes fall — the top end runs on its own cycle.",
-              "source": "idealista · 23 Oct"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "IMOLEGAL fuses law and engineering under Filipa Arantes Pedroso",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/21/78391-imolegal-une-direito-e-engenharia-numa-nova-abordagem-ao-imobiliario",
-              "summary": "A new Portuguese real-estate advisory launches combining legal and engineering expertise under one roof, led by Filipa Arantes Pedroso, aimed at a more integrated approach to property projects.",
-              "why": "Integrated legal-technical shops signal a market professionalising around complex, licensing-heavy deals.",
-              "source": "idealista · 21 Oct"
-            },
-            {
-              "headline": "Inmho and LDC Group complete their merger into one Iberian firm",
-              "url": "https://www.iberian.property/news/residential/inmho-and-ldc-group-complete-integration-to-operate-as-a-single-iberian-organisation/",
-              "summary": "The two residential specialists finish integrating and will now operate as a single organisation across Portugal and Spain, consolidating management and development capacity.",
-              "why": "Scale is consolidating on an Iberian footprint — expect fewer, bigger counterparties on residential platforms.",
-              "source": "Iberian Property · 19 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Nine Portuguese projects win at the Architecture MasterPrize 2026",
-              "url": "https://www.idealista.pt/news/decoracao/espacos/2026/10/23/78385-arquitetura-portuguesa-brilha-no-architecture-masterprize-2026",
-              "summary": "Winners span Openbook's 30,000 m² BNP Paribas workplace in Parque das Nações, Atelier Sérgio Rebelo's Douro winery and Plano Humano's scout park — from hillside houses in Braga to interiors on Avenida da Liberdade.",
-              "why": "Design credibility sells space — award-grade architecture is a pricing lever on both offices and villas.",
-              "source": "idealista · 23 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "OE2027 earmarks €2,003M for housing — and keeps the under-35 IMT break",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/08/78128-habitacao-governo-injeta-2-003-milhoes-para-reforcar-oferta-em-2027",
-              "summary": "The 2027 budget puts €1,071M into public housing and rehabilitation and €917M into rent support, with the IMT and stamp-duty exemption for first-time buyers under 35 set to continue and €15M to digitise urban licensing.",
-              "why": "State money and faster permitting tilt the field toward affordable and rehab plays — and a continued demand floor under entry-level stock.",
-              "source": "idealista · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "House prices +18.4% as sales fall 9%, INE confirms",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/23/78436-preco-das-casas-em-portugal-abranda-para-18-4-com-recuo-das-vendas",
-              "summary": "Q2 prices rose 18.4% year-on-year to a median €2,445/m² (up 4.6% on Q1), while transactions fell 9% to 37,854 — down in 22 of 26 sub-regions. Médio Tejo (+25.4%) and Oeste (+24.0%) led the gains.",
-              "why": "Price momentum is now driven by scarcity, not demand — underwrite to absorption, not headline appreciation.",
-              "source": "idealista · 23 Oct"
-            },
-            {
-              "headline": "Portugal M&A bucks the regional boom — deals down 37%",
-              "url": "https://www.essential-business.pt/2026/10/23/portugal-bucks-southern-european-dealmaking-boom-as-acquisitions-slump/",
-              "summary": "Qualifying H1 deals fell 37% to 82, worth roughly €800M, even as capital mobilised across southern Europe rose 37%, per a Forvis Mazars study — though a handful of large deals can swing a small market sharply.",
-              "why": "Thinner deal flow rewards proprietary sourcing — and makes the trophies that do trade a read on where conviction sits.",
-              "source": "Essential Business · 22 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwrite the gap, not the trend.",
-          "text": "Prices up 18.4% while volumes fall 9% means pricing power is concentrating in supply-short sub-markets, not rising everywhere."
-        },
-        {
-          "lead": "Hospitality is where the money is landing.",
-          "text": "Penha Longa at €140M and Villa Garden's five-star play show international capital still chasing trophy hotels even as broad M&A dries up."
-        },
-        {
-          "lead": "Data centres are the new land play.",
-          "text": "Aura's €220M Coruche scheme shows digital-infrastructure demand reaching the Santarém hinterland — cheap, gridded land near Lisbon is being repriced."
-        },
-        {
-          "lead": "€2bn of state money reshapes supply.",
-          "text": "OE2027's housing tranche and licensing digitisation favour affordable/rehab plays and faster permitting — a timing signal for developers."
         }
       ]
     }
