@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "editions": [
+    {
+      "date": "2026-11-04",
+      "label": "04 Nov",
+      "title": "Portugal commercial property hits €2bn in nine months as Q3 investment jumps 33% to €630M",
+      "summary": "Portugal's commercial real estate market just posted its strongest quarter of 2026. Investment reached €630 million in Q3, up 33% on the prior quarter, lifting the nine-month tally to roughly €2 billion — 7% ahead of 2025, according to Dils. Foreign investors drove 75% of the flow, with more than 80% going into core and core-plus assets. Retail led the quarter — Alfana's €130M Forum Algarve debut among the standouts — while offices quietly staged their best quarter of the year. Net: the money is back, it is foreign, and it is buying income, not discounts.",
+      "hook": "Foreign capital is piling back into Portuguese bricks — €2bn and counting.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Alfana lands in Portugal with a €130M swoop on Forum Algarve",
+              "url": "https://iberian.property/news/retail/alfana-acquires-faro-shopping-centre-forum-algarve-for-eur130m/",
+              "summary": "Alfana Investment Management, through its Rivoli retail platform, bought the dominant Forum Algarve shopping centre in Faro from Commerz Real for about €130 million — the quarter's single largest deal and the manager's Portuguese market debut.",
+              "why": "A fresh international platform entering via a regional-dominant mall — not a trophy office — is a vote of confidence in Portuguese consumption, and confirms retail as 2026's most-wanted sector.",
+              "source": "Iberian Property · Oct"
+            },
+            {
+              "headline": "Clarion buys six Portuguese supermarkets on 20-year, inflation-linked leases",
+              "url": "https://iberian.property/news/retail/clarion-partners-europe-acquires-six-supermarkets-in-portugal/",
+              "summary": "Clarion Partners Europe acquired a six-asset supermarket portfolio in Portugal let on long 20-year leases indexed to inflation — a classic defensive, income-first grocery play.",
+              "why": "CPI-linked grocery income is the cleanest expression of the \"buy cash flow\" trade dominating the year — long WAULTs and recession-resistant tenants at a yield that still clears financing.",
+              "source": "Iberian Property · Oct"
+            },
+            {
+              "headline": "Offices rebound: Burgo, Duque de Loulé 106 and República 50 all change hands",
+              "url": "https://www.essential-business.pt/2026/11/03/portugals-commercial-property-investment-rises-33-to-e630-million-in-third-quarter/",
+              "summary": "Offices had their strongest quarter of 2026 at €112M, with the Burgo building in Porto and Duque de Loulé 106 and República 50 in Lisbon trading hands; Lisbon office vacancy fell to 8.4% and prime rents held at €32/m².",
+              "why": "After a year in the shadow of hotels and retail, falling vacancy and live transactions signal the Lisbon office discount window is starting to close.",
+              "source": "Essential Business / Dils · 3 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Benfica turns developer with a residential project in Seixal",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/03/78651-benfica-entra-no-imobiliario-residencial-com-projeto-no-seixal",
+              "summary": "Sport Lisboa e Benfica is stepping into residential real estate with a housing project in Seixal — the municipality on Lisbon's south bank where the club's football campus already sits — marking its first move into building homes.",
+              "why": "When a landowning institution starts building homes on its own ground, expect more asset-rich players to monetise land banks — and more competition for developable sites across Greater Lisbon's periphery.",
+              "source": "idealista · 3 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Nuno Valentim wins the Gulbenkian heritage prize for a Vila do Conde estate",
+              "url": "https://observador.pt/2026/11/03/premio-gulbenkian-patrimonio-para-nuno-valentim-e-reabilitacao-da-quinta-de-crasto/",
+              "summary": "The Prémio Gulbenkian Património 2026 went to architect Nuno Valentim for turning the historic Quinta de Crasto farm estate in Vairão, Vila do Conde, into the BIOPOLIS research centre — keeping manor house, threshing floor and animal pens, now re-cast as labs and offices.",
+              "why": "Portugal's design edge is sensitive reuse of old fabric — exactly the heritage-led adaptive reuse that earns premium rents and planning goodwill in supply-starved cities.",
+              "source": "Observador · 3 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Commercial investment jumps 33% to €630M in Q3, €2bn year-to-date",
+              "url": "https://www.essential-business.pt/2026/11/03/portugals-commercial-property-investment-rises-33-to-e630-million-in-third-quarter/",
+              "summary": "Dils' Q3 recap puts quarterly commercial investment at €630M (+33% q/q) and the nine-month total near €2bn (+7% y/y), with foreign capital at 75% and retail leading at €195M; logistics has already beaten its full-year 2025 tally.",
+              "why": "The recovery is broadening beyond hotels into retail, logistics and now offices — and it's overwhelmingly foreign and income-driven, not opportunistic.",
+              "source": "Essential Business / Dils · 3 Nov"
+            },
+            {
+              "headline": "Housing Summit brings builders and mayors to the same table",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/03/78662-cimeira-da-habitacao-reune-construtores-e-autarcas-para-responder-a-crise",
+              "summary": "A national Housing Summit convened developers, the construction industry and municipal leaders to thrash out a joint response to the housing crisis — the scarcity of homes, land and permits that is driving prices.",
+              "why": "Builders and councils aligning is where the pipeline actually unblocks — on licensing and serviced land. That operational layer, not headline demand, decides who can deliver.",
+              "source": "idealista · 3 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Income beats optionality.",
+          "text": "80%+ of volume went into core and core-plus, and Clarion's 20-year CPI-linked grocery leases show buyers are paying for durable cash flow, not a repricing bet."
+        },
+        {
+          "lead": "Offices are turning before consensus.",
+          "text": "€112M in Q3 and Lisbon vacancy down to 8.4% suggest the office discount window is closing faster than the gloom implies."
+        },
+        {
+          "lead": "Watch who turns developer.",
+          "text": "When an institution like Benfica starts building on its own land, more asset-rich owners will monetise land banks — raising competition for sites."
+        },
+        {
+          "lead": "The constraint is still supply.",
+          "text": "A summit of builders and mayors, plus record prices on thin volumes, all point one way: whoever can actually deliver units owns the scarcity premium."
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "label": "3 Nov",
@@ -1024,133 +1120,6 @@
         {
           "lead": "Foreign money hasn't blinked.",
           "text": "39% of office volume and the highest prices paid by non-residents say cross-border capital still treats Portugal as a buy, higher rates notwithstanding."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "label": "25 Oct",
-      "title": "House prices climb 18.4% as sales drop — and accelerate in 10 of Portugal's 24 big cities",
-      "summary": "House prices rose 18.4% year-on-year in Q2, even as transactions fell about 9%. The slowdown from 19.8% in Q1 is marginal — and prices actually accelerated in 10 of the 24 largest municipalities. Supply is finally stirring: Santa Casa do Porto is readying some 400 rental homes and inHabitus has broken ground on 1,080 low-cost houses. Commercial capital is undeterred — foreign buyers now make up 39% of 2026 investment volume, and Lisbon office take-up surged 179% in September. The squeeze is a supply problem, and the market is betting on construction to fix it. Net: fewer deals, higher prices, and a development pipeline racing to catch demand.",
-      "hook": "Portugal's housing market is cooling on volume — but not on price.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Arrow gets the green light for the Castro Marim golf resort",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/23/78447-aquisicao-de-ativos-do-castro-marim-golfe-country-club-aprovada-pela-adc",
-              "summary": "Portugal's competition authority cleared Flecha Lux 25, part of the UK's Arrow group, to take exclusive control of the operating assets of the Castro Marim Golfe & Country Club in the Algarve.",
-              "why": "Foreign distressed-asset capital is still hunting Algarve golf-and-leisure platforms — a reminder that resort real estate remains a live entry point for institutional buyers.",
-              "source": "idealista · 23 Oct"
-            },
-            {
-              "headline": "International capital keeps its eye on Portuguese offices",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/24/78417-capital-internacional-continua-de-olho-nos-escritorios-portugueses",
-              "summary": "Cross-border investors remain active in offices despite higher rates: foreign buyers account for 39% of 2026 investment volume, while Lisbon's prime office yield widened 0.40pp in Q3.",
-              "why": "Yield widening plus sustained foreign demand is the window repricing opens — better entry pricing for well-capitalised buyers prepared to underwrite Lisbon offices.",
-              "source": "idealista · 24 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Santa Casa do Porto to add around 400 rental homes",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/23/78451-santa-casa-do-porto-vai-reforcar-o-mercado-de-arrendamento-com-400-casas",
-              "summary": "The Porto charity plans to bring roughly 400 new homes to the rental market within two to three years, targeting middle and lower-middle income tenants.",
-              "why": "Mission-driven landlords are quietly becoming a meaningful source of new rental supply — and potential co-development or forward-funding partners for private capital.",
-              "source": "idealista · 23 Oct"
-            },
-            {
-              "headline": "inHabitus breaks ground on 1,080 low-cost homes",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/22/78402-inhabitus-arranca-com-construcao-de-1-080-casas-de-baixos-custos",
-              "summary": "Developer inHabitus has started building 1,080 low-cost houses, pitching an industrialised, affordability-first model aimed at buyers priced out of the open market.",
-              "why": "Volume affordable housing at scale is the supply-side answer policymakers keep calling for — and a template fund developers can replicate across the country.",
-              "source": "idealista · 22 Oct"
-            },
-            {
-              "headline": "A Cascais hypermarket site becomes a new urban hub",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/10/23/78422-cascais-onde-havia-um-hipermercado-ha-agora-nova-centralidade-urbana",
-              "summary": "The Bayview project has turned a former hypermarket at Cascais's eastern gateway into a new mixed-use centrality, knitting retail, homes and public space into the town.",
-              "why": "Obsolete big-box retail is prime raw material for mixed-use regeneration — large, well-located, re-zonable plots in high-demand suburbs.",
-              "source": "idealista · 23 Oct"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "Filipa Arantes Pedroso launches IMOLEGAL",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/10/21/78391-imolegal-une-direito-e-engenharia-numa-nova-abordagem-ao-imobiliario",
-              "summary": "A new real-estate practice fusing law with engineering and development has launched under Filipa Arantes Pedroso — 30 years at Morais Leitão, then J+Legal — alongside Maria Quintela, Teresa Arriaga e Cunha and Luís Cabral Menezes.",
-              "why": "A senior rainmaker breaking away to build an integrated legal-plus-technical shop signals where the deal complexity — and the advisory fees — are heading.",
-              "source": "idealista · 21 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Nine Portuguese projects shine at the Architecture MasterPrize 2026",
-              "url": "https://www.idealista.pt/news/decoracao/espacos/2026/10/23/78385-arquitetura-portuguesa-brilha-no-architecture-masterprize-2026",
-              "summary": "Portuguese studios swept categories from workplace to residential — among them Openbook's BNP Paribas office at Parque das Nações, Plano Humano Arquitetos, Atelier Sérgio Rebelo's Quinta Vinícola de Adorigo in the Douro, and Estúdio AMATAM's Casa Verdizela.",
-              "why": "Design pedigree sells — a deep bench of award-winning ateliers is a quiet competitive edge when positioning schemes to buyers and tenants.",
-              "source": "idealista · 23 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Government approves a decree on undivided inheritances",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/23/78425-herancas-indivisas-governo-aprova-diploma-que-regula-novas-regras",
-              "summary": "The Council of Ministers approved a decree-law making it easier to divide jointly inherited property among heirs, aiming to unlock assets stuck in co-ownership.",
-              "why": "Heranças indivisas lock up a vast stock of Portuguese property; smoother partition could release acquisition and redevelopment opportunities long frozen by family co-ownership.",
-              "source": "idealista · 23 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "House prices up 18.4% as sales fall",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/23/78436-preco-das-casas-em-portugal-abranda-para-18-4-com-recuo-das-vendas",
-              "summary": "INE data show Q2 house prices rose 18.4% year-on-year — down slightly from 19.8% in Q1 — even as transactions fell around 9%, with growth still accelerating in 10 of the 24 largest municipalities.",
-              "why": "Falling volumes with rising prices is the classic supply-starved signature — pricing power stays with sellers, and the thesis is build, not wait.",
-              "source": "idealista · 23 Oct"
-            },
-            {
-              "headline": "Lisbon offices roar back with a big September",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/23/78440-lisboa-troca-marcha-lenta-por-um-setembro-de-grandes-negocios",
-              "summary": "Lisbon office take-up reached 17,525 m² in September — up 179% on August and the year's second-strongest month after April — after a sluggish summer.",
-              "why": "Occupier demand is lumpy but intact — the leasing rebound supports the office-yield-repricing trade and underwrites rent assumptions in prime Lisbon.",
-              "source": "idealista · 23 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Build beats wait.",
-          "text": "Prices climbing on falling volumes keeps pricing power with sellers — the returns are in creating supply, not bidding for scarce stock."
-        },
-        {
-          "lead": "Repricing is opportunity.",
-          "text": "Office yields widened in Q3 while foreign capital held at 39% of volume — patient underwriters get better entry pricing without a demand collapse."
-        },
-        {
-          "lead": "Affordable is the growth lane.",
-          "text": "Santa Casa's 400 homes and inHabitus's 1,080 units show scaled, mission-aligned supply is where the policy tailwind and the pipeline meet."
-        },
-        {
-          "lead": "Watch the plumbing.",
-          "text": "Easier partition of undivided inheritances could thaw a long-frozen pool of acquirable land and buildings for those ready to move."
         }
       ]
     }
