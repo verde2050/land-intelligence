@@ -1,6 +1,107 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "editions": [
+    {
+      "date": "2026-11-08",
+      "label": "08 Nov",
+      "title": "Portuguese property investment tops €2bn, Q3 up 33%; Lagerfeld Lisbon residences sold",
+      "summary": "Portugal's commercial property market just posted its strongest quarter of the year. Investment reached about €2 billion in the first nine months, up 7% on 2025, with the third quarter alone jumping 33% to €630 million. Foreign capital drove 75% of that Q3 total, led by retail and hotels. Hotels have already pulled in €590m year-to-date, beating all of 2024 and 2025, while logistics topped €384m and offices lagged 40% behind last year. CBRE now expects the full year to clear €3 billion. Net: the momentum is real and foreign-led — the open question is whether supply, not appetite, becomes the ceiling.",
+      "hook": "Capital keeps coming: €2bn placed, Q3 up 33%, foreigners behind 75% of it.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Quadrantis Capital buys the Karl Lagerfeld Residences in Lisbon",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/06/78759-projeto-karl-lagerfeld-residences-lisboa-comprado-pela-quadrantis-capital",
+              "summary": "The group has acquired Lisbon's first Karl Lagerfeld–branded residential scheme — a luxury project that opened sales across ten markets earlier this year at headline prices reported near €20,000 per square metre.",
+              "why": "Branded residences are hardening into their own Lisbon asset class, and a change of promoter mid-project signals liquidity at the trophy end and appetite to carry marquee schemes to completion.",
+              "source": "idealista · 6 Nov"
+            },
+            {
+              "headline": "Forum Algarve and the Tróia Design Hotel headline a retail- and hotel-led Q3",
+              "url": "https://www.theportugalnews.com/news/2026-11-04/portugal-attracts-2-billion-in-property-investment/1111055",
+              "summary": "The sale of Faro's Forum Algarve shopping centre marked Alfana Investment Management's debut in Portugal, while Arrow Global picked up the Tróia Design Hotel. Retail (€195m) and hotels (€590m YTD) were the quarter's busiest segments.",
+              "why": "New entrants buying dominant retail and resort assets show overseas managers still treat Portugal as an entry market, not a crowded one — repricing in shopping centres and hospitality is pulling in fresh capital.",
+              "source": "The Portugal News · 4 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Benfica moves into residential development with a Seixal project",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/03/78651-benfica-entra-no-imobiliario-residencial-com-projeto-no-seixal",
+              "summary": "Sport Lisboa e Benfica is stepping into residential real estate with a housing project in Seixal, on the south bank of the Tagus — an unusual new developer entering the metro-Lisbon pipeline.",
+              "why": "When an institution with land, brand and balance sheet turns developer, it widens supply and signals that residential returns south of the river now justify non-specialist entry.",
+              "source": "idealista · 3 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Portuguese studios shine at the Architecture MasterPrize 2026",
+              "url": "https://www.idealista.pt/news/decoracao/espacos/2026/10/23/78385-arquitetura-portuguesa-brilha-no-architecture-masterprize-2026",
+              "summary": "Portuguese projects collected multiple distinctions at this year's international Architecture MasterPrize, reaffirming the country's outsized presence on the global awards circuit.",
+              "why": "Design reputation is a soft but real driver of foreign demand and pricing — Portugal's architectural brand underpins the premium that design-led and branded schemes can command.",
+              "source": "idealista · 23 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "OE2027: young-buyer IMT relief rises as housing policy holds",
+              "url": "https://imojuris.vidaimobiliaria.com/actualidade/noticias/OE-2027-escaloes-do-IMT-atualizados-em-2-3/",
+              "summary": "As the 2027 State Budget works through Parliament, the young-buyer IMT and stamp-duty exemption threshold rises 2.3% to €338,000 and IMT brackets are updated — even as public housing investment is set to fall sharply with the PRR winding down.",
+              "why": "Transfer-tax thresholds set the effective floor on first-home demand; a higher exemption sustains entry-level volume, while shrinking public spend leaves more of the supply gap for private capital to fill.",
+              "source": "Vida Imobiliária · Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "A new foreign-investment route is taking shape in the North",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/11/05/78718-ha-uma-nova-rota-de-investimento-estrangeiro-a-desenhar-se-no-norte",
+              "summary": "Porto and the wider North are gaining weight on Europe's industrial and logistics map, with international capital increasingly routing deals beyond the Lisbon core.",
+              "why": "Geographic diversification compresses the Lisbon premium and opens higher-yield entry points up North — material for anyone underwriting logistics, build-to-rent or land there.",
+              "source": "idealista · 5 Nov"
+            },
+            {
+              "headline": "Housing Summit brings builders and mayors to the table",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/03/78662-cimeira-da-habitacao-reune-construtores-e-autarcas-para-responder-a-crise",
+              "summary": "Developers and municipal leaders met at a national Housing Summit to coordinate responses to the supply crisis, from licensing speed to land release.",
+              "why": "Licensing and land are the binding constraints on Portuguese development; any move toward faster permitting or municipal land release directly reshapes project timelines and viability.",
+              "source": "idealista · 3 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Foreign-led, not domestic-led.",
+          "text": "Overseas buyers wrote three of every four euros in Q3 — Portugal is still an entry market for international capital, not a saturated one."
+        },
+        {
+          "lead": "Beds and boxes over desks.",
+          "text": "Hotels and logistics are setting records while offices run 40% below last year; underwrite hospitality and industrial, stay selective on offices."
+        },
+        {
+          "lead": "Supply is the ceiling, not appetite.",
+          "text": "A Housing Summit, a retreating public purse and new entrants like Benfica all point to the same gap — one private developers can lean into."
+        },
+        {
+          "lead": "Tax thresholds move volume.",
+          "text": "The higher young-buyer IMT exemption props up entry-level demand — a tailwind for well-priced mid-market residential."
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "label": "7 Nov",
@@ -981,95 +1082,6 @@
         {
           "lead": "Hospitality is the liquid corner.",
           "text": "Hotels took roughly a third of H1 volume and trophy resorts like Penha Longa clear at scale while offices still grind."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "label": "29 Oct",
-      "title": "EIB lends Portugal €300M for housing — steered to private builders",
-      "summary": "The European Investment Bank is lending Portugal another €300 million for affordable housing and urban rehabilitation — and, unlike past tranches that went to public social housing, this one is mostly aimed at the private sector. It flows through the IFRRU 2030 instrument at very low, AAA-backed rates, and the homes can be sold, rented or used for commerce. It lands as the public build thins: public-works tenders fell 29% through September. Private money is filling specific gaps — a southwest-Alentejo growers' body is readying €16M for 2,000 worker beds in Odemira. And policy pressure is rising: the architects' body wants an emergency National Housing Council and a single Housing and Leasing Code. Net: the state is handing more of the build-out to private capital — and wiring the cheap money to match.",
-      "hook": "The EIB's new €300M for housing is aimed at private builders this time.",
-      "sections": [
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "EIB lends Portugal €300M more for housing — steered to private builders",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/28/78525-bei-empresta-300-milhoes-a-portugal-para-construir-e-reabilitar-casas",
-              "summary": "The European Investment Bank will lend Portugal €300 million to build and rehabilitate affordable homes, routed through the IFRRU 2030 urban-rehabilitation instrument at very low rates. Unlike earlier EIB housing money that funded public social housing, this tranche is mostly for the private sector, and the homes can be sold, rented or used for commerce. EIB president Nadia Calviño says the bank has mobilised €3bn for Portuguese housing over two years.",
-              "why": "Cheap, AAA-backed debt reaching private developers lowers the cost of capital on exactly the affordable and rehab product the market is short of — a tailwind for build-to-rent and conversion plays.",
-              "source": "idealista · 28 Oct"
-            },
-            {
-              "headline": "Public-works tenders fall 29% through September",
-              "url": "https://reportugal.vidaimobiliaria.com/atualidade/construcao/contratacao-obras-publicas-cai-29-ate-setembro/",
-              "summary": "AICCOPN's public-works barometer shows €6,166M of tenders launched to September, down 29% in value and 30% in number year on year. Contracts awarded by public tender fell 52% — flattered by the 2025 award of the first Porto–Oiã high-speed-rail phase (~€1,700M). Only direct awards grew, up 32% to €713M.",
-              "why": "A shrinking public pipeline means less state-funded work for contractors — tightening build capacity and bargaining power just as private housing delivery is asked to scale.",
-              "source": "Vida Imobiliária / AICCOPN · 27 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "A €16M, 2,000-bed worker-housing scheme takes shape in Odemira",
-              "url": "https://vidaimobiliaria.com/noticias/habitacao/ahsa-quer-investir-16-milhoes-em-2000-camas-para-trabalhadores-sazonais-em-odemira/",
-              "summary": "The southwest-Alentejo growers' association AHSA unveiled ACTTO — four collective units with 2,000 beds for seasonal workers, at an estimated €16M, part state-funded (up to €8M) and part private. The first 500-bed unit is targeted for 2029 and the full scheme for 2036, in a municipality whose population has roughly doubled in a decade.",
-              "why": "Purpose-built worker accommodation is an emerging, policy-backed residential niche in Portugal's farm belts — structural demand with blended public-private funding that specialist developers can underwrite.",
-              "source": "Vida Imobiliária · 28 Oct"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "Dils hires Nuno Ferreira to lead retail leasing",
-              "url": "https://vidaimobiliaria.com/noticias/retalho/dils-contrata-nuno-ferreira-como-retail-leasing-manager/",
-              "summary": "Commercial consultancy Dils Portugal has appointed Nuno Ferreira — previously at Whitestar, JLL and Cushman & Wakefield, and a high-street retail specialist — as Retail Leasing Manager, to drive its retail line and deepen ties with brands and landlords.",
-              "why": "Senior leasing talent moving into retail signals where advisers see activity returning — a read on which commercial segments are warming as investors rotate.",
-              "source": "Vida Imobiliária · 28 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Architects demand an emergency National Housing Council",
-              "url": "https://vidaimobiliaria.com/noticias/habitacao/ordem-dos-arquitectos-pede-convocacao-extraordinaria-do-conselho-nacional-de-habitacao/",
-              "summary": "In a letter to the housing ministry, the Ordem dos Arquitectos has called for an urgent extraordinary session of the National Housing Council, a coordinated \"National Housing System\", a new inspection-and-regulation body, and a single Housing and Leasing Code to consolidate the rules — warning against one-off, reactive measures.",
-              "why": "A push for a consolidated Housing and Leasing Code points to where regulation is heading — codified rules would cut the legal uncertainty that prices into every underwrite.",
-              "source": "Vida Imobiliária / Lusa · 28 Oct"
-            },
-            {
-              "headline": "Funchal adds €2M to municipal housing support for 2026–27",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/28/78526-funchal-com-mais-2-milhoes-para-facilitar-habitacao-em-2026-e-2027",
-              "summary": "Madeira's capital is reinforcing its housing budget with an extra €2 million across 2026 and 2027, expanding municipal rent-support and access measures as it works through a long social-housing waiting list.",
-              "why": "Municipal rent-support budgets underpin tenant demand at the affordable end — a factor when sizing effective demand for income residential in secondary markets.",
-              "source": "idealista · 28 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Cheap capital is being wired to private supply.",
-          "text": "The EIB's €300M via IFRRU 2030, aimed at the private sector, lowers the cost of building the affordable and rehab stock the market lacks."
-        },
-        {
-          "lead": "The public build is thinning.",
-          "text": "Public-works tenders down 29% means state delivery is receding — private developers inherit the demand and the pricing power."
-        },
-        {
-          "lead": "Niche beds, real demand.",
-          "text": "Worker housing in Odemira and rent-support top-ups in Funchal show where policy-backed, income-type residential is opening up."
-        },
-        {
-          "lead": "Watch the rulebook.",
-          "text": "A codified Housing and Leasing Code, if the architects' push lands, would reprice legal risk across every rental underwrite."
         }
       ]
     }
