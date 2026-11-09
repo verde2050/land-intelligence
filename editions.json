@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "editions": [
+    {
+      "date": "2026-11-09",
+      "label": "9 Nov",
+      "title": "€2bn into Portuguese property in nine months — Q3 up 33%, foreign buyers now 75%",
+      "summary": "Portugal pulled in roughly €2bn of commercial property investment in the first nine months of 2026, and the pace is quickening rather than cooling. Third-quarter volume hit €630m — up 33% on the prior quarter, per Dils. Foreign capital drove 75% of it, and more than 80% went into core and core-plus assets — buyers want income, not risk. Hotels have already beaten their full-year totals for both 2024 and 2025, with €590m banked. Retail led the quarter on the Forum Algarve sale; logistics is already above all of last year. CBRE sees the full year topping €3bn. Net: the money is here, it's foreign, and it's chasing stabilised cash flow.",
+      "hook": "Capital isn't slowing: €2bn placed by September, and the quarter accelerated.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Alfana enters Portugal with Forum Algarve",
+              "url": "https://ptjornal.com/investimento-imobiliario-em-portugal-sobe-no-terceiro-trimestre-impulsionado-pelo-retalho-549504",
+              "summary": "London-based Alfana Investment Management bought the Faro shopping centre for its new Rivoli Retail platform — its first deal in Portugal. Retail was Q3's most active segment at €195m (31% of the quarter), and prime Chiado high-street yields compressed 25bps to 4.25%.",
+              "why": "A fresh institutional entrant and yield compression on the best high street say retail — written off a few years ago — is back in favour with cross-border capital.",
+              "source": "PT Jornal · 3 Nov"
+            },
+            {
+              "headline": "Arrow Global buys the Tróia Design Hotel",
+              "url": "https://executivedigest.sapo.pt/portugal-atrai-2-000-milhoes-de-euros-em-investimento-imobiliario-em-apenas-nove-meses/",
+              "summary": "The Setúbal resort hotel changed hands in the quarter's largest hospitality deal. Hotels have drawn €590m so far this year — more than the full-year totals of either 2024 or 2025 — and now make up 27% of all commercial investment, with prime yields near 5.75%.",
+              "why": "Record tourism — 83m overnight stays in the year to August — keeps hospitality the single hottest asset class; expect more platform plays and portfolio trades.",
+              "source": "Executive Digest · 3 Nov"
+            },
+            {
+              "headline": "Saqax takes Logispark Montijo from CBRE IM",
+              "url": "https://ptjornal.com/investimento-imobiliario-em-portugal-sobe-no-terceiro-trimestre-impulsionado-pelo-retalho-549504",
+              "summary": "Dutch investor Saqax acquired the Montijo logistics park from CBRE Investment Management, and a data-centre purchase in Évora also closed. Industrial & logistics investment of €384m year-to-date already tops all of 2025, with prime yields at 5.75%.",
+              "why": "Industrial take-up jumped 60% while licensing delays throttle new supply — the classic undersupplied-demand setup that underpins rents and values.",
+              "source": "PT Jornal · 3 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Licences filed for 61,000+ homes — but keys are years away",
+              "url": "https://dinheirovivo.dn.pt/economia/h-pedidos-de-licenciamento-para-construir-61-mil-casas-reas-metropolitanas-de-lisboa-e-porto-absorvem-41",
+              "summary": "Municipalities received licensing requests for 61,334 homes across ~18,000 projects in the first nine months, per Confidencial Imobiliário — a monthly pace 12% above 2025. The Lisbon and Porto metros absorb 41%; Porto city leads the country with 4,174 homes.",
+              "why": "The pipeline is finally filling, but the four-year-plus path from licence to handover means today's record prices won't be eased by new supply this decade.",
+              "source": "Dinheiro Vivo · 4 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Asking prices rise 7.5% in October to a new record",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/02/78555-casas-a-venda-ficam-7-5-mais-caras-em-outubro-e-renovam-recorde",
+              "summary": "idealista's asking-price index climbed 7.5% year-on-year in October, another all-time high for homes on the market in Portugal. Prices keep setting records even as transaction growth has cooled from its mid-year peak.",
+              "why": "Record prices on slowing volume point to a supply-constrained market — supportive of values, but a widening affordability gap that keeps regulatory risk on the table.",
+              "source": "idealista · 2 Nov"
+            },
+            {
+              "headline": "CBRE tips a €3bn+ year as deals queue for Q4",
+              "url": "https://www.theportugalnews.com/news/2026-11-04/portugal-attracts-2-billion-in-property-investment/1111055",
+              "summary": "With ~€2bn done by September, CBRE forecasts full-year commercial investment above €3bn on deals expected to close in Q4; Worx pencils in €2.6–2.75bn. The estimates diverge by methodology, but all point up.",
+              "why": "A strong Q4 close would confirm a clear recovery from the rate-driven lull — and set a competitive pricing backdrop for anyone underwriting Portuguese assets into 2027.",
+              "source": "The Portugal News · 4 Nov"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Where the rental-law overhaul stands: faster evictions, looser caps",
+              "url": "https://www.rtp.pt/noticias/pais/psd-e-chega-chegam-a-acordo-para-alterar-na-especialidade-proposta-do-governo-sobre-arrendamento_n1768795",
+              "summary": "The government's arrendamento reform passed in principle and is now in committee under a PSD–Chega deal. Core changes: eviction proceedings after two months of arrears (down from three), removal of the 2% cap on new-contract rents, up to three deposits, elderly-tenant protections and tax relief for landlords who let. Ministers aim to pass it by year-end.",
+              "why": "If enacted, the package tilts the rental market toward landlords and funds — faster recourse, freer pricing — and could draw more stock into the formal rental market that income investors target.",
+              "source": "RTP / Lusa · 1 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwriting beats discovery.",
+          "text": "With 80%+ of capital in core/core-plus and foreign buyers at 75%, the edge is pricing stabilised income sharper than the next cross-border bidder — not sourcing."
+        },
+        {
+          "lead": "Hotels and logistics are where the heat is.",
+          "text": "Both have already beaten 2025's full-year volume; yields near 5.75% and structural undersupply make them the clearest risk-adjusted entries right now."
+        },
+        {
+          "lead": "Regulation is turning landlord-friendly.",
+          "text": "A looser rent cap and faster evictions, if passed by year-end, improve the arithmetic on residential and build-to-rent — but watch the affordability politics that could reverse it."
+        },
+        {
+          "lead": "Supply relief is years away.",
+          "text": "61,000 homes in licensing won't hit the market before the end of the decade, so the price-support thesis holds through this fund's acquisition window."
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "label": "08 Nov",
@@ -960,128 +1056,6 @@
         {
           "lead": "Operators own the premium.",
           "text": "Ando Living in Comporta and JNcQUOI House on Liberdade show branded, operator-led concepts are where top-end land and keys still trade."
-        }
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "label": "30 Oct",
-      "title": "EIB puts €300M into private affordable housing as Portugal tops EU for price rises",
-      "summary": "Cheap capital is finally moving toward the shortage. The European Investment Bank committed a fresh €300 million to Portugal — and, for the first time, routed it largely through the private sector to rehabilitate ageing stock and build affordable homes. It lands as the Banco de Portugal warns the housing crisis is now dragging on the wider economy and capping investment. Prices climb regardless: INE put Q2 values up 18.4% year-on-year even as sales fell 9%, leaving Portugal the EU's fastest-rising market since 2020. Dealmaking, though, is turning selective — big-ticket M&A slumped 37% in H1 while capital crowds into trophy hotels like the €140M Penha Longa. Net: the subsidy is tilting toward supply, but scarcity and pricing power still rule the trade.",
-      "hook": "Europe's bank bets €300M on private housing — as the crunch starts to bite growth",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Catterton & Cedar Capital take Penha Longa for ~€140M",
-              "url": "https://www.essential-business.pt/2026/10/23/portugal-bucks-southern-european-dealmaking-boom-as-acquisitions-slump/",
-              "summary": "Catterton Management and Cedar Capital Partners acquired the five-star Caesar Park / Penha Longa hotel and golf resort in Sintra, one of the largest single-asset trades of the half-year.",
-              "why": "Trophy hospitality is the segment still clearing at scale — proof that selective capital will pay up for prime, income-producing assets.",
-              "source": "Essential Business · 23 Oct"
-            },
-            {
-              "headline": "Big three agencies share the Restelo Business Center mandate",
-              "url": "https://www.cushmanwakefield.com/en/portugal/news/2026/10/cw-cbre-and-jll-appointed-to-market-restelo-business-center",
-              "summary": "Cushman & Wakefield, CBRE and JLL were jointly appointed on a co-exclusive basis to lease ~4,820 sqm across three floors of the six-building Restelo complex in upscale Lisbon, owned by Restelo XXI.",
-              "why": "A co-exclusive brief to all three majors signals an owner pushing hard on absorption — office leasing in prime Lisbon is still a landlord's grind, not a layup.",
-              "source": "Cushman & Wakefield · 22 Oct"
-            },
-            {
-              "headline": "Portugal bucks the southern-Europe deal boom",
-              "url": "https://www.essential-business.pt/2026/10/23/portugal-bucks-southern-european-dealmaking-boom-as-acquisitions-slump/",
-              "summary": "Qualifying M&A (deals above €5M) fell 37% to just 82 transactions in H1, worth about €800M, even as capital raised across southern Europe rose 37%, per Forvis Mazars and Mergermarket data.",
-              "why": "Appetite hasn't left — execution has stalled. The report flags 33 live Portuguese opportunities, so the gap is deal-making capacity, not demand.",
-              "source": "Essential Business · 23 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "EIB's €300M now flows to the private sector",
-              "url": "https://www.dn.pt/economia/bei-empresta-mais-300-milhes-de-euros-a-portugal-para-fazer-casas-a-preo-acessvel",
-              "summary": "President Nadia Calviño announced a fresh €300M loan in Lisbon — mostly for private developers rehabilitating 30-year-plus stock and building affordable homes via IFRRU 2030. EIB housing financing in 2025–26 now backs 70,000+ homes and tops €3bn.",
-              "why": "Subsidised, blended capital aimed at private rehab is the cheapest money in the market — and it's pointed squarely at the development side.",
-              "source": "Diário de Notícias · 27 Oct"
-            },
-            {
-              "headline": "BCP wants to bankroll more affordable-housing projects",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/29/78563-bcp-quer-financiar-mais-projetos-de-habitacao-a-custos-acessiveis",
-              "summary": "Portugal's largest private bank signalled it intends to finance a bigger pipeline of affordable-cost housing developments, adding commercial lending alongside the public and EU money now entering the sector.",
-              "why": "When the biggest domestic lender leans into affordable housing, debt for well-structured development projects gets cheaper and deeper.",
-              "source": "idealista · 29 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Four Portuguese projects reach the Dezeen Awards shortlist",
-              "url": "https://espacodearquitetura.com/noticias/quatro-projectos-portugueses-na-shortlist-dos-dezeen-awards-2026/",
-              "summary": "OODA's adaptive reuse of the Canning Factory in Matosinhos, REDO's Mercado do Bairro Padre Cruz in Lisbon, Extrastudio's Casa Plaj in Lourinhã and Didier Faustino's Casa Sem Pele in Ribatejo are through to the global shortlist; winners are named 16 November in London.",
-              "why": "Two of the four are heritage conversions with mixed retail/office/housing programmes — exactly the adaptive-reuse play the EIB money is underwriting.",
-              "source": "Espaço de Arquitetura · 1 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Banco de Portugal: the housing crisis is now a macro problem",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/28/78530-crise-da-habitacao-afeta-economia-e-limita-investimento-diz-bdp",
-              "summary": "The central bank warned that Portugal's housing shortage is spilling into the wider economy — weighing on labour mobility, consumption and business investment — and urged policy focused on expanding supply.",
-              "why": "A BdP framing the shortage as an economic drag hardens the political case for supply incentives — tailwinds for anyone building.",
-              "source": "idealista · 28 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Q2 prices +18.4% to €2,445/m² — as sales fall 9%",
-              "url": "https://observador.pt/2026/10/23/precos-das-casas-subiram-184-no-segundo-trimestre-acelerando-em-10-dos-24-maiores-municipios-segundo-o-ine/",
-              "summary": "INE data showed median house prices up 18.4% year-on-year (easing from 19.8% in Q1), while transactions dropped 9.0% to ~37,854 dwellings. Lisbon (€5,299/m²) and Cascais (€5,200) lead; prices accelerated in 10 of 24 big municipalities.",
-              "why": "Rising prices on falling volume is the signature of a supply shortage — scarcity, not demand froth, is doing the work.",
-              "source": "Observador / INE · 23 Oct"
-            },
-            {
-              "headline": "Portugal is the EU's fastest-rising housing market since 2020",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/26/78476-portugal-e-o-pais-da-ue-onde-as-casas-mais-encareceram-desde-2020",
-              "summary": "Eurostat-based figures place Portugal top of the EU for cumulative house-price growth since 2020, outpacing every other member state over the five-year window.",
-              "why": "The affordability gap that tops EU league tables is also what keeps drawing foreign capital — and fuels the political push for intervention.",
-              "source": "idealista · 26 Oct"
-            },
-            {
-              "headline": "International funds still dominate the board",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/10/16/78309-imobiliario-portugues-joga-com-cartas-internacionais",
-              "summary": "Foreign capital drove roughly 61–65% of H1 commercial investment (led by France, UK, US, Spain and Switzerland), with hotels taking ~34% of volume and prime yields holding near 5% offices / 5.5% logistics.",
-              "why": "In a market where most capital is foreign, local sourcing and execution — not cheque size — is the edge a fund can actually own.",
-              "source": "idealista / Savills / JLL · 16 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "The subsidy is on the supply side.",
-          "text": "EIB and BCP are steering the cheapest capital toward rehab and affordable development — underwriting a build beats bidding on finished stock."
-        },
-        {
-          "lead": "Scarcity still prices the trade.",
-          "text": "+18.4% on volumes down 9% means prime assets keep pricing power even as the market thins — stay patient on entry."
-        },
-        {
-          "lead": "Be the local in a foreign-money market.",
-          "text": "With ~60–65% of capital from abroad and big M&A stalling, sourcing and execution — not firepower — are the differentiators."
-        },
-        {
-          "lead": "Hospitality is the liquid corner.",
-          "text": "Hotels took roughly a third of H1 volume and trophy resorts like Penha Longa clear at scale while offices still grind."
         }
       ]
     }
