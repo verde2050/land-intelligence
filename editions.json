@@ -1,6 +1,104 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "editions": [
+    {
+      "date": "2026-11-11",
+      "label": "11 Nov",
+      "title": "Portugal property investment hits €2bn in 9 months; Q3 jumps 33% to €630M",
+      "summary": "Portugal's commercial property market has posted €2bn of investment in nine months, up 7% on last year. The third quarter alone drew €630M — a 33% jump on the previous three. Foreign capital was 75% of the quarter, with core and core-plus strategies more than 80% of activity. Retail led the year at €611M, but logistics has already beaten its full-year 2025 total and offices just had their best quarter of 2026. Prime yields are tightening — high-street retail compressed to 4.25% after deals in Chiado. Net: this is a market being bid up by patient institutional money, not speculative froth.",
+      "hook": "Capital isn't cooling — Portugal pulled €2bn of property deals by September.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Saqax buys Logispark Montijo from CBRE IM",
+              "url": "https://ptjornal.com/investimento-imobiliario-em-portugal-sobe-no-terceiro-trimestre-impulsionado-pelo-retalho-549504",
+              "summary": "Dutch investor Saqax picked up the Logispark Montijo logistics scheme from CBRE Investment Management — one of the quarter's signature trades in a sector where demand jumped 60% year on year.",
+              "why": "Prime logistics yields have compressed to 5.75% in both Lisbon and Porto — institutional buyers are paying up for the asset class with the cleanest income story.",
+              "source": "PT Jornal · 3 Nov"
+            },
+            {
+              "headline": "Arrow Global acquires the Tróia Design Hotel",
+              "url": "https://diarioimobiliario.pt/Investimento-imobiliario-cresce-33-no-terceiro-trimestre-e-atinge-630-milhoes-de-euros",
+              "summary": "The Setúbal-peninsula resort hotel changed hands to Arrow Global, part of a hotel haul that has already pushed 2026 hotel investment to €590M — above both the 2024 and 2025 full-year totals.",
+              "why": "Hospitality is now roughly 27% of all commercial capital deployed — credit-and-asset platforms are moving into operating hotels, not just distressed debt.",
+              "source": "Diário Imobiliário · 3 Nov"
+            },
+            {
+              "headline": "Alfana makes its Portugal debut with Forum Algarve",
+              "url": "https://executivedigest.sapo.pt/portugal-atrai-2-000-milhoes-de-euros-em-investimento-imobiliario-em-apenas-nove-meses/",
+              "summary": "Alfana Investment Management entered Portugal by buying the Forum Algarve shopping centre, folding it into its Rivoli Retail platform — retail was the year's biggest segment at €611M despite sitting 8% below 2025.",
+              "why": "A first-time entrant paying for a dominant regional mall signals that institutional appetite for Portuguese retail has turned the corner.",
+              "source": "Executive Digest · 3 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Hotel pipeline swells by 3,253 rooms",
+              "url": "https://ptjornal.com/investimento-imobiliario-em-portugal-sobe-no-terceiro-trimestre-impulsionado-pelo-retalho-549504",
+              "summary": "Portugal added 3,253 hotel rooms in the first nine months of 2026, with roughly 1,600 more due by year-end — openings include the Kimpton Quinta da Marinha in Cascais and Wilde Clérigos in Porto.",
+              "why": "New supply is concentrating in the upper tier — Algarve ADR and RevPAR rose 3%, while Lisbon RevPAR slipped 5% as rooms come online faster than demand.",
+              "source": "PT Jornal · 3 Nov"
+            },
+            {
+              "headline": "Retail-park wave: seven schemes, 77,000 m²",
+              "url": "https://ptjornal.com/investimento-imobiliario-em-portugal-sobe-no-terceiro-trimestre-impulsionado-pelo-retalho-549504",
+              "summary": "Seven retail parks totalling 77,000 m² are under construction across the country, with the 18,000 m² Beja Jardim Retail Park already open — the format quietly carrying Portugal's retail development pipeline.",
+              "why": "Retail parks offer cheaper build costs and resilient convenience footfall — the lower-risk way to add retail GLA while shopping-centre yields sit at 6.25%.",
+              "source": "PT Jornal · 3 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "€2bn in nine months, three-quarters foreign",
+              "url": "https://diarioimobiliario.pt/Investimento-imobiliario-cresce-33-no-terceiro-trimestre-e-atinge-630-milhoes-de-euros",
+              "summary": "Dils' Q3 Recap puts 2026 commercial investment at €2bn to September (+7% YoY) and the third quarter at €630M (+33%). International investors drove 75% of the quarter; core and core-plus made up over 80%. \"Confirms the confidence in our market's potential,\" says Dils Portugal CEO Pedro Lancastre.",
+              "why": "A market this dependent on foreign core capital is stable but rate-sensitive — flows track global cost-of-capital more than local sentiment.",
+              "source": "Diário Imobiliário · 3 Nov"
+            },
+            {
+              "headline": "Lisbon offices tighten to 8.4% availability",
+              "url": "https://ptjornal.com/investimento-imobiliario-em-portugal-sobe-no-terceiro-trimestre-impulsionado-pelo-retalho-549504",
+              "summary": "Lisbon office availability fell to 8.4% (the centre below 5%) and prime CBD rent held at €32/m²/month, even as nine-month office investment of €175M sat about 40% under 2025. A 231,000 m² Lisbon pipeline looms over the next two years.",
+              "why": "This is a two-speed office market — scarcity of good central space, not of capital, is setting rents, which favours refurbishment plays over ground-up.",
+              "source": "PT Jornal · 3 Nov"
+            },
+            {
+              "headline": "Prime yields compress as buyers crowd in",
+              "url": "https://ptjornal.com/investimento-imobiliario-em-portugal-sobe-no-terceiro-trimestre-impulsionado-pelo-retalho-549504",
+              "summary": "Prime high-street retail yields tightened 25bp to 4.25% after deals in Chiado, where rents now reach €155/m²/month; logistics holds at 5.75% in Lisbon and Porto, and prime hotels at 5.75%.",
+              "why": "Compression on prime is the clearest signal competition is back — entry pricing now rewards underwriting discipline over deal access.",
+              "source": "PT Jornal · 3 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwriting beats discovery.",
+          "text": "With prime yields compressing, the edge is pricing discipline, not finding the deal."
+        },
+        {
+          "lead": "Logistics is clearing.",
+          "text": "Nine-month volume already tops all of 2025 and demand is up 60% — the clearest income story on the board."
+        },
+        {
+          "lead": "Offices reward refurbishment.",
+          "text": "Investment is down ~40% but central availability is under 5% — scarcity of quality, not of capital."
+        },
+        {
+          "lead": "It's a core market.",
+          "text": "Foreign core/core-plus is 80%+ of flow — priced for stability, so value-add must earn its risk premium."
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "label": "10 Nov",
@@ -952,119 +1050,6 @@
         {
           "lead": "The supply math still favours owners.",
           "text": "Licences down 7.3% but dwellings up 4.1% and values up 14.7% keep the gap open; underwrite firm pricing."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "label": "1 Nov",
-      "title": "House prices hit a record +18.4% as sales fall — OE2027 widens buyer tax breaks",
-      "summary": "Portuguese house prices rose 18.4% year-on-year in Q2 — still near-record growth, even as transaction volumes fell. The acceleration reached 10 of the country's 24 largest municipalities, so this is broad, not just a Lisbon-and-Porto story. Policy is leaning in: the 2027 State Budget widens IMT relief and lifts the under-35 first-home exemption ceiling to €338,141. Capital keeps arriving, with €1.42bn into commercial real estate in H1, up 11%, two-thirds of it foreign. Supply is the missing piece — the EIB's new €300m line for building and rehab is aimed squarely at it. Net: demand is cooling at the margin, but prices, policy and capital are still pushing the same way — up.",
-      "hook": "Portugal's market keeps setting price records even as buyers back away.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Lisbon's Restelo Business Center goes to market — with all three big agencies on it",
-              "url": "https://www.cushmanwakefield.com/en/portugal/news/2026/10/cw-cbre-and-jll-appointed-to-market-restelo-business-center",
-              "summary": "Owner Restelo XXI has handed Cushman & Wakefield, CBRE and JLL a rare co-exclusive mandate to lease roughly 4,820 sq m across the six-building, Francisco Simões-designed office campus in one of Lisbon's most exclusive districts.",
-              "why": "Three rival houses sharing one mandate is a tell on how competitive prime Lisbon office leasing has become — and a reminder that quality space still turns over even with offices at just 6% of investment.",
-              "source": "Cushman & Wakefield · 22 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "A next-generation logistics hub lands on the Alverca–Azambuja axis",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/31/78593-plataforma-logistica-de-nova-geracao-chega-ao-eixo-alverca-azambuja",
-              "summary": "Castanheira do Ribatejo gains a new distribution and logistics platform on Greater Lisbon's busiest industrial corridor, extending the A1/Vila Franca cluster that already anchors the national supply chain.",
-              "why": "The Alverca–Azambuja strip is where modern logistics stock is actually being built; land and pre-lets here set the rent benchmark for the whole Lisbon industrial market.",
-              "source": "idealista · 31 Oct"
-            },
-            {
-              "headline": "The EIB lends Portugal another €300m to build and rehabilitate homes",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/28/78525-bei-empresta-300-milhoes-a-portugal-para-construir-e-reabilitar-casas",
-              "summary": "The European Investment Bank is extending €300m to fund new construction and the refurbishment of existing housing stock, channelled through Portugal's public housing programme.",
-              "why": "Cheap, long-dated public capital for build-and-rehab is exactly the supply-side lever the market needs — and a potential co-funding partner for developers delivering affordable and mid-market units.",
-              "source": "idealista · 28 Oct"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "Savills plants a northern flag with a new Porto HQ at VIVA Offices",
-              "url": "https://en.savills.pt/news-and-research/savills-news/389126/savills-strengthens-its-presence-in-the-north-with-new-headquarters-at-viva-offices",
-              "summary": "The agency is moving its northern operation into Sonae Sierra's sustainable VIVA Offices scheme in Porto, formalising a bigger bet on the north after its merger into Savills Iberia earlier this year.",
-              "why": "When the advisers expand their own footprint in Porto, it signals where they expect deal flow — the north is quietly becoming a two-city investment story.",
-              "source": "Savills · 23 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Portuguese studios take four wins and seven honourable mentions at the MasterPrize",
-              "url": "https://www.idealista.pt/news/decoracao/espacos/2026/10/23/78385-arquitetura-portuguesa-brilha-no-architecture-masterprize-2026",
-              "summary": "Portuguese architecture shone at the Architecture MasterPrize 2026 with four category wins and seven honourable mentions, with Plano Humano Arquitectos among the names collecting international recognition.",
-              "why": "Design pedigree is a marketing asset. Projects carrying award-winning architects command price premiums and faster absorption — worth tracking when sourcing development partners.",
-              "source": "idealista · 23 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "OE2027 nudges IMT brackets up 2.3% and widens the under-35 break",
-              "url": "https://eco.sapo.pt/2026/10/08/governo-atualiza-escaloes-do-imt-em-23-veja-aqui-as-tabelas/",
-              "summary": "The 2027 Budget proposal raises IMT brackets by 2.3%: a permanent home up to €108,792 would be fully exempt, and the under-35 first-home exemption from IMT and stamp duty rises to a €338,141 ceiling. Measures are pending parliamentary approval.",
-              "why": "A higher young-buyer ceiling pulls more entry-level and mid-market stock into tax-free territory — direct demand support at the price points where most units actually trade.",
-              "source": "ECO · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Prices +18.4% in Q2 even as sales slide — and 10 cities are still speeding up",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/23/78436-preco-das-casas-em-portugal-abranda-para-18-4-com-recuo-das-vendas",
-              "summary": "INE data show house prices up 18.4% year-on-year in Q2, a slight easing nationally but an acceleration in 10 of the 24 largest municipalities, all while transaction volumes continued to fall.",
-              "why": "Rising prices on falling volumes is a classic late-cycle signal — scarcity, not froth, is doing the lifting, which rewards owners of the right stock and punishes overpaying on entry.",
-              "source": "INE / idealista · 23 Oct"
-            },
-            {
-              "headline": "€1.42bn flowed into Portuguese commercial property in H1, two-thirds from abroad",
-              "url": "https://www.iberian.property/news/market-updates/portugal-records-eur1-42b-in-real-estate-investment-in-h1/",
-              "summary": "JLL puts H1 commercial real estate investment at €1.42bn, up 11% year-on-year, led by hotels (43%) and retail (32%); foreign investors accounted for 65% of the total.",
-              "why": "Hotels and retail soaking up the capital while offices sit at 6% tells you where conviction is — and leaves room for well-priced entries in the sectors the crowd is ignoring.",
-              "source": "JLL / Iberian Property · 6 Aug"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwrite the cooldown, not the headline.",
-          "text": "Record prices on falling volumes means pricing power is thinning — stress-test exit assumptions, not just entry."
-        },
-        {
-          "lead": "Tax relief is a demand tailwind.",
-          "text": "A higher under-35 exemption ceiling (€338,141) keeps first-time buyers active at exactly the price points where most stock changes hands."
-        },
-        {
-          "lead": "Supply is the real constraint.",
-          "text": "EIB and public money point at build-and-rehab; developers who can actually deliver units will command the scarcity premium."
-        },
-        {
-          "lead": "Capital is still foreign — and still here.",
-          "text": "65% of H1 volume came from abroad; the geopolitical noise hasn't knocked Portugal off the shortlist."
         }
       ]
     }
