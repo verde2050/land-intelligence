@@ -1,6 +1,121 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "editions": [
+    {
+      "date": "2026-11-12",
+      "label": "12 Nov",
+      "title": "Portugal's property boom: ~€2bn invested by September, Q3 jumps 33% as foreign capital takes 75%",
+      "summary": "Commercial real estate in Portugal drew roughly €2bn of investment in the first nine months of 2026 — and the pace is accelerating, not fading. Q3 alone brought about €630m, up 33% on the prior quarter, with foreign investors taking 75% of it. Hotels (€590m) and logistics (€384m) have already beaten their full-year 2025 totals. Offices are the laggard, down around 40% year-to-date as money hunts yield elsewhere. Consultancies now peg the full year between €2.6bn and north of €3bn. Net: liquidity is back, and it's chasing beds and boxes over desks.",
+      "hook": "Capital isn't blinking: Portugal has pulled in ~€2bn before the year is even out.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Quadrantis Capital buys the Karl Lagerfeld Residences in Lisbon",
+              "url": "https://www.iberian.property/news/residential/quadrantis-capital-buys-karl-lagerfeld-residences-from-overseas/",
+              "summary": "Quadrantis Capital has acquired 100% of the company that owns the branded Karl Lagerfeld Residences Lisboa, buying the trophy residential scheme out of Overseas' hands.",
+              "why": "Branded residences remain the one residential niche where Lisbon still prices like a global gateway — confirmation the luxury bid hasn't cooled even as mass-market volumes slip.",
+              "source": "Iberian Property · 6 Nov"
+            },
+            {
+              "headline": "Prowinko sells a Chiado retail building to a private investor",
+              "url": "https://www.iberian.property/tags/portugal/",
+              "summary": "Dutch investor Prowinko has offloaded a retail asset in Lisbon's Chiado — the city's prime high-street pitch — to a private buyer, a rare trade in one of Portugal's tightest retail markets.",
+              "why": "Prime high-street assets rarely change hands; when they do, private capital — not institutions — is increasingly setting the clearing price in Lisbon's core.",
+              "source": "Iberian Property · 5 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Grupo Mais places a big build-to-rent bet: 700 units",
+              "url": "https://www.iberian.property/tags/portugal/",
+              "summary": "Grupo Mais is committing to a major build-to-rent programme totalling around 700 homes, one of the larger institutional BTR moves yet seen in the Portuguese market.",
+              "why": "BTR at scale is the structural bet on Portugal's rental shortage — and a signal that developers are finally underwriting rent rolls, not just exit sales.",
+              "source": "Iberian Property · 2 Nov"
+            },
+            {
+              "headline": "State puts €16M into restoring Lisbon's Burnay Palace",
+              "url": "https://www.iberian.property/tags/portugal/",
+              "summary": "The Portuguese government is investing roughly €16M to restore the historic Palácio Burnay in Lisbon, one of the capital's landmark heritage buildings.",
+              "why": "Public heritage spend anchors value in Lisbon's historic core and often precedes a wave of private adaptive-reuse nearby — worth watching for spillover.",
+              "source": "Iberian Property · 5 Nov"
+            },
+            {
+              "headline": "A Saldanha office block is bought to become flats",
+              "url": "https://www.iberian.property/news/offices/bpi-gestao-de-ativos-sells-lisbon-office-building-for-residential-conversion/",
+              "summary": "A fund managed by BPI Gestão de Ativos has sold Almirante Barroso 32 in Saldanha — a 4,500 sqm, seven-storey office — to a buyer planning to convert it into upper-middle and premium homes. Cushman & Wakefield advised, and notes about 20% of 2025 office investment went into assets bought for a change of use.",
+              "why": "The office-to-resi arbitrage is now a strategy, not an exception. In central Lisbon, the discount on tired offices is the cheapest way into the housing bid.",
+              "source": "Iberian Property · Nov"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Savills names Alejandro Campoy CEO for Iberia",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/11/10/78826-savills-reforca-lideranca-iberica-com-alejandro-campoy-zuasti",
+              "summary": "Savills has promoted Alejandro Campoy, currently managing director, to CEO of Savills Iberia (Spain and Portugal) from early 2027. Jaime Pascual-Sanchiz steps up to run Continental Europe and becomes executive chairman of the Iberian business.",
+              "why": "Another global agency is running Portugal and Spain as one desk. Expect cross-border capital to keep treating Iberia as a single investable market.",
+              "source": "idealista / Jornal Económico · 10 Nov"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "The 2026 housing tax package rewards patient rental capital",
+              "url": "https://www.macedovitorino.com/conhecimento/insights/Incentivos-Fiscais-para-a-Habitacao/6945/",
+              "summary": "Decree-Law 97/2026 bundles Portugal's housing fiscal incentives, headlined by a capital-gains exemption when sale proceeds are reinvested into accessible or moderate-rent housing, alongside IMT, IRS and IVA measures aimed at putting stock on the long-term rental market.",
+              "why": "The tax code is now tilting toward long-hold rental over quick resale — a real tailwind for funds underwriting accessible-rent strategies. Confirm specifics in the Diário da República before relying on them.",
+              "source": "Macedo Vitorino / DECO · 2026"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Portugal leads the EU for house prices outrunning incomes",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/09/78806-portugal-e-o-pais-onde-o-preco-das-casas-mais-subiu-face-aos-rendimentos",
+              "summary": "Portugal is the EU country where house prices have climbed most relative to household incomes. Asking prices rose about 10% year-on-year in Q3 (used stock, per Casafari/DECO), with the price-to-income gap now the widest in the bloc — a growing affordability and political pressure point.",
+              "why": "The wider the affordability gap, the heavier the policy risk — rent controls, transfer taxes and supply mandates all get more likely. Price that into long holds.",
+              "source": "idealista · 9 Nov"
+            },
+            {
+              "headline": "Rents keep rising, but the momentum is finally cooling",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/03/78583-renda-das-casas-em-portugal-volta-a-subir-mas-perde-ritmo-em-outubro",
+              "summary": "New-contract rents are still up year-on-year — around 4.5% on DECO's Q3 read — but October data shows the pace easing after a long run of acceleration, with month-on-month moves flattening.",
+              "why": "Cooling rent growth alongside still-rising prices compresses yields. The easy rental re-rating is behind us; returns now hinge on buying well.",
+              "source": "idealista · 3 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwriting beats discovery.",
+          "text": "With 75% of Q3 capital foreign and everyone chasing the same prime beds and sheds, edge is pricing risk faster than the crowd — not sourcing the asset."
+        },
+        {
+          "lead": "Beds and boxes, not desks.",
+          "text": "Hotels (€590m) and logistics (€384m) have already topped all of 2025; offices are down ~40%. Tilt toward structural demand."
+        },
+        {
+          "lead": "Change-of-use is the office trade.",
+          "text": "About a fifth of 2025 office volume was bought to convert. In Lisbon, the office discount is the residential entry point."
+        },
+        {
+          "lead": "Policy favours patient rent.",
+          "text": "The 2026 fiscal package rewards reinvestment into accessible-rent housing — aligning long-hold rental strategies with tax relief."
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "label": "11 Nov",
@@ -942,114 +1057,6 @@
         {
           "lead": "Capital is flowing to operational and alternative assets.",
           "text": "Hotels, data centres and northern living formats are absorbing the deal flow — a built-to-operate lens beats pure buy-and-hold."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "label": "02 Nov",
-      "title": "Portugal's housing fix targets land: BEI credit line to urbanize plots for 133k homes",
-      "summary": "Economy minister Castro Almeida told parliament the housing crisis is fundamentally a shortage of urbanized land — and the government is negotiating a BEI credit line to let municipalities service plots for construction. Councils would repay it from land sales, with the state backing 133,000 homes by 2030. In Porto, the city will propose multiplying IMI up to tenfold on the 6,400 buildings flagged as vacant in the historic centre. Capital kept moving: Banco de Portugal trimmed its Entrecampos HQ purchase from Fidelidade to €165M for one building, and a €40M hospital expansion broke cover in Almada. Net: policy is converging on the same answer Verde 2050 was built around — the scarce asset is land you can actually build on.",
-      "hook": "Lisbon finally named the bottleneck — and it's land, not money.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Banco de Portugal trims its new Lisbon HQ to one building, saving €35M",
-              "url": "https://observador.pt/2026/10/29/nova-sede-banco-de-portugal-assina-acordo-com-fidelidade-para-comprar-um-edificio-em-vez-de-dois-e-poupar-35-milhoes/",
-              "summary": "The central bank signed an addendum with Fidelidade to buy one Entrecampos building (A1) plus an A3 auditorium — ~27,000 m², €165.09M core-and-shell (€225M all-in) — instead of the two towers agreed under Centeno.",
-              "why": "Even a flagship institutional buyer is sizing to real occupier need, not trophy space — the Lisbon office story is demand-led, not square-metre-led.",
-              "source": "Observador · 29 Oct"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Unisana to put €40M into near-tripling its Almada hospital",
-              "url": "https://vidaimobiliaria.com/noticias/",
-              "summary": "The private group will build a new wing and renovate the existing facility into one ~15,000 m² complex — three theatres, ~50 beds, PET nuclear medicine and a reproduction clinic — in two phases to end-2029.",
-              "why": "Private healthcare real estate keeps drawing committed capital on long, operator-backed horizons — a defensive income sleeve as offices and retail wobble.",
-              "source": "Vida Imobiliária · 30 Oct"
-            },
-            {
-              "headline": "Ando Living opens 16 luxury villas in the Comporta",
-              "url": "https://publituris.pt/2026/10/30/ando-living-abre-portas-de-16-villas-na-comporta",
-              "summary": "The Portuguese premium-hospitality operator's \"Comporta House\" branded-residence / serviced-apartment project has opened its doors, extending the Comporta luxury cluster.",
-              "why": "Branded residences remain Portugal's highest-margin resi play — and the Comporta's pull keeps pricing power with design-led operators.",
-              "source": "Publituris · 30 Oct"
-            },
-            {
-              "headline": "Castanheira Logistics Park brings in DILS to lease its largest lot",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/10/31/78593-plataforma-logistica-de-nova-geracao-chega-ao-eixo-alverca-azambuja",
-              "summary": "DILS took the commercialization mandate for Lote 14 of the Montepino / Valfondo park on the A1–A10 \"kilómetro zero\" axis — the ~€120M, ~147,000 m² GFA scheme billed as the country's biggest logistics footprint.",
-              "why": "Grade-A logistics on the Lisbon–Porto spine is still supply-short and leasing-led — the asset class institutional money most wants to own in Portugal.",
-              "source": "idealista · 31 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Four Portuguese projects reach the Dezeen Awards 2026 shortlist",
-              "url": "https://espacodearquitetura.com/noticias/quatro-projectos-portugueses-na-shortlist-dos-dezeen-awards-2026/",
-              "summary": "Extrastudio's Casa Plaj (Lourinhã), REDO's Mercado do Bairro Padre Cruz (Lisbon), OODA's Canning Factory (Matosinhos) and Didier Faustino's Casa Sem Pele (Ribatejo) made the 152-strong global shortlist; winners are named 16 Nov in London.",
-              "why": "Design credibility is a pricing input — adaptive-reuse schemes like OODA's canning factory show how heritage conversion wins both juries and tenants.",
-              "source": "Espaço de Arquitetura · 1 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Government readies a BEI credit line to urbanize municipal land",
-              "url": "https://observador.pt/2026/10/30/municipios-vao-ter-linha-de-credito-para-urbanizarem-solos-para-construcao/",
-              "summary": "Castro Almeida told parliament the state is negotiating European Investment Bank funding so councils can service raw plots for housing, repaying from land sales; OE2027 earmarks €2.0bn for housing and backs 133,000 homes by 2030.",
-              "why": "Public money is about to flow into exactly the land-to-shovel-ready step that gates supply — a tailwind for anyone holding urbanizable land.",
-              "source": "Observador · 30 Oct"
-            },
-            {
-              "headline": "Porto moves to multiply IMI tenfold on vacant historic-centre buildings",
-              "url": "https://eco.sapo.pt/2026/10/28/porto-quer-agravar-10-vezes-o-valor-do-imi-em-predios-devolutos-no-centro-historico/",
-              "summary": "Mayor Pedro Duarte will propose in the 2027 budget raising IMI up to 10x on derelict buildings; a city survey flagged 6,400 showing signs of vacancy, with surcharges applied annually to force rehabilitation.",
-              "why": "The cost of sitting on empty stock is rising city by city — a push toward disposals and rebuilds that favours active redevelopers over passive holders.",
-              "source": "ECO · 28 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Fewer licences, bigger projects: dwellings up 4.1%, values up 14.7%",
-              "url": "https://www.dn.pt/empresas/construo-projetos-licenciados-caem-73-mas-nmero-de-fogos-sobe-41-at-agosto",
-              "summary": "AICCOPN data to August: licensed residential projects fell 7.3% (12,805) but dwellings within them rose 4.1% (29,030); bank-appraised value hit €2,254/m² (+14.7%), new mortgage lending €16.7bn (+12.5%) and the mortgage stock a record €119.1bn.",
-              "why": "Supply is consolidating into fewer, larger schemes while pricing and credit stay firm — the demand-supply gap underpinning Portuguese values isn't closing.",
-              "source": "Dinheiro Vivo / AICCOPN · 29 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Land is the asset.",
-          "text": "The minister's own diagnosis — the bottleneck is serviced land, not capital — is the clearest official backing yet for a land-first strategy, and the BEI line will fund exactly that step."
-        },
-        {
-          "lead": "Vacancy is getting expensive.",
-          "text": "Porto's 10x IMI and 6,400-building list point to a national drift toward penalising idle stock — good for buyers who rebuild, a drag on passive holders."
-        },
-        {
-          "lead": "Capital is committed but disciplined.",
-          "text": "BdP sizing down and €40M into Almada healthcare show institutions still writing cheques — against occupier demand, not trophy space."
-        },
-        {
-          "lead": "The supply math still favours owners.",
-          "text": "Licences down 7.3% but dwellings up 4.1% and values up 14.7% keep the gap open; underwrite firm pricing."
         }
       ]
     }
