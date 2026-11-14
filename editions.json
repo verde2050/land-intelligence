@@ -1,6 +1,95 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "editions": [
+    {
+      "date": "2026-11-14",
+      "label": "14 Nov",
+      "title": "Portugal CRE investment hits €1.9bn, hotels in front; Corum lands its biggest Lisbon deal",
+      "summary": "Commercial real estate investment in Portugal reached €1.9 billion in the first nine months of 2026, up 3% on last year, on a €659m third quarter that jumped 38% on Q2. Hotels led every sector at €588m — nearly a third of all volume — as capital rotated out of shopping centres. International investors took 72% of the money, up from 62% a year ago, led by Spain, the UK, France and the US. Deal count rose 36% to 75 transactions, and CBRE now expects the full year to clear €3 billion. The same day, Corum closed its largest-ever Portuguese deal, buying Lisbon's Green Park office block and pushing its local book past €250m. Net: the money is still coming — and it is spreading across more sectors and more buyers.",
+      "hook": "€1.9bn in, hotels in front: Portugal's market is broadening, not cooling.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Corum lands Green Park, its biggest Portuguese deal yet",
+              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/11/12/78894-green-park-passa-a-integrar-a-carteira-milionaria-da-corum-investments",
+              "summary": "Corum Investments bought the Green Park office building on Lisbon's Avenida dos Combatentes from Incus Capital — roughly 15,000 m² of offices and retail let to CTT, Pierre Fabre and Malo Clinic. The price was undisclosed, but it is Corum's largest Portuguese acquisition and lifts its local book above €250m across 21 assets.",
+              "why": "A €10bn open-ended manager doubling down on Lisbon offices — the defensive, income-first CORUM playbook that income funds (Verde 2050 included) study closely.",
+              "source": "idealista · 12 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Royal Ventures breaks into ground-up with a €15M Porto scheme",
+              "url": "https://jornaleconomico.sapo.pt/noticias/royal-ventures-lanca-projeto-residencial-de-15-milhoes-em-custoias/",
+              "summary": "The Porto developer is launching Royal Custóias in Matosinhos — its first ground-up build — with 51 T0–T2 apartments across about 4,000 m², designed by Pedro Pereira of Linhas & Traços. Pre-reservations open within weeks; construction starts in Q1 2027 and completes by end-2029.",
+              "why": "A serial refurbisher moving to new-build middle-class housing signals where Porto margins now sit — and how long the build-to-sell cycle really runs.",
+              "source": "Jornal Económico · 14 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "A Braga house takes a world architecture prize",
+              "url": "https://bragatv.pt/casa-projetada-por-atelier-de-braga-vence-premio-internacional-de-arquitetura/",
+              "summary": "Casa S, a single-family home on a wooded Braga slope by Luís Cunha's studio L2C Arquitetura, won the Residential (Single Family) category at the Architecture MasterPrize 2026, judged against entries from 95 countries. The ceremony lands this November at the Guggenheim in Bilbao.",
+              "why": "Portuguese residential design keeps winning global billing alongside Foster and Zaha Hadid — brand equity that sells homes and lifts land values around signature work.",
+              "source": "Braga TV · 24 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Commercial investment hits €1.9bn — and hotels are running the market",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
+              "summary": "Savills' Q3 report puts nine-month commercial volume at €1.9bn, +3% year-on-year, with hotels at €588m (31% of the total, +51%) as retail slipped 18%. Logistics (+68%) and data centres also gained; offices and living fell. CBRE sees the full year topping €3bn.",
+              "why": "Capital is rotating — out of shopping centres, into hospitality, sheds and data — so the sector mix that worked in 2023 is not the one being rewarded now.",
+              "source": "The Portugal News · 12 Nov"
+            },
+            {
+              "headline": "House prices renew their record, up 7.5% in October",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/02/78555-casas-a-venda-ficam-7-5-mais-caras-em-outubro-e-renovam-recorde",
+              "summary": "Asking prices rose 7.5% year-on-year to a fresh all-time high, while separate Casafari data has used-flat values up about 10% in Q3 — T1s now average €281k and T4s €714k. Momentum is easing from the double-digit peaks, but it has not turned.",
+              "why": "Still-rising prices against softening rents keep compressing gross yields — the squeeze that pushes income investors toward development and value-add over standing stock.",
+              "source": "idealista · 2 Nov"
+            },
+            {
+              "headline": "Rents cool month-on-month, even as the annual line holds",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/03/78583-renda-das-casas-em-portugal-volta-a-subir-mas-perde-ritmo-em-outubro",
+              "summary": "Median asking rents eased to €17.2/m² in October, +1% year-on-year but −6% on September; Lisbon stays dearest at €23.8/m², Porto at €18.3/m². Aveiro (+14%) and Évora (+8%) led the annual gains while Porto and Faro fell.",
+              "why": "Rent growth is plateauing just as prices push on — a widening gap that makes underwriting new rental product harder and regional plays more interesting.",
+              "source": "idealista · 3 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Diversification is the signal.",
+          "text": "Hotels, logistics and data centres are pulling capital that once defaulted to retail and offices — mix matters more than momentum now."
+        },
+        {
+          "lead": "Foreign money is setting the price.",
+          "text": "At 72% of volume, international buyers are the marginal bidder — local sourcing and relationships are the edge."
+        },
+        {
+          "lead": "Yields are tightening from both ends.",
+          "text": "Record prices plus cooling rents mean standing income looks thin — development and value-add carry the return."
+        },
+        {
+          "lead": "Follow the operators.",
+          "text": "Corum's €250m+ build and Royal's first ground-up say the same thing: conviction is in deploying, not waiting."
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "label": "13 Nov",
@@ -942,102 +1031,6 @@
         {
           "lead": "Public money is leaving the room.",
           "text": "A 63.5% cut to state housing spend shifts the moderate-rent opportunity squarely toward private vehicles."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "label": "04 Nov",
-      "title": "Portugal commercial property hits €2bn in nine months as Q3 investment jumps 33% to €630M",
-      "summary": "Portugal's commercial real estate market just posted its strongest quarter of 2026. Investment reached €630 million in Q3, up 33% on the prior quarter, lifting the nine-month tally to roughly €2 billion — 7% ahead of 2025, according to Dils. Foreign investors drove 75% of the flow, with more than 80% going into core and core-plus assets. Retail led the quarter — Alfana's €130M Forum Algarve debut among the standouts — while offices quietly staged their best quarter of the year. Net: the money is back, it is foreign, and it is buying income, not discounts.",
-      "hook": "Foreign capital is piling back into Portuguese bricks — €2bn and counting.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Alfana lands in Portugal with a €130M swoop on Forum Algarve",
-              "url": "https://iberian.property/news/retail/alfana-acquires-faro-shopping-centre-forum-algarve-for-eur130m/",
-              "summary": "Alfana Investment Management, through its Rivoli retail platform, bought the dominant Forum Algarve shopping centre in Faro from Commerz Real for about €130 million — the quarter's single largest deal and the manager's Portuguese market debut.",
-              "why": "A fresh international platform entering via a regional-dominant mall — not a trophy office — is a vote of confidence in Portuguese consumption, and confirms retail as 2026's most-wanted sector.",
-              "source": "Iberian Property · Oct"
-            },
-            {
-              "headline": "Clarion buys six Portuguese supermarkets on 20-year, inflation-linked leases",
-              "url": "https://iberian.property/news/retail/clarion-partners-europe-acquires-six-supermarkets-in-portugal/",
-              "summary": "Clarion Partners Europe acquired a six-asset supermarket portfolio in Portugal let on long 20-year leases indexed to inflation — a classic defensive, income-first grocery play.",
-              "why": "CPI-linked grocery income is the cleanest expression of the \"buy cash flow\" trade dominating the year — long WAULTs and recession-resistant tenants at a yield that still clears financing.",
-              "source": "Iberian Property · Oct"
-            },
-            {
-              "headline": "Offices rebound: Burgo, Duque de Loulé 106 and República 50 all change hands",
-              "url": "https://www.essential-business.pt/2026/11/03/portugals-commercial-property-investment-rises-33-to-e630-million-in-third-quarter/",
-              "summary": "Offices had their strongest quarter of 2026 at €112M, with the Burgo building in Porto and Duque de Loulé 106 and República 50 in Lisbon trading hands; Lisbon office vacancy fell to 8.4% and prime rents held at €32/m².",
-              "why": "After a year in the shadow of hotels and retail, falling vacancy and live transactions signal the Lisbon office discount window is starting to close.",
-              "source": "Essential Business / Dils · 3 Nov"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Benfica turns developer with a residential project in Seixal",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/03/78651-benfica-entra-no-imobiliario-residencial-com-projeto-no-seixal",
-              "summary": "Sport Lisboa e Benfica is stepping into residential real estate with a housing project in Seixal — the municipality on Lisbon's south bank where the club's football campus already sits — marking its first move into building homes.",
-              "why": "When a landowning institution starts building homes on its own ground, expect more asset-rich players to monetise land banks — and more competition for developable sites across Greater Lisbon's periphery.",
-              "source": "idealista · 3 Nov"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Nuno Valentim wins the Gulbenkian heritage prize for a Vila do Conde estate",
-              "url": "https://observador.pt/2026/11/03/premio-gulbenkian-patrimonio-para-nuno-valentim-e-reabilitacao-da-quinta-de-crasto/",
-              "summary": "The Prémio Gulbenkian Património 2026 went to architect Nuno Valentim for turning the historic Quinta de Crasto farm estate in Vairão, Vila do Conde, into the BIOPOLIS research centre — keeping manor house, threshing floor and animal pens, now re-cast as labs and offices.",
-              "why": "Portugal's design edge is sensitive reuse of old fabric — exactly the heritage-led adaptive reuse that earns premium rents and planning goodwill in supply-starved cities.",
-              "source": "Observador · 3 Nov"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Commercial investment jumps 33% to €630M in Q3, €2bn year-to-date",
-              "url": "https://www.essential-business.pt/2026/11/03/portugals-commercial-property-investment-rises-33-to-e630-million-in-third-quarter/",
-              "summary": "Dils' Q3 recap puts quarterly commercial investment at €630M (+33% q/q) and the nine-month total near €2bn (+7% y/y), with foreign capital at 75% and retail leading at €195M; logistics has already beaten its full-year 2025 tally.",
-              "why": "The recovery is broadening beyond hotels into retail, logistics and now offices — and it's overwhelmingly foreign and income-driven, not opportunistic.",
-              "source": "Essential Business / Dils · 3 Nov"
-            },
-            {
-              "headline": "Housing Summit brings builders and mayors to the same table",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/03/78662-cimeira-da-habitacao-reune-construtores-e-autarcas-para-responder-a-crise",
-              "summary": "A national Housing Summit convened developers, the construction industry and municipal leaders to thrash out a joint response to the housing crisis — the scarcity of homes, land and permits that is driving prices.",
-              "why": "Builders and councils aligning is where the pipeline actually unblocks — on licensing and serviced land. That operational layer, not headline demand, decides who can deliver.",
-              "source": "idealista · 3 Nov"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Income beats optionality.",
-          "text": "80%+ of volume went into core and core-plus, and Clarion's 20-year CPI-linked grocery leases show buyers are paying for durable cash flow, not a repricing bet."
-        },
-        {
-          "lead": "Offices are turning before consensus.",
-          "text": "€112M in Q3 and Lisbon vacancy down to 8.4% suggest the office discount window is closing faster than the gloom implies."
-        },
-        {
-          "lead": "Watch who turns developer.",
-          "text": "When an institution like Benfica starts building on its own land, more asset-rich owners will monetise land banks — raising competition for sites."
-        },
-        {
-          "lead": "The constraint is still supply.",
-          "text": "A summit of builders and mayors, plus record prices on thin volumes, all point one way: whoever can actually deliver units owns the scarcity premium."
         }
       ]
     }
