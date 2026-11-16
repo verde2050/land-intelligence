@@ -1,6 +1,119 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "editions": [
+    {
+      "date": "2026-11-16",
+      "label": "16 Nov",
+      "title": "Portugal commercial property nears €2bn in 9 months — hotels +51%, CBRE sees a €3bn year",
+      "summary": "Portugal drew €1.9bn of commercial real estate in the first nine months of 2026 — and CBRE thinks the full year clears €3bn. Hotels are doing the heavy lifting: €588m, 31% of the total, up 51% year-on-year. Logistics is the other engine, up 68% to €248m. Retail and offices softened, and the living sector fell hard as student-housing deals dried up. Foreign capital now drives 72% of volume, mostly Spain, the UK, France and the US. Deal count rose 36% even as average ticket sizes shrank — more shots on goal, smaller cheques. Net: the money is here and getting more selective; underwriting, not sourcing, is where this cycle is won.",
+      "hook": "Capital isn't cooling — Portugal's year is shaping up as one of its biggest ever.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Confrasilvas signs the €33M deed for Boavista's Bessa stadium",
+              "url": "https://jornaleconomico.sapo.pt/noticias/grupo-imobiliario-adquire-estadio-e-complexo-do-bessa-por-33-milhoes-de-euros/",
+              "summary": "The Lisbon group Confrasilvas — through Frozenpark, Boavista's largest creditor — completed the purchase of the roughly 78,000 m² Estádio do Bessa and its complex for €33 million, with the deed signed this week via auctioneer Leilosoc. No redevelopment plan has been disclosed.",
+              "why": "A Euro 2004 stadium on 78,000 m² of Porto land, taken out of insolvency by its own creditor, is a rare large urban site whose next use will set a local benchmark.",
+              "source": "Jornal Económico · 13 Nov"
+            },
+            {
+              "headline": "€180M share deal changes hands at Arrábida and Gaia shopping centres",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
+              "summary": "Savills flags a €180 million share transaction for stakes in Arrábida Shopping and Gaia Shopping among the quarter's larger trades — even as overall shopping-centre volume fell sharply year-on-year, from €547m to €245m.",
+              "why": "Prime, dominant malls still clear — buyers are paying up for the few assets with pricing power while secondary retail reprices.",
+              "source": "The Portugal News · 12 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "InHabitus bets on factory-built homes, targets 1,080 units by 2028",
+              "url": "https://dinheirovivo.dn.pt/empresas/inhabitus-aposta-na-indstria-e-constri-casas-para-jovens",
+              "summary": "The Porto developer is building condominium homes off-site — around 80% factory-made — with prices from €139,000. Its €15M, 79-home Alfena scheme is sold out awaiting a licence, a €24M, 136-home Setúbal project is 80% reserved, and the pipeline spans Viseu, Campanhã, Benavente and Paredes.",
+              "why": "Industrialised construction plus the 6% VAT band is one of the few credible routes to building sub-€150k homes at scale and a margin — a model to watch for anyone underwriting affordable supply.",
+              "source": "Dinheiro Vivo · 15 Nov"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Marta Costa takes the helm at state-backed Fomento Fundos",
+              "url": "https://www.diarioviseu.pt/2026/11/13/viseense-marta-costa-e-a-nova-diretora-geral-da-fomento-fundos/",
+              "summary": "Marta Costa has been named director-general of Fomento Fundos, the Banco Português de Fomento group's real-estate fund manager behind the Fundo Especial de Apoio às Empresas and Fundo Revive Natureza. She arrives from HR leadership at Vanguard and earlier government investment-promotion roles.",
+              "why": "The state's property-fund vehicle steers public capital into tourism and industrial assets — who runs it shapes where co-investment and JV openings appear.",
+              "source": "Diário de Viseu · 13 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Braga's Casa S wins at the 2026 Architecture MasterPrize",
+              "url": "https://bragatv.pt/casa-projetada-por-atelier-de-braga-vence-premio-internacional-de-arquitetura/",
+              "summary": "Casa S, a single-family house on a wooded Braga hillside by L2C Arquitetura (Luís Cunha), took the Residential — Single Family winner's prize at the Architecture MasterPrize 2026, with the ceremony set for the Guggenheim in Bilbao.",
+              "why": "Portugal's design reputation keeps compounding at the top end — a selling point that underpins premium pricing on well-designed residential stock.",
+              "source": "Braga TV · 24 Oct"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "2027 Budget keeps the housing playbook: under-35 IMT break, 6% build VAT",
+              "url": "https://dinheirovivo.dn.pt/economia/oe2027-confirma-poltica-de-habitao-do-governo-mesmo-com-quebra-de-receitas-de-imi-e-imt",
+              "summary": "The OE2027 proposal retains the IMT and stamp-duty exemption for first-time buyers aged 35 and under — ceiling rising to €338,141 — keeps the 6% VAT rate for moderately priced construction, and adds IRS relief on rents up to €2,300/month (a €209M cost). Lisbon forecasts IMI revenue down 5.6% and IMT down 2.3%.",
+              "why": "The under-35 break has already moved ~120,000 buyers at ~€200k average; its continuation plus the 6% build VAT keeps demand and supply incentives pointed the same way into 2027.",
+              "source": "Dinheiro Vivo · 8 Oct"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Commercial investment hits €1.9bn in nine months; CBRE sees a €3bn year",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
+              "summary": "Savills puts nine-month commercial volume at €1.9bn (+3% y/y), led by hotels (€588m, +51%) and logistics (+68%), while CBRE's read is ~€2bn and it forecasts the full year above €3bn. Prime yields held near 5.6% against ~4% on 10-year bonds; 75 deals closed (+36%) at a smaller €24.9m average ticket.",
+              "why": "A ~1.6-point spread over sovereigns, with hotels and sheds compounding, keeps Portugal priced for income — the case for selective entry over broad beta.",
+              "source": "The Portugal News · 12 Nov"
+            },
+            {
+              "headline": "Asking prices hit a record €3,249/m², up 7.5% in October",
+              "url": "https://news.cision.com/pt/idealista/r/precos-das-casas-sobem-7-5--em-outubro-e-atingem-novo-maximo-historico,c639292110530000000",
+              "summary": "idealista's October index shows national asking prices at an all-time high of €3,249/m², +7.5% y/y, with Lisbon at €6,248/m² and Porto at €4,339/m². INE's Q2 transaction data separately marks a €2,445/m² record even as sales fell 9%.",
+              "why": "Prices keep setting records while volumes slide — a thinner, pricier market that rewards buying right over buying fast.",
+              "source": "idealista · 2 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwriting beats sourcing.",
+          "text": "With 75 deals but shrinking tickets, the 2026 edge is pricing discipline on a crowded field, not deal access."
+        },
+        {
+          "lead": "Follow the income engines.",
+          "text": "Hotels (+51%) and logistics (+68%) are where capital compounds; retail and student housing are repricing — position accordingly."
+        },
+        {
+          "lead": "Policy favours entry-level supply.",
+          "text": "The under-35 IMT break and 6% build VAT keep affordable demand and construction economics aligned into 2027."
+        },
+        {
+          "lead": "Records, not momentum.",
+          "text": "New price highs on falling volumes mean the next leg is about asset selection and basis, not riding the market."
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "label": "15 Nov",
@@ -940,109 +1053,6 @@
         {
           "lead": "Policy favours the entry level.",
           "text": "OE2027 keeps young-buyer support and rehab VAT breaks, protecting absorption at the affordable end into 2027."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "label": "6 Nov",
-      "title": "Portugal hits €2bn of real estate investment in 9 months — Q3 jumps 33%",
-      "summary": "Portugal pulled in roughly €2bn of commercial real estate investment in the first nine months of 2026 — a figure Dils, Worx and JLL all land on this week. Q3 was the strongest quarter of the year, with Dils counting €630m, up 33% on the prior three months. Retail took about a third of the capital, hospitality followed, and foreign money still drove 68–75% of volume. The marquee trades sit in those two buckets: Forum Algarve changed hands, Arrow Global took the Tróia Design Hotel, and Orion bought 72% of the Corinthia Lisboa. Worx now pencils in €2.6–2.75bn for the full year — healthy, but still a notch below the pre-pandemic peak. Net: capital is flowing again, selectively, and the brokers point to 2027 for the real recovery.",
-      "hook": "Three brokers, one message: the money is back — just not all the way back.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Dils: €630m invested in Q3, Forum Algarve and Tróia hotel lead",
-              "url": "https://executivedigest.sapo.pt/portugal-atrai-2-000-milhoes-de-euros-em-investimento-imobiliario-em-apenas-nove-meses/",
-              "summary": "Dils' Q3 recap puts the quarter at €630m (+33% on Q2) and nine-month volume near €2bn, up 7% year on year, with international investors at 75% of Q3. Named trades: the Forum Algarve sale (Alfana Investment Management's Portugal debut), Arrow Global's purchase of the Tróia Design Hotel, and a deal on the Nido Living student-housing portfolio.",
-              "why": "Core and core-plus are more than 80% of activity — appetite for stabilised income is back, but buyers are still underwriting cautiously.",
-              "source": "Executive Digest / Dils · 3 Nov"
-            },
-            {
-              "headline": "Worx tallies the year's big tickets: shopping centres, a hotel stake and a data centre",
-              "url": "https://www.forbespt.com/worx-estima-que-investimento-em-imobiliario-comercial-fique-entre-26-e-275-mil-milhoes-de-euros-este-ano/",
-              "summary": "Worx's WOutlook flags the standout 2026 deals so far: Arrábida and Gaia Shopping bought from Sonae Sierra for a combined €180m (Q1); a 72% stake in the Corinthia Lisboa sold to Orion Capital Managers for about €150m (Q2); and Asterion's €120m purchase of a Covilhã data centre from Altice.",
-              "why": "Retail (€620m) and hospitality (€610m) are carrying the market, and alternatives like data centres are now a live line item for institutional buyers.",
-              "source": "Forbes Portugal / Worx · 3 Nov"
-            },
-            {
-              "headline": "JLL: a 16,800 sqm Porto office trades for ~€53–55m to a domestic buyer",
-              "url": "https://www.distribuicaohoje.com/retalho/retalho-investimento-7/",
-              "summary": "JLL's Market Dynamics has retail leading at 33% of capital and hospitality at 26%, with Forum Algarve trading around €130m. A Portuguese private investor bought a ~16,800 sqm Porto office building for €53–55m, and domestic capital was 39% of volume through September.",
-              "why": "Prime logistics yields of 5.5% and high-street retail at 4.25% set the pricing bar — and Portuguese money is increasingly writing the cheques itself.",
-              "source": "Distribuição Hoje / JLL · 5 Nov"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "A TAP pilot turns developer with a seven-flat scheme in Matosinhos",
-              "url": "https://www.nit.pt/fora-de-casa/na-cidade/piloto-da-tap-lanca-novo-projeto-residencial-com-vista-panoramica-no-grande-porto",
-              "summary": "VARD Properties, led by 34-year-old TAP pilot Josué Sousa, has broken ground on Ernesto Urban — seven T1–T2 apartments near Mercado metro and the Leça river, with upper floors facing the sea. Units run 49.9–88.5 sqm, priced €295,000–€575,000, with completion due in 2028.",
-              "why": "Small, boutique Grande Porto schemes keep multiplying — a reminder that the supply pipeline is being built by first-time promoters, not just institutions.",
-              "source": "NiT · 25 Oct"
-            },
-            {
-              "headline": "Three agencies share one mandate: Restelo Business Center hits the market",
-              "url": "https://www.cushmanwakefield.com/en/portugal/news/2026/10/cw-cbre-and-jll-appointed-to-market-restelo-business-center",
-              "summary": "Cushman & Wakefield, CBRE and JLL have been jointly appointed, co-exclusively, to lease ~4,820 sqm across three floors of the Restelo Business Center in Lisbon. The ~9,000 sqm, six-building complex on Avenida Ilha da Madeira, owned by Restelo XXI, once housed Siemens and Deloitte.",
-              "why": "A tri-agency co-exclusive is a tell that letting space is harder than it looks — Lisbon office availability is 8.4%, even as central zones stay below 5%.",
-              "source": "Cushman & Wakefield · 22 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "The rental-law overhaul tilts hard toward landlords — and is still in committee",
-              "url": "https://lisboaparapessoas.pt/2026/10/07/nova-lei-arrendamento-habitacao/",
-              "summary": "The Government's NRAU revision, approved in generalidade on 30 September and now in parliamentary committee, would cut the arrears threshold for eviction from three months to two, scrap the 2% cap on rent increases (with exemptions for over-65s and lower incomes), allow three months' advance rent and remove the deposit ceiling. Pre-1990 contracts for higher-income tenants could be updated to 1/15 of the taxable value.",
-              "why": "If it passes intact, it materially re-rates residential underwriting — but the especialidade stage means the final text, and the timing, are still live risk.",
-              "source": "Lisboa Para Pessoas / Lusa · 7 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Asking prices resume their climb — but homes are sitting 25% longer",
-              "url": "https://oalgarve.pt/precos-das-casas-em-portugal-aumentam-34-no-terceiro-trimestre-de-2026/",
-              "summary": "Asking prices rose 3.4% in Q3 to a national average of €3,666/sqm, led by Viseu (+12.5%) while Lisbon slipped 1.4%. Supply is loosening: listings climbed 6.9% to 111,911, and the average time to sell an apartment jumped 25% to 132 days.",
-              "why": "Prices and liquidity are diverging — longer selling times are the first crack in a market that has only known a one-way run.",
-              "source": "Observatório / Doutor Finanças · 16 Oct"
-            },
-            {
-              "headline": "Rents reaccelerate to +6.1% as buy-to-let yields hold near 6.8%",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/10/02/77932-rendas-das-casas-aceleram-ritmo-de-aumento-para-6-1-em-setembro",
-              "summary": "Asking rents rose 6.1% year on year in September, picking up pace again after a soft spring. Gross rental yields on residential buy-to-let are running around 6.8% nationally — still ahead of most fixed-income alternatives at lower volatility.",
-              "why": "Reaccelerating rents plus a landlord-friendly law in motion is the exact setup that pulls build-to-rent and PRS capital into Portugal.",
-              "source": "idealista · 2 Oct"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Follow the liquidity, not the headline yield.",
-          "text": "Retail and hotels are absorbing the capital while office volume runs ~40% below last year — the depth is where the income story already clears."
-        },
-        {
-          "lead": "Domestic capital is no longer a rounding error.",
-          "text": "Portuguese investors were 39% of volume through September — a credible local co-investor base for any raise."
-        },
-        {
-          "lead": "The rental bill reprices residential risk.",
-          "text": "Faster evictions and a scrapped 2% cap tilt the arithmetic to landlords — but the execution risk is a text still moving through committee."
-        },
-        {
-          "lead": "Watch time-to-sell, not just price.",
-          "text": "Apartments now take 132 days to shift, up 25%; underwriting exits on 2024 velocity is how deals get stranded."
         }
       ]
     }
