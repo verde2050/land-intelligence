@@ -1,6 +1,107 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "editions": [
+    {
+      "date": "2026-11-20",
+      "label": "20 Nov",
+      "title": "Golden Visa funds hit with 70% 'back-Portugal' rule; new €250k care route floated",
+      "summary": "Portugal's governing coalition is moving to rewire the Golden Visa fund route. A new proposal would force qualifying funds to put at least 70% directly into Portuguese companies, closing the gap that let capital park in listed-stock vehicles. It also floats a new €250,000 route tied to social-care investment, with the changes targeted for May 2027. The timing lands as commercial capital keeps pouring in: €1.9bn invested in nine months, hotels leading and foreign buyers now 72% of the market. And the biggest cheque of the week isn't residential at all — Merlin's €3.75bn syndicated loan to build data centres across Iberia, Portugal included. Net: the money is here and growing — the fight now is over where the state steers it.",
+      "hook": "Portugal wants Golden Visa money flowing into its companies, not just its funds.",
+      "sections": [
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Golden Visa funds face a 70% 'invest-in-Portugal' rule",
+              "url": "https://www.theportugalnews.com/news/2026-11-17/portugal-proposes-new-golden-visa-restrictions/1117580",
+              "summary": "Portugal's governing parties have tabled a plan requiring Golden Visa investment funds to place at least 70% of capital directly into Portuguese companies, alongside a new €250,000 route linked to social-care investment. The rules are aimed at May 2027.",
+              "why": "Closes the listed-stock loophole and pushes ARI capital into the real economy — reshaping the single biggest foreign-capital channel that touches Portuguese property and funds.",
+              "source": "The Portugal News · 17 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Merlin lands a €3.75bn loan to power Iberian data centres",
+              "url": "https://www.costar.com/article/736447044/merlin-properties-agrees-3-75-billion-corporate-financing",
+              "summary": "Merlin Properties, Iberia's largest listed landlord, secured a €3.75 billion syndicated corporate loan to fund its data-centre build-out across Spain and Portugal. CEO Ismael Clemente is steering the company's future toward digital infrastructure.",
+              "why": "The clearest signal yet that data centres are now a core Iberian real-estate asset class — and that lenders will underwrite the capex at scale.",
+              "source": "CoStar · Nov"
+            },
+            {
+              "headline": "Casas do Barlavento buys PPI Real Estate in the western Algarve",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/casas-do-barlavento-acquires-ppi-real-estate/1115446",
+              "summary": "Lagos-based agency Casas do Barlavento completed the acquisition of PPI – Real Estate's office and client portfolio, extending its coverage from Portimão down to Sagres. PPI's team is being fully retained.",
+              "why": "Agency consolidation in a prime second-home market — local platforms with scale are becoming acquisition targets, and the book of clients is the asset.",
+              "source": "The Portugal News · 12 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Norfin and Sonae Sierra open Campo Novo at Lisbon's Campo Grande",
+              "url": "https://jornaleconomico.sapo.pt/noticias/norfin-e-sonae-sierra-inauguram-area-comercial-do-campo-novo-em-lisboa/",
+              "summary": "The King Street-owned, Norfin-developed scheme beside Estádio José Alvalade inaugurated its retail area: 135 apartments, 9,500+ sqm of offices and ~10,300 sqm of shops and restaurants, with Pingo Doce, Parfois and Honest Greens among the first tenants.",
+              "why": "A textbook transit-adjacent, mixed-use regeneration delivering into a supply-starved Lisbon — exactly the live-work-retail format institutional capital wants.",
+              "source": "Jornal Económico · 19 Nov"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Savills merges Iberia; Alejandro Campoy to lead Portugal and Spain",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/11/10/78826-savills-reforca-lideranca-iberica-com-alejandro-campoy-zuasti",
+              "summary": "Savills is unifying its Portuguese and Spanish operations under a single 'Savills Iberia' banner and has named Alejandro Campoy Zuasti as CEO for the combined region from 2027.",
+              "why": "Advisers are treating Iberia as one investment market — a read-through on how cross-border capital now underwrites Lisbon and Madrid in the same breath.",
+              "source": "idealista · 10 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Commercial investment hits €1.9bn in nine months — hotels lead",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
+              "summary": "Savills counts €1.9bn of commercial investment in the first nine months of 2026, up 3%, with hotels the top sector at €588m (+51%) and logistics up 68%. Foreign buyers made up 72% of volume; CBRE sees the full year topping €3bn.",
+              "why": "The capital story has shifted from offices and retail to hotels, logistics and data centres — and it's overwhelmingly international money setting prices.",
+              "source": "The Portugal News / Savills · 12 Nov"
+            },
+            {
+              "headline": "House-price growth slows to its calmest since 2021",
+              "url": "https://vidaimobiliaria.com/noticias/habitacao/subida-dos-pre%C3%A7os-das-casas-em-lisboa-abranda-para-62/",
+              "summary": "National house prices rose 2.3% quarter-on-quarter in Q3 2026, with annual growth decelerating to its slowest pace since 2021. In Lisbon, the yearly rate cooled to 6.2%.",
+              "why": "After years of double-digit gains, the residential market is finding a ceiling — a cue to underwrite entry prices conservatively and lean on income, not pure appreciation.",
+              "source": "Vida Imobiliária / INE · Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Follow the policy, not the headline.",
+          "text": "The Golden Visa rewrite steers foreign capital toward Portuguese operating companies — funds with real local deployment, not passive stock baskets, win the next cycle."
+        },
+        {
+          "lead": "Data centres are the new core.",
+          "text": "Merlin's €3.75bn facility confirms lenders will fund Iberian digital-infrastructure capex at scale; land with power and connectivity is quietly repricing."
+        },
+        {
+          "lead": "Underwrite to income, not momentum.",
+          "text": "With residential growth at a 2021-low and hotels and logistics leading flows, yield and cash generation matter more than betting on another leg of price appreciation."
+        },
+        {
+          "lead": "Iberia is one market now.",
+          "text": "Savills folding Portugal and Spain under a single CEO mirrors how cross-border investors already allocate — expect sharper competition for the same Lisbon assets."
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "label": "19 Nov",
@@ -976,116 +1077,6 @@
         {
           "lead": "It's a core market.",
           "text": "Foreign core/core-plus is 80%+ of flow — priced for stability, so value-add must earn its risk premium."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "label": "10 Nov",
-      "title": "Portugal hits €2bn in property deals — foreign money now 75% of Q3",
-      "summary": "Commercial real-estate investment in Portugal reached about €2bn in the first nine months of 2026, with the third quarter alone at €630m — up 33% on Q2. Foreign investors supplied 75% of that Q3 capital, and more than 80% of deals by value went into standing, income-producing assets. Hotels have already beaten their full-year 2024 and 2025 totals at €590m, and industrial has passed all of 2025 at €384m. CBRE now sees the year closing above €3bn. Beneath the headline numbers the squeeze is real: house prices rose 7.5% in October to a new record, build costs keep climbing, and 7% of rental listings vanish within a day. Net: capital wants in, product is scarce — the edge belongs to those who can build or source, not simply buy.",
-      "hook": "Portugal's €2bn property year is mostly foreign money.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Prowinko sells Wells' Chiado building to a private investor",
-              "url": "https://www.diarioimobiliario.pt/Imovel-da-Wells-no-Chiado-vendido-a-investidor-privado",
-              "summary": "Dutch-origin group Prowinko has offloaded its Rua Garrett asset in Lisbon's Chiado — home to a Wells store — to a private buyer. The price was not disclosed.",
-              "why": "Prime Chiado high-street assets rarely trade; a private buyer stepping up signals continued appetite for trophy Lisbon retail even as institutional money chases scale elsewhere.",
-              "source": "Diário Imobiliário · 9 Nov"
-            },
-            {
-              "headline": "Forum Algarve and Tróia Design Hotel change hands as new names enter",
-              "url": "https://www.theportugalnews.com/news/2026-11-04/portugal-attracts-2-billion-in-property-investment/1111055",
-              "summary": "Among 2026's marquee trades, Forum Algarve in Faro was sold — marking Alfana Investment Management's entry into Portugal — while Arrow Global acquired the Tróia Design Hotel.",
-              "why": "New institutional entrants and platform buyers taking landmark retail and resort assets show Portugal broadening beyond its usual investor base — a deeper buyer pool supports exit pricing.",
-              "source": "The Portugal News · 4 Nov"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "A €40M Azores Retail Park opens 27 November",
-              "url": "https://www.diarioimobiliario.pt/Azores-Retail-Park-abre-a-27-de-novembro-num-investimento-de-40-milhoes-de-euros",
-              "summary": "A new €40M retail park with 11 shops and a pharmacy opens on 27 November, with promoters projecting 550 direct and indirect jobs.",
-              "why": "Retail-park development is back as a yield play; islands and secondary cities offer land and footfall that crowded mainland metros no longer do.",
-              "source": "Diário Imobiliário · 9 Nov"
-            },
-            {
-              "headline": "JPS Group launches phase 2 of Herdade Real de Santiago on a 10/90 plan",
-              "url": "https://www.diarioimobiliario.pt/JPS-Group-lanca-plano-de-pagamento-com-entrada-de-10-na-segunda-fase-da-Herdade-Real-de-Santiago",
-              "summary": "The second phase of Herdade Real de Santiago in Pegões is now selling, with apartments from €264,500 and a payment plan of 10% on signing and 90% at the deed.",
-              "why": "Buyer-friendly 10/90 structures are spreading as developers work to hold sales velocity against stretched affordability — a tactic worth tracking for pricing power.",
-              "source": "Diário Imobiliário · 9 Nov"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Galp's Lisbon headquarters earns WELL Platinum",
-              "url": "https://www.diarioimobiliario.pt/Sede-da-Galp-em-Lisboa-conquista-certificacao-WELL-Platina",
-              "summary": "Galp's Lisbon HQ has achieved WELL Platinum certification, among the highest marks for buildings designed around occupant health and wellbeing.",
-              "why": "Wellness and green ratings increasingly command rent premiums and are becoming table stakes for prime corporate tenants — a design decision with a direct yield effect.",
-              "source": "Diário Imobiliário · Nov"
-            },
-            {
-              "headline": "Concreta 2026 reframes the future of architecture and construction",
-              "url": "https://www.idealista.pt/news/decoracao/espacos/2026/11/09/78707-arquitetura-e-construcao-ganham-novas-perspetivas-na-concreta-2026",
-              "summary": "Concreta, Portugal's main architecture and construction fair, returns with a programme centred on where building design, materials and methods are heading next.",
-              "why": "The sector's innovation agenda — industrialised construction, retrofit, sustainability — directly shapes the build costs and timelines that drive development returns.",
-              "source": "idealista · 9 Nov"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Portugal draws ~€2bn in commercial investment over nine months",
-              "url": "https://www.theportugalnews.com/news/2026-11-04/portugal-attracts-2-billion-in-property-investment/1111055",
-              "summary": "Commercial volume hit roughly €2bn in Jan–Sep (per Dils), with Q3 at €630m, up 33% q/q and foreign buyers at 75%. Retail led Q3 at €195m, hotels have topped their 2024 and 2025 full-year totals, and industrial has already beaten all of 2025; CBRE sees the year above €3bn.",
-              "why": "Momentum and a widening foreign-capital base support values, but with 80%+ of volume in standing assets, the scarcity is development-grade product — the gap build-and-source strategies fill.",
-              "source": "The Portugal News · 4 Nov"
-            },
-            {
-              "headline": "House prices climb 7.5% in October to a new record",
-              "url": "https://news.cision.com/pt/idealista/r/precos-das-casas-sobem-7-5--em-outubro-e-atingem-novo-maximo-historico,c639292110530000000",
-              "summary": "Portuguese house prices rose 7.5% year on year in October, hitting a fresh all-time high, according to idealista's index.",
-              "why": "Persistent price growth confirms structural undersupply, underpinning land and residential development economics — while tightening affordability and exit-buyer depth.",
-              "source": "idealista · Nov"
-            },
-            {
-              "headline": "Building costs keep rising, squeezing new-build margins",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/09/78800-custo-de-construir-casas-novas-sempre-a-subir-em-portugal",
-              "summary": "The cost of building new homes in Portugal continues its steady climb, idealista reports, extending a multi-year run of construction-cost inflation.",
-              "why": "Rising hard costs compress developer margins and lift the price floor for viable schemes — underwriting must assume cost escalation, not hold it constant.",
-              "source": "idealista · 9 Nov"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwrite the gap, not the average.",
-          "text": "With 80%+ of capital chasing standing assets, development-grade product is the scarce commodity — origination beats auction."
-        },
-        {
-          "lead": "Foreign capital is the marginal buyer.",
-          "text": "At 75% of Q3, overseas money is setting pricing — align product and reporting to institutional, cross-border expectations."
-        },
-        {
-          "lead": "Margin lives in the cost line.",
-          "text": "Prices at records but build costs still rising means returns come from procurement and delivery, not from resale assumptions."
-        },
-        {
-          "lead": "Structure for affordability.",
-          "text": "10/90 payment plans and wellness-certified product are how sellers hold velocity and rent as buyers stretch."
         }
       ]
     }
