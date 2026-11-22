@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "editions": [
+    {
+      "date": "2026-11-22",
+      "label": "22 Nov",
+      "title": "Portugal CRE investment nears €2bn in 9 months — hotels lead, 2026 on track for record €3bn",
+      "summary": "Commercial real-estate investment reached roughly €2bn in the first nine months of 2026, up 3–7% on last year and enough for CBRE to forecast a record year above €3bn. Hotels are the engine, pulling in around €590m — some 27–31% of all capital, already past the full-year totals for 2024 and 2025. The money is overwhelmingly foreign: about 72% of volume, led by Spain, the UK, France and the US, with institutions and funds the main buyers. Yet housing is cooling in parallel — Lisbon price growth has halved to 6.2%, transactions are down 12.9%, and new-build licensing has collapsed 44%. The split screen is the story: deep institutional appetite for income assets against thinning liquidity and supply on the residential side. Net: capital is abundant and selective — the scarce commodity is shovel-ready product.",
+      "hook": "Capital keeps flooding into Portuguese bricks — and it is chasing hotels.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Private island in the Ria de Aveiro sells at auction for €450,000",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/20/79077-ilha-privada-na-ria-de-aveiro-vendida-em-leilao-por-450-mil-euros",
+              "summary": "A privately held island in the Aveiro lagoon changed hands under the hammer for €450k — a reminder that Portugal's trophy and niche assets are still clearing through the auction channel, not just brokered sales.",
+              "why": "Auctions remain a live price-discovery venue for land and unusual assets where comparables are thin — useful signal for anyone underwriting scarcity plays.",
+              "source": "idealista · 20 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Campo Novo opens 10,300 m² of retail beside the Alvalade stadium",
+              "url": "https://www.diarioimobiliario.pt/Campo-Novo-inaugura-area-comercial-em-Lisboa-com-lojas-restauracao-e-servicos",
+              "summary": "Norfin's mixed-use Campo Novo at Campo Grande switched on its commercial floor — around 10,300 m² anchored by Pingo Doce, with Honest Greens, Parfois, Douglas and Brasserie de l'Entrecôte among the operators. King Street is majority owner; Sonae Sierra runs the retail. The scheme also carries 135 apartments and 9,500+ m² of offices.",
+              "why": "A completed mixed-use block delivering retail, offices and homes at once is exactly the income-plus-residential template institutional buyers are paying up for right now.",
+              "source": "Diário Imobiliário · 19 Nov"
+            },
+            {
+              "headline": "Vizta commits €40m to 84-home ARY project in Lisbon's Areeiro",
+              "url": "https://jornaleconomico.sapo.pt/noticias/vizta-investe-40-milhoes-de-euros-em-novo-projeto-residencial-no-areeiro-em-lisboa/",
+              "summary": "Vizta is investing about €40m in ARY, a central-Lisbon residential scheme of 84 apartments (T0–T4, up from an original 64), A/A+ pre-certified with solar PV, EV-charging and a resident gym. It joins a Lisbon pipeline that includes Nola, Jardins (460 units) and the sold-out Turquesa.",
+              "why": "Densifying a central plot from 64 to 84 units shows developers chasing yield through unit count and energy spec as land and build costs squeeze margins.",
+              "source": "Jornal Económico · 19 Nov"
+            },
+            {
+              "headline": "Antas Atrium launches €50m Phase 3 in Porto, already 61% reserved",
+              "url": "https://jornaleconomico.sapo.pt/noticias/antas-atrium-avanca-com-terceira-fase-do-investimento-de-50-milhoes-e-ja-tem-61-das-casas-reservadas/",
+              "summary": "Porto's largest residential operation under way added a €50m third phase — 136 OODA-designed apartments (T0–T3, €199,500 to €647,000) on Alameda das Antas, 61% reserved before completion in 2028. Phase 2 is already 95%+ sold.",
+              "why": "61% pre-reservation on a brand-new phase confirms Porto's new-build demand is still well ahead of delivery — strong cover for phased developers.",
+              "source": "Jornal Económico · 20 Nov"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Marta Costa takes over as director-general of Fomento Fundos",
+              "url": "https://www.diarioviseu.pt/2026/11/13/viseense-marta-costa-e-a-nova-diretora-geral-da-fomento-fundos/",
+              "summary": "Marta Costa was named director-general of Fomento Fundos, the fund-management arm of state development bank Banco Português de Fomento, which runs its real-estate and co-investment vehicles.",
+              "why": "The state fund manager is an active LP and co-investor in Portuguese housing and development — who leads it shapes where public-backed capital flows.",
+              "source": "Diário de Viseu · 13 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Commercial investment nears €2bn in nine months; hotels take 31%",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
+              "summary": "Savills puts nine-month CRE investment at €1.9bn (+3%), CBRE at €2bn (+6%) with a >€3bn full-year forecast. Hotels led at €588m (31%), foreign capital hit 72%, and prime yields held near 5.6% against ~4% on 10-year Portuguese bonds. Industrial/logistics jumped 68%; offices and living softened.",
+              "why": "A 160bp spread over govvies plus record foreign flows says institutional buyers still see Portugal as cheap, liquid income — the bid under values isn't going away.",
+              "source": "The Portugal News / Savills · 12 Nov"
+            },
+            {
+              "headline": "Lisbon house-price growth halves to 6.2% as licensing collapses",
+              "url": "https://jornaleconomico.sapo.pt/noticias/preco-das-casas-desacelera-para-62-em-lisboa-no-terceiro-trimestre/",
+              "summary": "Lisbon prices rose 6.2% in Q3, down from 18.2% a year earlier, with the index essentially flat (+0.1%) for two straight quarters at €5,963/m². Transactions fell 12.9% over nine months, and new-build licensing dropped 44% to near-decade lows, per Confidencial Imobiliário.",
+              "why": "Flat prices plus a collapsing pipeline is a classic supply squeeze — it caps near-term capital growth but underpins pricing power for anyone who can actually deliver stock.",
+              "source": "Jornal Económico / Confidencial Imobiliário · 18 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Income beats hope.",
+          "text": "The capital arriving is core and core-plus chasing hotels and logistics — stabilised cash flow, not speculative upside."
+        },
+        {
+          "lead": "Supply is the scarce asset.",
+          "text": "A 44% licensing drop means shovel-ready, consented product is where the real edge sits — originate it, don't bid for it."
+        },
+        {
+          "lead": "Foreign capital sets the clearing price.",
+          "text": "With 72% of volume offshore, local, relationship-sourced deals are the way to buy below the international bid."
+        },
+        {
+          "lead": "Pre-sales still cover delivery.",
+          "text": "61% reserved in Porto and sold-out Lisbon phases show new-build demand remains ahead of completions."
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "label": "21 Nov",
@@ -979,121 +1075,6 @@
         {
           "lead": "Retail is quietly back.",
           "text": "Forum Algarve led the quarter — dominant, grocery-anchored retail is being re-rated as a yield play."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "label": "12 Nov",
-      "title": "Portugal's property boom: ~€2bn invested by September, Q3 jumps 33% as foreign capital takes 75%",
-      "summary": "Commercial real estate in Portugal drew roughly €2bn of investment in the first nine months of 2026 — and the pace is accelerating, not fading. Q3 alone brought about €630m, up 33% on the prior quarter, with foreign investors taking 75% of it. Hotels (€590m) and logistics (€384m) have already beaten their full-year 2025 totals. Offices are the laggard, down around 40% year-to-date as money hunts yield elsewhere. Consultancies now peg the full year between €2.6bn and north of €3bn. Net: liquidity is back, and it's chasing beds and boxes over desks.",
-      "hook": "Capital isn't blinking: Portugal has pulled in ~€2bn before the year is even out.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Quadrantis Capital buys the Karl Lagerfeld Residences in Lisbon",
-              "url": "https://www.iberian.property/news/residential/quadrantis-capital-buys-karl-lagerfeld-residences-from-overseas/",
-              "summary": "Quadrantis Capital has acquired 100% of the company that owns the branded Karl Lagerfeld Residences Lisboa, buying the trophy residential scheme out of Overseas' hands.",
-              "why": "Branded residences remain the one residential niche where Lisbon still prices like a global gateway — confirmation the luxury bid hasn't cooled even as mass-market volumes slip.",
-              "source": "Iberian Property · 6 Nov"
-            },
-            {
-              "headline": "Prowinko sells a Chiado retail building to a private investor",
-              "url": "https://www.iberian.property/tags/portugal/",
-              "summary": "Dutch investor Prowinko has offloaded a retail asset in Lisbon's Chiado — the city's prime high-street pitch — to a private buyer, a rare trade in one of Portugal's tightest retail markets.",
-              "why": "Prime high-street assets rarely change hands; when they do, private capital — not institutions — is increasingly setting the clearing price in Lisbon's core.",
-              "source": "Iberian Property · 5 Nov"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Grupo Mais places a big build-to-rent bet: 700 units",
-              "url": "https://www.iberian.property/tags/portugal/",
-              "summary": "Grupo Mais is committing to a major build-to-rent programme totalling around 700 homes, one of the larger institutional BTR moves yet seen in the Portuguese market.",
-              "why": "BTR at scale is the structural bet on Portugal's rental shortage — and a signal that developers are finally underwriting rent rolls, not just exit sales.",
-              "source": "Iberian Property · 2 Nov"
-            },
-            {
-              "headline": "State puts €16M into restoring Lisbon's Burnay Palace",
-              "url": "https://www.iberian.property/tags/portugal/",
-              "summary": "The Portuguese government is investing roughly €16M to restore the historic Palácio Burnay in Lisbon, one of the capital's landmark heritage buildings.",
-              "why": "Public heritage spend anchors value in Lisbon's historic core and often precedes a wave of private adaptive-reuse nearby — worth watching for spillover.",
-              "source": "Iberian Property · 5 Nov"
-            },
-            {
-              "headline": "A Saldanha office block is bought to become flats",
-              "url": "https://www.iberian.property/news/offices/bpi-gestao-de-ativos-sells-lisbon-office-building-for-residential-conversion/",
-              "summary": "A fund managed by BPI Gestão de Ativos has sold Almirante Barroso 32 in Saldanha — a 4,500 sqm, seven-storey office — to a buyer planning to convert it into upper-middle and premium homes. Cushman & Wakefield advised, and notes about 20% of 2025 office investment went into assets bought for a change of use.",
-              "why": "The office-to-resi arbitrage is now a strategy, not an exception. In central Lisbon, the discount on tired offices is the cheapest way into the housing bid.",
-              "source": "Iberian Property · Nov"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "Savills names Alejandro Campoy CEO for Iberia",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/11/10/78826-savills-reforca-lideranca-iberica-com-alejandro-campoy-zuasti",
-              "summary": "Savills has promoted Alejandro Campoy, currently managing director, to CEO of Savills Iberia (Spain and Portugal) from early 2027. Jaime Pascual-Sanchiz steps up to run Continental Europe and becomes executive chairman of the Iberian business.",
-              "why": "Another global agency is running Portugal and Spain as one desk. Expect cross-border capital to keep treating Iberia as a single investable market.",
-              "source": "idealista / Jornal Económico · 10 Nov"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "The 2026 housing tax package rewards patient rental capital",
-              "url": "https://www.macedovitorino.com/conhecimento/insights/Incentivos-Fiscais-para-a-Habitacao/6945/",
-              "summary": "Decree-Law 97/2026 bundles Portugal's housing fiscal incentives, headlined by a capital-gains exemption when sale proceeds are reinvested into accessible or moderate-rent housing, alongside IMT, IRS and IVA measures aimed at putting stock on the long-term rental market.",
-              "why": "The tax code is now tilting toward long-hold rental over quick resale — a real tailwind for funds underwriting accessible-rent strategies. Confirm specifics in the Diário da República before relying on them.",
-              "source": "Macedo Vitorino / DECO · 2026"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Portugal leads the EU for house prices outrunning incomes",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/09/78806-portugal-e-o-pais-onde-o-preco-das-casas-mais-subiu-face-aos-rendimentos",
-              "summary": "Portugal is the EU country where house prices have climbed most relative to household incomes. Asking prices rose about 10% year-on-year in Q3 (used stock, per Casafari/DECO), with the price-to-income gap now the widest in the bloc — a growing affordability and political pressure point.",
-              "why": "The wider the affordability gap, the heavier the policy risk — rent controls, transfer taxes and supply mandates all get more likely. Price that into long holds.",
-              "source": "idealista · 9 Nov"
-            },
-            {
-              "headline": "Rents keep rising, but the momentum is finally cooling",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/03/78583-renda-das-casas-em-portugal-volta-a-subir-mas-perde-ritmo-em-outubro",
-              "summary": "New-contract rents are still up year-on-year — around 4.5% on DECO's Q3 read — but October data shows the pace easing after a long run of acceleration, with month-on-month moves flattening.",
-              "why": "Cooling rent growth alongside still-rising prices compresses yields. The easy rental re-rating is behind us; returns now hinge on buying well.",
-              "source": "idealista · 3 Nov"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwriting beats discovery.",
-          "text": "With 75% of Q3 capital foreign and everyone chasing the same prime beds and sheds, edge is pricing risk faster than the crowd — not sourcing the asset."
-        },
-        {
-          "lead": "Beds and boxes, not desks.",
-          "text": "Hotels (€590m) and logistics (€384m) have already topped all of 2025; offices are down ~40%. Tilt toward structural demand."
-        },
-        {
-          "lead": "Change-of-use is the office trade.",
-          "text": "About a fifth of 2025 office volume was bought to convert. In Lisbon, the office discount is the residential entry point."
-        },
-        {
-          "lead": "Policy favours patient rent.",
-          "text": "The 2026 fiscal package rewards reinvestment into accessible-rent housing — aligning long-hold rental strategies with tax relief."
         }
       ]
     }
