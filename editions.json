@@ -1,6 +1,109 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "editions": [
+    {
+      "date": "2026-11-23",
+      "label": "23 Nov",
+      "title": "Hotels drive €1.9bn into Portuguese property as the new-home pipeline craters 44%",
+      "summary": "Portugal's commercial property market drew €1.9 billion in the first nine months of 2026, with hotels alone taking €588m — up 51% on the year — per Savills. Logistics is compounding too, up 68%. But the engine of new housing is stalling: Lisbon saw just 1,790 dwellings enter licensing through September, a 44% drop on 2025's pace. Price growth in the capital has cooled to 6.2%, yet five years of compounding mean rents are still up 76%. The gap between eager capital and shrinking supply is widening. Net: the binding constraint on Portuguese real estate is no longer money — it's shovels in the ground.",
+      "hook": "Capital keeps pouring in. The new-home pipeline is draining away.",
+      "sections": [
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Campo Novo opens its doors by Alvalade",
+              "url": "https://www.idealista.pt/news/imobiliario/lojas/2026/11/20/79059-campo-novo-abre-portas-ao-comercio-e-lazer-junto-ao-estadio-de-alvalade",
+              "summary": "Norfin's King Street–backed mixed-use scheme at Campo Grande switched on roughly 10,300 m² of retail and dining — Pingo Doce, Honest Greens, Parfois, Brasserie de l'Entrecôte — with Sonae Sierra on leasing. The wider project adds 135 apartments and 9,500+ m² of offices.",
+              "why": "A fully-conceived, institution-grade mixed-use asset in a prime Lisbon node shows exactly where core capital still wants to be.",
+              "source": "idealista · 20 Nov"
+            },
+            {
+              "headline": "Porto's Antas Atrium launches a €50M third phase",
+              "url": "https://jornaleconomico.sapo.pt/noticias/antas-atrium-avanca-com-terceira-fase-do-investimento-de-50-milhoes-e-ja-tem-61-das-casas-reservadas/",
+              "summary": "The OODA-designed condominium — billed as Porto's largest residential operation under way — broke ground on 136 apartments (T0–T3, €199,500–€647,000), already 61% reserved, for 2028 delivery. Phase 2 is more than 95% sold.",
+              "why": "Deep pre-sales on a large scheme confirm resilient end-demand for new, amenity-rich stock even as headline prices cool.",
+              "source": "Jornal Económico · 20 Nov"
+            },
+            {
+              "headline": "A former factory becomes a new Olhão neighbourhood",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/22/79100-onde-antes-havia-uma-fabrica-vai-agora-nascer-um-novo-bairro-em-olhao",
+              "summary": "An old industrial site in the Algarve town is being redeveloped into a mixed residential-and-leisure quarter — the latest brownfield conversion feeding Portugal's supply-starved coastal market.",
+              "why": "Brownfield regeneration is fast becoming the only practical way to add density in constrained, high-demand Algarve locations.",
+              "source": "idealista · 22 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "The Seven revives bairro living in Beato",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/22/79103-the-seven-leva-o-espirito-das-antigas-casas-de-bairro-ao-beato",
+              "summary": "A small Lisbon infill scheme of seven homes channels the character of the neighbourhood's old working-class houses — a design-led answer to Beato's rapid change around the Hub Criativo.",
+              "why": "Human-scale, context-sensitive infill is winning over buyers and planners alike as cookie-cutter density draws pushback.",
+              "source": "idealista · 22 Nov"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Portugal's housing tax package reshapes the maths",
+              "url": "https://belim.pt/noticias/novidades/incentivos-fiscais-a-habitacao-em-portugal-o-que-muda-com-o-decreto-lei-n-o-97-2026/",
+              "summary": "Decreto-Lei 97/2026 cuts IVA on housing construction to 6%, taxes qualifying \"moderate-rent\" income at a flat 10% IRS, and opens a new CIA affordable-rental regime with IMT, stamp-duty and AIMI exemptions — while non-resident buyers now face 7.5% IMT with the usual reliefs stripped.",
+              "why": "The incentives tilt returns decisively toward moderate-rent and affordable product; buying as a non-resident just got more expensive.",
+              "source": "Belim / DRE · in force 2026"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Hotels drive €1.9bn into Portuguese property",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
+              "summary": "Commercial investment reached €1.9bn in the first nine months (Savills), up 3%, with hotels the top sector at €588m (+51%) and logistics up 68%. Q3 alone jumped 38% quarter-on-quarter to €659m, and international buyers took 72% of volume.",
+              "why": "Yield-seeking capital is rotating into hospitality and logistics — the sectors where Portugal's operational story is strongest.",
+              "source": "The Portugal News / Savills · 12 Nov"
+            },
+            {
+              "headline": "Lisbon price growth cools to 6.2%",
+              "url": "https://jornaleconomico.sapo.pt/noticias/preco-das-casas-desacelera-para-62-em-lisboa-no-terceiro-trimestre/",
+              "summary": "Confidencial Imobiliário clocked Lisbon home-price growth at 6.2% in Q3, down from 18.2% a year earlier, with prices essentially flat (+0.1%) for two straight quarters at €5,963/m². Sales fell 12.9% and the new-licensing pipeline dropped 44%.",
+              "why": "A soft landing in the capital — but the collapsing pipeline is quietly loading the next supply squeeze.",
+              "source": "Confidencial Imobiliário · 18 Nov"
+            },
+            {
+              "headline": "Five years on, Lisbon rents are up 76%",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/23/79004-habitacao-em-lisboa-em-5-anos-rendas-subiram-76-e-compra-de-casa-27",
+              "summary": "Over five years, buying a home in Lisbon has become 27% more expensive and renting 76% dearer, idealista data shows — rents compounding far faster than prices as would-be buyers stay in the rental pool.",
+              "why": "The widening rent-versus-buy spread is the clearest signal of where income returns are migrating in the capital.",
+              "source": "idealista · 23 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite supply, not demand.",
+          "text": "With new-home licensing down 44%, scarcity — not absorption — is the thesis; permitted and near-complete stock commands the premium."
+        },
+        {
+          "lead": "Hotels are where the money went.",
+          "text": "At €588m and +51% YoY, hospitality is now the single largest investment class in Portugal, reshaping where yield-seeking capital competes."
+        },
+        {
+          "lead": "Lisbon resi is plateauing, not falling.",
+          "text": "Two quarters near +0.1% point to a soft landing, not a correction — constructive for stabilised assets, patient for developers banking on further upside."
+        },
+        {
+          "lead": "Logistics keeps compounding quietly.",
+          "text": "Up 68% YoY; Montijo, Sines and Matosinhos are the corridors to watch as the least crowded trade."
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "label": "22 Nov",
@@ -967,114 +1070,6 @@
         {
           "lead": "Follow the operators.",
           "text": "Corum's €250m+ build and Royal's first ground-up say the same thing: conviction is in deploying, not waiting."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "label": "13 Nov",
-      "title": "Corum's biggest Portugal deal yet: Green Park lifts its Lisbon book past €250M",
-      "summary": "Corum has acquired Lisbon's Green Park office complex — its largest single operation in Portugal to date. The deal pushes the French manager's Portuguese book above €250 million, a conviction bet on prime offices even as space tightens. It lands the same week data showed commercial investment jumped 33% quarter-on-quarter to €630M, with foreign capital supplying three-quarters of the flow. Logistics is the other story: a 380,000 m² park is rising in Benavente, and Panattoni's Santarém hub just filled its last unit. Net: capital is concentrating in income-producing offices and logistics — and paying up for the best assets.",
-      "hook": "Corum just made its largest-ever bet on Lisbon offices.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Corum buys Green Park, its biggest Portuguese deal",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/11/12/78894-green-park-passa-a-integrar-a-carteira-milionaria-da-corum-investments",
-              "summary": "Corum Investments has added the Green Park office complex in Lisbon to its funds, lifting its Portuguese portfolio above €250 million and making this its largest acquisition in the country.",
-              "why": "A CORUM-style open-ended fund scaling up in prime Lisbon offices is the exact playbook Verde's model watches — it signals where income-focused capital still sees value.",
-              "source": "idealista · 12 Nov"
-            },
-            {
-              "headline": "Forum Algarve sale makes retail the quarter's top sector",
-              "url": "https://diarioimobiliario.pt/Investimento-imobiliario-cresce-33-no-terceiro-trimestre-e-atinge-630-milhoes-de-euros",
-              "summary": "Alfana Investment Management's purchase of the Forum Algarve shopping centre helped retail lead Q3 with roughly €195M — about 31% of all commercial investment in the quarter.",
-              "why": "Dominant, grocery-anchored retail is being re-rated as a yield play — a reminder that \"out of favour\" sectors can reprice fast once income looks durable.",
-              "source": "Diário Imobiliário · 3 Nov"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "A 380,000 m² logistics park rises in Benavente",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/11/12/78844-parque-logistico-de-380-000-m2-chega-ao-mercado-em-benavente",
-              "summary": "Benavente Prime Hub — a Davidson Kempner, ECS Capital and Magna joint venture — will deliver up to 380,000 m² across seven phases on a 630,000 m² site, all targeting BREEAM Excellent, with the first phase underway and full build-out by 2030.",
-              "why": "Institutional money is still forward-committing to best-in-class sheds on the Lisbon logistics corridor — the clearest signal that occupier demand is outrunning modern supply.",
-              "source": "idealista · 12 Nov"
-            },
-            {
-              "headline": "Panattoni Park Santarém hits 100% occupancy",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/11/12/78879-ultima-vaga-foi-preenchida-panattoni-park-santarem-esta-100-ocupado",
-              "summary": "Panattoni's Santarém logistics park has filled its last available unit, reaching full occupancy as tenants compete for well-located space north of Lisbon.",
-              "why": "Full occupancy at a new-build park underwrites the rents developers are pricing into the next wave of logistics schemes.",
-              "source": "idealista · 12 Nov"
-            },
-            {
-              "headline": "An author-designed building in central Lisbon is reborn",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/09/78727-edificio-residencial-no-coracao-de-lisboa-comeca-uma-nova-era",
-              "summary": "A landmark residential building in the heart of Lisbon is being rehabilitated into a new scheme, the latest in a steady pipeline of conversions reshaping the city's historic core.",
-              "why": "Prime central rehab remains the default route to new homes in Lisbon, where land is scarce and heritage rules constrain ground-up delivery.",
-              "source": "idealista · 9 Nov"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "A Douro house wins Portuguese architecture a Silver in Madrid",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/09/78797-casa-no-douro-arquitetura-nacional-recebe-distincao-silver-em-madrid",
-              "summary": "A single-family house in the Douro has taken a Silver distinction at an international awards in Madrid, the latest in a strong run of recognition for Portuguese studios abroad.",
-              "why": "Design pedigree is a marketing asset for developers — award-winning architecture helps sell schemes and sharpens Portugal's premium brand abroad.",
-              "source": "idealista · 9 Nov"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Loulé goes hunting for land and homes for public housing",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/11/78859-loule-procura-terrenos-e-casas-para-reforcar-habitacao-publica",
-              "summary": "The Loulé council has opened a search to buy land and existing homes to expand its public and affordable housing stock, adding the municipality to the list of local buyers competing in the market.",
-              "why": "Municipalities turning active buyers add a new source of demand — and a potential partner or exit — for developers and landowners in high-pressure markets like the Algarve.",
-              "source": "idealista · 11 Nov"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Commercial investment jumps 33% in Q3 to €630M",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/11/06/78747-o-capital-nao-abranda-imobiliario-portugues-cresce-33-num-trimestre",
-              "summary": "Portuguese commercial real estate drew €630M in Q3 — up 33% on the prior quarter and €2bn year-to-date (+7% YoY) — with foreign capital at about 75% of volume and core strategies taking over 80%. Offices logged their best quarter of the year at €112M; logistics added €98M and hotels about €78M.",
-              "why": "Momentum plus a heavy foreign, core-focused bid means pricing power sits with sellers of stabilised income — and competition for prime assets is only intensifying.",
-              "source": "idealista · 6 Nov"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwriting beats discovery.",
-          "text": "The best Lisbon offices are trading on portfolio scale and covenant strength — the edge is moving decisively on income you can model, not hunting for price."
-        },
-        {
-          "lead": "Logistics is a supply story.",
-          "text": "Benavente and Santarém show absorption running ahead of completions; forward-funding well-located sheds still clears."
-        },
-        {
-          "lead": "Foreign capital sets the price.",
-          "text": "With overseas money near 75% of Q3 volume, domestic players compete on speed and local knowledge, not cost of capital."
-        },
-        {
-          "lead": "Retail is quietly back.",
-          "text": "Forum Algarve led the quarter — dominant, grocery-anchored retail is being re-rated as a yield play."
         }
       ]
     }
