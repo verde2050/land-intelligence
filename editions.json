@@ -1,6 +1,109 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "editions": [
+    {
+      "date": "2026-11-24",
+      "label": "24 Nov",
+      "title": "Golden Visa funds face 70% 'invest-in-Portugal' rule as Budget vote lands today",
+      "summary": "Portugal's governing parties want Golden Visa fund money pushed into the real economy. A 2027 State Budget amendment would force residency-qualifying funds to channel at least 70% of investment into capital or quasi-equity of Portuguese companies — squeezing the listed-share strategies that today hold close to €1bn. The decisive budget vote is expected today, with the rule set to take effect 1 May 2027. Meanwhile the Bank of Portugal spelled out how hot the market became: median sale prices are up 140% since 2017 and new rents up 114%. And commercial capital keeps flowing — €1.9bn in nine months, led by hotels and logistics. Net: capital is abundant and prices are stretched — and the rules are tightening around how foreign money gets in.",
+      "hook": "Portugal wants Golden Visa money to build companies, not buy shares.",
+      "sections": [
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Golden Visa funds would have to back Portuguese companies, not just buy their shares",
+              "url": "https://www.theportugalnews.com/news/2026-11-17/portugal-proposes-new-golden-visa-restrictions/1117580",
+              "summary": "PSD and CDS-PP have tabled a 2027 Budget amendment requiring residency-qualifying funds to direct at least 70% of investment into capital or quasi-equity financing of Portuguese firms, replacing the current fund route and largely excluding purchases of listed shares. A new €250,000 route for social-support facilities is added, and the research threshold is cut from €500,000 to €250,000, with effect from 1 May 2027.",
+              "why": "It rewires the main remaining Golden Visa channel toward funds that actually finance operating businesses — a tailwind for deal-led, company-backing strategies and a headwind for passive listed-equity vehicles.",
+              "source": "The Portugal News · 17 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Commercial real estate hits €1.9bn in nine months, with more, smaller deals",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
+              "summary": "Savills puts Jan–Sep commercial investment at €1.9bn (+3% YoY) across 75 deals (+36%), with international buyers now 72% of volume and the average ticket down to €24.9m. Hotels led at €588m (+51%) and logistics jumped to €248m (+68%), while offices (€195m, −17%) and living (€147m, −58%) retreated; CBRE reads the nine months at €2bn and forecasts over €3bn for the full year.",
+              "why": "A deeper, more liquid market with smaller tickets means execution and sourcing — not scarcity — now separate winners, and the money is voting for hotels, logistics and alternatives over core offices.",
+              "source": "The Portugal News · 12 Nov"
+            },
+            {
+              "headline": "A Portuguese sustainable-forestry investor pulls in new backers",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/11/20/79060-empresa-de-investimento-em-florestas-portuguesas-com-novos-investidores",
+              "summary": "An investment firm building a new generation of sustainable Portuguese forests has brought new investors onto its register, extending the push of institutional capital into productive land and natural-capital plays alongside bricks-and-mortar.",
+              "why": "Land and forestry are becoming an investable, income-and-carbon asset class in Portugal — the same real-asset thesis that sits under a land-led fund, just a different crop.",
+              "source": "idealista · 20 Nov"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "MELOM names Luís Camões as director-general to accelerate expansion",
+              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/11/22/79101-melom-aposta-em-luis-camoes-como-diretor-geral-para-acelerar-expansao",
+              "summary": "The estate-agency brand has handed its top operating role to Luís Camões, who brings a franchising background, as it pushes to open more offices and grow its network across the country.",
+              "why": "Franchise brands staffing up for expansion is a read on ground-level confidence — the people closest to transaction flow are betting volumes hold.",
+              "source": "idealista · 22 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Bank of Portugal: home prices up 140%, rents up 114% since 2017",
+              "url": "https://omirante.pt/nacional/2026-11-20-precos-das-casas-dispararam-140-e-rendas-subiram-114-desde-2017-026d8c82",
+              "summary": "A Banco de Portugal study released 20 Nov finds median sale prices per m² rose 140% from 2017 to Q2 2026, and median new-contract rents 114%. Across 287 municipalities, prices more than doubled in 188 — and rose above 200% in 25, including Sintra, Seixal, Barreiro, Moita and Setúbal — with the sharpest pressure along the coast and in the Porto and Lisbon metros.",
+              "why": "The affordability gap is now a national, not coastal, story — which is exactly what keeps rental demand, supply incentives and policy risk all elevated.",
+              "source": "O Mirante · 20 Nov"
+            },
+            {
+              "headline": "In Lisbon, renting has outrun buying: +76% vs +27% over five years",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/23/79004-habitacao-em-lisboa-em-5-anos-rendas-subiram-76-e-compra-de-casa-27",
+              "summary": "Over the past five years the cost of renting a home in Lisbon has climbed roughly 76%, nearly three times the 27% rise in purchase prices — a widening gap that underlines how the squeeze has shifted onto tenants even as sale-price growth cools.",
+              "why": "Rents outpacing prices is the signature of a supply-starved market — it supports rental and build-to-rent income theses even where capital values look toppy.",
+              "source": "idealista · 23 Nov"
+            },
+            {
+              "headline": "'A golden opportunity': funds circle Portugal's affordable-housing gap",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/10/78769-casas-acessiveis-fundos-a-chegar-a-portugal-sao-oportunidade-de-ouro",
+              "summary": "Industry voices say investment funds are increasingly interested in accessible and affordable housing in Portugal, framing the structural shortage as a long-duration, policy-aligned opportunity rather than a social afterthought.",
+              "why": "Where institutional capital and public policy point the same way, risk-adjusted returns get more durable — affordable housing is becoming investable, not just worthy.",
+              "source": "idealista · 10 Nov"
+            },
+            {
+              "headline": "Northern Portugal emerges as a new destination for foreign investment",
+              "url": "https://www.idealista.pt/en/news/financial-advice-in-portugal/2026/11/16/78718-northern-portugal-emerges-as-a-new-destination-for-foreign-investment",
+              "summary": "A new route of foreign capital is taking shape in the North, where the region's industrial base and logistics strengths are drawing international investors onto Europe's map — broadening a story long dominated by Lisbon and the Algarve.",
+              "why": "The pricing frontier is moving — the North and inland corridors offer entry yields the overheated coast no longer does, if you can source and underwrite locally.",
+              "source": "idealista · 16 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite the rule, not the visa.",
+          "text": "The 70% test punishes passive listed-share funds and favours vehicles that genuinely finance Portuguese operating companies — a deal-led model fits the new letter of the law."
+        },
+        {
+          "lead": "Prices are stretched; capital is not.",
+          "text": "Up 140% since 2017 with €1.9bn still chasing deals means discovery is dead — edge comes from sourcing and execution, not from \"cheap Portugal.\""
+        },
+        {
+          "lead": "Follow the yield into alternatives.",
+          "text": "Hotels (+51%) and logistics (+68%) are where capital is growing; core offices and student housing are in retreat."
+        },
+        {
+          "lead": "The map is moving.",
+          "text": "Foreign money is discovering the North's industrial base and the Setúbal peninsula — the entry-yield frontier is no longer just Lisbon and the Algarve."
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "label": "23 Nov",
@@ -981,95 +1084,6 @@
         {
           "lead": "Living is institutionalising.",
           "text": "A Fátima developer moving 700 homes to build-to-rent confirms the demand thesis is spreading nationwide — exactly the structural tailwind a fund backs."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "label": "14 Nov",
-      "title": "Portugal CRE investment hits €1.9bn, hotels in front; Corum lands its biggest Lisbon deal",
-      "summary": "Commercial real estate investment in Portugal reached €1.9 billion in the first nine months of 2026, up 3% on last year, on a €659m third quarter that jumped 38% on Q2. Hotels led every sector at €588m — nearly a third of all volume — as capital rotated out of shopping centres. International investors took 72% of the money, up from 62% a year ago, led by Spain, the UK, France and the US. Deal count rose 36% to 75 transactions, and CBRE now expects the full year to clear €3 billion. The same day, Corum closed its largest-ever Portuguese deal, buying Lisbon's Green Park office block and pushing its local book past €250m. Net: the money is still coming — and it is spreading across more sectors and more buyers.",
-      "hook": "€1.9bn in, hotels in front: Portugal's market is broadening, not cooling.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Corum lands Green Park, its biggest Portuguese deal yet",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/11/12/78894-green-park-passa-a-integrar-a-carteira-milionaria-da-corum-investments",
-              "summary": "Corum Investments bought the Green Park office building on Lisbon's Avenida dos Combatentes from Incus Capital — roughly 15,000 m² of offices and retail let to CTT, Pierre Fabre and Malo Clinic. The price was undisclosed, but it is Corum's largest Portuguese acquisition and lifts its local book above €250m across 21 assets.",
-              "why": "A €10bn open-ended manager doubling down on Lisbon offices — the defensive, income-first CORUM playbook that income funds (Verde 2050 included) study closely.",
-              "source": "idealista · 12 Nov"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "Royal Ventures breaks into ground-up with a €15M Porto scheme",
-              "url": "https://jornaleconomico.sapo.pt/noticias/royal-ventures-lanca-projeto-residencial-de-15-milhoes-em-custoias/",
-              "summary": "The Porto developer is launching Royal Custóias in Matosinhos — its first ground-up build — with 51 T0–T2 apartments across about 4,000 m², designed by Pedro Pereira of Linhas & Traços. Pre-reservations open within weeks; construction starts in Q1 2027 and completes by end-2029.",
-              "why": "A serial refurbisher moving to new-build middle-class housing signals where Porto margins now sit — and how long the build-to-sell cycle really runs.",
-              "source": "Jornal Económico · 14 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "A Braga house takes a world architecture prize",
-              "url": "https://bragatv.pt/casa-projetada-por-atelier-de-braga-vence-premio-internacional-de-arquitetura/",
-              "summary": "Casa S, a single-family home on a wooded Braga slope by Luís Cunha's studio L2C Arquitetura, won the Residential (Single Family) category at the Architecture MasterPrize 2026, judged against entries from 95 countries. The ceremony lands this November at the Guggenheim in Bilbao.",
-              "why": "Portuguese residential design keeps winning global billing alongside Foster and Zaha Hadid — brand equity that sells homes and lifts land values around signature work.",
-              "source": "Braga TV · 24 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Commercial investment hits €1.9bn — and hotels are running the market",
-              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
-              "summary": "Savills' Q3 report puts nine-month commercial volume at €1.9bn, +3% year-on-year, with hotels at €588m (31% of the total, +51%) as retail slipped 18%. Logistics (+68%) and data centres also gained; offices and living fell. CBRE sees the full year topping €3bn.",
-              "why": "Capital is rotating — out of shopping centres, into hospitality, sheds and data — so the sector mix that worked in 2023 is not the one being rewarded now.",
-              "source": "The Portugal News · 12 Nov"
-            },
-            {
-              "headline": "House prices renew their record, up 7.5% in October",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/02/78555-casas-a-venda-ficam-7-5-mais-caras-em-outubro-e-renovam-recorde",
-              "summary": "Asking prices rose 7.5% year-on-year to a fresh all-time high, while separate Casafari data has used-flat values up about 10% in Q3 — T1s now average €281k and T4s €714k. Momentum is easing from the double-digit peaks, but it has not turned.",
-              "why": "Still-rising prices against softening rents keep compressing gross yields — the squeeze that pushes income investors toward development and value-add over standing stock.",
-              "source": "idealista · 2 Nov"
-            },
-            {
-              "headline": "Rents cool month-on-month, even as the annual line holds",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/03/78583-renda-das-casas-em-portugal-volta-a-subir-mas-perde-ritmo-em-outubro",
-              "summary": "Median asking rents eased to €17.2/m² in October, +1% year-on-year but −6% on September; Lisbon stays dearest at €23.8/m², Porto at €18.3/m². Aveiro (+14%) and Évora (+8%) led the annual gains while Porto and Faro fell.",
-              "why": "Rent growth is plateauing just as prices push on — a widening gap that makes underwriting new rental product harder and regional plays more interesting.",
-              "source": "idealista · 3 Nov"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Diversification is the signal.",
-          "text": "Hotels, logistics and data centres are pulling capital that once defaulted to retail and offices — mix matters more than momentum now."
-        },
-        {
-          "lead": "Foreign money is setting the price.",
-          "text": "At 72% of volume, international buyers are the marginal bidder — local sourcing and relationships are the edge."
-        },
-        {
-          "lead": "Yields are tightening from both ends.",
-          "text": "Record prices plus cooling rents mean standing income looks thin — development and value-add carry the return."
-        },
-        {
-          "lead": "Follow the operators.",
-          "text": "Corum's €250m+ build and Royal's first ground-up say the same thing: conviction is in deploying, not waiting."
         }
       ]
     }
