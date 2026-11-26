@@ -1,6 +1,133 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "editions": [
+    {
+      "date": "2026-11-26",
+      "label": "26 Nov",
+      "title": "Ortega family buys the Rossio's Zara block — Portugal's biggest-ever high-street deal",
+      "summary": "The Ortega family — the billionaires behind Inditex — have acquired the Lisbon block that houses Zara's Rossio flagship, in what CBRE calls the largest high-street retail deal ever done in Portugal. The fully rehabilitated 9,700 sqm building, eight floors in the historic core, was sold by Rossio Pombalino, a fund managed by Square Asset Management; the price was not disclosed. It lands as international capital floods back: commercial investment hit €1.9bn in nine months, up 3%, with foreign buyers now 72% of the market. The same week, Porto broke ground on its biggest-ever affordable-rent scheme and a reworked rental law moved to ease landlord risk. Net: trophy street-front and institutional capital are leading this cycle — even as housing volumes cool.",
+      "hook": "Inditex's founding family just bought the Rossio block that houses Zara's flagship.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Ortega family buys the Rossio's Zara block — a record high-street deal",
+              "url": "https://jornaleconomico.sapo.pt/noticias/maior-negocio-de-comercio-de-rua-em-portugal-envolve-edificio-da-zara-no-rossio-comprado-pela-familia-ortega/",
+              "summary": "The family of Inditex founder Amancio Ortega has bought the rehabilitated 9,700 sqm block on Lisbon's Rossio that has housed Zara's flagship since 2024, in a deal CBRE bills as the biggest high-street retail transaction in Portuguese history. Seller Rossio Pombalino (Square Asset Management) did not disclose the price.",
+              "why": "Prime, scarce street-front in the historic core is trading to ultra-long-hold private capital — a sign that trophy retail yields are compressing and that the Baixa–Chiado axis is now institutional-grade.",
+              "source": "Jornal Económico · 25 Nov"
+            },
+            {
+              "headline": "Casas do Barlavento acquires PPI Real Estate in the Algarve",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/casas-do-barlavento-acquires-ppi-real-estate/1115446",
+              "summary": "Algarve agency Casas do Barlavento has acquired brokerage PPI Real Estate, consolidating residential sales across the western Algarve.",
+              "why": "Agency M&A is a quiet tell on where transaction volume and margins are heading — scale is becoming the defence as resale volumes soften.",
+              "source": "The Portugal News · 12 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Porto breaks ground on its largest affordable-rent scheme — 331 homes",
+              "url": "https://eco.sapo.pt/2026/11/24/municipio-do-porto-vai-pagar-27-milhoes-para-garantir-331-casas-com-rendas-acessiveis/",
+              "summary": "Sonae Sierra and Solive have started building 331 build-to-rent homes at affordable rents in Porto — a €55m scheme in which the city will pay roughly €27m over the lease term to guarantee the below-market rents, making it the country's largest affordable BtR project.",
+              "why": "A template for public-private BtR: municipal rent top-ups de-risk the cash flow and make sub-market residential investable — worth watching for funds eyeing regulated-rent product.",
+              "source": "ECO · 24 Nov"
+            },
+            {
+              "headline": "Solyd advances a new phase of its Altear masterplan in Alta de Lisboa",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/24/79141-altear-ganha-um-novo-horizonte-na-alta-de-lisboa",
+              "summary": "Solyd is launching a further phase of Altear, its multi-building residential masterplan in Lisbon's Alta de Lisboa, extending one of the capital's largest private housing pipelines; entry-level T1 apartments have started around €240k.",
+              "why": "Delivery of mid-market new-build at scale is rare in Lisbon; developers with land banks and a masterplan can keep pricing ahead of a cooling resale market.",
+              "source": "idealista · 24 Nov"
+            },
+            {
+              "headline": "Five residential rehabilitation projects move forward in Porto",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/25/79182-porto-ganha-nova-vida-com-cinco-projetos-de-reabilitacao-residencial",
+              "summary": "Five new residential rehabilitation schemes are advancing across Porto, adding renovated housing within the city's historic fabric.",
+              "why": "Rehab-led supply keeps Porto's pipeline alive where ground-up land is scarce; adaptive reuse remains the main route to new homes in the northern capital.",
+              "source": "idealista · 25 Nov"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Marta Costa named Director-General of Fomento Fundos",
+              "url": "https://jornaleconomico.sapo.pt/noticias/marta-costa-nomeada-diretora-geral-da-fomento-fundos/",
+              "summary": "Marta Costa takes over as Director-General of Fomento – Fundos de Investimento Imobiliário (SGOIC), the real-estate fund arm of state-owned Banco Português de Fomento, which manages five funds including the business-support and Revive Natureza vehicles. She will lead investment and asset management.",
+              "why": "The state's property-fund platform shapes tourism and industrial deployment and co-invests alongside private capital — leadership here signals where public money will back projects next.",
+              "source": "Jornal Económico · 2 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Risco revives the Convento do Beato church as an events venue",
+              "url": "https://www.diarioimobiliario.pt/Antiga-igreja-do-Convento-do-Beato-renasce-com-projeto-de-reabilitacao-da-Risco",
+              "summary": "Lisbon studio Risco has rehabilitated the roughly 400-year-old former church of the Convento do Beato into \"The Chapel,\" a 500-capacity corporate-and-cultural events space, in a conversion put at about €6m.",
+              "why": "Heritage adaptive reuse is turning hard-to-let protected buildings into income-producing hospitality — a playbook for monetising Portugal's deep stock of listed assets.",
+              "source": "Diário Imobiliário · Nov"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "Reworked rental law aims to cut landlord risk",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/12/78819-nova-lei-das-rendas-vai-equilibrar-relacao-entre-inquilinos-e-senhorios",
+              "summary": "Portugal's reworked arrendamento (rental) law is being framed to \"reduce risks for landlords\" and rebalance the landlord-tenant relationship, with measures aimed at faster dispute resolution and greater contractual certainty for owners. Verify the final text in Diário da República before acting.",
+              "why": "Landlord-friendly reform is the single biggest swing factor for residential yield in Portugal — if non-payment and eviction risk genuinely fall, stock returns to the long-let market.",
+              "source": "idealista · 12 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Commercial investment hits €1.9bn as foreign capital dominates",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
+              "summary": "Portugal drew €1.9bn of commercial real-estate investment in the first nine months of 2026 (up 3%), per Savills, with hotels up 51% to €588m and industrial/logistics up 68% to €248m; international investors made up 72% of the total, against 62% a year earlier.",
+              "why": "Capital is rotating into hospitality and logistics while offices and shopping centres lag — a clear steer on where institutional demand and pricing power now sit.",
+              "source": "The Portugal News / Savills · 12 Nov"
+            },
+            {
+              "headline": "Lisbon house-price growth cools to 6.2% as sales fall",
+              "url": "https://vidaimobiliaria.com/noticias/habitacao/subida-dos-precos-das-casas-em-lisboa-abranda-para-62/",
+              "summary": "Lisbon home prices rose just 6.2% year-on-year in Q3 2026 — down from 18.2% a year earlier — to an average €5,963/m², while sales fell 12.9% and the new-build licensing pipeline dropped 44%, per Confidencial Imobiliário.",
+              "why": "The capital is cooling fastest on both price and volume, but a shrinking supply pipeline sets up renewed scarcity — a mixed signal for entry timing versus medium-term upside.",
+              "source": "Confidencial Imobiliário / Vida Imobiliária · 18 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Trophy over volume.",
+          "text": "Record street-front and hotel pricing while housing sales fall shows capital chasing scarce, income-producing assets — not broad residential beta."
+        },
+        {
+          "lead": "Policy is the yield lever.",
+          "text": "A landlord-friendlier rental law could re-rate long-let residential more than any price move — track the final text in Diário da República before modelling."
+        },
+        {
+          "lead": "Public money de-risks affordable BtR.",
+          "text": "Porto's €27m rent guarantee shows municipalities will backstop sub-market rents — a route to investable regulated product for patient capital."
+        },
+        {
+          "lead": "Supply is the medium-term story.",
+          "text": "Lisbon licensing down 44% and Porto leaning on rehab means today's cooling masks a tightening pipeline that supports values into 2027–28."
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "label": "25 Nov",
@@ -950,119 +1077,6 @@
         {
           "lead": "Watch the rulebook.",
           "text": "Rental reform and the housing-policy debate are the real swing factor for residential returns — underwrite the regime you'll actually operate under, not today's."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-16",
-      "label": "16 Nov",
-      "title": "Portugal commercial property nears €2bn in 9 months — hotels +51%, CBRE sees a €3bn year",
-      "summary": "Portugal drew €1.9bn of commercial real estate in the first nine months of 2026 — and CBRE thinks the full year clears €3bn. Hotels are doing the heavy lifting: €588m, 31% of the total, up 51% year-on-year. Logistics is the other engine, up 68% to €248m. Retail and offices softened, and the living sector fell hard as student-housing deals dried up. Foreign capital now drives 72% of volume, mostly Spain, the UK, France and the US. Deal count rose 36% even as average ticket sizes shrank — more shots on goal, smaller cheques. Net: the money is here and getting more selective; underwriting, not sourcing, is where this cycle is won.",
-      "hook": "Capital isn't cooling — Portugal's year is shaping up as one of its biggest ever.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Confrasilvas signs the €33M deed for Boavista's Bessa stadium",
-              "url": "https://jornaleconomico.sapo.pt/noticias/grupo-imobiliario-adquire-estadio-e-complexo-do-bessa-por-33-milhoes-de-euros/",
-              "summary": "The Lisbon group Confrasilvas — through Frozenpark, Boavista's largest creditor — completed the purchase of the roughly 78,000 m² Estádio do Bessa and its complex for €33 million, with the deed signed this week via auctioneer Leilosoc. No redevelopment plan has been disclosed.",
-              "why": "A Euro 2004 stadium on 78,000 m² of Porto land, taken out of insolvency by its own creditor, is a rare large urban site whose next use will set a local benchmark.",
-              "source": "Jornal Económico · 13 Nov"
-            },
-            {
-              "headline": "€180M share deal changes hands at Arrábida and Gaia shopping centres",
-              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
-              "summary": "Savills flags a €180 million share transaction for stakes in Arrábida Shopping and Gaia Shopping among the quarter's larger trades — even as overall shopping-centre volume fell sharply year-on-year, from €547m to €245m.",
-              "why": "Prime, dominant malls still clear — buyers are paying up for the few assets with pricing power while secondary retail reprices.",
-              "source": "The Portugal News · 12 Nov"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "InHabitus bets on factory-built homes, targets 1,080 units by 2028",
-              "url": "https://dinheirovivo.dn.pt/empresas/inhabitus-aposta-na-indstria-e-constri-casas-para-jovens",
-              "summary": "The Porto developer is building condominium homes off-site — around 80% factory-made — with prices from €139,000. Its €15M, 79-home Alfena scheme is sold out awaiting a licence, a €24M, 136-home Setúbal project is 80% reserved, and the pipeline spans Viseu, Campanhã, Benavente and Paredes.",
-              "why": "Industrialised construction plus the 6% VAT band is one of the few credible routes to building sub-€150k homes at scale and a margin — a model to watch for anyone underwriting affordable supply.",
-              "source": "Dinheiro Vivo · 15 Nov"
-            }
-          ]
-        },
-        {
-          "label": "👥 People & moves",
-          "items": [
-            {
-              "headline": "Marta Costa takes the helm at state-backed Fomento Fundos",
-              "url": "https://www.diarioviseu.pt/2026/11/13/viseense-marta-costa-e-a-nova-diretora-geral-da-fomento-fundos/",
-              "summary": "Marta Costa has been named director-general of Fomento Fundos, the Banco Português de Fomento group's real-estate fund manager behind the Fundo Especial de Apoio às Empresas and Fundo Revive Natureza. She arrives from HR leadership at Vanguard and earlier government investment-promotion roles.",
-              "why": "The state's property-fund vehicle steers public capital into tourism and industrial assets — who runs it shapes where co-investment and JV openings appear.",
-              "source": "Diário de Viseu · 13 Nov"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "Braga's Casa S wins at the 2026 Architecture MasterPrize",
-              "url": "https://bragatv.pt/casa-projetada-por-atelier-de-braga-vence-premio-internacional-de-arquitetura/",
-              "summary": "Casa S, a single-family house on a wooded Braga hillside by L2C Arquitetura (Luís Cunha), took the Residential — Single Family winner's prize at the Architecture MasterPrize 2026, with the ceremony set for the Guggenheim in Bilbao.",
-              "why": "Portugal's design reputation keeps compounding at the top end — a selling point that underpins premium pricing on well-designed residential stock.",
-              "source": "Braga TV · 24 Oct"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "2027 Budget keeps the housing playbook: under-35 IMT break, 6% build VAT",
-              "url": "https://dinheirovivo.dn.pt/economia/oe2027-confirma-poltica-de-habitao-do-governo-mesmo-com-quebra-de-receitas-de-imi-e-imt",
-              "summary": "The OE2027 proposal retains the IMT and stamp-duty exemption for first-time buyers aged 35 and under — ceiling rising to €338,141 — keeps the 6% VAT rate for moderately priced construction, and adds IRS relief on rents up to €2,300/month (a €209M cost). Lisbon forecasts IMI revenue down 5.6% and IMT down 2.3%.",
-              "why": "The under-35 break has already moved ~120,000 buyers at ~€200k average; its continuation plus the 6% build VAT keeps demand and supply incentives pointed the same way into 2027.",
-              "source": "Dinheiro Vivo · 8 Oct"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Commercial investment hits €1.9bn in nine months; CBRE sees a €3bn year",
-              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
-              "summary": "Savills puts nine-month commercial volume at €1.9bn (+3% y/y), led by hotels (€588m, +51%) and logistics (+68%), while CBRE's read is ~€2bn and it forecasts the full year above €3bn. Prime yields held near 5.6% against ~4% on 10-year bonds; 75 deals closed (+36%) at a smaller €24.9m average ticket.",
-              "why": "A ~1.6-point spread over sovereigns, with hotels and sheds compounding, keeps Portugal priced for income — the case for selective entry over broad beta.",
-              "source": "The Portugal News · 12 Nov"
-            },
-            {
-              "headline": "Asking prices hit a record €3,249/m², up 7.5% in October",
-              "url": "https://news.cision.com/pt/idealista/r/precos-das-casas-sobem-7-5--em-outubro-e-atingem-novo-maximo-historico,c639292110530000000",
-              "summary": "idealista's October index shows national asking prices at an all-time high of €3,249/m², +7.5% y/y, with Lisbon at €6,248/m² and Porto at €4,339/m². INE's Q2 transaction data separately marks a €2,445/m² record even as sales fell 9%.",
-              "why": "Prices keep setting records while volumes slide — a thinner, pricier market that rewards buying right over buying fast.",
-              "source": "idealista · 2 Nov"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwriting beats sourcing.",
-          "text": "With 75 deals but shrinking tickets, the 2026 edge is pricing discipline on a crowded field, not deal access."
-        },
-        {
-          "lead": "Follow the income engines.",
-          "text": "Hotels (+51%) and logistics (+68%) are where capital compounds; retail and student housing are repricing — position accordingly."
-        },
-        {
-          "lead": "Policy favours entry-level supply.",
-          "text": "The under-35 IMT break and 6% build VAT keep affordable demand and construction economics aligned into 2027."
-        },
-        {
-          "lead": "Records, not momentum.",
-          "text": "New price highs on falling volumes mean the next leg is about asset selection and basis, not riding the market."
         }
       ]
     }
