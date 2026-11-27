@@ -1,6 +1,116 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "editions": [
+    {
+      "date": "2026-11-27",
+      "label": "27 Nov",
+      "title": "Portugal CRE investment tops €2bn in 9 months; CBRE sees a €3bn+ year as hotels lead",
+      "summary": "Commercial real-estate investment hit €1.9–2bn in the first nine months of 2026, and CBRE now forecasts more than €3bn for the full year. Hotels led, drawing €588m — 31% of the total, up 51% — with over 90% of that from foreign capital. Logistics surged 68%, while retail and student housing cooled. International buyers now account for 72% of all deals, up from 62% a year ago. House-price growth is finally easing — up 2.3% in Q3 after quarters of double-digit gains. Net: capital keeps flowing in, but it is turning selective — chasing yield in hotels and logistics while the housing engine downshifts.",
+      "hook": "Foreign capital is powering Portuguese real estate toward a €3bn year.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Foreign capital floods Portuguese hotels: €588m in nine months",
+              "url": "https://www.essential-business.pt/2026/11/25/international-capital-accounts-for-more-than-90-of-hotel-investment-up-to-september/",
+              "summary": "Hotel investment reached €588m through September — already above all of 2025's €495m — with international buyers behind more than 90% of it, per Savills. Four assets (Corinthia Lisbon, Penha Longa, InterContinental Porto, Tróia Design) made up 73% of volume across nine deals averaging €65m.",
+              "why": "Hotels are now the single biggest slice of Portuguese commercial investment (31%), and the buyer base is almost entirely offshore — Portugal is a core European hospitality play, but deal sizes are rising out of reach for smaller funds.",
+              "source": "Essential Business / Savills · 25 Nov"
+            },
+            {
+              "headline": "Casas do Barlavento buys PPI Real Estate to deepen its Algarve grip",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/casas-do-barlavento-acquires-ppi-real-estate/1115446",
+              "summary": "The Lagos-founded brokerage (CEO Luís Ledo) acquired PPI Real Estate's office and client portfolio, completed 1 October, extending its reach across Vila do Bispo, Salema and Sagres. The full PPI team is being retained.",
+              "why": "Brokerage consolidation in the fragmented Barlavento points to a maturing, more institutional Algarve distribution layer — the local platform scale that tends to follow rising transaction values.",
+              "source": "The Portugal News · 12 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Sonae Sierra breaks ground on Portugal's largest build-to-rent: 331 homes",
+              "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/sonae-arranca-hoje-no-porto-construcao-do-maior-projeto-nacional-de-arrendamento-acessivel",
+              "summary": "Sonae Sierra and Luso-French Solive laid the first stone in Porto's Campanhã on 24 November for Cartes Living — 331 T0–T3 homes across two buildings, a ~€55m investment. Rents will run €537–€971 under a 10-to-25-year affordable-rent partnership with Câmara do Porto, with delivery by 2029.",
+              "why": "The biggest BTR scheme in the country, structured as a public-private affordable-rent lease — a template for how institutional capital enters Portuguese residential at scale without direct exposure to for-sale price risk.",
+              "source": "Jornal de Negócios · 24 Nov"
+            },
+            {
+              "headline": "Porto gains five new residential rehabilitation projects",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/25/79182-porto-ganha-nova-vida-com-cinco-projetos-de-reabilitacao-residencial",
+              "summary": "Five reabilitação schemes are moving ahead across the city, adding refurbished stock to Porto's historic fabric as developers keep favouring conversion over new-build.",
+              "why": "Scarce central plots and heritage constraints make rehab the main route to new supply in Porto's core — where the conversion pipeline forms is where the next cycle of central value is set.",
+              "source": "idealista · 25 Nov"
+            },
+            {
+              "headline": "Altear brings a new residential 'horizon' to Lisbon's Alta de Lisboa",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/24/79141-altear-ganha-um-novo-horizonte-na-alta-de-lisboa",
+              "summary": "A new residential development, Altear, is rising in Alta de Lisboa, continuing the northward push of the capital's new-build pipeline into its upper reaches.",
+              "why": "Alta de Lisboa is one of the few large regeneration zones left inside the city — launches there set the pricing and density benchmark for mid-market Lisbon housing.",
+              "source": "idealista · 24 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "3D printing and local materials revive traditional houses near Porto",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/27/79139-impressao-3d-e-materiais-locais-dao-vida-a-casas-tradicionais-no-porto",
+              "summary": "A project pairs 3D printing with local materials to build traditional-style houses, signalling lower-cost, lower-carbon construction methods taking root in northern Portugal.",
+              "why": "Construction cost and labour scarcity are the binding constraints on Portuguese development margins — additive methods that cut both could reshape feasibility on marginal sites.",
+              "source": "idealista · 27 Nov"
+            },
+            {
+              "headline": "Four Portuguese projects reach the Dezeen Awards 2026 shortlist",
+              "url": "https://espacodearquitetura.com/noticias/quatro-projectos-portugueses-na-shortlist-dos-dezeen-awards-2026/",
+              "summary": "Four Portuguese projects made the Dezeen Awards 2026 architecture shortlist — the latest in a strong awards season that also saw Portuguese entries at the EU Mies van der Rohe prize and the Architecture MasterPrize.",
+              "why": "Design reputation is a soft but real driver of foreign demand and premium pricing — Portugal's steady awards presence reinforces the brand that underpins its residential and hospitality values.",
+              "source": "Espaço de Arquitetura · Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Portugal's commercial property investment heads for a €3bn+ year",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
+              "summary": "Investment reached €1.9bn in nine months per Savills (+3%), or €2bn per CBRE (+6%), across 75 deals up 36% year-on-year; CBRE forecasts over €3bn for 2026. International buyers took 72%, led by Spain, the UK, France and the US, and a €180m share deal for Arrábida and Gaia Shopping ranked among the quarter's largest.",
+              "why": "The headline masks a rotation — hotels (+51%) and logistics (+68%) are pulling capital while retail (−18%) and living (−58%) cool, a map of where institutional conviction actually sits.",
+              "source": "The Portugal News / Savills / CBRE · 12 Nov"
+            },
+            {
+              "headline": "House-price growth cools to 2.3% in Q3 — but still +14.5% on the year",
+              "url": "https://www.essential-business.pt/2026/10/15/portugals-property-market-prices-keep-rising-as-growth-begins-to-cool/",
+              "summary": "Confidencial Imobiliário's index rose 2.3% quarter-on-quarter in Q3, down from 3.5% in Q2 and 6.0% a year earlier; annual growth eased to 14.5% from 21.7%. Listings keep shrinking (−4% nationally, Porto district −21%), and Porto asking prices hit a median €4,346/m².",
+              "why": "Decelerating prices plus tightening supply is the classic late-cycle squeeze — rents and yields, not capital gains, become the return driver, favouring income strategies over flip plays.",
+              "source": "Essential Business / Confidencial Imobiliário · 15 Oct"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Underwrite income, not appreciation.",
+          "text": "With price growth halving to 14.5% and listings scarce, yield and rent growth now matter more than capital gains."
+        },
+        {
+          "lead": "Follow the rotation.",
+          "text": "Hotels (+51%) and logistics (+68%) are absorbing capital while retail and student housing retreat — conviction, not the headline total, is in those two sectors."
+        },
+        {
+          "lead": "Affordable-rent PPPs are a real entry point.",
+          "text": "Sonae's €55m Campanhã BTR shows how institutional money can access Portuguese residential at scale through municipal lease structures."
+        },
+        {
+          "lead": "Foreign capital is the market.",
+          "text": "At 72% of all deals and 90%+ of hotels, offshore buyers set pricing — a tailwind for well-structured vehicles, but a crowded field at the larger end."
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "label": "26 Nov",
@@ -962,121 +1072,6 @@
         {
           "lead": "Scarcity, not froth.",
           "text": "Prices up 13% on falling sales means supply is the binding constraint — the edge is in delivery, not discovery."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "label": "17 Nov",
-      "title": "Corum's biggest-ever Portugal deal caps a €1.9bn quarter of surging capital",
-      "summary": "Portuguese real estate investment accelerated again in the third quarter, with activity climbing 33% over the prior quarter and the market pushing past €1.9 billion. The clearest signal came from Corum, whose purchase of the Green Park office complex is now its largest-ever deal in Portugal — a foreign fund doubling down, not retreating. Beneath the headline numbers, capital is rotating into flexible offices, retail and alternatives as prime yields compress. At the opportunistic end, a real-estate group paid €33 million for Boavista's Estádio do Bessa at auction. Prices, meanwhile, keep grinding higher — up 1.9% in November alone. Net: liquidity is abundant and turning more selective — the edge now is sourcing, not access.",
-      "hook": "The capital isn't cooling — Portugal's funds are just going bigger.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Corum's Green Park buy is its biggest-ever Portugal deal",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/11/12/78894-green-park-passa-a-integrar-a-carteira-milionaria-da-corum-investments",
-              "summary": "French open-ended fund manager Corum has acquired the Green Park office complex in a transaction it describes as its largest operation in Portugal to date, deepening an already substantial Lisbon office portfolio.",
-              "why": "A core European fund scaling up — not trimming — signals institutional money still reads Lisbon offices as a buy, even after yields have compressed.",
-              "source": "idealista · 12 Nov"
-            },
-            {
-              "headline": "A property group buys Estádio do Bessa for €33m",
-              "url": "https://www.idealista.pt/news/imobiliario/empresas/2026/11/13/78909-novo-dono-do-estadio-do-boavista-ja-assinou-escritura-por-33-milhoes",
-              "summary": "A real-estate group linked to the Maurício family signed the deed to acquire Boavista FC's Estádio do Bessa and its surrounding sports complex for €33 million, closing out a contested auction of the Euro 2004 venue.",
-              "why": "Distressed sports and institutional assets are turning into live development plays — Portugal's best basis is often found in forced sales, not open-market listings.",
-              "source": "idealista · 13 Nov"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "A landmark author's building in central Lisbon starts a new era",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/09/78727-edificio-residencial-no-coracao-de-lisboa-comeca-uma-nova-era",
-              "summary": "A heritage 'imóvel de autor' in the heart of Lisbon is being repositioned into a renewed residential project — the latest in a run of central-Lisbon conversions trading on the scarcity of prime, characterful stock.",
-              "why": "Conversion of signature central assets is where value is being created as new-build land runs dry — the margin sits in planning and restoration, not in the dirt.",
-              "source": "idealista · 9 Nov"
-            }
-          ]
-        },
-        {
-          "label": "📐 Architecture & design",
-          "items": [
-            {
-              "headline": "A Douro house wins Portuguese architecture a Silver in Madrid",
-              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/09/78797-casa-no-douro-arquitetura-nacional-recebe-distincao-silver-em-madrid",
-              "summary": "A contemporary house in the Douro by a Portuguese studio took a Silver distinction at an international awards in Madrid, extending a strong year for the country's residential architecture abroad.",
-              "why": "Design pedigree is a pricing lever in Portugal's prime and resort segments — award-winning architecture is how developers increasingly justify premiums.",
-              "source": "idealista · 9 Nov"
-            },
-            {
-              "headline": "Concreta 2026 maps where building and design go next",
-              "url": "https://www.idealista.pt/news/decoracao/espacos/2026/11/09/78707-arquitetura-e-construcao-ganham-novas-perspetivas-na-concreta-2026",
-              "summary": "The Concreta fair in Porto gathered the construction and architecture trade around new materials, methods and the sector's shifting priorities for the year ahead.",
-              "why": "Construction-cost and method innovation is the real lever on development margin — what shows at Concreta previews where build budgets are heading.",
-              "source": "idealista · 9 Nov"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "Could European housing models fix Portugal's crisis?",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/16/78958-habitacao-modelos-europeus-podem-resolver-a-crise-em-portugal",
-              "summary": "A new analysis weighs whether policy models from elsewhere in Europe — from rent regulation to public-private supply schemes — could be adapted to ease Portugal's housing shortage, as the Government's reform package advances.",
-              "why": "Housing policy is now the single biggest swing factor for residential returns — whichever European template Portugal borrows will reshape rent controls, supply incentives and development risk.",
-              "source": "idealista · 16 Nov"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "Investment tops €1.9bn, up 33% in a single quarter",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/11/11/78834-portugal-atrai-mais-investimento-imobiliario-e-transacoes-crescem",
-              "summary": "Portuguese real estate investment accelerated sharply in Q3, climbing about 33% over the prior quarter and pushing the market past €1.9 billion as transaction activity kept rising.",
-              "why": "Volume and velocity rising together is the clearest sign yet that the recovery is broad-based — not a handful of trophy trades.",
-              "source": "idealista · 11 Nov"
-            },
-            {
-              "headline": "Flexible offices gain ground as occupiers chase agility",
-              "url": "https://www.idealista.pt/news/imobiliario/escritorios/2026/11/17/78936-escritorios-a-medida-empresas-procuram-flexibilidade-em-portugal",
-              "summary": "Demand for tailored and flexible office space is strengthening across Portugal, with companies prioritising agility and shorter commitments — a shift reshaping how landlords underwrite office stock.",
-              "why": "The flex pivot changes office cash flows and exit assumptions — owners who can offer flexibility capture the demand rigid long-lease product is losing.",
-              "source": "idealista · 17 Nov"
-            },
-            {
-              "headline": "House prices climb another 1.9% in November",
-              "url": "https://www.noticiasaominuto.com/casa/2126390/precos-das-casas-em-portugal-subiram-1-9-em-novembro",
-              "summary": "Sale prices rose 1.9% month-on-month in November, per idealista's index, extending a long record run and keeping affordability firmly in the political spotlight.",
-              "why": "Relentless price growth sustains the policy risk around housing — and widens the gap any new supply has to close before values ease.",
-              "source": "Notícias ao Minuto · Nov"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Underwrite the surge, not the dip.",
-          "text": "With investment up a third in a quarter and prices still rising, waiting for a correction is the riskier bet — discipline has to come from basis and sourcing, not timing."
-        },
-        {
-          "lead": "Foreign funds are the price-setters.",
-          "text": "Corum going bigger shows core European capital is still buying Lisbon offices — co-investing alongside that flow beats competing head-on with it."
-        },
-        {
-          "lead": "The margin is in the mess.",
-          "text": "This week's best entries — a €33m stadium at auction, a heritage Lisbon conversion — came from distress and complexity, not clean listings."
-        },
-        {
-          "lead": "Watch the rulebook.",
-          "text": "Rental reform and the housing-policy debate are the real swing factor for residential returns — underwrite the regime you'll actually operate under, not today's."
         }
       ]
     }
