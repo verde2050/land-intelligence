@@ -1,6 +1,119 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "editions": [
+    {
+      "date": "2026-11-28",
+      "label": "28 Nov",
+      "title": "Ortega family buys Zara's Rossio flagship for €100.7M — Portugal's biggest-ever street deal",
+      "summary": "The Ortega family has bought the Zara flagship on Lisbon's Rossio — a 9,700 sqm, eight-storey block — in what CBRE calls the largest high-street retail deal ever done in Portugal, reported at around €100.7 million. The seller was a Square Asset Management fund, and Zara stays on as anchor tenant. It lands in a week where commercial investment topped €1.9 billion over nine months, with hotels and retail leading and international buyers now 72% of volume. Dubai luxury promoter Lamar Development chose the same week to enter Portugal, buying Casa Valmor in Lisbon. And with the 2027 State Budget approved, landlords are recalculating around IMI, IMT and rental tax. Net: trophy capital is crowding into Portuguese streets and hotels — the cheapest edge left is underwriting, not discovery.",
+      "hook": "Amancio Ortega's family office just set a Portuguese retail record.",
+      "sections": [
+        {
+          "label": "🤝 Deals & transactions",
+          "items": [
+            {
+              "headline": "Ortega family buys Zara's Rossio flagship — Portugal's biggest-ever street deal",
+              "url": "https://jornaleconomico.sapo.pt/noticias/maior-negocio-de-comercio-de-rua-em-portugal-envolve-edificio-da-zara-no-rossio-comprado-pela-familia-ortega/",
+              "summary": "The 9,700 sqm block that houses Zara's main Portuguese store since 2024 was sold by a Square Asset Management vehicle, with CBRE advising; Eco reports a price near €100.7 million. CBRE says no comparable street-retail asset exists in the country by size or value.",
+              "why": "A global family office paying record money for Lisbon street retail signals that prime Portuguese commercial yields are compressing toward core-European levels.",
+              "source": "Jornal Económico · 25 Nov"
+            },
+            {
+              "headline": "Dubai luxury developer Lamar lands in Portugal via Casa Valmor",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/11/27/79262-promotora-lamar-development-aterra-em-portugal-com-compra-da-casa-valmor",
+              "summary": "Lamar Development, the Dubai-based luxury promoter already building villa schemes in Spain, makes its Portuguese debut with the acquisition of Casa Valmor in Lisbon — its first project in the market.",
+              "why": "Gulf luxury capital entering at the top of the cycle intensifies competition for trophy Lisbon assets and nudges land values higher.",
+              "source": "idealista/news · 27 Nov"
+            }
+          ]
+        },
+        {
+          "label": "🏗 Developments & projects",
+          "items": [
+            {
+              "headline": "Porto's historic core gains five new residential rehab projects",
+              "url": "https://www.idealista.pt/news/imobiliario/construcao/2026/11/25/79182-porto-ganha-nova-vida-com-cinco-projetos-de-reabilitacao-residencial",
+              "summary": "Five rehabilitation schemes are adding new homes to Porto's historic centre, continuing the city's shift from tourism-led conversions toward residential supply in heritage buildings.",
+              "why": "Heritage rehab is where Porto's remaining value sits — but licensing and build-cost discipline decide whether these pencil.",
+              "source": "idealista/news · 25 Nov"
+            }
+          ]
+        },
+        {
+          "label": "👥 People & moves",
+          "items": [
+            {
+              "headline": "Casas do Barlavento absorbs PPI Real Estate's Algarve team",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/casas-do-barlavento-acquires-ppi-real-estate/1115446",
+              "summary": "The Lagos-founded agency, led by Luís Ledo, has taken over PPI's office and client portfolio, extending its reach across the western Algarve from Portimão to Sagres with a new office near Santo António golf.",
+              "why": "Agency consolidation in the Algarve is a leading indicator of where transaction volume — and local market intelligence — is concentrating.",
+              "source": "The Portugal News · 12 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📐 Architecture & design",
+          "items": [
+            {
+              "headline": "Portugal joins the global rise of branded residences",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/27/79231-branded-residences-ganham-forca-e-portugal-acompanha-a-tendencia",
+              "summary": "Hotel- and fashion-branded homes are multiplying worldwide, and Portugal is now firmly on the map — design, service and a marquee name increasingly built into high-end schemes from Lisbon to the Algarve.",
+              "why": "A brand can add a 20–30% price premium — but only where the architecture and operator genuinely deliver, raising the bar on design spend.",
+              "source": "idealista/news · 27 Nov"
+            }
+          ]
+        },
+        {
+          "label": "⚖ Rules & regulation",
+          "items": [
+            {
+              "headline": "What the 2027 State Budget changes for landlords and owners",
+              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/26/79203-habitacao-em-2027-o-que-muda-ou-nao-para-senhorios-e-proprietarios",
+              "summary": "With the Orçamento do Estado 2027 approved, idealista maps what moves and what holds for property owners — the running thread of IMI, IMT and rental-income tax measures, alongside this year's housing package.",
+              "why": "Tax treatment of rental income and transfer duty feeds straight into underwriting — the lines to confirm before any 2027 acquisition model.",
+              "source": "idealista/news · 26 Nov"
+            }
+          ]
+        },
+        {
+          "label": "📈 Market & macro",
+          "items": [
+            {
+              "headline": "Commercial investment tops €1.9B over nine months — hotels lead",
+              "url": "https://www.theportugalnews.com/news/2026-11-12/portugal-commercial-property-investment-reaches-19-billion/1115343",
+              "summary": "Savills puts nine-month commercial volume at €1.9 billion, up 3%, with hotels at €588 million (+51%), logistics up 68% to €248 million, and internationals at 72% of volume; CBRE's count is higher still, near €2 billion and forecasting €3 billion+ for the year.",
+              "why": "Hotels and logistics are absorbing the capital; a fund without exposure to those two is fishing in the most crowded pools.",
+              "source": "The Portugal News (Savills) · 12 Nov"
+            },
+            {
+              "headline": "Lisbon ranks among Europe's top cities to invest in for 2027",
+              "url": "https://www.idealista.pt/news/financas/investimentos/2026/11/25/79199-lisboa-afirma-se-no-radar-dos-investidores-imobiliarios-para-2027",
+              "summary": "Lisbon features among investors' preferred European markets for the year ahead, cited for relative value, demand depth and a maturing institutional pipeline.",
+              "why": "Being on every shortlist pushes prime pricing up — the opportunity is increasingly outside the capital's most-watched postcodes.",
+              "source": "idealista/news · 25 Nov"
+            }
+          ]
+        }
+      ],
+      "readForFund": [
+        {
+          "lead": "Prime is getting priced like core Europe.",
+          "text": "A family-office record on Rossio tells you spread compression is real — stop underwriting to yesterday's exit yields."
+        },
+        {
+          "lead": "Follow the capital, or avoid it.",
+          "text": "Hotels and logistics are where the money is — either compete there with an angle, or hunt the overlooked segments everyone is leaving behind."
+        },
+        {
+          "lead": "Underwriting beats discovery.",
+          "text": "With foreign buyers at 72% of volume, finding the deal is no edge; the edge is the model — tax, licensing and build-cost lines confirmed before you bid."
+        },
+        {
+          "lead": "Watch the second cities.",
+          "text": "Porto rehab supply and Algarve consolidation are where value still hides while Lisbon tops every shortlist."
+        }
+      ]
+    },
     {
       "date": "2026-11-27",
       "label": "27 Nov",
@@ -969,109 +1082,6 @@
         {
           "lead": "Scarcity still rules the core.",
           "text": "Central-Lisbon conversions and award-winning design keep feeding a thin prime pipeline where supply, not demand, is the binding constraint."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "label": "18 Nov",
-      "title": "Portugal property investment tops €1.9bn by Q3 — hotels and logistics drive a record year",
-      "summary": "Commercial real-estate investment reached roughly €1.9–2.1 billion in the first nine months of 2026, up between 3% and 11% depending on whose data you read (Savills, CBRE, Dils, Worx). Hotels led every table, drawing close to €590 million and rising more than 50% as the 2030 World Cup pipeline fills. Industrial and logistics surged around 68%, powered by an AI-driven data-centre wave. Foreign capital now supplies 72–75% of all volume, with the UK, France, Spain and the US writing the biggest cheques. The forecasters split on the finish: CBRE sees more than €3 billion for 2026, Worx a cooler €2.6–2.75 billion. Net: money is flowing freely, but it is chasing yield and operating assets — not trophy offices.",
-      "hook": "The capital keeps coming — and Portugal is on track for a record year.",
-      "sections": [
-        {
-          "label": "🤝 Deals & transactions",
-          "items": [
-            {
-              "headline": "Quadrantis Capital buys Lisbon's Karl Lagerfeld Residences from Overseas",
-              "url": "https://diarioimobiliario.pt/Quadrantis-Capital-compra-o-projeto-Karl-Lagerfeld-Residences-Lisboa-a-Overseas",
-              "summary": "Quadrantis took 100% of the company behind the project — ten exclusive homes in Lisbon, the fashion house's first branded-residence scheme in Portugal — via an SPV it is converting into a regulated SIC fund. Overseas stays on as developer; construction is slated for Q1 2027.",
-              "why": "Branded residences wrapped in a fund vehicle are exactly the luxury-meets-institutional play pulling foreign capital into Portugal — a template for packaging trophy residential as something you can actually invest in.",
-              "source": "Diário Imobiliário · 6 Nov"
-            },
-            {
-              "headline": "Casas do Barlavento absorbs PPI to deepen its western Algarve grip",
-              "url": "https://www.theportugalnews.com/news/2026-11-12/casas-do-barlavento-acquires-ppi-real-estate/1115446",
-              "summary": "The Lagos-based agency bought the office and client book of PPI – Real Estate, extending into Vila do Bispo, Salema and Sagres and retaining the whole PPI team. Terms were not disclosed; the deal formally closed on 1 October.",
-              "why": "Brokerage consolidation in the Algarve is a maturing-market signal — the agencies with the deepest local networks are buying distribution ahead of the next cycle.",
-              "source": "The Portugal News · 12 Nov"
-            },
-            {
-              "headline": "Arrow Global grabs the Tróia Design Hotel as Évora lands a data centre",
-              "url": "https://odigital.sapo.pt/investimento-imobiliario-evora-troia-beja-2026/",
-              "summary": "Arrow Global bought the Tróia Design Hotel and Spain's NxN entered Portugal with a ~1 MW data centre in Évora, part of a Q3 that Dils puts at €630 million (+33% on the prior quarter). Retail stayed busy too, including the sale of Forum Algarve.",
-              "why": "The deal mix — hospitality, data centres, dominant retail — shows where operating income is being underwritten. Land and development feed these, but capital is paying up for assets that already throw off cash.",
-              "source": "ODigital / Dils · 4 Nov"
-            }
-          ]
-        },
-        {
-          "label": "🏗 Developments & projects",
-          "items": [
-            {
-              "headline": "AI is pulling a new wave of data-centre capital toward Portugal",
-              "url": "https://www.jll.com/pt-pt/newsroom/boom-da-ia-e-restricoes-energeticas-na-europa-colocam",
-              "summary": "Cheap renewable power, Atlantic cable landings and Europe's tightening grid are steering AI-era data-centre money to Portugal — with Microsoft's multi-billion Sines commitment the anchor and new entrants like NxN now building. JLL flags the country as a European standout for campus development.",
-              "why": "Data centres are the fastest-growing slice of Portuguese real estate and a structurally new land use. Owners of grid-connected, power-rich sites hold an increasingly scarce asset.",
-              "source": "JLL / idealista · Nov"
-            }
-          ]
-        },
-        {
-          "label": "⚖ Rules & regulation",
-          "items": [
-            {
-              "headline": "The new rent law quietly tilts back toward landlords",
-              "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/12/78819-nova-lei-das-rendas-vai-equilibrar-relacao-entre-inquilinos-e-senhorios",
-              "summary": "The government's arrendamento reform — approved in general terms and now in committee — would let landlords start eviction after two months of arrears (down from three), lift advance rent to three months, scrap the deposit cap and end rent control on new contracts. Existing contracts stay under current rules until the final text passes.",
-              "why": "If it survives committee intact, the reform materially lowers the risk premium on Portuguese rental income — the single biggest deterrent for institutional build-to-rent capital.",
-              "source": "idealista · 12 Nov"
-            },
-            {
-              "headline": "EIB puts €300m behind affordable rental",
-              "url": "https://simula.pt/noticias/habitacao-bei-300-milhoes-arrendamento-2026/",
-              "summary": "Lisbon and the European Investment Bank signed a €300 million IFRRU 2030 line for moderate-rent housing, split into Build-to-Rent and Renovate-to-Rent strands and channelled mainly to private developers through financial intermediaries. It follows €1.34bn and €1.5bn earlier EIB housing lines.",
-              "why": "Public-backed, below-market financing de-risks affordable BtR — a direct subsidy to the supply side that developers with the right pipeline can tap.",
-              "source": "simula.pt / Gov · 5 Nov"
-            }
-          ]
-        },
-        {
-          "label": "📈 Market & macro",
-          "items": [
-            {
-              "headline": "House prices still climbing 13% — even as sales fall",
-              "url": "https://jornaleconomico.sapo.pt/noticias/precos-das-casas-subiram-13-no-terceiro-trimestre-apesar-de-menos-vendas/",
-              "summary": "Home prices rose 13.1% year-on-year in Q3 to an average €3,416/m² even as transactions dropped 12.5% to about 36,000, per JLL. Porto (+14.7% to €4,382/m²) outran Lisbon (+7.4% to €5,963/m²).",
-              "why": "Prices decoupling from volumes is a supply-shortage signal, not a demand surge — scarcity, not froth, is doing the work, which favours anyone who can actually deliver new stock.",
-              "source": "Jornal Económico / JLL · 10 Nov"
-            },
-            {
-              "headline": "The pros are pointing at middle-class rental",
-              "url": "https://www.idealista.pt/news/financas/investimentos/2026/11/18/78954-arrendamento-para-classe-media-e-das-melhores-oportunidades-de-investimento",
-              "summary": "Mid-market rental housing is \"one of the best investment opportunities\" in Portugal right now, industry voices argue: the squeezed middle is under-served, demand per listing is running at record multiples, and yields beat prime.",
-              "why": "The thesis lines up with the policy tailwinds — EIB money, a landlord-friendlier law. The gap between what the middle class can pay and what the market supplies is where risk-adjusted returns sit.",
-              "source": "idealista · 18 Nov"
-            }
-          ]
-        }
-      ],
-      "readForFund": [
-        {
-          "lead": "Buy cash flow, not trophies.",
-          "text": "Capital is paying up for hotels, logistics and data centres while offices and \"living\" soften. Underwrite operating income."
-        },
-        {
-          "lead": "The regulatory wind just shifted.",
-          "text": "A landlord-friendlier rent law plus €300m of EIB BtR money lowers the risk premium on Portuguese rental — the case for middle-market residential is strengthening."
-        },
-        {
-          "lead": "Power is the new location.",
-          "text": "Grid-connected, renewable-fed land is becoming the scarce input behind the fastest-growing asset class. Sites with capacity are worth more than they look."
-        },
-        {
-          "lead": "Scarcity, not froth.",
-          "text": "Prices up 13% on falling sales means supply is the binding constraint — the edge is in delivery, not discovery."
         }
       ]
     }
